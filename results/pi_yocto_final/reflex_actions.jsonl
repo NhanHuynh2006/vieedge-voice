@@ -1,0 +1,2 @@
+{"t": 1792575310.8091526, "q": "Xoay trái hai vòng nhé.", "intent": "xoay_vong", "say": "Xoay 2 vòng nè, chóng mặt luôn!", "actions": [{"tool": "move", "args": {"vx": 0, "vy": 0, "vyaw": 0.8, "duration": 6.0}}, {"tool": "move", "args": {"vx": 0, "vy": 0, "vyaw": 0.8, "duration": 6.0}}, {"tool": "move", "args": {"vx": 0, "vy": 0, "vyaw": 0.8, "duration": 3.71}}]}
+{"t": 1792575353.2080061, "q": "Bước sang trái hai dây đi.", "intent": "sang trai", "say": "Sang trái nè!", "actions": [{"tool": "move", "args": {"vx": 0.0, "vy": 0.25, "vyaw": 0.0, "duration": 2.0}}]}

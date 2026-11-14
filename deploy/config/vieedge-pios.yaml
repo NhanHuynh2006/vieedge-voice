@@ -1,0 +1,10 @@
+# Same as vieedge-pi.yaml but for Raspberry Pi OS (O0/O1): llama-server built from source in ~/llama.cpp,
+# models in ~/vieedge/models. Use: vieedge run -c deploy/config/vieedge-pios.yaml
+paths:
+  models: ~/vieedge/models
+  results: ~/vieedge/results
+llm:
+  server_bin: ~/llama.cpp/build/bin/llama-server
+audio:
+  capture_device: default
+  playback_device: default

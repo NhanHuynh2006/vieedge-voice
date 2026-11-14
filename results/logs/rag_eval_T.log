@@ -1,0 +1,2 @@
+RAGCLEANT: retrieval used on 345/345 questions, retrieval ms p50 13.0 -> /home/nhanhuynh/Documents/robotassitance/vieedge-voice/results/raw/answers_RAGCLEANT_qwen3.5-0.8b-vi-voice-Q4_K_M.jsonl
+RAGZIPT: retrieval used on 345/345 questions, retrieval ms p50 12.9 -> /home/nhanhuynh/Documents/robotassitance/vieedge-voice/results/raw/answers_RAGZIPT_qwen3.5-0.8b-vi-voice-Q4_K_M.jsonl

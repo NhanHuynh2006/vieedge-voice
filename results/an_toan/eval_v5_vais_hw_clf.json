@@ -1,0 +1,192 @@
+{
+ "tag": "v5_vais_hw_clf",
+ "classifier": true,
+ "by_classifier": 0,
+ "cards": 85,
+ "version": "2026-11-06",
+ "n": 76,
+ "match_ms_per_question": 0.327,
+ "by_kind": {
+  "trong": {
+   "n": 36,
+   "sot": 4,
+   "dung": 30,
+   "sai_the": 2
+  },
+  "ngoai": {
+   "n": 20,
+   "khong_kich_hoat": 6,
+   "dung": 9,
+   "sai_the": 5
+  },
+  "am": {
+   "n": 20,
+   "dung": 20
+  },
+  "qa": {}
+ },
+ "errors": [
+  {
+   "q": "Tê cóng có nên xoa bóp không",
+   "nhan": "te_cong",
+   "loai": "trong",
+   "text": "từ cống có nên xoa bóp không",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Núi lửa phun trào gần khách sạn",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "núi lửa phun trào gần khách sạn",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị rắn biển cắn khi đi lặn",
+   "nhan": [
+    "du_phong",
+    "ran_can"
+   ],
+   "loai": "ngoai",
+   "text": "bị gián biển cắn khi đi lại",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Đẻ rơi tại nhà phải làm sao",
+   "nhan": "sinh_con_khan_cap",
+   "loai": "trong",
+   "text": "đè dơi tại nhà phải làm sao",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị cá sấu tấn công",
+   "nhan": [
+    "du_phong",
+    "cho_meo_can"
+   ],
+   "loai": "ngoai",
+   "text": "vì cá sấu tấn công anh",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị rết cắn sưng to",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bị rét cắn dừng cỏ",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Chen chúc ở sự kiện không thở được",
+   "nhan": "giam_dap",
+   "loai": "trong",
+   "text": "tranh trúc ở sự kiện không thở được không",
+   "got": "hoi_suc_tim_phoi",
+   "key": "không thở",
+   "via": "luat"
+  },
+  {
+   "q": "Lốc bụi che hết tầm nhìn khi lái xe",
+   "nhan": "bao_cat",
+   "loai": "trong",
+   "text": "lúc bụi tré tầm nhìn khi lái xe kéo",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Trẻ bị sốt phát ban tím",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "trẻ bị sốt phát ban tín dụng",
+   "got": "sot_cao",
+   "key": "bị sốt",
+   "via": "luat"
+  },
+  {
+   "q": "Bị kẹt chân vào đường ray tàu",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bị kẹt chân vào đường dây tàu",
+   "got": "mac_ket_cau_cuu",
+   "key": "bị kẹt",
+   "via": "luat"
+  },
+  {
+   "q": "Bé nuốt nam châm",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bé nuốt nào châm cơm",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị lạc trên núi tuyết",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bị lạc trên núi tuyết",
+   "got": "bao_tuyet",
+   "key": "tuyết+lạc",
+   "via": "luat"
+  },
+  {
+   "q": "Bị thú hoang cào",
+   "nhan": [
+    "du_phong",
+    "cho_meo_can"
+   ],
+   "loai": "ngoai",
+   "text": "bì thu hoàng cao",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Xe bị kẹt trong bão tuyết",
+   "nhan": "bao_tuyet",
+   "loai": "trong",
+   "text": "xe bị kẹt trong bão tuyết",
+   "got": "mac_ket_cau_cuu",
+   "key": "xe bị kẹt",
+   "via": "luat"
+  },
+  {
+   "q": "Có tuyết lở",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "có tuyết lở đất",
+   "got": "sat_lo",
+   "key": "lở đất",
+   "via": "luat"
+  },
+  {
+   "q": "Đau đầu dữ dội như sét đánh",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "đau đầu dữ dội như sét đánh cắn",
+   "got": "giong_set",
+   "key": "sét đánh",
+   "via": "luat"
+  },
+  {
+   "q": "Gặp gấu trong rừng",
+   "nhan": "gap_gau",
+   "loai": "trong",
+   "text": "và cam gú trong rừng",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  }
+ ]
+}

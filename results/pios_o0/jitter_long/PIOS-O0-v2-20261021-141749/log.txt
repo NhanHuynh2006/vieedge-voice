@@ -1,0 +1,2 @@
+[14:17:54] jitter under heavy load 30 min
+[14:48:34] cyclictest load: samples=1800000 max_us=127 p99_us=50 p99.99_us=80 p99.999_us=99

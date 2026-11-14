@@ -1,0 +1,4 @@
+fd880a3bad7c039d73a9d09837973d66d11e559b  data/an_toan/cau_hoi_doc_lap_v5.jsonl
+khoá lúc 2026-11-06 09:07:20, trước khi viết 9 thẻ toàn cầu, trước khi mở rộng từ khẩn cấp dự phòng và trước khi huấn luyện lại
+3cf45850e1e07284b4d8f32841cdb92dbd2330f6  data/an_toan/cau_hoi_doc_lap_v5_chap_nhan.jsonl
+bản v5 có thêm thẻ chấp nhận được cho 8 câu 'chưa có thẻ' (một thẻ hiện có cũng xử lý hợp lý), ghi lúc 2026-11-06 09:07:33, trước khi chạy v5

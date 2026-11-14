@@ -1,0 +1,19 @@
+tag=PIOS-O0-v2
+kernel=6.12.93+rpt-rpi-2712
+#1 SMP PREEMPT Debian 1:6.12.93-1+rpt1 (2026-06-12)
+cmdline=reboot=w coherent_pool=1M 8250.nr_uarts=1 pci=pcie_bus_safe cgroup_disable=memory numa_policy=interleave nvme.max_host_mem_size_mb=0  numa=fake=8 system_heap.max_order=0 iommu_dma_numa_policy=interleave smsc95xx.macaddr=88:A2:9E:21:8E:E8 vc_mem.mem_base=0x3fc00000 vc_mem.mem_size=0x40000000  console=ttyAMA10,115200 console=tty1 root=PARTUUID=17a84515-02 rootfstype=ext4 fsck.repair=yes rootwait quiet splash plymouth.ignore-serial-consoles cfg80211.ieee80211_regdom=VN pcie_aspm=off
+governor=ondemand
+rootfs_used_MB=26778
+uptime_s=2300.88
+ram_used_MB=601 ram_available_MB=7461
+procs=208
+systemd_units_running=42
+Startup finished in 1.677s (kernel) + 9.335s (userspace) = 11.013s 
+idle_cpu_busy_pct=7.1
+[13:57:30] jitter idle 5 min
+[14:02:30] cyclictest idle: samples=300000 max_us=33 p99_us=4 p99.99_us=12 p99.999_us=15
+[14:02:30] jitter under heavy load 5 min
+[14:07:40] cyclictest load: samples=300000 max_us=105 p99_us=48 p99.99_us=77 p99.999_us=97
+[14:11:32] e2e quiet: CMP-PIOS-O0-v2-quiet,266.4,13.55,1700,3700,4103,2286
+[14:17:49] e2e loaded: CMP-PIOS-O0-v2-loaded,1306,3.68,9358,2.078e+04,3.221e+04,2994
+[14:17:49] DONE -> /home/raspi/vieedge/src/results/compare/PIOS-O0-v2-20261021-135656

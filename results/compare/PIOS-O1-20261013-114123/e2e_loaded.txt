@@ -1,0 +1,111 @@
+[0;93m2026-10-13 11:57:20.161555659 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+[CMP-PIOS-O1-loaded] session 1/1
+could not preload STT backend ct2: Unable to open file 'model.bin' in model '/home/raspi/vieedge/models/stt/ct2/phowhisper-tiny-int8'
+  [0:0] first_audio 16356.3 ms | stt 955.3 | ttft 2995.7 | Q: Khi nào mình viết tủ lạnh đã hết hạn sử dụng cần t
+  [0:1] first_audio 10403.9 ms | stt 420.9 | ttft 1734.5 | Q: Người nào sẽ bị cảm cúng nhất bạn ơi?
+  [0:2] first_audio 2576.0 ms | stt 615.3 | ttft None | Q: 
+  [0:3] first_audio 16920.4 ms | stt 718.9 | ttft 1550.9 | Q: Cho mình khỏi tại sao mua khô nước lại ít hơn mùa 
+  [0:4] first_audio 6420.3 ms | stt 667.0 | ttft 1620.1 | Q: Con số nào sẽ ra đầu tiên trong quay số may mắn?
+  [0:5] first_audio 2544.1 ms | stt 710.9 | ttft None | Q: 
+  [0:6] first_audio 18660.0 ms | stt 523.5 | ttft 2604.8 | Q: Bạn ơi mình không biết làm sao để vượt qua nỗi buồ
+  [0:7] first_audio 16592.0 ms | stt 734.4 | ttft 2949.0 | Q: Ai giúp mình biết trong nam cực thuộc về nước nào?
+  [0:8] first_audio 9328.2 ms | stt 1010.9 | ttft 1805.1 | Q: Cho mình hỏi pháp mình sẽ giúp con người lưu trữ n
+  [0:9] first_audio 32548.2 ms | stt 1213.3 | ttft 5186.1 | Q: Số may mắn hôm nay là bạo nhiều.
+  [0:10] first_audio 10452.3 ms | stt 599.3 | ttft 1486.6 | Q: Tại sao mua cổ lại khó trừng lúa hơn ngô ngựa?
+  [0:11] first_audio 2720.3 ms | stt 698.2 | ttft None | Q: 
+  [0:12] first_audio 9647.8 ms | stt 614.0 | ttft 3241.1 | Q: Bạn ơi cái gì giúp con người chữa bệnh ung thư?
+  [0:13] first_audio 9512.0 ms | stt 693.7 | ttft 1652.0 | Q: Tại sao người lớn tuổi lại dễ bị nhiễm virus hơn t
+  [0:14] first_audio 19692.1 ms | stt 412.3 | ttft 3069.1 | Q: Có nên tưới cây vào giữa chữa không?
+  [0:15] first_audio 5800.3 ms | stt 572.6 | ttft 1921.9 | Q: Ơi những chung rối trong múa rối nước làng vàng bằ
+{
+ "metrics": {
+  "first_audio_ms": {
+   "p50": 10025.8,
+   "p95": 22906.1,
+   "p99": 30619.8,
+   "mean": 11885.9,
+   "std": 7695.5,
+   "n": 16
+  },
+  "stt_after_speech_ms": {
+   "p50": 680.4,
+   "p95": 1061.5,
+   "p99": 1182.9,
+   "mean": 697.5,
+   "std": 203.2,
+   "n": 16
+  },
+  "stt_after_endpoint_ms": {
+   "p50": 264.2,
+   "p95": 645.7,
+   "p99": 767.1,
+   "mean": 281.5,
+   "std": 203.3,
+   "n": 16
+  },
+  "endpoint_wait_ms": {
+   "p50": 416.0,
+   "p95": 416.3,
+   "p99": 416.3,
+   "mean": 416.0,
+   "std": 0.1,
+   "n": 16
+  },
+  "ttft_ms": {
+   "p50": 1921.9,
+   "p95": 4019.1,
+   "p99": 4952.7,
+   "mean": 2447.5,
+   "std": 1012.8,
+   "n": 13
+  },
+  "first_chunk_ms": {
+   "p50": 6123.2,
+   "p95": 17316.4,
+   "p99": 21946.2,
+   "mean": 8336.2,
+   "std": 5769.2,
+   "n": 13
+  },
+  "tts_first_ms": {
+   "p50": 2586.0,
+   "p95": 3228.6,
+   "p99": 3389.3,
+   "mean": 2437.1,
+   "std": 573.3,
+   "n": 13
+  },
+  "llm_total_ms": {
+   "p50": 14970.1,
+   "p95": 28863.6,
+   "p99": 36659.8,
+   "mean": 17103.6,
+   "std": 7121.1,
+   "n": 13
+  },
+  "turn_total_ms": {
+   "p50": 20774.5,
+   "p95": 34140.4,
+   "p99": 42867.1,
+   "mean": 20385.6,
+   "std": 9661.8,
+   "n": 16
+  }
+ },
+ "first_audio_p50_per_session": [
+  10025.8
+ ],
+ "first_audio_p50_mean_std": [
+  10025.8,
+  0.0
+ ],
+ "asr_wer_on_questions": 0.2956989247311828,
+ "speculative_hit_rate": 1.0,
+ "timeouts": 0,
+ "xruns_per_h": [
+  0.0
+ ],
+ "power_w_mean": 5.169606299212599
+}
+experiments.csv <- {'exp_id': 'CMP-PIOS-O1-loaded', 'os_cfg': 'O1', 'stt_model': 'phowhisper-tiny-encoder-10s_vi_h8l.hef', 'stt_where': 'cpu', 'llm_model': 'qwen3.5-0.8b-vi-voice-Q4_K_M.gguf', 'spec_dec': 'no', 'threads': 3, 'wer': 0.2957, 'ttft_ms': 1921.9, 'tok_s': 2.29, 'first_audio_p50': 10025.8, 'first_audio_p95': 22906.1, 'first_audio_p99': 30619.8, 'ram_mb': 2799, 'temp_max': 65.5, 'power_w': 5.17, 'j_per_turn': 105.4, 'xruns_per_h': 0.0, 'notes': 'manifest=e2e_synth;turns=16x1sess;spec_hit=1.00;endpoint_ms=400;stream=True;first_words=5;file-audio'}

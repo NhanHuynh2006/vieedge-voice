@@ -1,0 +1,24 @@
+#!/bin/sh
+# Switch between O3 and O4 on the RT image (same kernel, different cmdline/tuning), or label O2.
+#   vieedge-osmode o3 | o4 | o2 | show      (reboot afterwards)
+set -eu
+BOOT=/boot
+[ -f $BOOT/cmdline.txt ] || BOOT=/boot/firmware
+[ -f $BOOT/cmdline.txt ] || { mount /dev/mmcblk0p1 /boot 2>/dev/null; BOOT=/boot; }
+CL=$BOOT/cmdline.txt
+strip() { sed -E 's/ ?(isolcpus|nohz_full|rcu_nocbs|irqaffinity)=[^ ]*//g' "$CL"; }
+mkdir -p /etc/vieedge
+case "${1:-show}" in
+  o4|O4) echo "$(strip) isolcpus=3 nohz_full=3 rcu_nocbs=3 irqaffinity=0-2" > $CL.new; mv $CL.new $CL; echo VIEEDGE_OS_CFG=O4 > /etc/vieedge/env ;;
+  o3|O3) strip > $CL.new; mv $CL.new $CL; echo VIEEDGE_OS_CFG=O3 > /etc/vieedge/env ;;
+  o2|O2) strip > $CL.new; mv $CL.new $CL; echo VIEEDGE_OS_CFG=O2 > /etc/vieedge/env ;;
+  show) cat $CL; cat /etc/vieedge/env 2>/dev/null; exit 0 ;;
+  *) echo "usage: $0 o2|o3|o4|show"; exit 2 ;;
+esac
+# O3 = RT kernel without isolation: the app must not use core 3 exclusively either
+if grep -q O3 /etc/vieedge/env || grep -q O2 /etc/vieedge/env; then
+  sed -i -e 's/^\( *rt_core:\).*/\1 null/' -e 's/^\( *rt_priority:\).*/\1 0/' /etc/vieedge/config.yaml 2>/dev/null || true
+else
+  sed -i -e 's/^\( *rt_core:\).*/\1 3/' -e 's/^\( *rt_priority:\).*/\1 80/' /etc/vieedge/config.yaml 2>/dev/null || true
+fi
+sync; echo "cmdline now: $(cat $CL)"; echo "reboot to apply"

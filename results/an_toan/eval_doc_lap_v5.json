@@ -1,0 +1,92 @@
+{
+ "tag": "doc_lap_v5",
+ "classifier": false,
+ "by_classifier": 0,
+ "cards": 85,
+ "version": "2026-11-06",
+ "n": 76,
+ "match_ms_per_question": 0.301,
+ "by_kind": {
+  "trong": {
+   "n": 36,
+   "dung": 35,
+   "sai_the": 1
+  },
+  "ngoai": {
+   "n": 20,
+   "dung": 14,
+   "sai_the": 4,
+   "khong_kich_hoat": 2
+  },
+  "am": {
+   "n": 20,
+   "dung": 20
+  },
+  "qa": {}
+ },
+ "errors": [
+  {
+   "q": "Xe bị kẹt trong bão tuyết",
+   "nhan": "bao_tuyet",
+   "loai": "trong",
+   "text": "Xe bị kẹt trong bão tuyết",
+   "got": "mac_ket_cau_cuu",
+   "key": "xe bị kẹt",
+   "via": "luat"
+  },
+  {
+   "q": "Bị lạc trên núi tuyết",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị lạc trên núi tuyết",
+   "got": "bao_tuyet",
+   "key": "tuyết+lạc",
+   "via": "luat"
+  },
+  {
+   "q": "Núi lửa phun trào gần khách sạn",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Núi lửa phun trào gần khách sạn",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Đau đầu dữ dội như sét đánh",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Đau đầu dữ dội như sét đánh",
+   "got": "giong_set",
+   "key": "sét đánh",
+   "via": "luat"
+  },
+  {
+   "q": "Trẻ bị sốt phát ban tím",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Trẻ bị sốt phát ban tím",
+   "got": "sot_cao",
+   "key": "bị sốt",
+   "via": "luat"
+  },
+  {
+   "q": "Bị kẹt chân vào đường ray tàu",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị kẹt chân vào đường ray tàu",
+   "got": "mac_ket_cau_cuu",
+   "key": "bị kẹt",
+   "via": "luat"
+  },
+  {
+   "q": "Bé nuốt nam châm",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bé nuốt nam châm",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  }
+ ]
+}

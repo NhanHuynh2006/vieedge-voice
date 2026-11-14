@@ -1,0 +1,42 @@
+{
+ "tag": "v1_cuoi2",
+ "cards": 42,
+ "version": "2026-11-04",
+ "n": 134,
+ "match_ms_per_question": 0.179,
+ "by_kind": {
+  "trong": {
+   "n": 84,
+   "dung": 82,
+   "sai_the": 1,
+   "sot": 1
+  },
+  "ngoai": {
+   "n": 20,
+   "dung": 20
+  },
+  "am": {
+   "n": 30,
+   "dung": 30
+  },
+  "qa": {}
+ },
+ "errors": [
+  {
+   "q": "Chuẩn bị đồ dự trữ trong nhà cho mùa mưa bão",
+   "nhan": "do_dung_khan_cap",
+   "loai": "trong",
+   "text": "Chuẩn bị đồ dự trữ trong nhà cho mùa mưa bão",
+   "got": "truoc_bao",
+   "key": "bão+chuẩn bị"
+  },
+  {
+   "q": "Sau đợt ngập lụt trẻ con hay bị bệnh gì và phòng sao",
+   "nhan": "phong_benh_sau_lu",
+   "loai": "trong",
+   "text": "Sau đợt ngập lụt trẻ con hay bị bệnh gì và phòng sao",
+   "got": "khong",
+   "key": ""
+  }
+ ]
+}

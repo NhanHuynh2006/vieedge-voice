@@ -1,0 +1,108 @@
+[CMP-YOCTO-RT-O4-quiet] session 1/1
+  [0:0] first_audio 2920.1 ms | stt 273.3 | ttft 324.3 | Q: Khi nào mình viết tủ lạnh đã hết hạn sử dụng cần t
+  [0:1] first_audio 2032.1 ms | stt 130.0 | ttft 279.0 | Q: Người não sẽ bị cảm cúng nhất bạn ơi.
+  [0:2] first_audio 1316.0 ms | stt 175.3 | ttft None | Q: 
+  [0:3] first_audio 1168.1 ms | stt 194.9 | ttft None | Q: 
+  [0:4] first_audio 1820.1 ms | stt 152.6 | ttft 321.0 | Q: Con số nào sẽ ra đầu tiên trong quay số may mắn?
+  [0:5] first_audio 1144.0 ms | stt 145.9 | ttft None | Q: 
+  [0:6] first_audio 2412.4 ms | stt 306.4 | ttft 302.3 | Q: Bạn ơi mình không biết làm sao để vượt qua nỗi buồ
+  [0:7] first_audio 2196.1 ms | stt 149.4 | ttft 280.7 | Q: Ai giúp mình biết trong nam cực thuộc về nước nào?
+  [0:8] first_audio 3144.3 ms | stt 283.2 | ttft 314.9 | Q: Cho mình hỏi pháp mình sẽ giúp con người lưu trữ n
+  [0:9] first_audio 1152.0 ms | stt 111.7 | ttft None | Q: 
+  [0:10] first_audio 3200.0 ms | stt 167.1 | ttft 277.8 | Q: Tại sao ngô cổ lại khó trừng lúa hơn ngô ngựa?
+  [0:11] first_audio 2880.3 ms | stt 146.8 | ttft 302.9 | Q: Mình cần biết cơ đò sao vàng là cơ của ai?
+  [0:12] first_audio 2136.3 ms | stt 161.2 | ttft 395.5 | Q: Bạn ơi cái gì giúp con người chữa bệnh ung thư?
+  [0:13] first_audio 3208.1 ms | stt 195.7 | ttft 303.1 | Q: Tại sao người lớn tuổi lại dễ bị nhiễm virus hơn t
+  [0:14] first_audio 1172.1 ms | stt 115.4 | ttft None | Q: 
+  [0:15] first_audio 1896.4 ms | stt 179.3 | ttft 316.2 | Q: Bạn ơi những chung rối trong múa rối nước làng vàn
+{
+ "metrics": {
+  "first_audio_ms": {
+   "p50": 2084.2,
+   "p95": 3202.0,
+   "p99": 3206.9,
+   "mean": 2112.4,
+   "std": 758.2,
+   "n": 16
+  },
+  "stt_after_speech_ms": {
+   "p50": 164.1,
+   "p95": 289.0,
+   "p99": 302.9,
+   "mean": 180.5,
+   "std": 56.8,
+   "n": 16
+  },
+  "stt_after_endpoint_ms": {
+   "p50": -251.9,
+   "p95": -127.0,
+   "p99": -113.1,
+   "mean": -235.5,
+   "std": 56.8,
+   "n": 16
+  },
+  "endpoint_wait_ms": {
+   "p50": 416.0,
+   "p95": 416.1,
+   "p99": 416.2,
+   "mean": 416.0,
+   "std": 0.1,
+   "n": 16
+  },
+  "ttft_ms": {
+   "p50": 303.1,
+   "p95": 359.9,
+   "p99": 388.4,
+   "mean": 310.7,
+   "std": 31.2,
+   "n": 11
+  },
+  "first_chunk_ms": {
+   "p50": 862.0,
+   "p95": 1258.4,
+   "p99": 1327.4,
+   "mean": 907.0,
+   "std": 262.1,
+   "n": 11
+  },
+  "tts_first_ms": {
+   "p50": 718.4,
+   "p95": 1179.8,
+   "p99": 1206.0,
+   "mean": 798.8,
+   "std": 269.5,
+   "n": 11
+  },
+  "llm_total_ms": {
+   "p50": 2646.7,
+   "p95": 3170.7,
+   "p99": 3178.2,
+   "mean": 2637.6,
+   "std": 480.8,
+   "n": 11
+  },
+  "turn_total_ms": {
+   "p50": 7180.4,
+   "p95": 9915.6,
+   "p99": 10530.9,
+   "mean": 6765.5,
+   "std": 2278.1,
+   "n": 16
+  }
+ },
+ "first_audio_p50_per_session": [
+  2084.2
+ ],
+ "first_audio_p50_mean_std": [
+  2084.2,
+  0.0
+ ],
+ "asr_wer_on_questions": 0.3924731182795699,
+ "speculative_hit_rate": 1.0,
+ "timeouts": 0,
+ "xruns_per_h": [
+  0.0
+ ],
+ "power_w_mean": 2.710442528735632
+}
+experiments.csv <- {'exp_id': 'CMP-YOCTO-RT-O4-quiet', 'os_cfg': 'O4', 'stt_model': 'phowhisper-tiny-encoder-10s_vi_h8l.hef', 'stt_where': 'cpu', 'llm_model': 'qwen3.5-0.8b-vi-voice-Q4_0.gguf', 'spec_dec': 'no', 'threads': 3, 'wer': 0.3925, 'ttft_ms': 303.1, 'tok_s': 12.25, 'first_audio_p50': 2084.2, 'first_audio_p95': 3202.0, 'first_audio_p99': 3206.9, 'ram_mb': 1911, 'temp_max': 59.5, 'power_w': 2.71, 'j_per_turn': 18.3, 'xruns_per_h': 0.0, 'notes': 'manifest=e2e_synth;turns=16x1sess;spec_hit=1.00;endpoint_ms=400;stream=True;first_words=5;file-audio'}

@@ -1,0 +1,20 @@
+#!/bin/sh
+# Pick the USB speaker / microphone automatically (hot-plug friendly: runs before every start of vieedge.service).
+# Writes /etc/asound.conf so ALSA "default" = first USB card for playback and for capture; no USB card -> HDMI/default.
+PB=""; CAP=""
+for d in /proc/asound/card[0-9]*; do
+  n=${d##*card}
+  line=$(grep -E "^ *$n \[" /proc/asound/cards)
+  case "$line" in *USB-Audio*|*usb*|*USB*) ;; *) continue ;; esac
+  [ -z "$PB" ]  && [ -e "$d/pcm0p" ] && PB=$n
+  [ -z "$CAP" ] && [ -e "$d/pcm0c" ] && CAP=$n
+done
+if [ -z "$PB$CAP" ]; then rm -f /etc/asound.conf; echo "vieedge-audio-select: no USB audio card, using ALSA default"; exit 0; fi
+{
+  echo "pcm.!default { type asym"
+  [ -n "$PB" ]  && echo "  playback.pcm \"plughw:$PB,0\""
+  [ -n "$CAP" ] && echo "  capture.pcm \"plughw:$CAP,0\""
+  echo "}"
+  [ -n "$PB" ] && echo "ctl.!default { type hw card $PB }"
+} > /etc/asound.conf
+echo "vieedge-audio-select: playback card=${PB:-none} capture card=${CAP:-none}"

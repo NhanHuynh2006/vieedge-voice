@@ -1,0 +1,7 @@
+Success
+cat: files/turns.jsonl: No such file or directory
+peak_pss_kb=1308847 temp=31 elapsed_s=180
+11-07 13:46:55.082 21135 22437 I VieEdge : TEST start model=qwen3.5-0.8b-vi-voice-Q4_0.gguf device=none err=null load_s=72.664
+peak_pss_kb=1295700 temp=34,9 elapsed_s=372
+11-07 13:49:47.657 21142 23354 I VieEdge : TEST start model=qwen3.5-0.8b-vi-voice-Q4_0.gguf device=none err=null load_s=66.184
+ALL DONE

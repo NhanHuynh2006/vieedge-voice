@@ -1,0 +1,40 @@
+[S0-ref] vivos_test: WER 0.114 CER 0.059 lat p50 446.0 ms (enc 0.0 / dec 416.5) RTF 0.1362
+[S0-ref] vivos_test @ 10 dB: WER 0.139
+[S0-ref] fleurs_vi_test: WER 0.385 CER 0.314 lat p50 525.1 ms (enc 0.0 / dec 492.8) RTF 0.0463
+[S0-ref] fleurs_vi_test @ 10 dB: WER 0.419
+experiments.csv <- {'exp_id': 'S0-ref', 'os_cfg': 'laptop', 'stt_model': 'phowhisper-tiny-float32', 'stt_where': 'cpu', 'stt_prec': 'float32', 'threads': 4, 'wer': 0.2496, 'wer_noisy': 0.2793, 'temp_max': 79.0, 'notes': 'sets=vivos_test+fleurs_vi_test;n=300;lat_p50_ms=486;window=30s'}
+[S1-ref] vivos_test: WER 0.114 CER 0.060 lat p50 308.0 ms (enc 0.0 / dec 278.5) RTF 0.0926
+[S1-ref] vivos_test @ 10 dB: WER 0.142
+[S1-ref] fleurs_vi_test: WER 0.387 CER 0.314 lat p50 359.2 ms (enc 0.0 / dec 326.6) RTF 0.0308
+[S1-ref] fleurs_vi_test @ 10 dB: WER 0.418
+experiments.csv <- {'exp_id': 'S1-ref', 'os_cfg': 'laptop', 'stt_model': 'phowhisper-tiny-int8', 'stt_where': 'cpu', 'stt_prec': 'int8', 'threads': 4, 'wer': 0.2504, 'wer_noisy': 0.2797, 'temp_max': 78.0, 'notes': 'sets=vivos_test+fleurs_vi_test;n=300;lat_p50_ms=334;window=30s'}
+[S1w-ref] vivos_test: WER 0.151 CER 0.088 lat p50 143.1 ms (enc 0.0 / dec 114.4) RTF 0.0416
+[S1w-ref] vivos_test @ 10 dB: WER 0.170
+[S1w-ref] fleurs_vi_test: WER 0.255 CER 0.165 lat p50 301.7 ms (enc 0.0 / dec 248.4) RTF 0.0234
+[S1w-ref] fleurs_vi_test @ 10 dB: WER 0.320
+experiments.csv <- {'exp_id': 'S1w-ref', 'os_cfg': 'laptop', 'stt_model': 'phowhisper-tiny-int8', 'stt_where': 'cpu', 'stt_prec': 'int8', 'threads': 4, 'wer': 0.2033, 'wer_noisy': 0.2452, 'temp_max': 79.0, 'notes': 'sets=vivos_test+fleurs_vi_test;n=300;lat_p50_ms=222;window=10s'}
+[S3fp32-ref] vivos_test: WER 0.162 CER 0.099 lat p50 111.4 ms (enc 69.2 / dec 35.4) RTF 0.0322
+[S3fp32-ref] vivos_test @ 10 dB: WER 0.165
+[S3fp32-ref] fleurs_vi_test: WER 0.260 CER 0.170 lat p50 239.9 ms (enc 136.7 / dec 91.1) RTF 0.019
+[S3fp32-ref] fleurs_vi_test @ 10 dB: WER 0.323
+experiments.csv <- {'exp_id': 'S3fp32-ref', 'os_cfg': 'laptop', 'stt_model': 'phowhisper-tiny-encoder-10s_vi_h8l.hef', 'stt_where': 'cpu-onnx+cpu', 'stt_prec': 'enc-FP32(ONNX)+dec-int8', 'threads': 4, 'wer': 0.2113, 'wer_noisy': 0.2436, 'temp_max': 77.0, 'notes': 'FP32 ONNX encoder (pre-HEF) + CT2 int8 decoder;sets=vivos_test+fleurs_vi_test;n=300;lat_p50_ms=176;window=10.0s'}
+[S1-base-ref] vivos_test: WER 0.093 CER 0.049 lat p50 370.0 ms (enc 0.0 / dec 360.0) RTF 0.1086
+[S1-base-ref] vivos_test @ 10 dB: WER 0.106
+[S1-base-ref] fleurs_vi_test: WER 0.350 CER 0.298 lat p50 439.3 ms (enc 0.0 / dec 431.4) RTF 0.0391
+[S1-base-ref] fleurs_vi_test @ 10 dB: WER 0.378
+experiments.csv <- {'exp_id': 'S1-base-ref', 'os_cfg': 'laptop', 'stt_model': 'phowhisper-base-int8', 'stt_where': 'cpu', 'stt_prec': 'int8', 'threads': 4, 'wer': 0.2218, 'wer_noisy': 0.2424, 'temp_max': 83.0, 'notes': 'sets=vivos_test+fleurs_vi_test;n=300;lat_p50_ms=405;window=30s'}
+[S3fp32-base5s-ref] vivos_test: WER 0.161 CER 0.116 lat p50 132.1 ms (enc 75.4 / dec 53.2) RTF 0.0413
+[S3fp32-base5s-ref] vivos_test @ 10 dB: WER 0.165
+[S3fp32-base5s-ref] fleurs_vi_test: WER 0.309 CER 0.239 lat p50 457.5 ms (enc 249.9 / dec 170.6) RTF 0.0376
+[S3fp32-base5s-ref] fleurs_vi_test @ 10 dB: WER 0.343
+experiments.csv <- {'exp_id': 'S3fp32-base5s-ref', 'os_cfg': 'laptop', 'stt_model': 'phowhisper-tiny-encoder-10s_vi_h8l.hef', 'stt_where': 'cpu-onnx+cpu', 'stt_prec': 'enc-FP32(ONNX)+dec-int8', 'threads': 4, 'wer': 0.2351, 'wer_noisy': 0.2542, 'temp_max': 81.0, 'notes': 'sets=vivos_test+fleurs_vi_test;n=300;lat_p50_ms=295;window=5.0s'}
+[S3fp32-base10s-ref] vivos_test: WER 0.095 CER 0.050 lat p50 163.1 ms (enc 99.2 / dec 58.2) RTF 0.0467
+[S3fp32-base10s-ref] vivos_test @ 10 dB: WER 0.111
+[S3fp32-base10s-ref] fleurs_vi_test: WER 0.221 CER 0.163 lat p50 382.1 ms (enc 199.9 / dec 163.8) RTF 0.0294
+[S3fp32-base10s-ref] fleurs_vi_test @ 10 dB: WER 0.262
+experiments.csv <- {'exp_id': 'S3fp32-base10s-ref', 'os_cfg': 'laptop', 'stt_model': 'phowhisper-tiny-encoder-10s_vi_h8l.hef', 'stt_where': 'cpu-onnx+cpu', 'stt_prec': 'enc-FP32(ONNX)+dec-int8', 'threads': 4, 'wer': 0.1584, 'wer_noisy': 0.1861, 'temp_max': 79.0, 'notes': 'sets=vivos_test+fleurs_vi_test;n=300;lat_p50_ms=273;window=10.0s'}
+[S2cpu-ref] vivos_test: WER 0.529 CER 0.318 lat p50 234.2 ms (enc 0.0 / dec 223.6) RTF 0.0688
+[S2cpu-ref] vivos_test @ 10 dB: WER 0.601
+[S2cpu-ref] fleurs_vi_test: WER 0.677 CER 0.501 lat p50 269.5 ms (enc 0.0 / dec 258.5) RTF 0.0232
+[S2cpu-ref] fleurs_vi_test @ 10 dB: WER 0.742
+experiments.csv <- {'exp_id': 'S2cpu-ref', 'os_cfg': 'laptop', 'stt_model': 'whisper-tiny-int8', 'stt_where': 'cpu', 'stt_prec': 'int8', 'threads': 4, 'wer': 0.6033, 'wer_noisy': 0.6713, 'temp_max': 78.0, 'notes': 'original Whisper tiny on CPU (S2 decoder weights);sets=vivos_test+fleurs_vi_test;n=300;lat_p50_ms=252;window=30s'}

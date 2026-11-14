@@ -1,0 +1,66 @@
+{
+ "n_safety": 170,
+ "n_vivos": 300,
+ "rows": [
+  {
+   "config": "greedy",
+   "hotwords": 0,
+   "safety_wer": 0.399,
+   "safety_cards": {
+    "trong": "48/114",
+    "ngoai": "6/20",
+    "am": "34/36"
+   },
+   "vivos_wer": 0.059,
+   "ms_per_utt": 28.5
+  },
+  {
+   "config": "beam4",
+   "hotwords": 0,
+   "safety_wer": 0.407,
+   "safety_cards": {
+    "trong": "49/114",
+    "ngoai": "7/20",
+    "am": "33/36"
+   },
+   "vivos_wer": 0.057,
+   "ms_per_utt": 36.1
+  },
+  {
+   "config": "beam4+hw1.0",
+   "hotwords": 974,
+   "safety_wer": 0.395,
+   "safety_cards": {
+    "trong": "53/114",
+    "ngoai": "7/20",
+    "am": "32/36"
+   },
+   "vivos_wer": 0.057,
+   "ms_per_utt": 35.9
+  },
+  {
+   "config": "beam4+hw1.5",
+   "hotwords": 974,
+   "safety_wer": 0.387,
+   "safety_cards": {
+    "trong": "56/114",
+    "ngoai": "7/20",
+    "am": "31/36"
+   },
+   "vivos_wer": 0.059,
+   "ms_per_utt": 36.1
+  },
+  {
+   "config": "beam4+hw2.0",
+   "hotwords": 974,
+   "safety_wer": 0.393,
+   "safety_cards": {
+    "trong": "54/114",
+    "ngoai": "6/20",
+    "am": "31/36"
+   },
+   "vivos_wer": 0.06,
+   "ms_per_utt": 36.4
+  }
+ ]
+}

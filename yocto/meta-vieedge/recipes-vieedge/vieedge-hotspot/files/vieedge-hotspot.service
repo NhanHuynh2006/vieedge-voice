@@ -1,0 +1,16 @@
+[Unit]
+Description=VieEdge private Wi-Fi hotspot (hostapd + dnsmasq)
+After=systemd-networkd.service sys-subsystem-net-devices-wlan0.device
+Wants=sys-subsystem-net-devices-wlan0.device
+
+[Service]
+Type=simple
+ExecStartPre=-/usr/sbin/rfkill unblock wifi
+ExecStartPre=/bin/sh -c 'dnsmasq --conf-file=/etc/vieedge/dnsmasq-vieedge.conf --pid-file=/run/vieedge-dnsmasq.pid'
+ExecStart=/usr/sbin/hostapd /etc/vieedge/hostapd-vieedge.conf
+ExecStopPost=-/bin/sh -c 'kill $(cat /run/vieedge-dnsmasq.pid) 2>/dev/null'
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target

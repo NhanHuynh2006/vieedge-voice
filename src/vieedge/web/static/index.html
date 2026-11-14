@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="/static/icon-192.png">
+<title>VieEdge-Voice</title>
+<link rel="stylesheet" href="/static/fonts.css">
+<link rel="stylesheet" href="/static/style.css?v=20261103">
+</head>
+<body>
+<header>
+  <div class="brand">VieEdge<span>Voice</span></div>
+  <div id="badges">
+    <a class="badge" id="b-phone" href="#" title="Dùng điện thoại làm micro và loa">Điện thoại</a>
+    <span class="badge" id="b-os">OS: ?</span>
+    <span class="badge" id="b-stt">STT: ?</span>
+    <span class="badge state" id="b-state">…</span>
+  </div>
+</header>
+
+<main>
+  <section class="card wide" id="conv">
+    <h2>Hội thoại</h2>
+    <div class="label">Bạn đang nói</div>
+    <div id="partial" class="partial">—</div>
+    <div class="label">Câu hỏi</div>
+    <div id="question" class="question">—</div>
+    <div class="label">Trả lời</div>
+    <div id="answer" class="answer">—</div>
+    <div class="controls">
+      <button id="ptt" class="ptt">Giữ để nói</button>
+      <select id="stt-select" title="STT backend"></select>
+      <button id="rag" class="stress" title="Tra cứu Wikipedia offline">Tra cứu: tắt</button>
+      <button id="stress" class="stress" title="Tải nặng lõi 0–2 (demo RT)">Tải nặng: tắt</button>
+    </div>
+  </section>
+
+  <section class="card wide">
+    <h2>Thác nước độ trễ (lượt gần nhất)</h2>
+    <canvas id="waterfall" height="230"></canvas>
+    <div id="turn-metrics" class="metrics"></div>
+  </section>
+
+  <section class="card">
+    <h2>CPU từng lõi</h2>
+    <div id="cores"></div>
+    <div class="kv"><span>Tần số</span><b id="freq">–</b></div>
+    <div class="kv"><span>Load</span><b id="load">–</b></div>
+  </section>
+
+  <section class="card">
+    <h2>Hệ thống</h2>
+    <div class="kv"><span>Nhiệt SoC</span><b id="temp">–</b></div>
+    <div class="kv"><span>Throttled</span><b id="thr">–</b></div>
+    <div class="kv"><span>RAM</span><b id="ram">–</b></div>
+    <div class="kv"><span>Công suất</span><b id="power">–</b></div>
+    <div class="kv"><span>NPU (Hailo-8L)</span><b id="npu">–</b></div>
+    <div class="kv"><span>NPU nhiệt</span><b id="npu-temp">–</b></div>
+    <div class="kv"><span>Xrun (cap/play)</span><b id="xrun">–</b></div>
+    <canvas id="spark" height="70"></canvas>
+  </section>
+
+  <section class="card wide">
+    <h2>Lịch sử</h2>
+    <div id="history-wrap"><table id="history"><thead><tr><th>#</th><th>Câu hỏi</th><th>Trả lời</th><th>STT</th><th>Âm thanh đầu</th></tr></thead><tbody></tbody></table></div>
+  </section>
+</main>
+<script src="/static/app.js?v=20261103"></script>
+<script>document.getElementById("b-phone").href = "https://" + location.hostname + ":8443/phone";</script>
+</body>
+</html>

@@ -1,0 +1,111 @@
+[0;93m2026-10-13 11:53:50.884543259 [W:onnxruntime:Default, telemetry_1ds.cc:600 operator()] Failed to persist telemetry device ID; using an in-memory identifier[m
+XDG_RUNTIME_DIR (/run/user/1000) is not owned by us (uid 0), but by uid 1000! (This could e.g. happen if you try to connect to a non-root PulseAudio as a root user, over the native protocol. Don't do that.)
+[CMP-PIOS-O1-quiet] session 1/1
+could not preload STT backend ct2: Unable to open file 'model.bin' in model '/home/raspi/vieedge/models/stt/ct2/phowhisper-tiny-int8'
+  [0:0] first_audio 3224.3 ms | stt 277.3 | ttft 368.9 | Q: Khi nào mình viết tủ lạnh đã hết hạn sử dụng cần t
+  [0:1] first_audio 2292.1 ms | stt 116.0 | ttft 314.8 | Q: Người não sẽ bị cảm cúng nhất bạn ơi.
+  [0:2] first_audio 1916.3 ms | stt 181.7 | ttft 370.8 | Q: Chon mình hỏi phá rừng làm anh hương gì đến lương 
+  [0:3] first_audio 3112.1 ms | stt 161.3 | ttft 365.1 | Q: Cho mình hỏi tại sao mua khô nước lại ít hơn mùa m
+  [0:4] first_audio 1800.1 ms | stt 149.8 | ttft 339.2 | Q: Con số nào sẽ ra đầu tiên trong quay số may mắn?
+  [0:5] first_audio 1100.0 ms | stt 135.3 | ttft None | Q: 
+  [0:6] first_audio 2172.1 ms | stt 283.0 | ttft 354.0 | Q: Bạn ơi mình không biết làm sao để vượt qua nỗi buồ
+  [0:7] first_audio 1272.1 ms | stt 129.0 | ttft 326.1 | Q: Ai giúp mình biết trong nam cực thuộc về nước nào?
+  [0:8] first_audio 3292.3 ms | stt 297.1 | ttft 368.0 | Q: Cho mình hỏi pháp mình sẽ giúp con người lưu trữ n
+  [0:9] first_audio 1084.1 ms | stt 130.0 | ttft None | Q: 
+  [0:10] first_audio 2188.1 ms | stt 158.3 | ttft 324.6 | Q: Tại sao ngô cổ lại khó trừng lúa hơn ngô ngựa?
+  [0:11] first_audio 1100.1 ms | stt 147.9 | ttft None | Q: 
+  [0:12] first_audio 1900.1 ms | stt 155.5 | ttft 418.2 | Q: Bạn ơi cái gì giúp con người chữa bệnh ung thư?
+  [0:13] first_audio 3164.3 ms | stt 168.9 | ttft 354.7 | Q: Tại sao người lớn tuổi lại dễ bị nhiễm virus hơn t
+  [0:14] first_audio 1108.1 ms | stt 123.0 | ttft None | Q: 
+  [0:15] first_audio 1704.3 ms | stt 174.6 | ttft 370.2 | Q: Ơi những chúng rối trong múa rối nước làng vàng ch
+{
+ "metrics": {
+  "first_audio_ms": {
+   "p50": 1908.2,
+   "p95": 3241.3,
+   "p99": 3282.1,
+   "mean": 2026.9,
+   "std": 783.8,
+   "n": 16
+  },
+  "stt_after_speech_ms": {
+   "p50": 156.9,
+   "p95": 286.5,
+   "p99": 295.0,
+   "mean": 174.3,
+   "std": 56.6,
+   "n": 16
+  },
+  "stt_after_endpoint_ms": {
+   "p50": -259.1,
+   "p95": -129.5,
+   "p99": -121.0,
+   "mean": -241.7,
+   "std": 56.6,
+   "n": 16
+  },
+  "endpoint_wait_ms": {
+   "p50": 416.0,
+   "p95": 416.0,
+   "p99": 416.1,
+   "mean": 416.0,
+   "std": 0.0,
+   "n": 16
+  },
+  "ttft_ms": {
+   "p50": 359.9,
+   "p95": 392.1,
+   "p99": 413.0,
+   "mean": 356.2,
+   "std": 26.7,
+   "n": 12
+  },
+  "first_chunk_ms": {
+   "p50": 750.8,
+   "p95": 1289.2,
+   "p99": 1303.0,
+   "mean": 804.7,
+   "std": 341.1,
+   "n": 12
+  },
+  "tts_first_ms": {
+   "p50": 569.0,
+   "p95": 1108.1,
+   "p99": 1117.5,
+   "mean": 655.4,
+   "std": 315.1,
+   "n": 12
+  },
+  "llm_total_ms": {
+   "p50": 3452.2,
+   "p95": 4026.2,
+   "p99": 4049.0,
+   "mean": 3243.7,
+   "std": 690.3,
+   "n": 12
+  },
+  "turn_total_ms": {
+   "p50": 8994.0,
+   "p95": 11201.0,
+   "p99": 11479.7,
+   "mean": 7890.4,
+   "std": 2723.6,
+   "n": 16
+  }
+ },
+ "first_audio_p50_per_session": [
+  1908.2
+ ],
+ "first_audio_p50_mean_std": [
+  1908.2,
+  0.0
+ ],
+ "asr_wer_on_questions": 0.3225806451612903,
+ "speculative_hit_rate": 1.0,
+ "timeouts": 0,
+ "xruns_per_h": [
+  0.0
+ ],
+ "power_w_mean": 3.1506770833333335
+}
+experiments.csv <- {'exp_id': 'CMP-PIOS-O1-quiet', 'os_cfg': 'O1', 'stt_model': 'phowhisper-tiny-encoder-10s_vi_h8l.hef', 'stt_where': 'cpu', 'llm_model': 'qwen3.5-0.8b-vi-voice-Q4_K_M.gguf', 'spec_dec': 'no', 'threads': 3, 'wer': 0.3226, 'ttft_ms': 359.9, 'tok_s': 11.88, 'first_audio_p50': 1908.2, 'first_audio_p95': 3241.3, 'first_audio_p99': 3282.1, 'ram_mb': 2229, 'temp_max': 61.1, 'power_w': 3.15, 'j_per_turn': 24.9, 'xruns_per_h': 0.0, 'notes': 'manifest=e2e_synth;turns=16x1sess;spec_hit=1.00;endpoint_ms=400;stream=True;first_words=5;file-audio'}

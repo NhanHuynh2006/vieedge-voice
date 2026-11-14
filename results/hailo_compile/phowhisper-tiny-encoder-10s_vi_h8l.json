@@ -1,0 +1,26 @@
+{
+ "onnx": "hailo_compile/work/onnx/phowhisper-tiny-encoder-10s.onnx",
+ "variant": "tiny",
+ "arch": "hailo8l",
+ "calib": "hailo_compile/work/calib/vi_10s.npy",
+ "calib_shape": [
+  1024,
+  1,
+  1000,
+  80
+ ],
+ "window_s": 10.0,
+ "optimize_s": 384,
+ "cosine_fp_optimized": {
+  "mean": 1.0,
+  "min": 0.9999998211860657
+ },
+ "cosine_quantized": {
+  "mean": 0.8419754505157471,
+  "min": 0.7889325618743896,
+  "p05": 0.8111284524202347
+ },
+ "compile_s": 76,
+ "hef": "/home/nhanhuynh/Documents/robotassitance/vieedge-voice/hailo_compile/work/hef/phowhisper-tiny-encoder-10s_vi_h8l/phowhisper-tiny-encoder-10s_vi_h8l.hef",
+ "hef_mb": 19.3
+}

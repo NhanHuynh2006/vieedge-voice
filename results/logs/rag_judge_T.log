@@ -1,0 +1,5 @@
+answers_RAGCLEANT_qwen3.5-0.8b-vi-voice-Q4_K_M.jsonl {'correct': 3.319, 'concise': 3.13, 'listen': 3.754} halluc=0.1246376811594203
+experiments.csv <- {'exp_id': 'RAGCLEANT', 'os_cfg': 'laptop', 'llm_model': 'qwen3.5-0.8b-vi-voice-Q4_K_M.gguf', 'lora': 'yes', 'answer_score': 3.401, 'notes': 'judge=teacher;correct=3.319;concise=3.13;listen=3.754;halluc_rate=0.125;unknown_q_correct=4.28125;n=345'}
+answers_RAGZIPT_qwen3.5-0.8b-vi-voice-Q4_K_M.jsonl {'correct': 2.849, 'concise': 2.704, 'listen': 3.304} halluc=0.20869565217391303
+experiments.csv <- {'exp_id': 'RAGZIPT', 'os_cfg': 'laptop', 'llm_model': 'qwen3.5-0.8b-vi-voice-Q4_K_M.gguf', 'lora': 'yes', 'answer_score': 2.952, 'notes': 'judge=teacher;correct=2.849;concise=2.704;listen=3.304;halluc_rate=0.209;unknown_q_correct=3.75;n=345'}
+JUDGE-DONE

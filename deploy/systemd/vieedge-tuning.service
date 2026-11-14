@@ -1,0 +1,14 @@
+[Unit]
+Description=VieEdge OS tuning (governor, IRQ affinity, RT throttling) for the O-ladder
+DefaultDependencies=no
+After=sysinit.target local-fs.target
+Before=vieedge.service
+
+[Service]
+Type=oneshot
+RemainAfterExit=yes
+EnvironmentFile=-/etc/vieedge/env
+ExecStart=/usr/bin/vieedge-tune apply
+
+[Install]
+WantedBy=multi-user.target

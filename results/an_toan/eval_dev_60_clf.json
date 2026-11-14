@@ -1,0 +1,28 @@
+{
+ "tag": "dev_60_clf",
+ "classifier": true,
+ "by_classifier": 0,
+ "cards": 60,
+ "version": "2026-11-05",
+ "n": 603,
+ "match_ms_per_question": 0.276,
+ "by_kind": {
+  "trong": {
+   "n": 206,
+   "dung": 206
+  },
+  "ngoai": {
+   "n": 12,
+   "dung": 12
+  },
+  "am": {
+   "n": 40,
+   "dung": 40
+  },
+  "qa": {
+   "n": 345,
+   "dung": 345
+  }
+ },
+ "errors": []
+}

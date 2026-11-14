@@ -1,0 +1,277 @@
+{
+ "n": 24,
+ "correct": 20,
+ "safety_first_audio_ms": {
+  "n": 22,
+  "p50": 1457.263158,
+  "p95": 1760.288851,
+  "max": 1875.535697
+ },
+ "stt_ms_p50": 1338.3433894999998,
+ "rows": [
+  {
+   "wav": "q004.wav",
+   "q_ref": "Bị dao cắt sâu máu chảy nhiều",
+   "heard": "Bị do cắt sâu máu chảy nhiều thành phần",
+   "want": [
+    "chay_mau"
+   ],
+   "got": "chay_mau",
+   "first_audio_ms": 1760.288851,
+   "stt_ms": 1577.50862
+  },
+  {
+   "wav": "q009.wav",
+   "q_ref": "Bạn tôi đứng lâu bị ngất",
+   "heard": "Bạn tội đứng lâu bị ngất",
+   "want": [
+    "ngat_xiu"
+   ],
+   "got": "ngat_xiu",
+   "first_audio_ms": 1740.325544,
+   "stt_ms": 1582.880621
+  },
+  {
+   "wav": "q011.wav",
+   "q_ref": "Người lớn sốt cao li bì",
+   "heard": "Người lớn sốt cao li bì trên cao",
+   "want": [
+    "sot_cao"
+   ],
+   "got": "sot_cao",
+   "first_audio_ms": 1207.09562,
+   "stt_ms": 1054.144235
+  },
+  {
+   "wav": "q013.wav",
+   "q_ref": "Ăn nấm hái trong rừng bị nôn",
+   "heard": "Ăn nấm hái trong rừng bị nồng ấm",
+   "want": [
+    "ngo_doc_nam"
+   ],
+   "got": "ngo_doc_nam",
+   "first_audio_ms": 1271.066467,
+   "stt_ms": 1143.787697
+  },
+  {
+   "wav": "q028.wav",
+   "q_ref": "Nhà đang rung lắc mạnh, có động đất",
+   "heard": "Nhà đằng rung lắc mạnh có động đất",
+   "want": [
+    "dong_dat"
+   ],
+   "got": "dong_dat",
+   "first_audio_ms": 1403.947312,
+   "stt_ms": 1272.74762
+  },
+  {
+   "wav": "q031.wav",
+   "q_ref": "Bị vôi bột dính vào người bỏng rát",
+   "heard": "Bê vôi bột dính vào người bỏng rát trong phòng",
+   "want": [
+    "bong_hoa_chat"
+   ],
+   "got": "bong_hoa_chat",
+   "first_audio_ms": 1457.263158,
+   "stt_ms": 1326.525543
+  },
+  {
+   "wav": "q046.wav",
+   "q_ref": "Đốt than sưởi trong phòng kín bị đau đầu buồn nôn",
+   "heard": "Đốt than sưởi trong phòng kín bị đau đầu buồn nôn quá",
+   "want": [
+    "ngo_doc_khi_co"
+   ],
+   "got": "ngo_doc_khi_co",
+   "first_audio_ms": 1875.535697,
+   "stt_ms": 1765.145467
+  },
+  {
+   "wav": "q050.wav",
+   "q_ref": "Bị bọ cạp đốt vào tay",
+   "heard": "Bị bọ cạp đốt vào tay",
+   "want": [
+    "bo_cap"
+   ],
+   "got": "bo_cap",
+   "first_audio_ms": 1218.992621,
+   "stt_ms": 1128.860621
+  },
+  {
+   "wav": "q052.wav",
+   "q_ref": "Em bé sơ sinh ngừng thở",
+   "heard": "Một em bé sơ sinh ngừng thở",
+   "want": [
+    "hoi_suc_so_sinh"
+   ],
+   "got": "hoi_suc_so_sinh",
+   "first_audio_ms": 1326.056697,
+   "stt_ms": 1224.791389
+  },
+  {
+   "wav": "q058.wav",
+   "q_ref": "Bị bò cạp đốt sưng đau",
+   "heard": "Bị bò cạp đốt sưng đau khổ",
+   "want": [
+    "bo_cap"
+   ],
+   "got": "bo_cap",
+   "first_audio_ms": 1390.671774,
+   "stt_ms": 1294.894466
+  },
+  {
+   "wav": "q060.wav",
+   "q_ref": "Bị đứt rời một đốt ngón tay phải giữ thế nào",
+   "heard": "Bị đứt rời một đốt ngón tay phải giữ thế nào",
+   "want": [
+    "dut_chi"
+   ],
+   "got": "dut_chi",
+   "first_audio_ms": 1520.851158,
+   "stt_ms": 1413.573543
+  },
+  {
+   "wav": "q063.wav",
+   "q_ref": "Bị suyễn khó thở quá",
+   "heard": "Vì diễn khó thở quá",
+   "want": [
+    "hen_suyen"
+   ],
+   "got": "du_phong",
+   "first_audio_ms": 1212.220698,
+   "stt_ms": 1106.425313
+  },
+  {
+   "wav": "q066.wav",
+   "q_ref": "Bỏng hóa chất phải làm sao",
+   "heard": "Bằng hóa chất phải làm sao",
+   "want": [
+    "bong_hoa_chat"
+   ],
+   "got": "khong",
+   "first_audio_ms": 21395.97793,
+   "stt_ms": 1330.836005
+  },
+  {
+   "wav": "q069.wav",
+   "q_ref": "Cả nhà ăn nấm lạ, sợ nấm độc",
+   "heard": "Cả nhà ăn nấm lạ sợ nấm độc",
+   "want": [
+    "ngo_doc_nam"
+   ],
+   "got": "ngo_doc_nam",
+   "first_audio_ms": 1437.439313,
+   "stt_ms": 1345.850774
+  },
+  {
+   "wav": "q072.wav",
+   "q_ref": "Nghi ngộ độc thực phẩm phải làm sao",
+   "heard": "Nghi ngộ độc thực phẩm phải làm sao",
+   "want": [
+    "ngo_doc_thuc_pham"
+   ],
+   "got": "ngo_doc_thuc_pham",
+   "first_audio_ms": 1473.823774,
+   "stt_ms": 1371.064082
+  },
+  {
+   "wav": "q075.wav",
+   "q_ref": "Đang ở ngoài đồng thì có sấm sét",
+   "heard": "Đang ở ngoài đồng thì có sấm sét",
+   "want": [
+    "giong_set"
+   ],
+   "got": "giong_set",
+   "first_audio_ms": 1452.582466,
+   "stt_ms": 1357.758389
+  },
+  {
+   "wav": "q089.wav",
+   "q_ref": "Ngã xong khớp gối sưng đau, chắc bị bong gân",
+   "heard": "Ngã xong khớp cối sưng đau chắc bị bong gân",
+   "want": [
+    "bong_gan"
+   ],
+   "got": "bong_gan",
+   "first_audio_ms": 1601.573543,
+   "stt_ms": 1492.097851
+  },
+  {
+   "wav": "q090.wav",
+   "q_ref": "Lên cơn hen suyễn mà không có thuốc thì sao",
+   "heard": "Lấy cơn hen suyễn mà không có thuốc thì xào cũng không",
+   "want": [
+    "hen_suyen"
+   ],
+   "got": "hen_suyen",
+   "first_audio_ms": 1488.601236,
+   "stt_ms": 1377.837236
+  },
+  {
+   "wav": "q144.wav",
+   "q_ref": "Người bị tiểu đường lả đi, nói lắp bắp, nghi hạ đường",
+   "heard": "Người bị tiểu đường là bị nói lắp bắp nghi hạ đường thì",
+   "want": [
+    "ha_duong_huyet"
+   ],
+   "got": "ha_duong_huyet",
+   "first_audio_ms": 1669.391313,
+   "stt_ms": 1561.43962
+  },
+  {
+   "wav": "q147.wav",
+   "q_ref": "Bị chảy máu mũi thì xử lý thế nào",
+   "heard": "Bị chảy máu mũi thì xử lý thế nào",
+   "want": [
+    "chay_mau_cam"
+   ],
+   "got": "chay_mau_cam",
+   "first_audio_ms": 1642.633159,
+   "stt_ms": 1549.508313
+  },
+  {
+   "wav": "q152.wav",
+   "q_ref": "Bị axit bắn vào tay",
+   "heard": "Bị rc bắn vào tay tôi",
+   "want": [
+    "bong_hoa_chat"
+   ],
+   "got": "khong",
+   "first_audio_ms": 24301.376314,
+   "stt_ms": 1210.122851
+  },
+  {
+   "wav": "q157.wav",
+   "q_ref": "Chảy máu cam có nên ngửa đầu ra sau không",
+   "heard": "Chảy máu chảy máu càng có nên ngửa đầu ra sau không kịp",
+   "want": [
+    "chay_mau_cam"
+   ],
+   "got": "chay_mau",
+   "first_audio_ms": 1619.314159,
+   "stt_ms": 1528.234775
+  },
+  {
+   "wav": "q160.wav",
+   "q_ref": "Bé hai tháng tuổi tím tái không thở",
+   "heard": "Bé hai tháng tuổi tím tái không thở",
+   "want": [
+    "hoi_suc_so_sinh"
+   ],
+   "got": "hoi_suc_so_sinh",
+   "first_audio_ms": 1402.216005,
+   "stt_ms": 1292.822544
+  },
+  {
+   "wav": "q167.wav",
+   "q_ref": "Máy cắt đứt lìa ngón tay rồi",
+   "heard": "Máy cắt đứt lìa ngón tay rồi chúng tôi",
+   "want": [
+    "dut_chi"
+   ],
+   "got": "dut_chi",
+   "first_audio_ms": 1415.008851,
+   "stt_ms": 1317.302466
+  }
+ ]
+}

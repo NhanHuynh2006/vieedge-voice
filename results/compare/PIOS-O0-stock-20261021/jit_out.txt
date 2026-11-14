@@ -1,0 +1,5 @@
+kernel=6.12.93+rpt-rpi-2712 governor=ondemand temp=44650
+idle: samples=300000 max_us=00114 p99=4 p99.99=13 p99.999=27
+stress: samples=300000 max_us=00013 p99=3 p99.99=10 p99.999=12
+temp_after=50150
+JIT_DONE

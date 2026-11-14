@@ -1,0 +1,2474 @@
+{"q":"Có người ngã ra bất tỉnh, không thấy thở nữa, phải làm gì?","got":"hoi_suc_tim_phoi","key":"không thấy thở"}
+{"q":"Ép tim cho người bị ngừng tim như thế nào?","got":"hoi_suc_tim_phoi","key":"ngừng tim"}
+{"q":"Ông tôi tự nhiên gục xuống và không còn thở, giúp tôi với","got":"hoi_suc_tim_phoi","key":"không còn thở"}
+{"q":"Thằng bé vừa bị đuối nước được vớt lên, giờ làm sao?","got":"duoi_nuoc","key":"đuối nước"}
+{"q":"Thấy người đang chết đuối ở sông thì cứu thế nào cho an toàn?","got":"duoi_nuoc","key":"chết đuối"}
+{"q":"Có nên dốc ngược người bị ngạt nước để xốc nước ra không?","got":"duoi_nuoc","key":"ngạt nước"}
+{"q":"Bạn tôi bị hóc xương cá không thở được","got":"hoc_di_vat","key":"hóc xương cá"}
+{"q":"Người lớn bị mắc nghẹn thức ăn thì xử lý ra sao?","got":"hoc_di_vat","key":"nghẹn thức ăn"}
+{"q":"Con tôi năm tuổi bị hóc kẹo, làm sao bây giờ?","got":"hoc_di_vat","key":"hóc kẹo"}
+{"q":"Em bé ba tháng bị sặc sữa tím tái phải làm gì?","got":"hoc_tre_so_sinh","key":"sặc sữa"}
+{"q":"Trẻ sơ sinh bị hóc thì sơ cứu thế nào?","got":"hoc_tre_so_sinh","key":"trẻ sơ sinh bị hóc"}
+{"q":"Bé nhà tôi mới sáu tháng bị nghẹn không khóc được","got":"hoc_tre_so_sinh","key":"nghẹn+tháng"}
+{"q":"Bị đứt tay chảy máu nhiều quá phải làm sao?","got":"chay_mau","key":"chảy máu"}
+{"q":"Cách cầm máu vết thương sâu ở chân","got":"chay_mau","key":"vết thương sâu"}
+{"q":"Anh ấy bị dao chém chảy máu không ngừng, cứu với","got":"chay_mau","key":"chảy máu"}
+{"q":"Bị thanh sắt đâm xuyên vào chân có nên rút ra không?","got":"vat_dam","key":"thanh sắt đâm"}
+{"q":"Mảnh kính đâm vào tay sâu quá thì làm gì?","got":"vat_dam","key":"mảnh kính đâm"}
+{"q":"Có cây que cắm vào bụng người bị nạn, xử lý sao?","got":"vat_dam","key":"cắm vào bụng"}
+{"q":"Bị bỏng nước sôi thì làm gì đầu tiên?","got":"bong","key":"bỏng nước sôi"}
+{"q":"Con tôi bị dầu nóng bắn vào tay, có bôi kem đánh răng được không?","got":"bong","key":"dầu nóng bắn"}
+{"q":"Vết bỏng bị phồng rộp phải xử lý thế nào?","got":"bong","key":"phồng rộp"}
+{"q":"Quần áo bắt lửa thì phải làm gì?","got":"chay_quan_ao","key":"quần áo bắt lửa"}
+{"q":"Áo của tôi đang cháy, cứu với","got":"chay_quan_ao","key":"áo của tôi đang cháy"}
+{"q":"Thấy người bị lửa bắt vào người thì dập thế nào?","got":"chay_quan_ao","key":"lửa bắt vào người"}
+{"q":"Có người bị điện giật đang dính vào dây, phải làm sao?","got":"dien_giat","key":"điện giật"}
+{"q":"Sơ cứu người bị giật điện như thế nào?","got":"dien_giat","key":"bị giật điện"}
+{"q":"Thằng em chạm phải ổ điện bị giật ngất đi","got":"dien_giat","key":"chạm phải ổ điện"}
+{"q":"Nghi bị gãy chân sau khi té xe thì làm gì?","got":"gay_xuong","key":"gãy chân"}
+{"q":"Cách cố định xương bị gãy khi đi rừng","got":"gay_xuong","key":"cố định xương"}
+{"q":"Tay bị gãy xương lòi ra ngoài phải xử lý sao?","got":"gay_xuong","key":"xương lòi ra"}
+{"q":"Người bị té đập đầu xuống đất nôn nhiều lần thì sao?","got":"chan_thuong_dau","key":"té đập đầu"}
+{"q":"Ngã từ trên cao xuống nghi chấn thương cột sống có nên di chuyển không?","got":"chan_thuong_dau","key":"chấn thương cột sống"}
+{"q":"Bị va đầu mạnh lơ mơ buồn ngủ có nguy hiểm không?","got":"chan_thuong_dau","key":"va đầu"}
+{"q":"Bị rắn cắn ở chân phải làm gì?","got":"ran_can","key":"bị rắn cắn"}
+{"q":"Có nên hút nọc độc khi bị rắn độc cắn không?","got":"ran_can","key":"rắn độc cắn"}
+{"q":"Ba tôi đi rẫy bị rắn lục cắn, giờ sao đây?","got":"ran_can","key":"rắn lục cắn"}
+{"q":"Bị ong đốt sưng to phải xử lý thế nào?","got":"ong_dot","key":"bị ong đốt"}
+{"q":"Bé bị ong vò vẽ đốt ở tay thì làm gì?","got":"ong_dot","key":"ong vò vẽ"}
+{"q":"Làm sao lấy ngòi ong ra?","got":"ong_dot","key":"ngòi ong"}
+{"q":"Bị chó cắn thì phải làm gì?","got":"cho_meo_can","key":"chó cắn"}
+{"q":"Mèo cào chảy máu có cần tiêm phòng dại không?","got":"cho_meo_can","key":"tiêm phòng dại"}
+{"q":"Con tôi bị chó hàng xóm cắn vào chân","got":"cho_meo_can","key":"bị chó"}
+{"q":"Làm việc ngoài nắng bị choáng, da nóng đỏ, phải làm sao?","got":"soc_nhiet","key":"ngoài nắng bị choáng"}
+{"q":"Người bị say nắng thì xử lý thế nào?","got":"soc_nhiet","key":"say nắng"}
+{"q":"Dấu hiệu sốc nhiệt và cách sơ cứu","got":"soc_nhiet","key":"sốc nhiệt"}
+{"q":"Trời nắng nóng gay gắt cần làm gì để giữ an toàn?","got":"nang_nong","key":"nắng nóng"}
+{"q":"Đợt nắng nóng sắp tới nên chuẩn bị gì cho người già?","got":"nang_nong","key":"đợt nắng nóng"}
+{"q":"Cách chống nóng khi nhiệt độ cao","got":"nang_nong","key":"nhiệt độ cao"}
+{"q":"Ngâm nước lũ lâu bị lạnh run cầm cập phải làm sao?","got":"ha_than_nhiet","key":"ngâm nước lũ lâu"}
+{"q":"Người bị hạ thân nhiệt thì làm ấm thế nào?","got":"ha_than_nhiet","key":"hạ thân nhiệt"}
+{"q":"Rét đậm rét hại người già bị lạnh cóng lú lẫn","got":"ha_than_nhiet","key":"bị lạnh cóng"}
+{"q":"Có người lên cơn co giật sùi bọt mép phải làm gì?","got":"co_giat","key":"lên cơn co giật"}
+{"q":"Trẻ bị co giật do sốt thì xử lý thế nào?","got":"co_giat","key":"co giật do sốt"}
+{"q":"Có nên nhét đũa vào miệng người đang động kinh không?","got":"co_giat","key":"động kinh"}
+{"q":"Mẹ tôi tự nhiên méo miệng nói ngọng, có phải đột quỵ không?","got":"dot_quy","key":"méo miệng"}
+{"q":"Dấu hiệu tai biến mạch máu não và phải làm gì?","got":"dot_quy","key":"tai biến mạch máu não"}
+{"q":"Ông tôi bị yếu nửa người đột ngột","got":"dot_quy","key":"yếu nửa người"}
+{"q":"Bố tôi đau ngực dữ dội, vã mồ hôi, phải làm sao?","got":"dau_nguc","key":"đau ngực"}
+{"q":"Nghi bị nhồi máu cơ tim thì xử trí thế nào?","got":"dau_nguc","key":"nhồi máu cơ tim"}
+{"q":"Đau thắt ngực đột ngột có nên chờ xem đỡ không?","got":"dau_nguc","key":"đau thắt ngực"}
+{"q":"Ăn hải sản xong bị sưng môi khó thở phải làm gì?","got":"soc_phan_ve","key":"sưng môi khó thở"}
+{"q":"Dấu hiệu sốc phản vệ và cách xử trí","got":"soc_phan_ve","key":"sốc phản vệ"}
+{"q":"Bị dị ứng nặng sau khi uống thuốc","got":"soc_phan_ve","key":"dị ứng nặng"}
+{"q":"Có người bị ngất xỉu giữa đường thì làm gì?","got":"ngat_xiu","key":"ngất xỉu"}
+{"q":"Bạn tôi đứng lâu bị ngất đi","got":"ngat_xiu","key":"bị ngất"}
+{"q":"Sơ cứu người bị bất tỉnh vẫn còn thở","got":"ngat_xiu","key":"bất tỉnh"}
+{"q":"Bị tiêu chảy nhiều lần sau lũ phải làm sao?","got":"mat_nuoc","key":"tiêu chảy"}
+{"q":"Pha oresol thế nào cho đúng?","got":"mat_nuoc","key":"oresol"}
+{"q":"Con bị đi ngoài liên tục sợ mất nước","got":"mat_nuoc","key":"đi ngoài liên tục"}
+{"q":"Con tôi uống nhầm thuốc trừ sâu, cứu với","got":"ngo_doc_hoa_chat","key":"thuốc trừ sâu"}
+{"q":"Hóa chất bắn vào mắt thì làm gì?","got":"mat","key":"bắn vào mắt"}
+{"q":"Có nên móc họng cho nôn khi uống nhầm hóa chất?","got":"ngo_doc_hoa_chat","key":"móc họng cho nôn"}
+{"q":"Cả nhà chạy máy phát điện trong nhà bị đau đầu chóng mặt","got":"ngo_doc_khi_co","key":"chạy máy phát điện trong nhà"}
+{"q":"Đốt than sưởi trong phòng kín có nguy hiểm không?","got":"ngo_doc_khi_co","key":"than sưởi"}
+{"q":"Dấu hiệu ngộ độc khí than và cách xử lý","got":"ngo_doc_khi_co","key":"ngộ độc khí"}
+{"q":"Bão sắp đến thì nhà mình cần chuẩn bị gì?","got":"truoc_bao","key":"bão sắp đến"}
+{"q":"Cách chằng chống nhà cửa trước bão","got":"truoc_bao","key":"chằng chống nhà"}
+{"q":"Có tin bão sắp đổ bộ, cần dự trữ những gì?","got":"truoc_bao","key":"bão sắp đổ bộ"}
+{"q":"Bão đang đổ bộ có nên ra ngoài kiểm tra không?","got":"trong_bao","key":"bão đang đổ bộ"}
+{"q":"Đang có bão to thì trú ở đâu cho an toàn?","got":"trong_bao","key":"đang có bão"}
+{"q":"Trong lúc bão gió mạnh nên làm gì?","got":"trong_bao","key":"trong lúc bão"}
+{"q":"Sau bão về nhà cần chú ý những gì?","got":"sau_bao","key":"sau bão"}
+{"q":"Nước rút rồi dọn dẹp nhà thế nào cho an toàn?","got":"sau_bao","key":"dọn dẹp nhà"}
+{"q":"Bão qua rồi có dây điện đứt trước nhà","got":"an_toan_dien_ngap","key":"dây điện đứt"}
+{"q":"Nước đang dâng vào nhà phải làm gì?","got":"ngap_lut","key":"nước đang dâng"}
+{"q":"Có nên đi xe máy qua đoạn đường ngập nước chảy xiết không?","got":"lu_xe","key":"xe+ngập"}
+{"q":"Lũ lên nhanh quá cả nhà phải làm sao?","got":"ngap_lut","key":"lũ lên nhanh"}
+{"q":"Dấu hiệu sắp có lũ quét là gì để chạy kịp?","got":"lu_quet","key":"lũ quét"}
+{"q":"Nước suối tự nhiên đục ngầu và dâng lên, có nguy hiểm không?","got":"lu_quet","key":"đục ngầu"}
+{"q":"Gặp lũ quét khi đang ở gần suối thì chạy đi đâu?","got":"lu_quet","key":"lũ quét"}
+{"q":"Thấy tường nhà nứt và đồi phía sau có tiếng động lạ","got":"sat_lo","key":"tường nhà nứt"}
+{"q":"Cách nhận biết sắp sạt lở đất","got":"sat_lo","key":"sạt lở đất"}
+{"q":"Có nên đi qua đoạn đường vừa bị sạt lở không?","got":"sat_lo","key":"sạt lở"}
+{"q":"Đang ở ngoài đồng mà có sấm sét thì làm sao?","got":"giong_set","key":"sấm sét"}
+{"q":"Trú mưa giông dưới gốc cây có an toàn không?","got":"giong_set","key":"mưa giông"}
+{"q":"Cách tránh sét đánh khi đi rừng","got":"giong_set","key":"tránh sét"}
+{"q":"Chính quyền yêu cầu sơ tán, mình cần mang theo những gì?","got":"so_tan","key":"sơ tán"}
+{"q":"Khi đi sơ tán cần lưu ý gì?","got":"so_tan","key":"đi sơ tán"}
+{"q":"Phải rời nhà gấp vì lũ thì làm gì trước khi đi?","got":"so_tan","key":"phải rời nhà"}
+{"q":"Túi đồ khẩn cấp cần có những gì?","got":"do_dung_khan_cap","key":"túi đồ khẩn cấp"}
+{"q":"Mùa mưa bão nên dự trữ gì trong nhà?","got":"do_dung_khan_cap","key":"nên dự trữ"}
+{"q":"Cần chuẩn bị gì cho bộ sơ cứu gia đình?","got":"do_dung_khan_cap","key":"cần chuẩn bị gì"}
+{"q":"Nước giếng bị ngập lũ có uống được không?","got":"nuoc_sach","key":"nước giếng"}
+{"q":"Cách lọc nước đục thành nước sạch sau lũ","got":"nuoc_sach","key":"nước sạch"}
+{"q":"Dùng cloramin B khử trùng nước thế nào?","got":"nuoc_sach","key":"khử trùng nước"}
+{"q":"Mất điện mấy ngày thì thức ăn trong tủ lạnh còn ăn được không?","got":"thuc_pham_sau_lu","key":"thức ăn"}
+{"q":"Đồ ăn bị ngấm nước lũ có nên giữ lại không?","got":"thuc_pham_sau_lu","key":"đồ ăn"}
+{"q":"Sau lũ ăn gì cho an toàn?","got":"thuc_pham_sau_lu","key":"ăn gì"}
+{"q":"Sau lũ phòng bệnh thế nào cho cả nhà?","got":"phong_benh_sau_lu","key":"phòng bệnh"}
+{"q":"Lội nước lũ bị ngứa chân nước ăn chân phải làm sao?","got":"phong_benh_sau_lu","key":"nước ăn chân"}
+{"q":"Phòng dịch bệnh sau mưa lũ cần làm gì?","got":"phong_benh_sau_lu","key":"phòng dịch"}
+{"q":"Nhà bị ngập có nên ngắt điện không?","got":"an_toan_dien_ngap","key":"ngắt điện"}
+{"q":"Thấy cột điện đổ xuống nước ngập thì làm gì?","got":"an_toan_dien_ngap","key":"cột điện đổ"}
+{"q":"An toàn điện khi nhà bị ngập lụt","got":"an_toan_dien_ngap","key":"an toàn điện"}
+{"q":"Mất điện kéo dài cả tuần thì nên làm gì?","got":"mat_dien","key":"mất điện"}
+{"q":"Dùng máy phát điện thế nào cho an toàn?","got":"mat_dien","key":"dùng máy phát điện"}
+{"q":"Bị cúp điện sau bão cần lưu ý gì?","got":"mat_dien","key":"cúp điện"}
+{"q":"Nhà bị cháy thì thoát ra thế nào?","got":"chay_nha","key":"nhà bị cháy"}
+{"q":"Khói dày đặc trong nhà phải làm sao?","got":"chay_nha","key":"khói dày đặc"}
+{"q":"Chung cư đang có đám cháy, cứu với","got":"chay_nha","key":"đám cháy"}
+{"q":"Số điện thoại cấp cứu ở Việt Nam là số nào?","got":"so_khan_cap","key":"số điện thoại cấp cứu"}
+{"q":"Khi gặp thiên tai thì gọi số nào để được cứu hộ?","got":"so_khan_cap","key":"gọi số nào"}
+{"q":"Tổng đài 112 dùng để làm gì?","got":"so_khan_cap","key":"tổng đài 112"}
+{"q":"Nhà tôi bị cô lập vì lũ, làm sao để được cứu?","got":"mac_ket_cau_cuu","key":"bị cô lập"}
+{"q":"Bị mắc kẹt trên mái nhà giữa dòng lũ","got":"mac_ket_cau_cuu","key":"kẹt trên mái"}
+{"q":"Xe ô tô bị nước cuốn thì phải làm gì?","got":"mac_ket_cau_cuu","key":"bị nước cuốn"}
+{"q":"Bị sứa đốt khi tắm biển phải làm gì?","got":"sua_dot","key":"sứa đốt"}
+{"q":"Đau răng quá phải làm sao?","got":"du_phong","key":""}
+{"q":"Con tôi bị sốt cao 39 độ nên uống thuốc gì?","got":"sot_cao","key":"sốt cao"}
+{"q":"Đau bụng dữ dội bên phải phải làm sao?","got":"du_phong","key":""}
+{"q":"Bị bong gân cổ chân khi chơi bóng thì xử lý thế nào?","got":"bong_gan","key":"bong gân"}
+{"q":"Say xe nôn nhiều phải làm sao?","got":"du_phong","key":""}
+{"q":"Uống rượu say rồi ngủ li bì gọi không dậy","got":"du_phong","key":""}
+{"q":"Bị gai đâm vào chân sưng mủ phải làm gì?","got":"du_phong","key":""}
+{"q":"Đau đầu dữ dội kéo dài mấy ngày nên làm gì?","got":"du_phong","key":""}
+{"q":"Bị động đất thì nên trốn ở đâu?","got":"dong_dat","key":"động đất"}
+{"q":"Có sóng thần thì phải làm sao?","got":"song_than","key":"sóng thần"}
+{"q":"Bà tôi bị tiểu đường hạ đường huyết run tay phải làm sao?","got":"ha_duong_huyet","key":"hạ đường huyết"}
+{"q":"Bị cảm lạnh sổ mũi uống thuốc gì?","got":"du_phong","key":""}
+{"q":"Người bị lên cơn hen suyễn khó thở phải làm gì?","got":"hen_suyen","key":"lên cơn hen"}
+{"q":"Bị trật khớp vai phải làm sao?","got":"bong_gan","key":"trật khớp"}
+{"q":"Con tôi bị nôn ra máu phải làm gì?","got":"du_phong","key":""}
+{"q":"Bị kiến ba khoang đốt bỏng da thì xử lý sao?","got":"du_phong","key":""}
+{"q":"Đi rừng bị lạc đường phải làm sao?","got":"du_phong","key":""}
+{"q":"Bị vắt cắn chảy máu không cầm","got":"chay_mau","key":"chảy máu"}
+{"q":"Thuốc hạ sốt cho trẻ hai tuổi uống bao nhiêu?","got":"sot_cao","key":"hạ sốt"}
+{"q":"Lũ quét hình thành như thế nào?","got":"khong","key":""}
+{"q":"Rắn hổ mang chúa dài tối đa bao nhiêu mét?","got":"khong","key":""}
+{"q":"Tại sao sét thường đánh vào cây cao?","got":"khong","key":""}
+{"q":"Bão số ba năm nay tên là gì?","got":"khong","key":""}
+{"q":"Đột quỵ là gì?","got":"khong","key":""}
+{"q":"Vì sao miền Trung hay bị lũ lụt?","got":"khong","key":""}
+{"q":"Con chó nhà mình tên là Lu","got":"khong","key":""}
+{"q":"Cá mập có cắn người không?","got":"khong","key":""}
+{"q":"Lửa trại cần chuẩn bị củi thế nào?","got":"khong","key":""}
+{"q":"Nhiệt độ sôi của nước là bao nhiêu?","got":"khong","key":""}
+{"q":"Điện năng lượng mặt trời hoạt động thế nào?","got":"khong","key":""}
+{"q":"Bài hát Bão tố là của ai?","got":"khong","key":""}
+{"q":"Ong mật làm tổ như thế nào?","got":"khong","key":""}
+{"q":"Tim người đập bao nhiêu lần một phút?","got":"khong","key":""}
+{"q":"Sạt lở đất xảy ra do nguyên nhân nào?","got":"khong","key":""}
+{"q":"Sông Mekong dài bao nhiêu cây số?","got":"khong","key":""}
+{"q":"Mèo nhà mình rất thích ngủ","got":"khong","key":""}
+{"q":"Hôm nay trời nắng đẹp quá","got":"khong","key":""}
+{"q":"Cách nấu canh chua cá lóc","got":"khong","key":""}
+{"q":"Máy phát điện là ai phát minh ra?","got":"khong","key":""}
+{"q":"Nước biển vì sao lại mặn?","got":"khong","key":""}
+{"q":"Trung Quốc có bao nhiêu dân?","got":"khong","key":""}
+{"q":"Tập thể dục buổi sáng có lợi gì?","got":"khong","key":""}
+{"q":"Phim cháy nhà ra mặt chuột là gì?","got":"khong","key":""}
+{"q":"Sét hòn là gì?","got":"khong","key":""}
+{"q":"Mẹ tôi tiểu đường đang run tay vã mồ hôi","got":"ha_duong_huyet","key":"tiểu đường+run"}
+{"q":"Tụt đường huyết nên ăn gì cho nhanh","got":"ha_duong_huyet","key":"tụt đường huyết"}
+{"q":"Người đái tháo đường bị choáng sau khi tiêm insulin","got":"ha_duong_huyet","key":"đái tháo đường+choáng"}
+{"q":"Hạ đường máu lơ mơ phải làm sao","got":"ha_duong_huyet","key":"hạ đường máu"}
+{"q":"Máu cam chảy nhiều quá","got":"chay_mau_cam","key":"máu cam"}
+{"q":"Bị chảy máu mũi sau khi ngã","got":"chay_mau_cam","key":"chảy máu mũi"}
+{"q":"Trời hanh khô bé hay chảy máu cam thì xử lý sao","got":"chay_mau_cam","key":"chảy máu cam"}
+{"q":"Máu chảy ra từ mũi không cầm được","got":"chay_mau_cam","key":"máu+mũi"}
+{"q":"Bị lật cổ chân khi xuống cầu thang","got":"bong_gan","key":"lật cổ chân"}
+{"q":"Trẹo tay khi chống xuống đất","got":"bong_gan","key":"trẹo tay"}
+{"q":"Khớp gối sưng to sau khi ngã","got":"bong_gan","key":"khớp+sưng"}
+{"q":"Vai bị trật ra ngoài","got":"bong_gan","key":"trật+vai"}
+{"q":"Cát bay vào mắt cộm quá","got":"mat","key":"bay vào mắt"}
+{"q":"Xi măng văng vào mắt","got":"mat","key":"văng vào mắt"}
+{"q":"Mắt bị đấm sưng tím","got":"mat","key":"mắt+bị đấm"}
+{"q":"Có mảnh thủy tinh găm vào mắt","got":"mat","key":"găm vào mắt"}
+{"q":"Bị máy cưa cắt cụt ngón tay","got":"dut_chi","key":"cụt ngón"}
+{"q":"Ngón chân bị đứt lìa","got":"dut_chi","key":"đứt lìa"}
+{"q":"Đứt rời ngón tay thì bảo quản thế nào","got":"dut_chi","key":"đứt rời"}
+{"q":"Tay bị máy cán đứt hẳn","got":"dut_chi","key":"đứt hẳn"}
+{"q":"Ăn bún xong cả nhà đau bụng","got":"ngo_doc_thuc_pham","key":"ăn+đau bụng"}
+{"q":"Ăn tiệc cưới về bị tiêu chảy","got":"ngo_doc_thuc_pham","key":"ăn+tiêu chảy"}
+{"q":"Trúng thực nôn ói","got":"ngo_doc_thuc_pham","key":"trúng thực"}
+{"q":"Ăn đồ để qua đêm bị buồn nôn","got":"ngo_doc_thuc_pham","key":"ăn+nôn"}
+{"q":"Uống rượu xong bị mờ mắt","got":"ngo_doc_ruou","key":"rượu+mờ mắt"}
+{"q":"Nghi uống phải rượu có cồn công nghiệp","got":"ngo_doc_ruou","key":"cồn công nghiệp"}
+{"q":"Say rượu bất tỉnh khó thở","got":"ngo_doc_ruou","key":"rượu+khó thở"}
+{"q":"Ngộ độc methanol có cứu được không, làm gì","got":"ngo_doc_ruou","key":"ngộ độc methanol"}
+{"q":"Ăn nấm dại bị nôn ói","got":"ngo_doc_nam","key":"nấm dại"}
+{"q":"Hái nấm ngoài vườn ăn bị đau bụng","got":"ngo_doc_nam","key":"hái nấm"}
+{"q":"Nghi ăn phải nấm độc","got":"ngo_doc_nam","key":"nấm độc"}
+{"q":"Ngộ độc nấm rừng phải làm sao","got":"ngo_doc_nam","key":"ngộ độc nấm"}
+{"q":"Bị bọ cạp chích vào chân","got":"bo_cap","key":"bọ cạp chích"}
+{"q":"Bò cạp đốt em bé","got":"bo_cap","key":"bò cạp đốt"}
+{"q":"Bọ cạp đốt có nguy hiểm không, làm gì","got":"bo_cap","key":"bọ cạp đốt"}
+{"q":"Con bị bọ cạp cắn","got":"bo_cap","key":"bọ cạp cắn"}
+{"q":"Người bị tai nạn da tái lạnh vã mồ hôi","got":"soc","key":"tái+vã mồ hôi"}
+{"q":"Nạn nhân choáng do mất máu","got":"soc","key":"choáng do mất máu"}
+{"q":"Sơ cứu sốc chấn thương","got":"soc","key":"sốc chấn thương"}
+{"q":"Bị sốc sau tai nạn xe","got":"soc","key":"sốc sau tai nạn"}
+{"q":"Bé sốt bốn mươi độ","got":"sot_cao","key":"sốt bốn mươi"}
+{"q":"Người lớn sốt cao không hạ","got":"sot_cao","key":"sốt cao"}
+{"q":"Sốt li bì ba ngày","got":"sot_cao","key":"sốt li bì"}
+{"q":"Con sốt nóng có nên ủ ấm không","got":"sot_cao","key":"sốt nóng"}
+{"q":"Bị suyễn khó thở về đêm","got":"hen_suyen","key":"bị suyễn"}
+{"q":"Lên cơn hen mà quên bình xịt","got":"hen_suyen","key":"lên cơn hen"}
+{"q":"Thở khò khè khó thở","got":"hen_suyen","key":"thở khò khè"}
+{"q":"Cách dùng bình xịt hen khi lên cơn","got":"hen_suyen","key":"bình xịt hen"}
+{"q":"Bé bốn tuổi ngừng thở","got":"hoi_suc_tre_em","key":"ngừng thở"}
+{"q":"Trẻ em không thở phải làm gì","got":"hoi_suc_tre_em","key":"trẻ em không thở"}
+{"q":"Ép tim cho trẻ em thế nào","got":"hoi_suc_tre_em","key":"ép tim cho trẻ em"}
+{"q":"Thằng bé bất tỉnh không thở","got":"hoi_suc_tre_em","key":"không thở"}
+{"q":"Trẻ sơ sinh không thở","got":"hoi_suc_so_sinh","key":"sơ sinh không thở"}
+{"q":"Ép tim cho trẻ sơ sinh","got":"hoi_suc_so_sinh","key":"ép tim cho trẻ sơ sinh"}
+{"q":"Bé ba tháng tuổi ngừng thở","got":"hoi_suc_so_sinh","key":"tháng tuổi+ngừng thở"}
+{"q":"Em bé ngừng thở tím tái","got":"hoi_suc_so_sinh","key":"em bé ngừng thở"}
+{"q":"Có động đất phải trốn ở đâu","got":"dong_dat","key":"động đất"}
+{"q":"Nhà rung lắc mạnh phải làm gì","got":"dong_dat","key":"rung lắc mạnh"}
+{"q":"Dư chấn động đất thì làm gì","got":"dong_dat","key":"động đất"}
+{"q":"Đất rung có nên chạy ra ngoài không","got":"dong_dat","key":"đất rung"}
+{"q":"Nước biển rút ra xa bất thường","got":"song_than","key":"nước biển rút"}
+{"q":"Có cảnh báo sóng thần","got":"song_than","key":"sóng thần"}
+{"q":"Bãi biển rung mạnh do động đất","got":"song_than","key":"biển+động đất"}
+{"q":"Nghe biển gầm phải chạy đi đâu","got":"song_than","key":"biển gầm"}
+{"q":"Có nên lội qua dòng nước lũ","got":"lu_xe","key":"lội qua dòng nước"}
+{"q":"Ô tô đi qua đường ngập sâu được không","got":"lu_xe","key":"qua đường ngập"}
+{"q":"Xe máy đi qua ngầm tràn","got":"lu_xe","key":"xe+ngầm"}
+{"q":"Đi bộ qua chỗ ngập nước chảy xiết","got":"lu_xe","key":"đi bộ+ngập"}
+{"q":"Bị bỏng axit","got":"bong_hoa_chat","key":"bỏng axit"}
+{"q":"Vôi dính vào chân bỏng rát","got":"bong_hoa_chat","key":"vôi dính"}
+{"q":"Thuốc tẩy bắn vào tay","got":"bong_hoa_chat","key":"thuốc tẩy+bắn"}
+{"q":"Bỏng xút khi làm xà phòng","got":"bong_hoa_chat","key":"bỏng xút"}
+{"q":"Cung hoàng đạo Bọ Cạp tính cách thế nào","got":"khong","key":""}
+{"q":"Nấm kim châm nấu canh gì","got":"khong","key":""}
+{"q":"Rượu nếp ủ bao lâu","got":"khong","key":""}
+{"q":"Cách trang điểm mắt","got":"khong","key":""}
+{"q":"Sốt mayonnaise làm thế nào","got":"khong","key":""}
+{"q":"Hen suyễn có di truyền không là gì","got":"khong","key":""}
+{"q":"Sóng biển hình thành do đâu","got":"khong","key":""}
+{"q":"Động đất ở Kon Tum năm 2024 mạnh bao nhiêu độ","got":"khong","key":""}
+{"q":"Xe điện sạc bao lâu","got":"khong","key":""}
+{"q":"Tại sao sóng thần lại nguy hiểm","got":"khong","key":""}
+{"q":"Vì sao bị bong gân lâu khỏi","got":"khong","key":""}
+{"q":"Trẻ em mấy tuổi thì đi học","got":"khong","key":""}
+{"q":"Làm sao cho con ăn ngon miệng","got":"khong","key":""}
+{"q":"Mắt kính cận bị mờ phải lau thế nào","got":"khong","key":""}
+{"q":"Lái xe ô tô cần bằng gì","got":"khong","key":""}
+{"q":"Bị sứa châm khi bơi","got":"sua_dot","key":"bị sứa"}
+{"q":"Sứa đốt đỏ rát cả chân","got":"sua_dot","key":"sứa đốt"}
+{"q":"Bé bị sứa biển cắn","got":"sua_dot","key":"sứa biển"}
+{"q":"Sứa đốt có nguy hiểm không, làm gì","got":"sua_dot","key":"sứa đốt"}
+{"q":"Bị nhện góa phụ đen cắn","got":"nhen_can","key":"bị nhện"}
+{"q":"Nhện cắn vào cổ","got":"nhen_can","key":"nhện cắn"}
+{"q":"Bé bị nhện chích sưng","got":"nhen_can","key":"nhện chích"}
+{"q":"Con nhện cắn tôi đau rát","got":"nhen_can","key":"nhện cắn"}
+{"q":"Ve bám vào bụng con","got":"ve_can","key":"ve bám"}
+{"q":"Lấy ve ra khỏi da","got":"ve_can","key":"ve+lấy"}
+{"q":"Bị ve cắn sau khi đi rừng","got":"ve_can","key":"bị ve cắn"}
+{"q":"Con ve bám chặt vào tai chó rồi sang người","got":"ve_can","key":"con ve bám"}
+{"q":"Côn trùng bay vào tai","got":"di_vat_tai","key":"bay vào tai"}
+{"q":"Hạt cườm kẹt trong tai bé","got":"di_vat_tai","key":"kẹt trong tai"}
+{"q":"Con gián chui vào tai","got":"di_vat_tai","key":"chui vào tai"}
+{"q":"Nhét giấy vào tai không lấy ra được","got":"di_vat_tai","key":"tai+nhét"}
+{"q":"Bé nuốt pin điều khiển","got":"nuot_pin","key":"nuốt pin"}
+{"q":"Lỡ nuốt pin cúc áo","got":"nuot_pin","key":"nuốt pin cúc"}
+{"q":"Con ngậm pin rồi nuốt mất","got":"nuot_pin","key":"nuốt+pin"}
+{"q":"Nuốt phải pin có nguy hiểm không","got":"nuot_pin","key":"nuốt phải pin"}
+{"q":"Bị trầy xước đầu gối","got":"vet_thuong_nho","key":"trầy xước"}
+{"q":"Vết cắt nhỏ ở ngón tay","got":"vet_thuong_nho","key":"vết cắt nhỏ"}
+{"q":"Giẫm phải đinh gỉ","got":"vet_thuong_nho","key":"giẫm phải đinh"}
+{"q":"Vết thương sưng đỏ nóng","got":"vet_thuong_nho","key":"vết thương sưng đỏ"}
+{"q":"Bị mẻ răng khi ăn","got":"gay_rang","key":"mẻ răng"}
+{"q":"Răng cửa bị rơi ra","got":"gay_rang","key":"răng+rơi"}
+{"q":"Ngã xe rụng răng","got":"gay_rang","key":"rụng răng"}
+{"q":"Răng bị bật ra khỏi lợi","got":"gay_rang","key":"răng+bật"}
+{"q":"Bị dòng rip kéo","got":"dong_chay_xa_bo","key":"dòng rip"}
+{"q":"Bơi bị nước kéo ra xa bờ","got":"dong_chay_xa_bo","key":"nước kéo ra xa"}
+{"q":"Bị sóng cuốn ra khơi","got":"dong_chay_xa_bo","key":"bị sóng cuốn"}
+{"q":"Tắm biển bị cuốn ra xa bờ","got":"dong_chay_xa_bo","key":"bị cuốn ra xa"}
+{"q":"Gió lốc mạnh đang tới","got":"loc_xoay","key":"gió lốc"}
+{"q":"Thấy vòi rồng ngoài biển","got":"loc_xoay","key":"vòi rồng"}
+{"q":"Cơn lốc thổi tốc mái nhà","got":"loc_xoay","key":"cơn lốc"}
+{"q":"Lốc xoáy tới thì trú ở đâu","got":"loc_xoay","key":"lốc xoáy"}
+{"q":"Thai phụ bị chảy máu","got":"ra_mau_thai","key":"thai phụ+chảy máu"}
+{"q":"Có thai bị ra huyết","got":"ra_mau_thai","key":"có thai+ra huyết"}
+{"q":"Mang bầu ra máu đỏ tươi","got":"ra_mau_thai","key":"mang bầu+ra máu"}
+{"q":"Dọa sảy thai phải làm gì","got":"ra_mau_thai","key":"sảy thai"}
+{"q":"Bạn tôi đòi tự sát","got":"tu_tu","key":"tự sát"}
+{"q":"Có người định nhảy lầu","got":"tu_tu","key":"nhảy lầu"}
+{"q":"Con tôi nói không muốn sống nữa","got":"tu_tu","key":"không muốn sống"}
+{"q":"Phát hiện người thân treo cổ","got":"tu_tu","key":"treo cổ"}
+{"q":"Thấy trẻ bị hành hạ","got":"bao_hanh_tre_em","key":"trẻ+hành hạ"}
+{"q":"Báo bạo hành trẻ em ở đâu","got":"bao_hanh_tre_em","key":"bạo hành trẻ"}
+{"q":"Con hàng xóm bị đánh đập","got":"bao_hanh_tre_em","key":"con+đánh đập"}
+{"q":"Trẻ bị lạm dụng tình dục","got":"bao_hanh_tre_em","key":"trẻ+lạm dụng"}
+{"q":"Mùi gas khắp nhà","got":"ro_ri_gas","key":"mùi gas"}
+{"q":"Bình ga bị xì","got":"ro_ri_gas","key":"bình ga+xì"}
+{"q":"Hở gas có nên bật quạt điện không","got":"ro_ri_gas","key":"hở gas"}
+{"q":"Rò rỉ khí gas phải làm gì","got":"ro_ri_gas","key":"rò rỉ khí gas"}
+{"q":"Thang máy bị kẹt giữa tầng","got":"ket_thang_may","key":"thang máy bị kẹt"}
+{"q":"Mắc kẹt thang máy với con nhỏ","got":"ket_thang_may","key":"mắc kẹt thang máy"}
+{"q":"Thang máy mất điện đột ngột","got":"ket_thang_may","key":"thang máy mất điện"}
+{"q":"Bị kẹt trong thang máy chung cư","got":"ket_thang_may","key":"kẹt trong thang máy"}
+{"q":"Có người xuống hầm biogas bị ngất","got":"khi_doc_ham","key":"hầm+ngất"}
+{"q":"Người dưới giếng bất tỉnh","got":"khi_doc_ham","key":"giếng+bất tỉnh"}
+{"q":"Công nhân xuống cống bị ngạt","got":"khi_doc_ham","key":"cống+ngạt"}
+{"q":"Ngạt khí hầm cầu cứu thế nào","got":"khi_doc_ham","key":"ngạt khí hầm"}
+{"q":"Gặp tai nạn giao thông phải làm gì","got":"so_cuu_chung","key":"tai nạn giao thông"}
+{"q":"Có người bị nạn nằm trên đường","got":"so_cuu_chung","key":"người bị nạn"}
+{"q":"Sơ cứu ban đầu cho nạn nhân","got":"so_cuu_chung","key":"sơ cứu ban đầu"}
+{"q":"Người bị thương sau tai nạn xe","got":"so_cuu_chung","key":"người bị thương"}
+{"q":"Sứa nấu món gì ngon","got":"khong","key":""}
+{"q":"Nhện giăng tơ thế nào là gì","got":"khong","key":""}
+{"q":"Vé máy bay đi Đà Lạt","got":"khong","key":""}
+{"q":"Tai nghe nào tốt","got":"khong","key":""}
+{"q":"Pin dự phòng loại nào tốt","got":"khong","key":""}
+{"q":"Răng sứ giá bao nhiêu","got":"khong","key":""}
+{"q":"Bơi bao lâu thì giảm cân","got":"khong","key":""}
+{"q":"Thai nhi tuần 20 nặng bao nhiêu","got":"khong","key":""}
+{"q":"Ga tàu Hà Nội ở đâu","got":"khong","key":""}
+{"q":"Thang máy chở được bao nhiêu người là bao nhiêu","got":"khong","key":""}
+{"q":"Bể cá cảnh nên nuôi cá gì","got":"khong","key":""}
+{"q":"Tai nạn lao động là gì","got":"khong","key":""}
+{"q":"Mẹ bầu có nên uống sữa","got":"khong","key":""}
+{"q":"Lốc máy ô tô bị nứt","got":"khong","key":""}
+{"q":"Có tai nạn hạt nhân phải trú ở đâu","got":"phong_xa","key":"hạt nhân+tai nạn"}
+{"q":"Bụi phóng xạ đang lan tới","got":"phong_xa","key":"bụi phóng xạ"}
+{"q":"Còi báo động sự cố phóng xạ","got":"phong_xa","key":"sự cố phóng xạ"}
+{"q":"Bom bẩn nổ gần đây","got":"phong_xa","key":"bom bẩn"}
+{"q":"Có tiếng súng trong trường học","got":"tan_cong_vu_khi","key":"tiếng súng"}
+{"q":"Kẻ cầm mã tấu đang chém người","got":"tan_cong_vu_khi","key":"mã tấu+chém"}
+{"q":"Bị tấn công khủng bố ở ga tàu","got":"tan_cong_vu_khi","key":"khủng bố"}
+{"q":"Có người nổ súng trong siêu thị","got":"tan_cong_vu_khi","key":"nổ súng"}
+{"q":"Vợ vỡ ối rồi mà chưa tới viện","got":"sinh_con_khan_cap","key":"vỡ ối"}
+{"q":"Sản phụ chuyển dạ trên xe","got":"sinh_con_khan_cap","key":"chuyển dạ"}
+{"q":"Phải đỡ đẻ giữa đường","got":"sinh_con_khan_cap","key":"đẻ giữa đường"}
+{"q":"Đau đẻ dồn dập em bé sắp ra","got":"sinh_con_khan_cap","key":"em bé sắp ra"}
+{"q":"Ở Nhật gọi cấp cứu số mấy","got":"so_khan_cap_quoc_te","key":"nhật+cấp cứu"}
+{"q":"Đi du lịch Thái Lan cần số khẩn cấp","got":"so_khan_cap_quoc_te","key":"thái lan+khẩn cấp"}
+{"q":"Số 911 là của nước nào, gọi khi nào","got":"so_khan_cap_quoc_te","key":"số 911"}
+{"q":"Ở Úc gọi cứu thương số nào","got":"so_khan_cap_quoc_te","key":"úc+số nào"}
+{"q":"Bị cóng tay khi leo núi","got":"te_cong","key":"cóng tay"}
+{"q":"Chân bị tê buốt vì lạnh, trắng bệch","got":"te_cong","key":"tê buốt vì lạnh"}
+{"q":"Bỏng lạnh do băng phải làm gì","got":"te_cong","key":"bỏng lạnh"}
+{"q":"Ngón tay cứng đờ vì rét","got":"te_cong","key":"cứng đờ+rét"}
+{"q":"Kẹt xe giữa bão tuyết ban đêm","got":"bao_tuyet","key":"bão tuyết"}
+{"q":"Mắc kẹt trong tuyết trên núi","got":"bao_tuyet","key":"mắc kẹt trong tuyết"}
+{"q":"Bão tuyết lớn không đi được","got":"bao_tuyet","key":"bão tuyết"}
+{"q":"Xe chết máy trên đường đầy tuyết","got":"bao_tuyet","key":"đường đầy tuyết"}
+{"q":"Thấy gấu nâu khi leo núi","got":"gap_gau","key":"thấy gấu"}
+{"q":"Gấu xám đuổi theo","got":"gap_gau","key":"gấu xám"}
+{"q":"Bị gấu tấn công trong lều","got":"gap_gau","key":"gấu tấn công"}
+{"q":"Con gấu đứng chắn đường mòn","got":"gap_gau","key":"con gấu"}
+{"q":"Bão bụi ập tới khi đang lái","got":"bao_cat","key":"bão bụi"}
+{"q":"Cát bay mù mịt không thấy đường","got":"bao_cat","key":"cát bay mù mịt"}
+{"q":"Gặp bão cát ở Dubai","got":"bao_cat","key":"bão cát"}
+{"q":"Lốc bụi trên cao tốc phải làm sao","got":"bao_cat","key":"lốc bụi"}
+{"q":"Bị ép giữa biển người","got":"giam_dap","key":"biển người+ép"}
+{"q":"Đám đông xô đẩy ở buổi hòa nhạc","got":"giam_dap","key":"xô đẩy"}
+{"q":"Ngã giữa đám đông bị giẫm lên","got":"giam_dap","key":"ngã giữa đám đông"}
+{"q":"Chen chúc ở lễ hội pháo hoa ngạt thở","got":"giam_dap","key":"chen chúc"}
+{"q":"Phim Người Sắt có hay không","got":"khong","key":""}
+{"q":"Đi Nhật mùa nào đẹp","got":"khong","key":""}
+{"q":"Gấu Bắc Cực sống ở đâu","got":"khong","key":""}
+{"q":"Lễ hội tuyết Sapporo diễn ra khi nào","got":"khong","key":""}
+{"q":"Mua bình xịt hơi cay ở đâu","got":"khong","key":""}
+{"q":"Cát biển Nha Trang có trắng không","got":"khong","key":""}
+{"q":"Dao nhà bếp loại nào tốt","got":"khong","key":""}
+{"q":"Năng lượng hạt nhân có sạch không","got":"khong","key":""}
+{"q":"Tiếng Anh gọi cứu thương là gì","got":"so_khan_cap","key":"gọi+cứu thương"}
+{"q":"Ở Mỹ ăn gì ngon","got":"khong","key":""}
+{"q":"Trời ơi ông nội tôi nằm im không động đậy, kiểm tra thì thấy không thở","got":"hoi_suc_tim_phoi","key":"không thở"}
+{"q":"Hướng dẫn tôi làm hô hấp nhân tạo cho người lớn","got":"hoi_suc_tim_phoi","key":"hô hấp nhân tạo"}
+{"q":"Thằng nhỏ hàng xóm té xuống mương, vớt lên rồi mà mặt tím ngắt","got":"duoi_nuoc","key":"vớt lên"}
+{"q":"Đi tắm sông có đứa bị đuối, tụi mình không biết bơi thì phải làm sao","got":"duoi_nuoc","key":"bị đuối"}
+{"q":"Ông già ăn cơm bị hóc, mặt đỏ lên không nói được gì","got":"hoc_di_vat","key":"bị hóc"}
+{"q":"Làm cách nào để lấy dị vật ra khi người ta bị mắc nghẹn","got":"hoc_di_vat","key":"mắc nghẹn"}
+{"q":"Con gái tôi mới hai tháng bú xong bị sặc sữa ngừng thở","got":"hoc_tre_so_sinh","key":"sặc sữa"}
+{"q":"Bé sơ sinh nuốt phải nắp chai bị nghẹn","got":"hoc_tre_so_sinh","key":"nghẹn+sơ sinh"}
+{"q":"Thái thịt bị dao cứa vào tay máu ra nhiều không dừng","got":"chay_mau","key":"máu+ra"}
+{"q":"Người bị tai nạn xe chảy máu ở đùi nhiều lắm","got":"so_cuu_chung","key":"bị tai nạn"}
+{"q":"Có cái đinh to đâm xuyên qua bàn chân","got":"vat_dam","key":"đâm xuyên"}
+{"q":"Cành cây đâm vào bụng anh ấy, mình có nên rút ra không","got":"vat_dam","key":"có nên rút ra"}
+{"q":"Đứa nhỏ làm đổ nồi canh nóng lên chân bị bỏng","got":"bong","key":"bị bỏng"}
+{"q":"Bỏng do bô xe máy thì xử lý thế nào","got":"bong","key":"bỏng+bô"}
+{"q":"Đang nấu ăn mà lửa bén vào áo","got":"chay_quan_ao","key":"bén+áo"}
+{"q":"Người bị cháy quần áo phải dập lửa ra sao","got":"chay_quan_ao","key":"cháy+áo"}
+{"q":"Ông chú sửa điện bị điện giật bất tỉnh trên thang","got":"dien_giat","key":"điện giật"}
+{"q":"Dây điện rớt xuống người bị giật thì cứu sao cho khỏi bị giật lây","got":"dien_giat","key":"giật+điện"}
+{"q":"Đá bóng bị gãy tay sưng to, giờ làm nẹp kiểu gì","got":"gay_xuong","key":"gãy tay"}
+{"q":"Bà tôi trượt chân nghi gãy xương hông","got":"gay_xuong","key":"gãy xương"}
+{"q":"Đi xe máy té đập đầu, giờ cứ buồn ngủ với nói lung tung","got":"chan_thuong_dau","key":"té đập đầu"}
+{"q":"Thợ hồ ngã từ trên cao xuống, không cử động được chân","got":"chan_thuong_dau","key":"ngã từ trên cao"}
+{"q":"Đi rẫy bị con rắn xanh cắn vào cổ chân","got":"ran_can","key":"rắn+cắn"}
+{"q":"Có nên buộc garô khi bị rắn cắn không","got":"ran_can","key":"bị rắn cắn"}
+{"q":"Bị ong bắp cày đốt mấy phát, mặt bắt đầu sưng","got":"ong_dot","key":"ong bắp cày"}
+{"q":"Cách xử lý khi bị ong chích","got":"ong_dot","key":"ong chích"}
+{"q":"Bị con chó lạ cắn chảy máu ở bắp chân","got":"cho_meo_can","key":"chó+cắn+con"}
+{"q":"Con mèo hoang cắn tay tôi có sao không","got":"cho_meo_can","key":"mèo+cắn+tôi"}
+{"q":"Phơi lúa ngoài trời bị trúng nắng xỉu luôn","got":"soc_nhiet","key":"trúng nắng"}
+{"q":"Sơ cứu say nắng cho người già","got":"soc_nhiet","key":"say nắng"}
+{"q":"Mấy ngày nay nóng bốn mươi độ, làm sao cho đỡ","got":"nang_nong","key":"nóng+độ"}
+{"q":"Nắng nóng kéo dài có cách nào phòng bệnh cho trẻ","got":"nang_nong","key":"nắng nóng"}
+{"q":"Lội nước lũ cả buổi giờ run lập cập môi tím","got":"lu_xe","key":"lội nước lũ"}
+{"q":"Người bị lạnh cóng trên núi thì sưởi ấm như thế nào","got":"ha_than_nhiet","key":"bị lạnh cóng"}
+{"q":"Đứa em tôi tự dưng lên cơn giật, mắt trợn ngược","got":"co_giat","key":"giật+cơn"}
+{"q":"Thấy người động kinh ngoài đường thì giúp thế nào","got":"co_giat","key":"động kinh"}
+{"q":"Ba tôi đang ăn tự nhiên rớt đũa, nói không rõ, miệng lệch qua một bên","got":"dot_quy","key":"lệch+miệng"}
+{"q":"Làm sao biết người nhà bị đột quỵ","got":"dot_quy","key":"đột quỵ"}
+{"q":"Chồng tôi kêu đau tức ngực lan ra tay trái","got":"dau_nguc","key":"đau+ngực"}
+{"q":"Người có bệnh tim bị đau ngực giữa đêm","got":"dau_nguc","key":"đau ngực"}
+{"q":"Ăn tôm xong nổi mẩn khắp người, cổ họng bị nghẹt","got":"soc_phan_ve","key":"mẩn+nghẹt"}
+{"q":"Tiêm thuốc xong bị phản vệ thì xử lý sao","got":"soc_phan_ve","key":"phản vệ"}
+{"q":"Đang xếp hàng có cô gái bị ngất","got":"ngat_xiu","key":"bị ngất"}
+{"q":"Người bị xỉu do đói thì làm gì","got":"ngat_xiu","key":"bị xỉu"}
+{"q":"Ngập nước mấy ngày cả nhà bị tiêu chảy","got":"mat_nuoc","key":"tiêu chảy"}
+{"q":"Trẻ đi tả nhiều lần thì bù nước thế nào","got":"mat_nuoc","key":"bù nước"}
+{"q":"Thằng bé uống nhầm nước tẩy bồn cầu","got":"ngo_doc_hoa_chat","key":"uống nhầm"}
+{"q":"Hít phải khí độc khi xịt thuốc sâu bị chóng mặt","got":"ngo_doc_hoa_chat","key":"thuốc sâu+hít"}
+{"q":"Mất điện cả nhà mở máy phát dưới gầm cầu thang, mọi người đau đầu","got":"ngo_doc_khi_co","key":"máy phát+gầm"}
+{"q":"Ngủ phòng kín có đốt lò than bị buồn nôn","got":"ngo_doc_khi_co","key":"than+kín"}
+{"q":"Dự báo có bão vào tuần sau thì gia đình nên chuẩn bị những gì","got":"truoc_bao","key":"bão+dự báo"}
+{"q":"Nhà mái tôn trước mùa bão gia cố thế nào","got":"truoc_bao","key":"bão+trước"}
+{"q":"Bão đang vào, gió giật mạnh quá, ở nhà phải làm gì","got":"trong_bao","key":"bão+đang"}
+{"q":"Có nên ra ngoài lúc bão đổ bộ để chằng lại mái nhà không","got":"trong_bao","key":"bão+đổ bộ"}
+{"q":"Bão vừa qua, ra ngoài thì cần cẩn thận gì","got":"sau_bao","key":"bão+qua"}
+{"q":"Nước lũ rút rồi về dọn nhà cần chú ý gì","got":"sau_bao","key":"lũ+rút"}
+{"q":"Nước lên ngang gối rồi, ở trong nhà phải làm gì bây giờ","got":"ngap_lut","key":"nước+lên"}
+{"q":"Đường về nhà bị ngập nước chảy mạnh có nên đi qua không","got":"lu_xe","key":"đi qua+ngập"}
+{"q":"Đang cắm trại bên suối thì nghe tiếng ầm ầm trên thượng nguồn","got":"lu_quet","key":"suối+ầm"}
+{"q":"Miền núi mưa to mấy ngày, làm sao để tránh lũ quét","got":"lu_quet","key":"lũ quét"}
+{"q":"Đồi sau nhà có vết nứt dài và đất cứ trôi xuống","got":"sat_lo","key":"nứt+đồi"}
+{"q":"Mưa lớn ở vùng núi đề phòng sạt lở thế nào","got":"sat_lo","key":"sạt lở"}
+{"q":"Đang chăn bò ngoài đồng thì trời có giông sét","got":"giong_set","key":"giông sét"}
+{"q":"Mưa giông có nên dùng điện thoại đang sạc không","got":"giong_set","key":"mưa giông"}
+{"q":"Xã kêu đi sơ tán gấp, phải làm gì trước khi rời nhà","got":"so_tan","key":"đi sơ tán"}
+{"q":"Đi sơ tán mang theo những thứ gì là cần thiết","got":"so_tan","key":"đi sơ tán"}
+{"q":"Chuẩn bị đồ dự trữ trong nhà cho mùa mưa bão","got":"truoc_bao","key":"bão+chuẩn bị"}
+{"q":"Một túi khẩn cấp cho cả nhà gồm những gì","got":"do_dung_khan_cap","key":"túi khẩn cấp"}
+{"q":"Hết nước sạch, chỉ có nước sông đục thì làm sao để uống","got":"nuoc_sach","key":"nước sạch"}
+{"q":"Nước giếng sau lũ có mùi lạ, khử trùng thế nào","got":"nuoc_sach","key":"nước giếng"}
+{"q":"Thịt cá trong tủ lạnh mất điện hai ngày rồi có nên ăn","got":"thuc_pham_sau_lu","key":"thịt+mất điện"}
+{"q":"Gạo bị ngập nước lũ còn ăn được không","got":"thuc_pham_sau_lu","key":"gạo+lũ"}
+{"q":"Sau đợt ngập lụt trẻ con hay bị bệnh gì và phòng sao","got":"khong","key":""}
+{"q":"Lội nước lũ bị nước ăn chân thì làm sao","got":"phong_benh_sau_lu","key":"nước ăn chân"}
+{"q":"Nước đang dâng có nên cúp cầu dao điện không","got":"an_toan_dien_ngap","key":"điện+nước"}
+{"q":"Có dây điện rơi xuống vũng nước trước cổng","got":"an_toan_dien_ngap","key":"dây điện rơi"}
+{"q":"Mất điện mấy ngày liền thì xoay xở thế nào","got":"mat_dien","key":"mất điện"}
+{"q":"Đặt máy phát điện ở đâu cho an toàn","got":"mat_dien","key":"máy phát điện"}
+{"q":"Phòng bên cạnh bốc khói, ngửi mùi khét, phải làm gì","got":"chay_nha","key":"khói+phòng"}
+{"q":"Cháy nhà mà cửa chính bị chặn thì thoát bằng cách nào","got":"chay_nha","key":"cháy nhà"}
+{"q":"Muốn gọi xe cứu thương thì bấm số mấy","got":"so_khan_cap","key":"số+cứu thương"}
+{"q":"Gặp tai nạn trên biển thì gọi số khẩn cấp nào","got":"so_khan_cap","key":"số khẩn cấp"}
+{"q":"Cả xóm bị nước lũ bao vây không ai ra được","got":"mac_ket_cau_cuu","key":"bao vây+nước"}
+{"q":"Đang kẹt trên nóc nhà, làm sao để người ta thấy mà cứu","got":"mac_ket_cau_cuu","key":"kẹt+nóc"}
+{"q":"Bị cá đuối đâm ở chân khi đi biển","got":"du_phong","key":""}
+{"q":"Đau mắt quá nhìn không rõ","got":"du_phong","key":""}
+{"q":"Trẻ bị sốt phát ban thì xử lý sao","got":"sot_cao","key":"bị sốt"}
+{"q":"Ăn nấm rừng xong bị nôn với đau bụng","got":"ngo_doc_nam","key":"nấm rừng"}
+{"q":"Bị chuột rút ở bắp chân khi đang bơi","got":"du_phong","key":""}
+{"q":"Mẹ bầu bị ra máu thì phải làm gì","got":"chay_mau","key":"máu+ra"}
+{"q":"Bị bỏng mắt do vôi bắn","got":"mat","key":"mắt+vôi"}
+{"q":"Có người ngộ độc rượu nôn liên tục","got":"ngo_doc_ruou","key":"ngộ độc rượu"}
+{"q":"Đang leo núi bị trẹo chân sưng to","got":"bong_gan","key":"trẹo chân"}
+{"q":"Con bị sốt co giật lần đầu","got":"co_giat","key":"co giật"}
+{"q":"Bị đỉa bám vào chân không gỡ ra được","got":"du_phong","key":""}
+{"q":"Người già bị tụt huyết áp chóng mặt","got":"du_phong","key":""}
+{"q":"Bị hóc xương cá nhưng vẫn nói được, chỉ thấy vướng","got":"hoc_di_vat","key":"hóc xương cá"}
+{"q":"Có động đất thì nên làm gì","got":"dong_dat","key":"động đất"}
+{"q":"Bị thương ở mắt do mảnh kim loại văng vào","got":"mat","key":"bị thương ở mắt"}
+{"q":"Đứa nhỏ nuốt phải pin cúc áo","got":"nuot_pin","key":"nuốt phải pin"}
+{"q":"Răng bị gãy do té","got":"gay_rang","key":"răng bị gãy"}
+{"q":"Bị sứa biển chích ngứa rát","got":"sua_dot","key":"sứa biển"}
+{"q":"Huyết áp cao quá phải uống thuốc gì","got":"du_phong","key":""}
+{"q":"Bị bọ cạp chích","got":"bo_cap","key":"bọ cạp chích"}
+{"q":"Áp thấp nhiệt đới khác bão ở chỗ nào","got":"khong","key":""}
+{"q":"Sét có nhiệt độ bao nhiêu độ","got":"khong","key":""}
+{"q":"Vì sao rắn lột da","got":"khong","key":""}
+{"q":"Bệnh dại do virus nào gây ra","got":"khong","key":""}
+{"q":"Hồi sức tim phổi được phát minh năm nào","got":"khong","key":""}
+{"q":"Nhà mình có con chó tên là Mực","got":"khong","key":""}
+{"q":"Kể cho mình nghe về trận lụt năm 1999 ở miền Trung","got":"khong","key":""}
+{"q":"Bão Yagi gây thiệt hại bao nhiêu","got":"khong","key":""}
+{"q":"Cây đàn bầu có mấy dây","got":"khong","key":""}
+{"q":"Nước sôi ở bao nhiêu độ trên núi cao","got":"khong","key":""}
+{"q":"Mình muốn học bơi thì bắt đầu từ đâu","got":"khong","key":""}
+{"q":"Điện thoại của mình bị mất sóng","got":"khong","key":""}
+{"q":"Món gà nướng mật ong làm thế nào","got":"khong","key":""}
+{"q":"Ong mật sống được bao lâu","got":"khong","key":""}
+{"q":"Thủy điện Hòa Bình xây năm nào","got":"khong","key":""}
+{"q":"Lũ lụt ở Thái Lan năm 2011 lớn cỡ nào","got":"khong","key":""}
+{"q":"Hôm nay có mưa không bạn","got":"khong","key":""}
+{"q":"Phim Mắt bão chiếu năm nào","got":"khong","key":""}
+{"q":"Bạn hát một bài về mùa đông đi","got":"khong","key":""}
+{"q":"Mình buồn quá vì thi trượt","got":"khong","key":""}
+{"q":"Nhiệt độ cơ thể người bình thường là bao nhiêu","got":"khong","key":""}
+{"q":"Con mèo nhà bạn tên gì","got":"khong","key":""}
+{"q":"Tại sao trời mưa lại có sấm","got":"khong","key":""}
+{"q":"Đường đi đến bệnh viện Chợ Rẫy","got":"khong","key":""}
+{"q":"Cháy rừng ở Úc năm 2020 nghiêm trọng thế nào","got":"khong","key":""}
+{"q":"Cá voi thở bằng gì","got":"khong","key":""}
+{"q":"Mình muốn biết thêm về Hội Chữ thập đỏ","got":"khong","key":""}
+{"q":"Bao lâu nên thay bình chữa cháy một lần","got":"khong","key":""}
+{"q":"Tủ lạnh nhà mình kêu to quá","got":"khong","key":""}
+{"q":"Món canh chua miền Tây nấu với cá gì","got":"khong","key":""}
+{"q":"Có người nằm gục trên bàn, gọi không trả lời, ngực không phập phồng","got":"khong","key":""}
+{"q":"Chỉ tôi cách ấn ngực cứu người ngưng tim","got":"hoi_suc_tim_phoi","key":"ngưng tim"}
+{"q":"Hai đứa nhỏ tắm ao bị chìm, mới kéo lên được một đứa","got":"duoi_nuoc","key":"chìm+ao"}
+{"q":"Người bị ngạt nước vừa được đưa lên bờ thì sơ cứu sao","got":"duoi_nuoc","key":"ngạt nước"}
+{"q":"Ăn hạt dưa bị hóc, ho mãi không ra","got":"hoc_di_vat","key":"bị hóc"}
+{"q":"Thằng cu bốn tuổi nuốt viên bi bị nghẹn tím mặt","got":"hoc_di_vat","key":"bị nghẹn"}
+{"q":"Em bé mười tháng tuổi bị hóc miếng táo","got":"hoc_tre_so_sinh","key":"hóc+tháng"}
+{"q":"Trẻ sơ sinh sặc sữa lên mũi phải làm sao","got":"hoc_tre_so_sinh","key":"sặc sữa"}
+{"q":"Té xe máy trầy chân, máu chảy ròng ròng","got":"chay_mau","key":"máu+chảy"}
+{"q":"Làm sao cầm máu khi bị mảnh sành cứa vào chân","got":"chay_mau","key":"cầm máu"}
+{"q":"Cây kéo đâm vào đùi, có nên rút ra liền không","got":"vat_dam","key":"có nên rút ra"}
+{"q":"Bị một khúc tre nhọn găm vào bắp tay","got":"vat_dam","key":"găm+tre"}
+{"q":"Con nhỏ chạm vào nồi cơm điện bị phỏng tay","got":"bong","key":"phỏng+tay"}
+{"q":"Bị nước sôi dội vào chân, da đỏ rát","got":"bong","key":"nước sôi+dội"}
+{"q":"Tóc bị bén lửa khi đốt vàng mã","got":"chay_quan_ao","key":"bén+tóc"}
+{"q":"Đang hàn thì quần bắt lửa","got":"chay_quan_ao","key":"bắt lửa+quần"}
+{"q":"Con mình thò tay vào ổ cắm bị điện giật","got":"dien_giat","key":"điện giật"}
+{"q":"Thấy người bị giật điện ở cột điện ngoài đường","got":"dien_giat","key":"bị giật điện"}
+{"q":"Té cầu thang chắc gãy cổ tay rồi","got":"gay_xuong","key":"gãy+tay"}
+{"q":"Đi rừng bị trượt chân nghi gãy chân, cách làm nẹp tạm","got":"gay_xuong","key":"gãy chân"}
+{"q":"Đứa nhỏ té từ trên giường xuống đập đầu","got":"chan_thuong_dau","key":"đập đầu"}
+{"q":"Công nhân rơi từ giàn giáo xuống, có nên đỡ dậy không","got":"chan_thuong_dau","key":"rơi+giàn giáo"}
+{"q":"Mới bị rắn mổ ở ngón tay khi dọn củi","got":"ran_can","key":"bị rắn"}
+{"q":"Rắn hổ mang cắn thì phải làm gì trong lúc chờ xe","got":"ran_can","key":"rắn+cắn"}
+{"q":"Bị ong đất đốt nhiều nốt","got":"ong_dot","key":"ong+đốt"}
+{"q":"Con bị con ong chích ở mắt sưng húp","got":"ong_dot","key":"ong chích"}
+{"q":"Bị khỉ cắn khi đi du lịch","got":"cho_meo_can","key":"khỉ cắn"}
+{"q":"Chó nhà cắn con tôi, chó đã tiêm phòng rồi có sao không","got":"cho_meo_can","key":"chó+cắn+tôi"}
+{"q":"Đi bộ dưới nắng gắt bị chóng mặt muốn xỉu","got":"soc_nhiet","key":"nắng+xỉu"}
+{"q":"Người làm ruộng bị say nắng nặng, da khô nóng","got":"soc_nhiet","key":"say nắng"}
+{"q":"Trời oi nóng quá, người già ở nhà nên làm gì","got":"nang_nong","key":"nóng+oi"}
+{"q":"Nắng gay gắt mấy hôm nay, giữ sức khỏe thế nào","got":"nang_nong","key":"nắng gay gắt"}
+{"q":"Cứu được người dưới nước lạnh lên, giờ run cầm cập","got":"ha_than_nhiet","key":"run cầm cập"}
+{"q":"Ở trên núi bị lạnh cóng tay chân tím tái","got":"ha_than_nhiet","key":"bị lạnh cóng"}
+{"q":"Thấy ông cụ ngã xuống co giật, tay chân run lên","got":"co_giat","key":"co giật"}
+{"q":"Bạn cùng lớp lên cơn động kinh trong giờ học","got":"co_giat","key":"lên cơn động kinh"}
+{"q":"Má tôi đột nhiên bị tê một bên mặt và nói không rõ","got":"dot_quy","key":"tê+một bên"}
+{"q":"Người nhà tự nhiên méo mặt, yếu tay phải","got":"dot_quy","key":"méo mặt"}
+{"q":"Ông tôi bị đau thắt ngực vã mồ hôi lạnh","got":"dau_nguc","key":"đau thắt ngực"}
+{"q":"Đang leo cầu thang thì tức ngực khó thở","got":"dau_nguc","key":"tức ngực khó thở"}
+{"q":"Bị ong đốt xong sưng môi, khó thở","got":"soc_phan_ve","key":"sưng môi khó thở"}
+{"q":"Uống kháng sinh xong nổi mề đay khắp người","got":"soc_phan_ve","key":"mề đay+khắp người"}
+{"q":"Đứng chào cờ có bạn bị xỉu","got":"ngat_xiu","key":"bị xỉu"}
+{"q":"Người lớn tuổi ngất đi khi đứng dậy","got":"ngat_xiu","key":"ngất đi"}
+{"q":"Sau khi ăn đồ lạ bị đi ngoài toàn nước","got":"ngo_doc_thuc_pham","key":"ăn+đi ngoài"}
+{"q":"Trẻ bị tiêu chảy mất nước thì cho uống gì","got":"mat_nuoc","key":"tiêu chảy"}
+{"q":"Bé uống nhầm dầu hỏa","got":"ngo_doc_hoa_chat","key":"uống nhầm"}
+{"q":"Thuốc sâu bắn vào mắt khi đang phun","got":"mat","key":"bắn vào mắt"}
+{"q":"Cả nhà đóng kín cửa đốt than sưởi, sáng ra ai cũng đau đầu","got":"ngo_doc_khi_co","key":"than sưởi"}
+{"q":"Để máy phát điện trong bếp có sao không","got":"ngo_doc_khi_co","key":"máy phát+bếp"}
+{"q":"Nghe nói ngày mai bão tới, nhà ven biển nên làm gì","got":"truoc_bao","key":"bão+tới"}
+{"q":"Mùa bão sắp đến thì gia cố nhà cửa thế nào","got":"truoc_bao","key":"bão sắp đến"}
+{"q":"Đang trong cơn bão mà cửa kính rung mạnh","got":"trong_bao","key":"bão+đang"}
+{"q":"Gió bão đang giật mạnh, có nên trú dưới gầm cầu không","got":"trong_bao","key":"bão+đang"}
+{"q":"Bão tan rồi, ra đường có gì nguy hiểm","got":"sau_bao","key":"bão+tan"}
+{"q":"Nước vừa rút, vào nhà dọn bùn đất cần cẩn thận gì","got":"sau_bao","key":"nước+rút"}
+{"q":"Nước lũ lên tới cửa rồi, làm sao bây giờ","got":"ngap_lut","key":"lũ lên"}
+{"q":"Đường bị ngập sâu có nên lội qua để về nhà","got":"lu_xe","key":"lội+ngập"}
+{"q":"Ở bản dưới chân núi, thấy nước suối dâng nhanh bất thường","got":"lu_quet","key":"nước suối dâng"}
+{"q":"Đang đi qua ngầm thì nghe tiếng ầm ầm từ thượng nguồn","got":"lu_quet","key":"thượng nguồn+ầm"}
+{"q":"Taluy sau nhà bị nứt, đất đá lăn xuống","got":"sat_lo","key":"nứt+đất"}
+{"q":"Thấy dấu hiệu sạt lở thì phải chạy đi đâu","got":"sat_lo","key":"dấu hiệu sạt lở"}
+{"q":"Đang câu cá thì trời nổi giông","got":"giong_set","key":"giông+đang"}
+{"q":"Có sét đánh gần nhà, ở trong nhà cần tránh gì","got":"giong_set","key":"sét đánh"}
+{"q":"Có lệnh di dời dân vùng ven sông thì làm gì","got":"so_tan","key":"di dời"}
+{"q":"Sơ tán có nên mang theo vật nuôi không","got":"so_tan","key":"sơ tán"}
+{"q":"Nhà mình nên chuẩn bị túi đồ khẩn cấp gồm gì","got":"do_dung_khan_cap","key":"túi đồ khẩn cấp"}
+{"q":"Dự trữ đồ dùng mùa mưa bão cho gia đình bốn người","got":"do_dung_khan_cap","key":"dự trữ+mưa bão"}
+{"q":"Lũ về hết nước sạch thì lọc nước uống bằng gì","got":"nuoc_sach","key":"nước sạch"}
+{"q":"Nước trong bể bị ngập lũ, khử trùng ra sao","got":"nuoc_sach","key":"nước+khử trùng+lũ"}
+{"q":"Mất điện cả ngày, sữa của con trong tủ lạnh còn dùng được không","got":"thuc_pham_sau_lu","key":"sữa+mất điện"}
+{"q":"Rau trong vườn bị ngập lũ có ăn được không","got":"thuc_pham_sau_lu","key":"rau+lũ"}
+{"q":"Sau lụt cả nhà bị ngứa da, phòng bệnh sao","got":"phong_benh_sau_lu","key":"phòng bệnh"}
+{"q":"Phòng dịch sau ngập lụt cho trẻ nhỏ","got":"phong_benh_sau_lu","key":"phòng dịch"}
+{"q":"Ổ điện trong nhà bị ngập nước rồi","got":"an_toan_dien_ngap","key":"điện+ngập"}
+{"q":"Thấy dây điện đứt nằm dưới đường ngập","got":"an_toan_dien_ngap","key":"dây điện đứt"}
+{"q":"Cúp điện mấy ngày liền sau bão thì sinh hoạt thế nào","got":"mat_dien","key":"cúp điện"}
+{"q":"Mất điện thì dùng máy phát điện đặt ở đâu","got":"mat_dien","key":"dùng máy phát điện"}
+{"q":"Khu trọ đang bốc cháy, khói đầy hành lang","got":"chay_nha","key":"cháy+bốc"}
+{"q":"Bếp nhà bị cháy, lửa lan lên tủ","got":"chay_nha","key":"nhà bị cháy"}
+{"q":"Bị tai nạn giao thông thì gọi số nào","got":"so_khan_cap","key":"gọi số nào"}
+{"q":"Số cứu hỏa ở Việt Nam là bao nhiêu","got":"so_khan_cap","key":"số cứu hỏa"}
+{"q":"Nhà bị nước bao vây, người già không đi được","got":"mac_ket_cau_cuu","key":"bao vây+nước"}
+{"q":"Xe bị nước cuốn trôi, người trong xe phải làm gì","got":"mac_ket_cau_cuu","key":"bị nước cuốn"}
+{"q":"Bị rết cắn sưng đau","got":"du_phong","key":""}
+{"q":"Đau tai dữ dội chảy nước","got":"du_phong","key":""}
+{"q":"Con bị sốt xuất huyết thì theo dõi gì","got":"sot_cao","key":"bị sốt"}
+{"q":"Ăn cá nóc bị tê môi","got":"du_phong","key":""}
+{"q":"Ngộ độc thực phẩm cả nhà nôn ói","got":"ngo_doc_thuc_pham","key":"ngộ độc thực phẩm"}
+{"q":"Đang chạy bộ bị chuột rút ở đùi","got":"du_phong","key":""}
+{"q":"Bị bỏng do axit","got":"bong_hoa_chat","key":"axit+bỏng"}
+{"q":"Người bị đái tháo đường lên cơn hạ đường huyết","got":"ha_duong_huyet","key":"hạ đường huyết"}
+{"q":"Bị trẹo cổ chân sưng tấy","got":"bong_gan","key":"trẹo cổ chân"}
+{"q":"Có người bị đau ruột thừa","got":"du_phong","key":""}
+{"q":"Bị cá trê đâm vào tay","got":"du_phong","key":""}
+{"q":"Đi biển bị sứa lửa chích","got":"sua_dot","key":"sứa lửa"}
+{"q":"Sốt cao bốn mươi độ không hạ","got":"sot_cao","key":"sốt cao"}
+{"q":"Bị chảy máu cam mãi không ngừng","got":"chay_mau_cam","key":"chảy máu cam"}
+{"q":"Bị đau răng sưng má","got":"du_phong","key":""}
+{"q":"Cụ bà bị khó thở, môi tím tái","got":"du_phong","key":""}
+{"q":"Có động đất mạnh, tòa nhà rung lắc","got":"dong_dat","key":"nhà rung lắc"}
+{"q":"Lạc trong rừng, trời sắp tối","got":"khong","key":""}
+{"q":"Bị cào xước do dây thép gai rỉ sét","got":"du_phong","key":""}
+{"q":"Đứa nhỏ nhét hạt đậu vào mũi","got":"khong","key":""}
+{"q":"Chạy deadline mệt đuối sức quá","got":"khong","key":""}
+{"q":"Bão giá xăng dầu tháng này thế nào","got":"khong","key":""}
+{"q":"Lũ trẻ trong xóm hay chơi trò gì","got":"khong","key":""}
+{"q":"Áo dài này cháy hàng chưa","got":"khong","key":""}
+{"q":"Kẹt xe trên cầu Sài Gòn quá","got":"khong","key":""}
+{"q":"Mình sốt ruột chờ kết quả thi","got":"khong","key":""}
+{"q":"Nghe tiếng sấm mình giật mình","got":"khong","key":""}
+{"q":"Chó con nhà mình dễ thương quá","got":"khong","key":""}
+{"q":"Mật ong rừng có tốt không","got":"khong","key":""}
+{"q":"Phim Lật mặt có hay không","got":"khong","key":""}
+{"q":"Mình bị cháy nắng muốn đi biển tiếp","got":"khong","key":""}
+{"q":"Ca sĩ nào hát bài Bão tố cuộc đời","got":"khong","key":""}
+{"q":"Cuộc thi này nóng bỏng quá","got":"khong","key":""}
+{"q":"Pin điện thoại hết nhanh khi trời lạnh","got":"khong","key":""}
+{"q":"Đội tuyển bị loại đau quá","got":"du_phong","key":""}
+{"q":"Kể chuyện cổ tích Sơn Tinh Thủy Tinh và lũ lụt","got":"ngap_lut","key":"lũ lụt"}
+{"q":"Cá đuối sống ở đâu","got":"khong","key":""}
+{"q":"Thủy điện xả lũ là gì","got":"khong","key":""}
+{"q":"Tại sao rắn không có chân","got":"khong","key":""}
+{"q":"Sấm sét hình thành từ đâu","got":"khong","key":""}
+{"q":"Giá vàng hôm nay tăng mạnh","got":"khong","key":""}
+{"q":"Mình muốn mua máy phát điện loại nào tốt","got":"mat_dien","key":"máy phát điện"}
+{"q":"Con mèo nhà mình cứ cào ghế sofa","got":"cho_meo_can","key":"mèo+cào+con"}
+{"q":"Nhà mình mới sơn lại tường bị nứt nhỏ","got":"khong","key":""}
+{"q":"Hôm nay nắng đẹp đi chơi đâu","got":"khong","key":""}
+{"q":"Sạc dự phòng loại nào bền","got":"khong","key":""}
+{"q":"Lịch cúp điện khu vực Thủ Đức tuần này","got":"mat_dien","key":"cúp điện"}
+{"q":"Chơi game bị giật lag quá","got":"khong","key":""}
+{"q":"Bánh mì nướng bị cháy khét","got":"khong","key":""}
+{"q":"Con chó nhà hàng xóm sủa suốt đêm","got":"khong","key":""}
+{"q":"Bố tôi bị tiểu đường giờ run rẩy vã mồ hôi chắc tụt đường huyết","got":"ha_duong_huyet","key":"tụt đường huyết"}
+{"q":"Hạ đường huyết thì phải làm sao","got":"ha_duong_huyet","key":"hạ đường huyết"}
+{"q":"Người bị tiểu đường lả đi, nói lắp bắp, nghi hạ đường","got":"ha_duong_huyet","key":"hạ đường"}
+{"q":"Tôi bị tụt đường máu chóng mặt quá","got":"ha_duong_huyet","key":"tụt đường máu"}
+{"q":"Con tôi chảy máu cam không ngừng","got":"chay_mau_cam","key":"chảy máu cam"}
+{"q":"Bị chảy máu mũi thì xử lý thế nào","got":"chay_mau_cam","key":"chảy máu mũi"}
+{"q":"Máu mũi chảy ròng ròng phải làm gì","got":"chay_mau_cam","key":"máu mũi"}
+{"q":"Chảy máu cam có nên ngửa đầu ra sau không","got":"chay_mau_cam","key":"chảy máu cam"}
+{"q":"Tôi bị trẹo cổ chân sưng to","got":"bong_gan","key":"trẹo cổ chân"}
+{"q":"Bong gân mắt cá chân thì sơ cứu sao","got":"bong_gan","key":"bong gân"}
+{"q":"Đá bóng bị trật khớp vai","got":"bong_gan","key":"trật khớp"}
+{"q":"Ngã xong khớp gối sưng đau, chắc bị bong gân","got":"bong_gan","key":"bong gân"}
+{"q":"Bụi bay vào mắt cay xè phải làm sao","got":"mat","key":"bay vào mắt"}
+{"q":"Bị văng vôi vào mắt","got":"mat","key":"mắt+vôi"}
+{"q":"Mảnh kim loại găm vào mắt","got":"mat","key":"găm vào mắt"}
+{"q":"Thằng bé bị que chọc vào mắt chảy máu","got":"mat","key":"chọc vào mắt"}
+{"q":"Máy cắt đứt lìa ngón tay rồi","got":"dut_chi","key":"lìa ngón"}
+{"q":"Bị đứt rời một đốt ngón tay phải giữ thế nào","got":"dut_chi","key":"đứt rời"}
+{"q":"Tai nạn làm đứt cụt bàn tay","got":"dut_chi","key":"đứt cụt"}
+{"q":"Ngón tay bị đứt hẳn có nối lại được không, giờ làm gì","got":"dut_chi","key":"đứt hẳn"}
+{"q":"Cả nhà ăn cỗ xong bị đau bụng nôn ói","got":"ngo_doc_thuc_pham","key":"ăn+nôn"}
+{"q":"Nghi ngộ độc thực phẩm phải làm sao","got":"ngo_doc_thuc_pham","key":"ngộ độc thực phẩm"}
+{"q":"Ăn hải sản bị đau bụng tiêu chảy liên tục","got":"ngo_doc_thuc_pham","key":"ăn+đau bụng"}
+{"q":"Ăn phải đồ ôi thiu nôn mửa","got":"ngo_doc_thuc_pham","key":"đồ ôi thiu"}
+{"q":"Uống rượu giả bị mờ mắt","got":"ngo_doc_ruou","key":"rượu giả"}
+{"q":"Nghi ngộ độc methanol thì làm gì","got":"ngo_doc_ruou","key":"ngộ độc methanol"}
+{"q":"Ông hàng xóm uống rượu xong lơ mơ khó thở, sợ rượu pha cồn công nghiệp","got":"ngo_doc_ruou","key":"cồn công nghiệp"}
+{"q":"Ngộ độc rượu phải xử lý ra sao","got":"ngo_doc_ruou","key":"ngộ độc rượu"}
+{"q":"Ăn nấm hái trong rừng bị nôn","got":"ngo_doc_nam","key":"nấm+rừng"}
+{"q":"Cả nhà ăn nấm lạ, sợ nấm độc","got":"ngo_doc_nam","key":"nấm độc"}
+{"q":"Ngộ độc nấm thì phải làm gì","got":"ngo_doc_nam","key":"ngộ độc nấm"}
+{"q":"Mới ăn nấm rừng chưa thấy gì có cần đi viện không","got":"ngo_doc_nam","key":"nấm rừng"}
+{"q":"Bị bọ cạp đốt vào tay","got":"bo_cap","key":"bọ cạp đốt"}
+{"q":"Con bọ cạp chích con tôi","got":"bo_cap","key":"bọ cạp chích"}
+{"q":"Bọ cạp cắn thì làm sao","got":"bo_cap","key":"bọ cạp cắn"}
+{"q":"Bị bò cạp đốt sưng đau","got":"bo_cap","key":"bò cạp đốt"}
+{"q":"Người bị tai nạn mất nhiều máu mặt tái nhợt da lạnh vã mồ hôi","got":"soc","key":"tái+da lạnh"}
+{"q":"Nạn nhân bị sốc, thở nhanh, lơ mơ","got":"soc","key":"sốc+thở nhanh"}
+{"q":"Sơ cứu người bị choáng do mất máu","got":"soc","key":"choáng do mất máu"}
+{"q":"Dấu hiệu sốc sau tai nạn phải làm gì","got":"soc","key":"sốc sau tai nạn"}
+{"q":"Con tôi sốt cao bốn mươi độ","got":"sot_cao","key":"sốt cao"}
+{"q":"Sốt cao không hạ phải làm sao","got":"sot_cao","key":"sốt cao"}
+{"q":"Bé sốt ba chín độ có nên chườm đá không","got":"sot_cao","key":"sốt ba chín"}
+{"q":"Người lớn sốt cao li bì","got":"sot_cao","key":"sốt cao"}
+{"q":"Con tôi lên cơn hen","got":"hen_suyen","key":"lên cơn hen"}
+{"q":"Bị suyễn khó thở quá","got":"hen_suyen","key":"bị suyễn"}
+{"q":"Người bị hen thở rít, môi tím","got":"hen_suyen","key":"thở rít"}
+{"q":"Lên cơn hen suyễn mà không có thuốc thì sao","got":"hen_suyen","key":"lên cơn hen"}
+{"q":"Bé ba tuổi bất tỉnh không thở","got":"hoi_suc_tre_em","key":"không thở"}
+{"q":"Trẻ em ngừng thở phải ép tim thế nào","got":"hoi_suc_tre_em","key":"trẻ em ngừng thở"}
+{"q":"Cháu bé năm tuổi đuối nước không thở","got":"duoi_nuoc","key":"đuối nước"}
+{"q":"Ép tim cho trẻ em thì ấn sâu bao nhiêu","got":"khong","key":""}
+{"q":"Em bé sơ sinh ngừng thở","got":"hoi_suc_so_sinh","key":"sơ sinh ngừng thở"}
+{"q":"Bé hai tháng tuổi tím tái không thở","got":"hoi_suc_so_sinh","key":"tháng tuổi+không thở"}
+{"q":"Hô hấp nhân tạo cho trẻ sơ sinh thế nào","got":"hoi_suc_so_sinh","key":"hô hấp nhân tạo cho trẻ sơ sinh"}
+{"q":"Trẻ dưới một tuổi không thở phải làm sao","got":"hoi_suc_so_sinh","key":"trẻ dưới một tuổi không thở"}
+{"q":"Động đất thì phải làm gì","got":"dong_dat","key":"động đất"}
+{"q":"Nhà đang rung lắc mạnh, có động đất","got":"dong_dat","key":"rung lắc mạnh"}
+{"q":"Đang ngủ thì động đất, chạy ra ngoài hay ở trong","got":"dong_dat","key":"động đất"}
+{"q":"Gặp động đất nên đứng ở khung cửa không","got":"dong_dat","key":"động đất"}
+{"q":"Ở biển thấy nước rút đột ngột, có sóng thần không","got":"song_than","key":"nước rút đột ngột"}
+{"q":"Cảnh báo sóng thần thì chạy đi đâu","got":"song_than","key":"sóng thần"}
+{"q":"Đang tắm biển thấy động đất rất mạnh","got":"song_than","key":"biển+động đất"}
+{"q":"Sóng thần đến phải làm gì","got":"song_than","key":"sóng thần"}
+{"q":"Có nên lái xe qua đoạn đường ngập không","got":"lu_xe","key":"xe+ngập"}
+{"q":"Xe máy đi qua chỗ nước chảy xiết được không","got":"lu_xe","key":"xe+nước chảy xiết"}
+{"q":"Đường ngập sâu, ô tô có đi qua được không","got":"lu_xe","key":"đi qua+ngập"}
+{"q":"Lội qua dòng nước lũ có an toàn không","got":"lu_xe","key":"lội qua dòng nước"}
+{"q":"Bị axit bắn vào tay","got":"bong_hoa_chat","key":"axit bắn"}
+{"q":"Bỏng hóa chất phải làm sao","got":"bong_hoa_chat","key":"bỏng hóa chất"}
+{"q":"Nước tẩy rửa bắn vào da rát bỏng","got":"bong_hoa_chat","key":"nước tẩy+bắn"}
+{"q":"Bị vôi bột dính vào người bỏng rát","got":"bong_hoa_chat","key":"vôi+dính"}
+{"q":"Chồng tôi tự nhiên ngã gục, gọi không tỉnh, không thở","got":"hoi_suc_tim_phoi","key":"không thở"}
+{"q":"Vừa vớt được người dưới ao lên","got":"khong","key":""}
+{"q":"Ông tôi bị hóc xương cá không thở được","got":"hoc_di_vat","key":"hóc xương cá"}
+{"q":"Bé bảy tháng bị sặc hạt nhựa","got":"hoc_tre_so_sinh","key":"sặc+tháng"}
+{"q":"Bị dao cắt sâu máu chảy nhiều","got":"chay_mau","key":"máu chảy nhiều"}
+{"q":"Thanh sắt đâm xuyên vào đùi","got":"vat_dam","key":"thanh sắt đâm"}
+{"q":"Bị nước sôi đổ vào chân","got":"bong","key":"nước sôi đổ vào"}
+{"q":"Áo đang mặc bị bén lửa","got":"chay_quan_ao","key":"bén+áo"}
+{"q":"Thằng em bị điện giật ngã ra","got":"dien_giat","key":"điện giật"}
+{"q":"Ngã xe nghi gãy tay","got":"gay_xuong","key":"nghi gãy"}
+{"q":"Ngã từ mái nhà xuống, đập đầu","got":"chan_thuong_dau","key":"đập đầu"}
+{"q":"Đi làm rẫy bị rắn mổ vào chân","got":"ran_can","key":"bị rắn"}
+{"q":"Bị ong vò vẽ đốt nhiều nốt","got":"ong_dot","key":"ong vò vẽ"}
+{"q":"Bị chó hàng xóm cắn chảy máu","got":"cho_meo_can","key":"bị chó"}
+{"q":"Làm ngoài nắng bị choáng, người nóng ran","got":"soc_nhiet","key":"ngoài nắng bị choáng"}
+{"q":"Trời nắng nóng bốn mươi độ cần phòng tránh gì","got":"nang_nong","key":"nắng nóng"}
+{"q":"Ngâm nước lũ lâu, người run lạnh tím tái","got":"ha_than_nhiet","key":"ngâm nước lũ lâu"}
+{"q":"Người bị động kinh lên cơn giật","got":"co_giat","key":"động kinh"}
+{"q":"Mẹ tôi tự nhiên méo miệng, tay yếu","got":"dot_quy","key":"méo miệng"}
+{"q":"Bố tôi đau thắt ngực lan ra tay trái","got":"dau_nguc","key":"đau thắt ngực"}
+{"q":"Ăn tôm xong sưng môi khó thở","got":"soc_phan_ve","key":"sưng môi khó thở"}
+{"q":"Bạn tôi đứng lâu bị ngất","got":"ngat_xiu","key":"bị ngất"}
+{"q":"Bé tiêu chảy nhiều lần, mắt trũng","got":"mat_nuoc","key":"tiêu chảy"}
+{"q":"Con tôi uống nhầm thuốc trừ sâu","got":"ngo_doc_hoa_chat","key":"thuốc trừ sâu"}
+{"q":"Đốt than sưởi trong phòng kín bị đau đầu buồn nôn","got":"ngo_doc_khi_co","key":"than sưởi"}
+{"q":"Mai bão vào thì cần chuẩn bị gì","got":"truoc_bao","key":"bão+chuẩn bị"}
+{"q":"Bão đang đổ bộ, gió rất to","got":"trong_bao","key":"bão đang đổ bộ"}
+{"q":"Bão vừa qua, về nhà cần chú ý gì","got":"sau_bao","key":"bão+qua"}
+{"q":"Nước đang lên ngập vào nhà","got":"ngap_lut","key":"nước+lên"}
+{"q":"Nghe tiếng ầm ầm trên núi, sợ lũ quét","got":"lu_quet","key":"lũ quét"}
+{"q":"Đồi sau nhà có vết nứt, sợ sạt lở","got":"sat_lo","key":"sạt lở"}
+{"q":"Đang ở ngoài đồng thì có sấm sét","got":"giong_set","key":"sấm sét"}
+{"q":"Chính quyền yêu cầu sơ tán, cần làm gì","got":"so_tan","key":"sơ tán"}
+{"q":"Túi đồ khẩn cấp gồm những gì","got":"do_dung_khan_cap","key":"túi đồ khẩn cấp"}
+{"q":"Sau lũ làm sao có nước sạch để uống","got":"nuoc_sach","key":"nước sạch"}
+{"q":"Mất điện hai ngày, đồ trong tủ lạnh còn ăn được không","got":"mat_dien","key":"mất điện"}
+{"q":"Sau lũ phòng bệnh thế nào","got":"phong_benh_sau_lu","key":"phòng bệnh"}
+{"q":"Nhà ngập nước có nên bật cầu dao không","got":"an_toan_dien_ngap","key":"cầu dao+ngập"}
+{"q":"Mất điện cả tuần phải làm sao","got":"mat_dien","key":"mất điện"}
+{"q":"Nhà bên cạnh đang cháy, khói tràn sang","got":"chay_nha","key":"đang cháy"}
+{"q":"Số gọi cứu hỏa là số mấy","got":"so_khan_cap","key":"số+cứu hỏa"}
+{"q":"Bị kẹt trên mái nhà giữa lũ, làm sao để được cứu","got":"mac_ket_cau_cuu","key":"kẹt trên mái"}
+{"q":"Vợ tôi sắp đẻ mà không kịp đến viện","got":"sinh_con_khan_cap","key":"sắp đẻ"}
+{"q":"Bị sứa đốt khi tắm biển","got":"sua_dot","key":"sứa đốt"}
+{"q":"Răng bị gãy do ngã xe","got":"gay_rang","key":"răng bị gãy"}
+{"q":"Trẻ nuốt phải pin cúc áo","got":"nuot_pin","key":"nuốt phải pin"}
+{"q":"Bị cá đuối đâm khi đi biển","got":"du_phong","key":""}
+{"q":"Huyết áp lên hai trăm","got":"du_phong","key":""}
+{"q":"Đau bụng dữ dội vùng bụng dưới bên phải","got":"du_phong","key":""}
+{"q":"Người nhà muốn tự tử","got":"tu_tu","key":"tự tử"}
+{"q":"Thai phụ ra máu nhiều","got":"ra_mau_thai","key":"thai phụ+ra máu"}
+{"q":"Bị kim tiêm đâm vào tay","got":"du_phong","key":""}
+{"q":"Bị chuột rút khi đang bơi","got":"du_phong","key":""}
+{"q":"Phát ban khắp người sau khi uống thuốc","got":"du_phong","key":""}
+{"q":"Bị lạc đường trong rừng ban đêm","got":"du_phong","key":""}
+{"q":"Sơ cứu người bị ngộ độc thuốc ngủ","got":"ngo_doc_hoa_chat","key":"ngộ độc thuốc"}
+{"q":"Bị dị vật mắc trong tai","got":"di_vat_tai","key":"tai+dị vật"}
+{"q":"Vết thương bị nhiễm trùng có mủ","got":"du_phong","key":""}
+{"q":"Bị cào xước bởi khỉ","got":"cho_meo_can","key":"khỉ+cào+bị"}
+{"q":"Bị nhện độc cắn","got":"nhen_can","key":"nhện độc cắn"}
+{"q":"Cung Bọ Cạp hợp với cung nào","got":"khong","key":""}
+{"q":"Nấu lẩu nấm thế nào cho ngon","got":"khong","key":""}
+{"q":"Rượu vang đỏ uống với món gì","got":"khong","key":""}
+{"q":"Kem mắt nào tốt cho quầng thâm","got":"khong","key":""}
+{"q":"Sóng wifi yếu phải làm sao","got":"khong","key":""}
+{"q":"Hẹn hò lần đầu nên nói gì","got":"khong","key":""}
+{"q":"Đường huyết bình thường là bao nhiêu","got":"khong","key":""}
+{"q":"Tôi bị sốc khi biết kết quả xổ số","got":"khong","key":""}
+{"q":"Tại sao lại bị chảy máu cam","got":"khong","key":""}
+{"q":"CPR là viết tắt của gì","got":"hoi_suc_tim_phoi","key":"cpr"}
+{"q":"Động đất lớn nhất lịch sử xảy ra ở đâu","got":"khong","key":""}
+{"q":"Sóng thần năm 2004 làm chết bao nhiêu người","got":"khong","key":""}
+{"q":"Phim Bọ Cạp Vàng có hay không","got":"khong","key":""}
+{"q":"Nấm linh chi có tác dụng gì","got":"khong","key":""}
+{"q":"Cách ngâm rượu chuối hột","got":"khong","key":""}
+{"q":"Đôi mắt biết nói nghĩa là gì","got":"khong","key":""}
+{"q":"Bơi lội có tác dụng gì cho sức khỏe","got":"khong","key":""}
+{"q":"Sốt cà chua làm thế nào","got":"khong","key":""}
+{"q":"Cầu thủ bị trật khớp nghỉ bao lâu mới đá lại","got":"bong_gan","key":"trật khớp"}
+{"q":"Axit sunfuric có công thức là gì","got":"khong","key":""}
+{"q":"Hen suyễn là bệnh gì, có lây không","got":"hen_suyen","key":"hen suyễn"}
+{"q":"Sốc nhiệt là gì","got":"khong","key":""}
+{"q":"Ô tô điện đi được bao xa","got":"khong","key":""}
+{"q":"Nước lũ sông Hồng năm 1971 cao bao nhiêu","got":"khong","key":""}
+{"q":"Bé nhà tôi ba tuổi nên học gì","got":"khong","key":""}
+{"q":"Cảm giác lần đầu làm bố","got":"khong","key":""}
+{"q":"Món sườn xào chua ngọt","got":"khong","key":""}
+{"q":"Bài hát Sóng của Xuân Quỳnh","got":"khong","key":""}
+{"q":"Ngón tay dài có ý nghĩa gì","got":"khong","key":""}
+{"q":"Thuốc nhuộm tóc có hại không","got":"khong","key":""}
+{"q":"Ép tim là phim của ai","got":"hoi_suc_tim_phoi","key":"ép tim"}
+{"q":"Mẹ tôi ăn nấm hương có tốt không","got":"khong","key":""}
+{"q":"Tôi muốn học sơ cứu thì học ở đâu","got":"du_phong","key":""}
+{"q":"Lũ trẻ trong xóm chơi trò gì vui","got":"khong","key":""}
+{"q":"Cháy hàng là gì","got":"khong","key":""}
+{"q":"Mắt bão là gì","got":"khong","key":""}
+{"q":"Con tôi bị sứa đốt ở chân rát quá","got":"sua_dot","key":"sứa đốt"}
+{"q":"Tắm biển bị sứa cắn phải làm gì","got":"sua_dot","key":"sứa cắn"}
+{"q":"Bị sứa lửa chích sưng đỏ","got":"sua_dot","key":"sứa lửa"}
+{"q":"Sứa biển đốt có nên rửa nước ngọt không","got":"sua_dot","key":"sứa biển"}
+{"q":"Bị nhện cắn sưng tấy","got":"nhen_can","key":"nhện cắn"}
+{"q":"Con nhện độc cắn vào tay bé","got":"nhen_can","key":"nhện độc cắn"}
+{"q":"Nhện chích phải xử lý ra sao","got":"nhen_can","key":"nhện chích"}
+{"q":"Bị nhện lạ cắn đau nhức","got":"nhen_can","key":"bị nhện"}
+{"q":"Con ve bám vào da chó rồi bám sang người","got":"ve_can","key":"con ve bám"}
+{"q":"Bị bọ ve cắn bám chặt không gỡ ra được","got":"ve_can","key":"ve cắn"}
+{"q":"Gỡ con ve trên da thế nào","got":"ve_can","key":"gỡ con ve"}
+{"q":"Bé bị ve chó bám vào đầu","got":"ve_can","key":"ve chó"}
+{"q":"Con kiến bò vào tai","got":"di_vat_tai","key":"bò vào tai"}
+{"q":"Bé nhét hạt đậu vào tai","got":"di_vat_tai","key":"tai+hạt"}
+{"q":"Có con côn trùng chui vào lỗ tai kêu vo ve","got":"di_vat_tai","key":"vào lỗ tai"}
+{"q":"Dị vật trong tai lấy ra thế nào","got":"di_vat_tai","key":"dị vật trong tai"}
+{"q":"Bé nuốt viên pin cúc áo","got":"nuot_pin","key":"nuốt viên pin"}
+{"q":"Con tôi lỡ nuốt pin đồng hồ","got":"nuot_pin","key":"nuốt pin"}
+{"q":"Trẻ nuốt pin tròn nhỏ có sao không","got":"nuot_pin","key":"nuốt pin"}
+{"q":"Nghi bé nuốt phải viên pin","got":"nuot_pin","key":"nuốt+pin"}
+{"q":"Bị dao cắt nhẹ vào tay","got":"vet_thuong_nho","key":"cắt nhẹ vào tay"}
+{"q":"Dẫm phải đinh đâm vào chân","got":"vet_thuong_nho","key":"đinh đâm vào chân"}
+{"q":"Vết xước nhỏ có cần rửa không","got":"vet_thuong_nho","key":"vết xước"}
+{"q":"Vết thương sưng đỏ có mủ","got":"vet_thuong_nho","key":"vết thương sưng đỏ"}
+{"q":"Ngã bị gãy răng cửa","got":"gay_rang","key":"gãy răng"}
+{"q":"Răng bị rơi ra do va đập","got":"gay_rang","key":"răng bị rơi"}
+{"q":"Bé bị bật răng khi chơi","got":"gay_rang","key":"bật răng"}
+{"q":"Răng bị văng ra có cắm lại được không","got":"gay_rang","key":"răng+văng"}
+{"q":"Đang bơi bị dòng nước kéo ra xa bờ","got":"dong_chay_xa_bo","key":"nước kéo ra xa"}
+{"q":"Bị cuốn ra biển phải bơi thế nào","got":"dong_chay_xa_bo","key":"cuốn ra biển"}
+{"q":"Dòng chảy xa bờ là phải làm sao để thoát","got":"dong_chay_xa_bo","key":"dòng chảy xa bờ"}
+{"q":"Tắm biển bị sóng cuốn ra xa","got":"dong_chay_xa_bo","key":"bị sóng cuốn"}
+{"q":"Có lốc xoáy đang tới","got":"loc_xoay","key":"lốc xoáy"}
+{"q":"Vòi rồng xuất hiện gần nhà","got":"loc_xoay","key":"vòi rồng"}
+{"q":"Đang lái xe thì thấy lốc","got":"loc_xoay","key":"thấy lốc"}
+{"q":"Gặp lốc xoáy nên trú ở đâu","got":"loc_xoay","key":"lốc xoáy"}
+{"q":"Vợ tôi đang mang thai bị ra máu","got":"ra_mau_thai","key":"mang thai+ra máu"}
+{"q":"Có bầu ba tháng ra huyết","got":"ra_mau_thai","key":"có bầu+ra huyết"}
+{"q":"Bà bầu chảy máu âm đạo","got":"ra_mau_thai","key":"bà bầu+chảy máu"}
+{"q":"Mang thai bị đau bụng ra máu","got":"ra_mau_thai","key":"mang thai+ra máu"}
+{"q":"Bạn tôi nói muốn tự tử","got":"tu_tu","key":"tự tử"}
+{"q":"Có người vừa uống thuốc tự tử","got":"tu_tu","key":"uống thuốc tự tử"}
+{"q":"Em tôi định nhảy cầu","got":"tu_tu","key":"nhảy cầu"}
+{"q":"Người nhà có ý định tự sát","got":"tu_tu","key":"tự sát"}
+{"q":"Hàng xóm đánh đập con dã man","got":"bao_hanh_tre_em","key":"đánh đập con"}
+{"q":"Phát hiện trẻ bị xâm hại phải báo ai","got":"bao_hanh_tre_em","key":"bị xâm hại"}
+{"q":"Thấy em bé bị bạo hành","got":"bao_hanh_tre_em","key":"bạo hành"}
+{"q":"Bé bị người lớn xâm hại tình dục","got":"bao_hanh_tre_em","key":"xâm hại tình dục"}
+{"q":"Ngửi thấy mùi gas trong bếp","got":"ro_ri_gas","key":"mùi gas"}
+{"q":"Bình gas bị rò rỉ","got":"ro_ri_gas","key":"gas+rò"}
+{"q":"Nhà đang có mùi ga nồng nặc","got":"ro_ri_gas","key":"mùi ga"}
+{"q":"Hở van bình gas phải làm sao","got":"ro_ri_gas","key":"gas+hở"}
+{"q":"Bị kẹt trong thang máy","got":"ket_thang_may","key":"kẹt trong thang máy"}
+{"q":"Thang máy dừng giữa chừng không mở cửa","got":"ket_thang_may","key":"thang máy dừng"}
+{"q":"Mất điện khi đang ở trong thang máy","got":"ket_thang_may","key":"thang máy+mất điện"}
+{"q":"Mắc kẹt thang máy phải làm gì","got":"ket_thang_may","key":"mắc kẹt thang máy"}
+{"q":"Có người ngất dưới hầm biogas","got":"khi_doc_ham","key":"hầm+ngất"}
+{"q":"Bố tôi xuống giếng rồi bất tỉnh","got":"khi_doc_ham","key":"giếng+bất tỉnh"}
+{"q":"Người dọn bể phốt bị ngạt khí","got":"khi_doc_ham","key":"ngạt khí"}
+{"q":"Có người xuống hầm cầu không thấy lên","got":"khi_doc_ham","key":"hầm+không thấy lên"}
+{"q":"Vừa gặp tai nạn giao thông có người bị thương","got":"so_cuu_chung","key":"tai nạn giao thông"}
+{"q":"Thấy người nằm bất động bên đường","got":"so_cuu_chung","key":"nằm bất động"}
+{"q":"Gặp người bị nạn phải làm gì trước tiên","got":"so_cuu_chung","key":"người bị nạn"}
+{"q":"Tai nạn xe máy, người bị thương nằm dưới đường","got":"so_cuu_chung","key":"người bị thương"}
+{"q":"Bị đỉa bám chặt không gỡ được","got":"du_phong","key":""}
+{"q":"Sinh con giữa đường không kịp đến viện","got":"du_phong","key":""}
+{"q":"Bị cá đuối đâm","got":"du_phong","key":""}
+{"q":"Bị rết cắn","got":"du_phong","key":""}
+{"q":"Bị chuột cắn","got":"cho_meo_can","key":"chuột cắn"}
+{"q":"Ăn phải cá nóc","got":"du_phong","key":""}
+{"q":"Huyết áp tụt rất thấp","got":"du_phong","key":""}
+{"q":"Bị vật nặng đè lên người không cử động được","got":"khong","key":""}
+{"q":"Bị kẹt trong xe sau tai nạn","got":"mac_ket_cau_cuu","key":"bị kẹt"}
+{"q":"Bé bị nuốt đồng xu","got":"hoc_tre_so_sinh","key":"~hoc_tre_so_sinh:0.95"}
+{"q":"Sứa có ăn được không","got":"khong","key":""}
+{"q":"Nhện có mấy chân","got":"khong","key":""}
+{"q":"Pin điện thoại bao lâu thì chai","got":"khong","key":""}
+{"q":"Thang máy do ai phát minh","got":"khong","key":""}
+{"q":"Lốc xoáy hình thành thế nào","got":"khong","key":""}
+{"q":"Một bình gas giá bao nhiêu","got":"khong","key":""}
+{"q":"Trẻ mọc răng sữa lúc mấy tháng","got":"khong","key":""}
+{"q":"Bà bầu nên ăn gì","got":"khong","key":""}
+{"q":"Bể phốt bao lâu hút một lần","got":"khong","key":""}
+{"q":"Tai nạn giao thông năm 2025 giảm bao nhiêu","got":"khong","key":""}
+{"q":"Phim Người Nhện mới nhất","got":"khong","key":""}
+{"q":"Dòng chảy của sông Mê Kông dài bao nhiêu","got":"khong","key":""}
+{"q":"Ve sầu kêu vào mùa nào","got":"khong","key":""}
+{"q":"Nhạc chuông báo thức hay","got":"khong","key":""}
+{"q":"Cách trồng nấm rơm","got":"khong","key":""}
+{"q":"Thuốc nhỏ tai cho người lớn loại nào tốt","got":"khong","key":""}
+{"q":"Răng khôn mọc lệch có nên nhổ","got":"khong","key":""}
+{"q":"Mùa hè ở Đà Nẵng có lốc không","got":"khong","key":""}
+{"q":"Kẹo cao su nuốt vào có sao không","got":"khong","key":""}
+{"q":"Tôi buồn vì thi trượt","got":"khong","key":""}
+{"q":"Có sự cố nhà máy điện hạt nhân gần đây","got":"phong_xa","key":"hạt nhân+sự cố"}
+{"q":"Cảnh báo rò rỉ phóng xạ phải làm gì","got":"phong_xa","key":"rò rỉ phóng xạ"}
+{"q":"Nghe tin nổ bom hạt nhân thì trú ở đâu","got":"phong_xa","key":"bom hạt nhân"}
+{"q":"Bị nhiễm phóng xạ phải làm sao","got":"phong_xa","key":"nhiễm phóng xạ"}
+{"q":"Có kẻ xả súng trong trung tâm thương mại","got":"tan_cong_vu_khi","key":"xả súng"}
+{"q":"Có người cầm dao tấn công ngoài đường","got":"tan_cong_vu_khi","key":"cầm dao tấn công"}
+{"q":"Gặp khủng bố phải làm gì","got":"tan_cong_vu_khi","key":"khủng bố"}
+{"q":"Nghe tiếng súng nổ ở sân bay","got":"tan_cong_vu_khi","key":"tiếng súng"}
+{"q":"Vợ tôi sắp sinh mà xe cấp cứu chưa tới","got":"sinh_con_khan_cap","key":"sắp sinh"}
+{"q":"Bị vỡ ối giữa đường","got":"sinh_con_khan_cap","key":"vỡ ối"}
+{"q":"Đẻ rơi tại nhà phải làm sao","got":"sinh_con_khan_cap","key":"đẻ rơi"}
+{"q":"Chị tôi đang chuyển dạ đau bụng dữ dội","got":"sinh_con_khan_cap","key":"chuyển dạ"}
+{"q":"Ở châu Âu gọi cấp cứu số nào","got":"so_khan_cap_quoc_te","key":"châu âu+cấp cứu"}
+{"q":"Đi Mỹ gặp chuyện khẩn cấp gọi số mấy","got":"so_khan_cap_quoc_te","key":"mỹ+khẩn cấp"}
+{"q":"Số cảnh sát ở Anh là gì","got":"so_khan_cap_quoc_te","key":"anh+cảnh sát"}
+{"q":"Đang du lịch nước ngoài cần gọi cấp cứu","got":"so_khan_cap_quoc_te","key":"nước ngoài+cấp cứu"}
+{"q":"Leo núi tuyết bị tê cóng ngón tay","got":"te_cong","key":"tê cóng"}
+{"q":"Ngón chân trắng bệch cứng đờ vì lạnh","got":"te_cong","key":"trắng bệch+lạnh"}
+{"q":"Bị bỏng lạnh ở tai","got":"te_cong","key":"bỏng lạnh"}
+{"q":"Tê cóng có nên xoa bóp không","got":"te_cong","key":"tê cóng"}
+{"q":"Xe bị kẹt trong bão tuyết","got":"mac_ket_cau_cuu","key":"xe bị kẹt"}
+{"q":"Đang lái xe thì gặp bão tuyết","got":"bao_tuyet","key":"bão tuyết"}
+{"q":"Bị mắc kẹt trên đường đầy tuyết","got":"bao_tuyet","key":"đường đầy tuyết"}
+{"q":"Tuyết rơi dày không đi được nữa","got":"bao_tuyet","key":"tuyết rơi dày"}
+{"q":"Gặp gấu trong rừng","got":"gap_gau","key":"gặp gấu"}
+{"q":"Con gấu đang tiến lại gần","got":"gap_gau","key":"con gấu"}
+{"q":"Bị gấu tấn công phải làm gì","got":"gap_gau","key":"gấu tấn công"}
+{"q":"Đi cắm trại thấy gấu đen","got":"gap_gau","key":"thấy gấu"}
+{"q":"Đang lái xe gặp bão cát","got":"bao_cat","key":"bão cát"}
+{"q":"Bão bụi mù mịt trên đường cao tốc","got":"bao_cat","key":"bụi mù mịt"}
+{"q":"Gặp bão cát ở sa mạc","got":"bao_cat","key":"bão cát"}
+{"q":"Lốc bụi che hết tầm nhìn khi lái xe","got":"bao_cat","key":"lốc bụi"}
+{"q":"Bị kẹt giữa đám đông chen lấn","got":"giam_dap","key":"đám đông chen lấn"}
+{"q":"Đám đông xô đẩy giẫm đạp ở lễ hội","got":"giam_dap","key":"giẫm đạp"}
+{"q":"Bị ngã giữa đám đông","got":"giam_dap","key":"ngã giữa đám đông"}
+{"q":"Chen chúc ở sự kiện không thở được","got":"giam_dap","key":"chen chúc"}
+{"q":"Bị rắn biển cắn khi đi lặn","got":"ran_can","key":"bị rắn"}
+{"q":"Bị cá mập cắn","got":"du_phong","key":""}
+{"q":"Bị rết cắn sưng to","got":"du_phong","key":""}
+{"q":"Bị kẹt dưới đống đổ nát","got":"mac_ket_cau_cuu","key":"bị kẹt"}
+{"q":"Bị lạc trên núi tuyết","got":"bao_tuyet","key":"tuyết+lạc"}
+{"q":"Núi lửa phun trào gần khách sạn","got":"khong","key":""}
+{"q":"Bị say độ cao khi leo núi","got":"du_phong","key":""}
+{"q":"Có tuyết lở","got":"du_phong","key":""}
+{"q":"Bị nhiễm khói cháy rừng","got":"du_phong","key":""}
+{"q":"Bị chó sói tấn công","got":"cho_meo_can","key":"bị chó"}
+{"q":"Bị cá sấu tấn công","got":"du_phong","key":""}
+{"q":"Đột nhiên mất thị lực một bên mắt","got":"du_phong","key":""}
+{"q":"Đau đầu dữ dội như sét đánh","got":"giong_set","key":"sét đánh"}
+{"q":"Trẻ bị sốt phát ban tím","got":"sot_cao","key":"bị sốt"}
+{"q":"Bị thú hoang cào","got":"du_phong","key":""}
+{"q":"Có người ngất trên máy bay","got":"ngat_xiu","key":"ngất"}
+{"q":"Bị chuột rút giữa hồ sâu","got":"du_phong","key":""}
+{"q":"Bị kẹt chân vào đường ray tàu","got":"mac_ket_cau_cuu","key":"bị kẹt"}
+{"q":"Bé nuốt nam châm","got":"khong","key":""}
+{"q":"Nhà máy điện hạt nhân hoạt động thế nào","got":"khong","key":""}
+{"q":"Phim về khủng bố hay nhất","got":"khong","key":""}
+{"q":"Sinh con năm nào hợp tuổi","got":"khong","key":""}
+{"q":"Mã vùng điện thoại nước Pháp là gì","got":"khong","key":""}
+{"q":"Mua áo khoác chống lạnh ở đâu","got":"khong","key":""}
+{"q":"Tuyết rơi ở Sa Pa vào tháng mấy","got":"khong","key":""}
+{"q":"Gấu bông giá bao nhiêu","got":"khong","key":""}
+{"q":"Sa mạc Sahara rộng bao nhiêu","got":"khong","key":""}
+{"q":"Lễ hội đông người nhất Việt Nam","got":"khong","key":""}
+{"q":"Bão Yagi năm 2024 mạnh cấp mấy","got":"khong","key":""}
+{"q":"Súng nước cho trẻ em loại nào tốt","got":"khong","key":""}
+{"q":"Ở châu Âu tiền gì","got":"khong","key":""}
+{"q":"Đi Mỹ cần visa không","got":"khong","key":""}
+{"q":"Gấu trúc ăn gì","got":"khong","key":""}
+{"q":"Người Anh uống trà lúc mấy giờ","got":"khong","key":""}
+{"q":"Tê tay khi ngủ dậy là bệnh gì","got":"khong","key":""}
+{"q":"Bụi mịn ở Hà Nội hôm nay","got":"khong","key":""}
+{"q":"Chọn đồ sơ sinh cho bé","got":"khong","key":""}
+{"q":"Phóng xạ là gì","got":"khong","key":""}
+{"q":"Có nên mua xe điện không","got":"khong","key":""}
+{"q":"mình sốt ruột trợ kết quả phỉ","got":"khong","key":""}
+{"q":"bị điện thoại hết nanh khi trời lạnh","got":"khong","key":""}
+{"q":"xúc cao bốn ngựa đồ không hả","got":"khong","key":""}
+{"q":"một người bị đại tá đường lên cơn hạ đường huyết","got":"ha_duong_huyet","key":"hạ đường huyết"}
+{"q":"trời lên vì giật e quá","got":"khong","key":""}
+{"q":"thế cậu tang chắc vay cô tay rồi","got":"khong","key":""}
+{"q":"thạnh đe lệnh mệt đuối sức quá","got":"khong","key":""}
+{"q":"đang leo cầu thang thì thức nước khó thở","got":"du_phong","key":""}
+{"q":"phi biền sao luôn là gì","got":"khong","key":""}
+{"q":"nhà mình nên chuẩn bị tú đô gân cấp bôm gì","got":"do_dung_khan_cap","key":"~do_dung_khan_cap:0.93"}
+{"q":"làm sao cầm máu khi bị mạnh xanh cứa vào chân","got":"chay_mau","key":"cầm máu"}
+{"q":"vé xe máy chê trận máu chảy dong dong","got":"chay_mau","key":"máu+chảy"}
+{"q":"đứa nhỏ nét hạ đầu vào muông","got":"khong","key":""}
+{"q":"ăn hạt giữa bị hóc thọ ngoài không ra","got":"hoc_di_vat","key":"bị hóc"}
+{"q":"số cứu mà ở việt nam là bao nhiêu","got":"khong","key":""}
+{"q":"tóc bị bén lừa khi đốt vàng mã","got":"chay_quan_ao","key":"bén+tóc"}
+{"q":"công nhận rời từ săn ráo xuống có nên đờ dây không quá","got":"khong","key":""}
+{"q":"đang trong cơn đau mà cửa kính dùng mạch","got":"du_phong","key":""}
+{"q":"bị cá chê đâm vào khay","got":"du_phong","key":""}
+{"q":"cúc cúp điện mấy ngày lên sao vào thì sinh hoạt thế nào","got":"mat_dien","key":"cúp điện"}
+{"q":"thấy giống như sạt lở thì phải chạy đi đầu","got":"sat_lo","key":"sạt lở"}
+{"q":"mới bị rắn mụ ở ngón tay khi gion cun","got":"ran_can","key":"bị rắn"}
+{"q":"thấy người bị giật điện ở cột biển ngoài đường","got":"dien_giat","key":"bị giật điện"}
+{"q":"cúng kháng sinh xong nổi mệt đầy khắp người","got":"khong","key":""}
+{"q":"lưu vệ hết nước sạch thì lọc nước uống bằng gì cũng","got":"nuoc_sach","key":"nước sạch"}
+{"q":"mật ong rừng có tốt không","got":"khong","key":""}
+{"q":"thẽ sợi sặc sừng đến muộn phải nắn sao","got":"khong","key":""}
+{"q":"bắn ninh lưỡng bị trái khép","got":"khong","key":""}
+{"q":"cụ bà bị khó thở bộ tính thái","got":"du_phong","key":""}
+{"q":"trẻ bị thiêu cháy mất nước thì cho uống rỉ","got":"mat_nuoc","key":"mất nước"}
+{"q":"đứa nhỏ thé từ trên dững xuống đập đầu","got":"chan_thuong_dau","key":"đập đầu"}
+{"q":"bục mê bóng cho các chân tướng","got":"khong","key":""}
+{"q":"đi rừng bị trượt chân bị gay chân cách lòng nẹt tam","got":"khong","key":""}
+{"q":"thai sau nhà bị nước đấp đá lăn xuống","got":"khong","key":""}
+{"q":"đang đi qua ngường thì nghe tiếng âm ầm từ từng nguồn","got":"khong","key":""}
+{"q":"kể chuyện cô tiết sơn tỉnh tuyệt tình và lũ lụt","got":"ngap_lut","key":"lũ lụt"}
+{"q":"nắm gay gắt mấy hôm này giữ sức khỏe thế nào","got":"khong","key":""}
+{"q":"để uống thêm dầu mạt","got":"khong","key":""}
+{"q":"cuộc thi này nóng bỏng quá","got":"khong","key":""}
+{"q":"ở trên núi bị lạnh cóng tay chậm thính thái","got":"ha_than_nhiet","key":"bị lạnh cóng"}
+{"q":"cây kéo đâm vào bụi có nên rút ra liên không","got":"vat_dam","key":"có nên rút ra"}
+{"q":"bé nuôi tháng tuổi mỹ hóc điếm tháo","got":"hoc_tre_so_sinh","key":"hóc+tháng"}
+{"q":"cứ được bưởi dưới nước lại lên dở dũng cập","got":"ngap_lut","key":"nước+lên"}
+{"q":"củ trò đang bốc cháy khói đầy hành lang","got":"chay_nha","key":"cháy+bốc"}
+{"q":"nhà bị nước vào vậy người ra không đi được","got":"khong","key":""}
+{"q":"tăng cũng muốn thổi nuốt viên bi bị nghèn tím mặn","got":"khong","key":""}
+{"q":"mua được thực phẩm tại nhà lô vòi của","got":"khong","key":""}
+{"q":"nghe tiếng sói miên giật mình","got":"khong","key":""}
+{"q":"người làm thủa ngất đi khi đứng dậy","got":"ngat_xiu","key":"ngất đi"}
+{"q":"bị rét cắn sưng đau","got":"du_phong","key":""}
+{"q":"bạn cũng lớp lên cơn động thinh trong giờ học","got":"khong","key":""}
+{"q":"lo giá săn dâu tám bãi tí nào","got":"khong","key":""}
+{"q":"vì một khúc che nhọn lăn vào bắt tay","got":"khong","key":""}
+{"q":"xong lục cả nhà bị ngứa ra phong bền sao","got":"phong_benh_sau_lu","key":"~phong_benh_sau_lu:0.95"}
+{"q":"sếp sẽ kinh thành từ đầu","got":"khong","key":""}
+{"q":"con bị con bong che mắt dựng hút","got":"khong","key":""}
+{"q":"mộ bảo sắp đến thì da của nhà cửa thế nào","got":"truoc_bao","key":"bao sap den"}
+{"q":"thuốc sợ bắn vào mắt khi đang phụ","got":"mat","key":"bắn vào mắt"}
+{"q":"phòng dịch sao ngập lụt cho trẻ nhỏ","got":"phong_benh_sau_lu","key":"phòng dịch"}
+{"q":"nghĩa cúp điện khu vực thủ đức thôn này","got":"mat_dien","key":"cúp điện"}
+{"q":"biết nhà bị cháy lựa lạc lên thùng","got":"chay_nha","key":"nhà bị cháy"}
+{"q":"còn bị sốt xuất huyệt thì theo dõi dị","got":"sot_cao","key":"bị sốt"}
+{"q":"cô điện trong nhà bị đập nước sổ của","got":"an_toan_dien_ngap","key":"điện+nước"}
+{"q":"nghe nói ngày mai báo tới nhà ven biển nên làm gì","got":"khong","key":""}
+{"q":"xin lật mặt có hay không","got":"khong","key":""}
+{"q":"đi biên bị sứa lượn chết","got":"sua_dot","key":"bị sứa"}
+{"q":"mà tôi đột nhiên bị tể một bên mặt và nói không do","got":"dot_quy","key":"~dot_quy:0.99"}
+{"q":"ông tôi bị đào thắt ngực và mô lạnh","got":"dau_nguc","key":"thắt+ngực"}
+{"q":"bị ong đất đốt nhiều đốt","got":"ong_dot","key":"ong+đốt"}
+{"q":"hôm nay nắng đẹp đi trời đầu","got":"khong","key":""}
+{"q":"có người bị đau rất thương","got":"du_phong","key":""}
+{"q":"có lẽ dĩ dậy dân vũ ven sông thì làm dị tật","got":"khong","key":""}
+{"q":"đứng trong cơ có bạn bị sinh","got":"khong","key":""}
+{"q":"đang hàn thì quần mắt lựa chọn","got":"khong","key":""}
+{"q":"bị tai nạn giao thông thì gọi số nào cũng","got":"so_khan_cap","key":"gọi số nào"}
+{"q":"rắn hung mạng cắn thì phải làm gì trong lớp trợ xẹ","got":"ran_can","key":"rắn+cắn"}
+{"q":"tại sao rắn không có chuyện gì","got":"khong","key":""}
+{"q":"rau trong vượn bị ngập lụt có ăn được không","got":"thuc_pham_sau_lu","key":"rau+ngập"}
+{"q":"gió bao đang giật mạnh có nên chú dưới gầm câu không","got":"trong_bao","key":"~trong_bao:0.98"}
+{"q":"lại trong dinh chới sắc tối","got":"khong","key":""}
+{"q":"người nhà tự nhiên méo mặt thiếu tai phải","got":"dot_quy","key":"méo mặt"}
+{"q":"từ bản dưới chân núi thấy nước suối dân nhanh bất thượng","got":"khong","key":""}
+{"q":"chó con nhà mình dễ thực quá","got":"khong","key":""}
+{"q":"đau tại giữa rồ cháy nước","got":"du_phong","key":""}
+{"q":"sau khi ăn đồ lạ bị đi ngoài thỏ nước","got":"ngo_doc_thuc_pham","key":"ăn+đi ngoài"}
+{"q":"đưa thuyền bị loại đau quá","got":"du_phong","key":""}
+{"q":"mất điện cả ngày sự của con trong tủ lạnh con dụng được không","got":"mat_dien","key":"mất điện"}
+{"q":"có sét đánh gần nhà ở trong nhà cần tránh dịch bệnh","got":"giong_set","key":"sét đánh"}
+{"q":"nước lù lên tới cưa rồi làm sao bây giờ","got":"ngap_lut","key":"nước+lên"}
+{"q":"đi bộ dưới nắng ngắt bị chóng mặt muốn siêng","got":"soc_nhiet","key":"nắng+chóng mặt"}
+{"q":"dược triều đồ dùng mua lụa bảo cho gia đình bốn người","got":"khong","key":""}
+{"q":"dạ vàng hôm nay thằng mạnh","got":"khong","key":""}
+{"q":"kẹt xe trên cầu dài còn quá","got":"khong","key":""}
+{"q":"bao tạm dội xà đương có dị nguy hiểm","got":"khong","key":""}
+{"q":"chó nhà cắn con tôi chó đã tiêm phòng rồi có sao không","got":"cho_meo_can","key":"chó+cắn+tôi"}
+{"q":"ăn than nóc bị thề một","got":"khong","key":""}
+{"q":"mình muốn mua máy phát điện thoại nào tốt","got":"mat_dien","key":"máy phát điện"}
+{"q":"chỉ tôi cách ấn nực cứu người ngưng tim","got":"hoi_suc_tim_phoi","key":"ngưng tim"}
+{"q":"nước trong bể bị ngập lụt khử trùng ra sao","got":"nuoc_sach","key":"nước+khử trùng+lụt"}
+{"q":"giảm sử phân loại nao bền","got":"khong","key":""}
+{"q":"đóng dài nay hàng chục","got":"khong","key":""}
+{"q":"hai đứa nhỏ thăm tao bị chỉ mới kéo lên được một được","got":"khong","key":""}
+{"q":"nhà mình mới sượn lại thượng bị nứt nở","got":"khong","key":""}
+{"q":"nghĩ ông đốt xong xương mộ có tờ","got":"du_phong","key":""}
+{"q":"miếng nước sôi rồi vào trần gian đỏ rác","got":"khong","key":""}
+{"q":"thấy dây điện đứt năm dưới đường ngực","got":"an_toan_dien_ngap","key":"dây điện đứt"}
+{"q":"người làm ruông bị sành ăn năm da khu đóng","got":"khong","key":""}
+{"q":"bị tong sức rõ rệt kép dai dị sét","got":"khong","key":""}
+{"q":"bị treo cổ trên sân tấy","got":"tu_tu","key":"treo cổ"}
+{"q":"con chó nhà hàng xóm xu suốt đêm","got":"khong","key":""}
+{"q":"đừng bị ngập sâu có nên lội qua để về nhà","got":"lu_xe","key":"lội+ngập"}
+{"q":"đang chai bộ bị chuột giúp ở đủ","got":"khong","key":""}
+{"q":"có người năng ngụp trên bạn ngoại không trả lời lục không phập phồng","got":"khong","key":""}
+{"q":"bị đau rặng sinh mạng","got":"du_phong","key":""}
+{"q":"bị chai màu cam mai không ngưng","got":"khong","key":""}
+{"q":"mất điện thì dùng máy phát điện đạn ở đâu","got":"mat_dien","key":"dùng máy phát điện"}
+{"q":"nước vừa giúp vào nhà dọn vùng đất cần cần thần dịp","got":"khong","key":""}
+{"q":"để máy phát điện trong bếp có sao không","got":"ngo_doc_khi_co","key":"máy phát+bếp"}
+{"q":"nụ trẻ trong xóm hay trời trọ gì","got":"khong","key":""}
+{"q":"mình bị cháy nắng muốn đi biệt thiếp","got":"khong","key":""}
+{"q":"người bị nạt nước vừa được đưa lên bờ thì sợ cứu sao","got":"ngap_lut","key":"nước+lên"}
+{"q":"đang cộng cả thịt chơi nổi dâm","got":"khong","key":""}
+{"q":"còn nó chăn vào mồi cơm điện bị phòng thay","got":"khong","key":""}
+{"q":"bị khi cắn thì bị rung lên cơn","got":"khong","key":""}
+{"q":"có độc đất mạnh và nhà dùng nắp","got":"dong_dat","key":"~dong_dat:0.97"}
+{"q":"cả nhà đóng kín cửa đốt tạ sưởi sáng ra cũng đau đầu","got":"du_phong","key":""}
+{"q":"sẽ bị nước cuốn trội người trong xe phải làm gì","got":"mac_ket_cau_cuu","key":"bị nước cuốn"}
+{"q":"ta muốn sống ngược đầu","got":"khong","key":""}
+{"q":"tha xi nào hát bài báo tố cuộc đời","got":"khong","key":""}
+{"q":"con mèo nhà mình cứ cao về ghe sau fa","got":"khong","key":""}
+{"q":"trời ổi nóng quá người ra ở ná nên làm gì","got":"khong","key":""}
+{"q":"giờ thắn có nên mang theo vật nuôi không","got":"khong","key":""}
+{"q":"con mình tó tay vào ô cắm bị điện giật","got":"dien_giat","key":"điện giật"}
+{"q":"thấy ông cụ nga xuống co giật thay chân rung lên","got":"co_giat","key":"co giật"}
+{"q":"bóng gần mắt cá chẹn thì sợ cứu sao","got":"bong_gan","key":"~bong_gan:0.97"}
+{"q":"vết thượng bị nhân chủng có mũi","got":"khong","key":""}
+{"q":"sốt cao không hẳn phải làm sao","got":"sot_cao","key":"sốt cao"}
+{"q":"huyết áp lên hai trăm","got":"du_phong","key":""}
+{"q":"vì dao cắt sông máu chạy nhiều không","got":"chay_mau","key":"mau chay nhieu"}
+{"q":"gái ba cuối bất tình không thơm","got":"khong","key":""}
+{"q":"nhìn nọ cặp vàng có hay không","got":"khong","key":""}
+{"q":"bị khiên thiện nấm vào tay","got":"khong","key":""}
+{"q":"là bóng đi chặt khớp vai to","got":"khong","key":""}
+{"q":"nam tôi đứng lâu bị mất","got":"khong","key":""}
+{"q":"về sau nhà có vết nước sở sạt lựu","got":"khong","key":""}
+{"q":"người lớn sốt cao hỉ","got":"sot_cao","key":"sốt cao"}
+{"q":"mắt đau là gì","got":"khong","key":""}
+{"q":"ăn đấm hái trong rừng bị nộm","got":"khong","key":""}
+{"q":"cùng tỏ hợp với cung nào","got":"khong","key":""}
+{"q":"nụ trẻ trong sóng trời cho di phủ","got":"khong","key":""}
+{"q":"cái mắt nào tốt cho cùng thâm tâm","got":"khong","key":""}
+{"q":"cầu thủ bị chật khớp nhì bao lâu mới đá lại","got":"khong","key":""}
+{"q":"trẻ em ngưng thờ phải ép tỉ thế nào","got":"hoi_suc_tre_em","key":"tre em ngung tho"}
+{"q":"mỹ nên độc đáo","got":"khong","key":""}
+{"q":"đống đất lớn nhất lịch sử xảy ra ở đâu","got":"khong","key":""}
+{"q":"dặm biển đay chó mặt sạ","got":"khong","key":""}
+{"q":"tai nạn lắm vụ bạn thầy","got":"so_cuu_chung","key":"tai nạn"}
+{"q":"để nước sôi đổ vào trận","got":"bong","key":"nước sôi đổ vào"}
+{"q":"thanh sắt đâm xuyên vào nụ cười","got":"vat_dam","key":"thanh sắt đâm"}
+{"q":"trưa nắng nóng bốn mươi đổ căn phòng tránh di","got":"nang_nong","key":"nắng nóng"}
+{"q":"đường huyết bình thường lạ bao nhiêu","got":"khong","key":""}
+{"q":"lộ qua dòng nước lụ có an toàn không có","got":"lu_xe","key":"qua+dòng nước"}
+{"q":"nhà đang dùng lắc mạnh có đông đất","got":"dong_dat","key":"~dong_dat:1.00"}
+{"q":"ngón tay bị đứt hẳn có nối lại được không giờ làm gì","got":"dut_chi","key":"đứt hẳn"}
+{"q":"bệnh thì loài găm vào mắt","got":"mat","key":"găm vào mắt"}
+{"q":"bị vội một dính vào người bọng rác","got":"khong","key":""}
+{"q":"tái sau lại bị chanh máu cam","got":"chay_mau_cam","key":"máu cam"}
+{"q":"còn tôi sốc cao muốn nguội độ","got":"khong","key":""}
+{"q":"đau bụng rồi vùng bụng dưới bên phải","got":"du_phong","key":""}
+{"q":"cô tô định đi được báo xa","got":"khong","key":""}
+{"q":"nước đang lên ngập vào nhà","got":"ngap_lut","key":"nước+lên"}
+{"q":"mới lôi có tác dụng gì cho sức khỏe của","got":"khong","key":""}
+{"q":"ct là viết tắt của gì","got":"khong","key":""}
+{"q":"bui bay vào mắt cay sẽ phải làm sao để","got":"mat","key":"bay vào mắt"}
+{"q":"bị sửa đốt khi cắm biển","got":"du_phong","key":""}
+{"q":"tôi bị sốc khi biết kiết qua x số không","got":"khong","key":""}
+{"q":"rươu vàng đó uống với món gì","got":"khong","key":""}
+{"q":"mẹ tôi ăn nấm ngựa có tốt không","got":"khong","key":""}
+{"q":"táo tăng hoàng uy đen lửa","got":"khong","key":""}
+{"q":"ngô độc rượu phải xử lý ra sao","got":"ngo_doc_ruou","key":"ngo doc ruou"}
+{"q":"bước cặn sưởi trong phong thín bị đau đầu bươn lên","got":"du_phong","key":""}
+{"q":"nhẹ tiến lăn tầm trên núi sợ lô quét","got":"khong","key":""}
+{"q":"tuần mò cặp trên con tôi","got":"khong","key":""}
+{"q":"tôi bị treo cô trần sinh tỏ","got":"khong","key":""}
+{"q":"mị mo các đốt vào tai","got":"du_phong","key":""}
+{"q":"đôi mắt mid nói nghĩa là gì","got":"khong","key":""}
+{"q":"em bé sơ sinh nương tựa","got":"hoi_suc_so_sinh","key":"~hoi_suc_so_sinh:0.94"}
+{"q":"vừa vứt được người dưới ảo lên","got":"khong","key":""}
+{"q":"người nhàm muốn thử tự","got":"tu_tu","key":"~tu_tu:0.92"}
+{"q":"ken chuyên là bệnh gì có lây không","got":"khong","key":""}
+{"q":"bé tiêu chai nhiều lần mắc trụng","got":"khong","key":""}
+{"q":"nhà ngập nước có nên bận cầu dao không thể","got":"an_toan_dien_ngap","key":"cầu dao+ngập"}
+{"q":"bị bọ cắp đốt xương nọ","got":"bo_cap","key":"bo cap dot"}
+{"q":"chen nốt phái viên cúc báo","got":"khong","key":""}
+{"q":"đất rơi một đốt ngón tay phải giữ thế nào","got":"du_phong","key":""}
+{"q":"số cạn chùa làm thế nào","got":"khong","key":""}
+{"q":"đi làm dây bị rắn mô vào trận","got":"ran_can","key":"bị rắn"}
+{"q":"mỹ xuân khó tự quán","got":"khong","key":""}
+{"q":"còn tôi in con hạnh phúc","got":"khong","key":""}
+{"q":"báo đã đổ bộ gió rất to","got":"khong","key":""}
+{"q":"đông hóa chết phải làm sao","got":"khong","key":""}
+{"q":"phát bạn khắp người sau khi uống thuốc","got":"du_phong","key":""}
+{"q":"hàn đường huyết thì phải làm sao","got":"khong","key":""}
+{"q":"cả nhà ăn nấm lạ sợ nấm độc","got":"ngo_doc_nam","key":"nấm độc"}
+{"q":"túi đâu con cấp bậu những gì tôi","got":"khong","key":""}
+{"q":"trông tôi tự nhiên nào cũng gọi không tinh không thở","got":"hoi_suc_tim_phoi","key":"không thở"}
+{"q":"miên độc thực phẩm phải làm sao","got":"khong","key":""}
+{"q":"nạp từng mái nhà xuống gập đầu","got":"khong","key":""}
+{"q":"để gì vẫn mắc trong tai","got":"di_vat_tai","key":"tai+mắc"}
+{"q":"thứ nhất đang ở ngoài đậu thì có sấn sét","got":"giong_set","key":"sét+đang"}
+{"q":"dấu hiệu sốt sau thai nan phải làm gì với","got":"khong","key":""}
+{"q":"sập thiếu người bị ngộ độc thuốc ngu","got":"ngo_doc_hoa_chat","key":"ngộ độc thuốc"}
+{"q":"ở biển thấy nước giúp đột ngột có song tăng không","got":"khong","key":""}
+{"q":"tôi bị thực đường máu chóng mặt quá","got":"du_phong","key":""}
+{"q":"vang thắng biển thấy động đất rất mạnh","got":"song_than","key":"biển+động đất"}
+{"q":"mẹ tôi tự nhiên méo miệng tay yếu tôi","got":"dot_quy","key":"méo miệng"}
+{"q":"chính quyền yêu cầu sợ thán cần làm dị tật","got":"khong","key":""}
+{"q":"đường ngập sâu ổ tàu có đi qua được không","got":"lu_xe","key":"đi qua+ngập"}
+{"q":"cả nhà ăn cùng xăm ngụy đao vùng nơ vói","got":"khong","key":""}
+{"q":"nên rằng cô giáo","got":"khong","key":""}
+{"q":"tôi muốn học sơ cứu thì học ở đâu","got":"du_phong","key":""}
+{"q":"bị ông vỏ dè nớp nhường nốt","got":"khong","key":""}
+{"q":"bị công suất người hiện đại","got":"khong","key":""}
+{"q":"nga xong khớp mối sưng đau chắc bị bỏng lân","got":"bong_gan","key":"khớp+sưng"}
+{"q":"nhân cơn hẹn xuyên mà không có thuốc thì sao","got":"khong","key":""}
+{"q":"làm ngoài nắn bị trán người nóng ran người","got":"khong","key":""}
+{"q":"người bị đông tình lên cơn giận","got":"khong","key":""}
+{"q":"nước cây rửa bắn vào già rác bọc","got":"khong","key":""}
+{"q":"người bị hen thở xích mụ tín","got":"hen_suyen","key":"bị hen"}
+{"q":"ăn hai sang bị đau bung tiêu chay liên tục","got":"du_phong","key":""}
+{"q":"là bên cạnh đang cháy khói tràn sang","got":"chay_nha","key":"đang cháy"}
+{"q":"món sâm rau chuột bọt","got":"khong","key":""}
+{"q":"ép tìm cho trẻ em thị trấn sâu vào nhiều cây","got":"hoi_suc_tre_em","key":"ep tim cho tre em"}
+{"q":"nón tay sai có ý nghĩa gì","got":"khong","key":""}
+{"q":"mới ăn nấm dựng chưa thấy gì có cân đi viên không","got":"khong","key":""}
+{"q":"cảnh báo sóng tận thị chạy đi đầu","got":"khong","key":""}
+{"q":"còn tôi chay máu cảm không ngừng thì","got":"chay_mau_cam","key":"chay mau cam"}
+{"q":"nước điện hai ngày đỗ trong tủ lạnh con ăn được không từ","got":"an_toan_dien_ngap","key":"điện+nước"}
+{"q":"cháu bé năm tuổi đuối nước không thợ","got":"duoi_nuoc","key":"đuối nước"}
+{"q":"bị kẹt trên mái nhà giữa lụ làm sao để được cứu","got":"mac_ket_cau_cuu","key":"kẹt trên mái"}
+{"q":"sóng thân đến phải làm gì","got":"khong","key":""}
+{"q":"đến ba tháng bị sạp hạt nhựa","got":"khong","key":""}
+{"q":"người bị tai nạn mất nhiều máu mặt thái miệt ra lạnh và mô","got":"so_cuu_chung","key":"bị tai nạn"}
+{"q":"sở cứu người bị choáng do mất máu","got":"soc","key":"choáng do mất máu"}
+{"q":"cảm giác lận đông lăng mồ","got":"khong","key":""}
+{"q":"bị chó hàng xóm cắn chai máu","got":"cho_meo_can","key":"bị chó"}
+{"q":"đi lại đường trong rừng bạn đền","got":"khong","key":""}
+{"q":"thuốc nhuộm tóc có hai không","got":"khong","key":""}
+{"q":"hô hấp nhân tạo cho trẻ sợ sinh thế nào","got":"hoi_suc_so_sinh","key":"ho hap nhan tao cho tre so sinh"}
+{"q":"có nên lái xe qua đoạn đường ngập không","got":"lu_xe","key":"xe+ngập"}
+{"q":"bố tôi đau thắt ngực làn da tay trái","got":"dau_nguc","key":"đau thắt ngực"}
+{"q":"bé nhà tôi bà thổi nên học gì","got":"khong","key":""}
+{"q":"acifi có công thức là gì","got":"khong","key":""}
+{"q":"đế sốt bạ chín độ có nên trương đá không","got":"sot_cao","key":"sot ba chin"}
+{"q":"con tôi ốm nhân phúc trị sâu","got":"khong","key":""}
+{"q":"thằng bé bị quẹt chặt vào mắt chai máu","got":"khong","key":""}
+{"q":"nạn nhân bị sắp tớ nhánh lơ mơ","got":"so_cuu_chung","key":"nạn nhân"}
+{"q":"trong nguyệt là dễ bị","got":"khong","key":""}
+{"q":"anh thồm xong sưng mồi khó thở","got":"soc_phan_ve","key":"sung moi kho tho"}
+{"q":"tăng em bị điện giật gaza","got":"dien_giat","key":"điện giật"}
+{"q":"ta phải đỗ ô tiêu nôm lôi","got":"khong","key":""}
+{"q":"nếu ngô độc mẹ nọ thì làm gì","got":"khong","key":""}
+{"q":"sao lụa làm sao có nước sạch để uống cho","got":"nuoc_sach","key":"nước sạch"}
+{"q":"nấm linh chi có tác dụng gì ở","got":"khong","key":""}
+{"q":"con tôi bị hóc xương cá không tở được","got":"hoc_di_vat","key":"hóc xương cá"}
+{"q":"bị rét cắn xương nao và","got":"khong","key":""}
+{"q":"lấy làm giảng viên của","got":"khong","key":""}
+{"q":"then hoa lần đầu nên nói gì","got":"khong","key":""}
+{"q":"ngâm nước lâu lâu người dùng lành tính thái","got":"khong","key":""}
+{"q":"động động đất nên đứng ở khung cửa không","got":"dong_dat","key":"động đất"}
+{"q":"ép tìm la phi của ai","got":"khong","key":""}
+{"q":"số vọ cứu vo là số mấy","got":"khong","key":""}
+{"q":"đông đất thì phải làm gì","got":"khong","key":""}
+{"q":"máu lọ đấm thế nào trong bằng","got":"khong","key":""}
+{"q":"cắt ngâm rượu chuối hồn","got":"khong","key":""}
+{"q":"sau lũ phong bệnh thế nào","got":"phong_benh_sau_lu","key":"bệnh+lũ"}
+{"q":"che dưới một tuổi không tưởng phải làm sao","got":"khong","key":""}
+{"q":"bài hát sóng của xuân quên","got":"khong","key":""}
+{"q":"người ngụy tiểu đường lạ nên nói lắp bắp ngụy hàn đường","got":"ha_duong_huyet","key":"tiểu đường+lắp bắp"}
+{"q":"xóm ngoài phải yếu phải làm sao","got":"khong","key":""}
+{"q":"nói vui chảy răm răm phải làm gì","got":"khong","key":""}
+{"q":"bị chạy máu mũi khi xử lý thế nào","got":"chay_mau_cam","key":"máu mũi"}
+{"q":"nước lưu sông hồng năm một nghìn chín trăm bay mươi mốt cao vào nhiều","got":"khong","key":""}
+{"q":"bạn sẽ nghĩ ngay tại chỗ","got":"khong","key":""}
+{"q":"cung hàng xóm uống rượu xong lỡ mỡ khó thở sử dụng pha cung công nghiệp","got":"ngo_doc_ruou","key":"rượu+khó thở"}
+{"q":"đang ngủ thì đống đất chạy ra ngoài hay ở trong","got":"khong","key":""}
+{"q":"đệ ác trên bắn đau tai","got":"du_phong","key":""}
+{"q":"vợ tôi sắp đẹn mà không kịp đến viên","got":"khong","key":""}
+{"q":"bố tôi bị tiểu đừng rời rụng dây và mua hội chắc thuộc đường huyết","got":"ha_duong_huyet","key":"~ha_duong_huyet:0.98"}
+{"q":"mất điện cạm cần phải làm sao có thể","got":"mat_dien","key":"mất điện"}
+{"q":"đào vừa quảng về nhà cần chú ý gì","got":"khong","key":""}
+{"q":"chai máu càng có nên ngừa đầu ra sau không quên","got":"chay_mau","key":"máu+ra"}
+{"q":"hai vũ gia ngào liêu","got":"khong","key":""}
+{"q":"hướng dịu dàng bị đôi mắt","got":"khong","key":""}
+{"q":"bé hai tám tuổi tính tái không tệ","got":"khong","key":""}
+{"q":"mai bao vào thì cần chuẩn bị gì","got":"do_dung_khan_cap","key":"cần chuẩn bị gì"}
+{"q":"để thả đuổi tầm thi vị biên","got":"khong","key":""}
+{"q":"mì đê bám vào trận không ngờ ra được","got":"du_phong","key":""}
+{"q":"để chút giúp thì đám người","got":"khong","key":""}
+{"q":"ngu độc nấm thì phải làm gì","got":"ngo_doc_nam","key":"nấm+độc"}
+{"q":"xe máy đi qua chỗ nước chảy xiết được không có","got":"lu_xe","key":"xe+nước chảy xiết"}
+{"q":"máy cắt đứt nghiêng đón thay rồi","got":"khong","key":""}
+{"q":"sống tận năm hai nghìn không trăm linh bốn làm chết bảo nhiều người và","got":"khong","key":""}
+{"q":"bao cặp cắn thì làm sao","got":"khong","key":""}
+{"q":"bằng gần mắt cá chân thì sở cứu sao anh không","got":"bong_gan","key":"~bong_gan:0.94"}
+{"q":"vết thương bị nhiễm trùng có mủ","got":"du_phong","key":""}
+{"q":"sốt cao không hạ phải làm sao","got":"sot_cao","key":"sốt cao"}
+{"q":"quyết thắp gây hai trăm","got":"khong","key":""}
+{"q":"bị do cắt sâu máu chảy nhiều thành phần","got":"chay_mau","key":"máu chảy nhiều"}
+{"q":"bé ba tuổi bất tỉnh không thở","got":"hoi_suc_tre_em","key":"không thở"}
+{"q":"phim bọ cạp vàng có hay không","got":"khong","key":""}
+{"q":"bị kim tiêm đâm vào tay của","got":"du_phong","key":""}
+{"q":"đá bóng bị chật khớp vai","got":"khong","key":""}
+{"q":"bạn tội đứng lâu bị ngất","got":"ngat_xiu","key":"bị ngất"}
+{"q":"đồi sàn nhà có vết nứt sợ sạt lở","got":"sat_lo","key":"sạt lở"}
+{"q":"người lớn sốt cao li bì trên","got":"sot_cao","key":"sốt cao"}
+{"q":"mắt bão là gì thế","got":"khong","key":""}
+{"q":"ăn nấm hái trong rừng bị nấm áp","got":"ngo_doc_nam","key":"nấm+rừng"}
+{"q":"cung bọ cạp hợp với cung nào","got":"khong","key":""}
+{"q":"lũ trẻ trong xóm chơi trò gì vui","got":"khong","key":""}
+{"q":"thấy mắt nào tốt cho cung thâm","got":"khong","key":""}
+{"q":"cầu thủ bị trật khất nghỉ bao lâu mới đá lại càng","got":"khong","key":""}
+{"q":"trẻ em ngừng thở phải ép tin thế nào cũng","got":"hoi_suc_tre_em","key":"trẻ em ngừng thở"}
+{"q":"bị nhện độc cắn trong","got":"nhen_can","key":"nhện độc cắn"}
+{"q":"động đất lớn nhất lịch sử xảy ra ở đâu","got":"khong","key":""}
+{"q":"răng bị gãy sau ngã xe của","got":"gay_rang","key":"răng bị gãy"}
+{"q":"tai nạn làm đứt cụt bàn tay anh","got":"dut_chi","key":"đứt cụt"}
+{"q":"bị nước xô đổ vào chân tay","got":"khong","key":""}
+{"q":"thanh sắt đâm xuyên vào đùi của","got":"vat_dam","key":"thanh sắt đâm"}
+{"q":"trời nắng nóng bốn mươi độ cần phòng tránh gì cần thiết","got":"nang_nong","key":"nắng nóng"}
+{"q":"đường huyết bình thường là bao nhiêu","got":"khong","key":""}
+{"q":"lội qua dòng nước lũ có an toàn không","got":"lu_xe","key":"lội qua dòng nước"}
+{"q":"nhà đàm dung lắc mạnh có động đất","got":"dong_dat","key":"động đất"}
+{"q":"mảnh kim loại găm vào mắt","got":"mat","key":"găm vào mắt"}
+{"q":"bê vôi bột dính vào người bỏng rác trên","got":"bong_hoa_chat","key":"vôi+dính"}
+{"q":"tại sao lại bị chảy máu cam kết như thế","got":"khong","key":""}
+{"q":"tháng tôi sốt cao bốn mươi độ","got":"sot_cao","key":"sốt cao"}
+{"q":"đau bụng dữ dội vùng bụng dưới bên phải có","got":"du_phong","key":""}
+{"q":"ô tô điện đi được bào sảng","got":"khong","key":""}
+{"q":"bơi lội có tác dụng gì cho sức khỏe của chúng","got":"khong","key":""}
+{"q":"cd là viết tắt của dì cho","got":"khong","key":""}
+{"q":"bụi bay vào mắt cay xe phải làm sao","got":"mat","key":"bay vào mắt"}
+{"q":"bị sứa đốt khi tắm biển","got":"sua_dot","key":"sứa đốt"}
+{"q":"tôi bị sốc khi biết kết quả xổ số","got":"khong","key":""}
+{"q":"rượu vàng đỏ uống với món gì","got":"khong","key":""}
+{"q":"mẹ tôi ăn nấm hương có tốt không","got":"khong","key":""}
+{"q":"cháu đang mặc bị bén lửa không","got":"khong","key":""}
+{"q":"một độc rượu phải xử lý ra sao","got":"ngo_doc_ruou","key":"rượu+độc"}
+{"q":"đốt than sưởi trong phòng kín bị đau đầu buồn nôn quá","got":"ngo_doc_khi_co","key":"than sưởi"}
+{"q":"nghe tiếng ầm ầm trên núi sợ lũ quét trong","got":"lu_quet","key":"lũ quét"}
+{"q":"và bọ cạp chiếc con tôi cũng","got":"khong","key":""}
+{"q":"tôi bị trẹo cổ chân sưng to","got":"bong_gan","key":"trẹo cổ chân"}
+{"q":"bị bọ cạp đốt vào tay","got":"bo_cap","key":"bọ cạp đốt"}
+{"q":"đôi mắt biết nói nghĩa là gì chứ","got":"khong","key":""}
+{"q":"một em bé sơ sinh ngừng thở","got":"hoi_suc_so_sinh","key":"sơ sinh ngừng thở"}
+{"q":"vừa vớt được người dưới ao lên","got":"khong","key":""}
+{"q":"người nhà muốn tự tử cũng","got":"tu_tu","key":"tự tử"}
+{"q":"hen suyễn là bệnh gì có lây không tốt","got":"hen_suyen","key":"hen suyễn"}
+{"q":"bé tiêu chảy nhiều lần mắt trũng của","got":"mat_nuoc","key":"tiêu chảy"}
+{"q":"nhà ngập nước có nên bật cầu sao không","got":"ngap_lut","key":"ngập nước"}
+{"q":"bị bò cạp đốt sưng đào phai","got":"bo_cap","key":"bò cạp đốt"}
+{"q":"trẻ nuốt phải kinh cúc áo","got":"du_phong","key":""}
+{"q":"bị đứt rời một đốt ngón tay phải giữ thế nào","got":"dut_chi","key":"đứt rời"}
+{"q":"suốt cả trù làm thế nào","got":"khong","key":""}
+{"q":"đi làm rẫy bị rắn mổ vào chân","got":"ran_can","key":"bị rắn"}
+{"q":"vì diễn khó thở quá","got":"du_phong","key":""}
+{"q":"con thu lên cơn hèn","got":"hen_suyen","key":"len con hen"}
+{"q":"bão đang đổ bộ gió rất to","got":"trong_bao","key":"bão đang đổ bộ"}
+{"q":"bằng hóa chất phải làm sao","got":"khong","key":""}
+{"q":"phát ban khắp người sau khi uống thuốc đã","got":"du_phong","key":""}
+{"q":"hạ đường huyết thì phải làm sao","got":"ha_duong_huyet","key":"hạ đường huyết"}
+{"q":"những túi đồ khẩn cấp gồm những gì cần thiết","got":"do_dung_khan_cap","key":"túi đồ khẩn cấp"}
+{"q":"trông tôi tự nhiên ngã khụp gọi không tỉnh không thở","got":"hoi_suc_tim_phoi","key":"không thở"}
+{"q":"nghi ngộ độc thực phẩm phải làm sao","got":"ngo_doc_thuc_pham","key":"ngộ độc thực phẩm"}
+{"q":"ngã từ mái nhà xuống đập đầu","got":"chan_thuong_dau","key":"đập đầu"}
+{"q":"bị dị vật mắt trong tai","got":"mat","key":"mắt+dị vật"}
+{"q":"đang ở ngoài đồng thì có sấm sét","got":"giong_set","key":"sấm sét"}
+{"q":"dấu hiệu sốc sau tai nạn phải làm gì","got":"soc","key":"sốc sau tai nạn"}
+{"q":"sơ cứu người bị ngộ độc thuốc ngủ của người","got":"ngo_doc_hoa_chat","key":"ngộ độc thuốc"}
+{"q":"vào biển thấy nước rút đột ngột có sóng thần không","got":"song_than","key":"nước rút đột ngột"}
+{"q":"tôi bị tụt đường máu chóng mặt quá","got":"ha_duong_huyet","key":"tụt đường máu"}
+{"q":"đang tắm biển thấy động đất rất mạnh của","got":"song_than","key":"biển+động đất"}
+{"q":"mẹ tôi tự nhiên méo miệng thấy yếu","got":"dot_quy","key":"méo miệng"}
+{"q":"chính quyền yêu cầu sơ tán cần làm gì","got":"so_tan","key":"sơ tán"}
+{"q":"đừng ngập sâu ô tô có đi qua được không ta","got":"lu_xe","key":"đi qua+ngập"}
+{"q":"cả nhà ăn cỗ xong bị đau bụng nôn ói quen","got":"ngo_doc_thuc_pham","key":"ăn+nôn"}
+{"q":"đi lăn bùi vào mắt","got":"mat","key":"bui vao mat"}
+{"q":"bị ông vỏ vẽ đút nhiều nút và","got":"ong_dot","key":"ong vo ve"}
+{"q":"bị cào rước bởi khỉ","got":"cho_meo_can","key":"khỉ+cào+bị"}
+{"q":"ngã xong khớp cối sưng đau chắc bị bong gân","got":"bong_gan","key":"bong gân"}
+{"q":"lấy cơn hen suyễn mà không có thuốc thì xào cũng không","got":"hen_suyen","key":"hen suyễn"}
+{"q":"làm ngoài nắng bị choáng người nóng gian","got":"soc_nhiet","key":"ngoài nắng bị choáng"}
+{"q":"người bị động kinh lên cơn gia tăng","got":"co_giat","key":"động kinh"}
+{"q":"nước tẩy dừa bắn vào ra rát bỏng của","got":"bong_hoa_chat","key":"nước tẩy+bắn"}
+{"q":"người bị hen thở giết mù tím không","got":"hen_suyen","key":"bị hen"}
+{"q":"ăn hải sản bị đau bụng tiêu chảy liên tục","got":"ngo_doc_thuc_pham","key":"ăn+đau bụng"}
+{"q":"nhà bên cạnh đang cháy khói tràn sang","got":"chay_nha","key":"đang cháy"}
+{"q":"món sườn xào trù ngọt","got":"khong","key":""}
+{"q":"hết tình cho trẻ em thì ấn sâu bao nhiêu","got":"khong","key":""}
+{"q":"ngón tay dài có ý nghĩa gì","got":"khong","key":""}
+{"q":"mới ăn nấm rừng chưa thấy gì có cần đi viện không","got":"ngo_doc_nam","key":"nấm rừng"}
+{"q":"cảnh báo sóng thần thì chạy đi đâu","got":"song_than","key":"sóng thần"}
+{"q":"con tu chảy máu cam không ngừng phấn","got":"chay_mau_cam","key":"chảy máu cam"}
+{"q":"mất điện hai ngày đồ trong tủ lạnh còn ăn được không","got":"mat_dien","key":"mất điện"}
+{"q":"cháu bé năm tuổi đuối nước không thở","got":"duoi_nuoc","key":"đuối nước"}
+{"q":"bị kẹt trên mái nhà giữa lũ làm sao để được cứu","got":"mac_ket_cau_cuu","key":"kẹt trên mái"}
+{"q":"sóng thần đến phải làm gì cho","got":"song_than","key":"sóng thần"}
+{"q":"bé bảy tháng bị sạc hạt nhựa","got":"khong","key":""}
+{"q":"người bị tai nạn mất nhiều máu mặt tái nhợt ra lạnh vã mồ hôi từ","got":"soc","key":"tái+vã mồ hôi"}
+{"q":"sơ cứu người bị choáng sau mất máu","got":"soc","key":"choáng+mất máu"}
+{"q":"cảm giác lần đầu làm bố","got":"khong","key":""}
+{"q":"bị chó hàng xóm cắn chảy máu đã","got":"cho_meo_can","key":"bị chó"}
+{"q":"bị lạc đường trong rừng bàn đền","got":"du_phong","key":""}
+{"q":"một chút nhuộm tóc có hại không có","got":"khong","key":""}
+{"q":"thu hút nhân tạo cho trẻ sơ sinh thế nào","got":"hoi_suc_so_sinh","key":"~hoi_suc_so_sinh:0.94"}
+{"q":"bố tôi đâu thắt ngực lan ra tay trái","got":"dau_nguc","key":"dau that nguc"}
+{"q":"bé nhà tôi ba tuổi nên học gì cũng","got":"khong","key":""}
+{"q":"casino có công thức là gì trong công ty","got":"khong","key":""}
+{"q":"đé sốt ba chín độ có nên trường đã không còn","got":"sot_cao","key":"sốt ba chín"}
+{"q":"con tô uống nhầm thuốc trừ sâu","got":"ngo_doc_hoa_chat","key":"thuốc trừ sâu"}
+{"q":"thằng bé bị que chọc vào mắt chảy máu","got":"mat","key":"chọc vào mắt"}
+{"q":"nạn nhân bị sốc thở nhanh lờ mờ","got":"soc","key":"sốc+thở nhanh"}
+{"q":"sốc nhiệt là gì","got":"khong","key":""}
+{"q":"tăng tôm xong sưng môi khó thở","got":"soc_phan_ve","key":"sưng môi khó thở"}
+{"q":"thăm em bị điện giật ngã ra","got":"dien_giat","key":"điện giật"}
+{"q":"căn phải đồ ô thiu nung ngừa cắt","got":"khong","key":""}
+{"q":"nhưng ngộ độc men thì làm gì có","got":"du_phong","key":""}
+{"q":"sau lũ làm sao có nước sạch để uống cà phê","got":"nuoc_sach","key":"nước sạch"}
+{"q":"đấm linh chi có tác dụng gì","got":"khong","key":""}
+{"q":"ông tôi bị hóc xương cá không thở được","got":"hoc_di_vat","key":"hóc xương cá"}
+{"q":"cháy hàng là gì","got":"khong","key":""}
+{"q":"hẹn hò lần đầu nên nói gì cũng","got":"khong","key":""}
+{"q":"ngâm nước lũ lâu người dung lạnh tím tái","got":"ha_than_nhiet","key":"ngâm nước lũ lâu"}
+{"q":"khạp động đất nên đứng ở khung cửa không có","got":"dong_dat","key":"động đất"}
+{"q":"app tin là phim của ai","got":"khong","key":""}
+{"q":"số gọi cứu hỏa là số mấy","got":"so_khan_cap","key":"số+cứu hỏa"}
+{"q":"động đất thì phải làm gì","got":"dong_dat","key":"động đất"}
+{"q":"nấu lầu nấm thế nào cho ngon","got":"khong","key":""}
+{"q":"cách ngâm rượu chuối hột bằng","got":"khong","key":""}
+{"q":"sau lũ phòng bệnh thế nào","got":"phong_benh_sau_lu","key":"phòng bệnh"}
+{"q":"trẻ dưới một tuổi không thở phải làm sao","got":"hoi_suc_so_sinh","key":"trẻ dưới một tuổi không thở"}
+{"q":"bài hát sóng của xuân quỳnh","got":"khong","key":""}
+{"q":"người bị tiểu đường là bị nói lắp bắp nghi hạ đường","got":"ha_duong_huyet","key":"hạ đường"}
+{"q":"sóng ngoài phải yếu phải làm sao","got":"khong","key":""}
+{"q":"máu mũi chảy ròng ròng phải làm gì cho","got":"chay_mau_cam","key":"máu mũi"}
+{"q":"bị chảy máu mũi thì xử lý thế nào","got":"chay_mau_cam","key":"chảy máu mũi"}
+{"q":"nước lũ sông hồng năm một nghìn chín trăm bảy mươi mốt cao bao nhiêu","got":"khong","key":""}
+{"q":"mã xe nghĩ gãy tay","got":"gay_xuong","key":"gãy tay"}
+{"q":"cung hàng xóm uống rượu xong lơ mơ khó thở sợ rượu pha côn công nghiệp","got":"ngo_doc_ruou","key":"con cong nghiep"}
+{"q":"đang ngủ thì động đất chạy ra ngoài hay ở trong","got":"dong_dat","key":"động đất"}
+{"q":"bị ru bắn vào tay tôi","got":"khong","key":""}
+{"q":"vợ tôi sắp đẻ mà không kịp đến viện","got":"sinh_con_khan_cap","key":"sắp đẻ"}
+{"q":"bố tôi bị tiểu đường giờ run rẩy vã mồ hôi chắc tụt đường huyết của","got":"ha_duong_huyet","key":"tụt đường huyết"}
+{"q":"mất điện cả tuần phải làm sao","got":"mat_dien","key":"mất điện"}
+{"q":"bão vừa qua về nhà cần chú ý gì","got":"sau_bao","key":"bão+qua"}
+{"q":"chảy máu càng có nên ngửa đầu ra sau không kịp","got":"chay_mau","key":"chảy máu"}
+{"q":"thai phụ ra máu nhiều","got":"ra_mau_thai","key":"thai phụ+ra máu"}
+{"q":"uống rượu giả bị mờ mắt","got":"ngo_doc_ruou","key":"rượu giả"}
+{"q":"bé hai tháng tuổi tím tái không thở","got":"hoi_suc_so_sinh","key":"tháng tuổi+không thở"}
+{"q":"mai bão vào thì cần chuẩn bị gì","got":"truoc_bao","key":"bão+chuẩn bị"}
+{"q":"bị cá đuối đâm khi đi biển từ","got":"du_phong","key":""}
+{"q":"bị đỉa bám vào chân không gỡ ra được","got":"du_phong","key":""}
+{"q":"bị chuột rút khi đang bơi gánh nặng","got":"du_phong","key":""}
+{"q":"ngộ độc nấm thì phải làm gì","got":"ngo_doc_nam","key":"ngộ độc nấm"}
+{"q":"xe máy đi qua chỗ nước chảy xiết được không","got":"lu_xe","key":"xe+nước chảy xiết"}
+{"q":"máy cắt đứt lìa ngón tay rồi chúng tôi","got":"dut_chi","key":"lìa ngón"}
+{"q":"sóng thần năm hai nghìn không trăm linh bốn làm chết bao nhiêu người","got":"khong","key":""}
+{"q":"bọ cạp cắn thì làm sao","got":"bo_cap","key":"bọ cạp cắn"}
+{"q":"có người xuống hầm cầu không thấy lên","got":"khi_doc_ham","key":"hầm+không thấy lên"}
+{"q":"dòng chạy xa bờ là phải làm sao để thoát nước","got":"dong_chay_xa_bo","key":"dong chay xa bo"}
+{"q":"đưa con về trên dạ thế nào","got":"khong","key":""}
+{"q":"là đang có mùi da nồng nặng","got":"khong","key":""}
+{"q":"mỹ miên căn sự thấy","got":"khong","key":""}
+{"q":"vợ tôi đang mang thai bị ra máu","got":"ra_mau_thai","key":"mang thai+ra máu"}
+{"q":"nên nuốt niềm tin cúc áo cho anh","got":"khong","key":""}
+{"q":"định bỏ ghe cắn bám chặt không ngơ ra được","got":"du_phong","key":""}
+{"q":"bình điện thoại bao lâu tỉ chảy","got":"khong","key":""}
+{"q":"bé bị người lớn xâm hại tình dục","got":"bao_hanh_tre_em","key":"xâm hại tình dục"}
+{"q":"nốc xoáy hình thành thế nào","got":"khong","key":""}
+{"q":"hàng xóm đánh đập con ra bàn","got":"bao_hanh_tre_em","key":"đánh đập con"}
+{"q":"mùa hè tối nàn nắng có lóc cung","got":"khong","key":""}
+{"q":"dù còn được không còn nữa","got":"khong","key":""}
+{"q":"nạ bị gái giang cưa","got":"khong","key":""}
+{"q":"cách trong nấm dâm","got":"khong","key":""}
+{"q":"bị kẹt trong thang máy vi tính","got":"ket_thang_may","key":"kẹt trong thang máy"}
+{"q":"tôi thấy giám đốc","got":"khong","key":""}
+{"q":"bị dao cắt nhe vào tay","got":"vet_thuong_nho","key":"cat nhe vao tay"}
+{"q":"tôi bụi mới thích chợ","got":"khong","key":""}
+{"q":"thằng máy dân dựa trên không mở cửa","got":"khong","key":""}
+{"q":"con nhìn được cắn vào thay bé","got":"khong","key":""}
+{"q":"mảng tai bị đau bụng da máu","got":"du_phong","key":""}
+{"q":"cao cao su nuốt vào có sao không","got":"khong","key":""}
+{"q":"thấy em bé bị bão ganh","got":"khong","key":""}
+{"q":"bếp thường xuyên đỏ có mụ cương","got":"khong","key":""}
+{"q":"em tôi định nhai cậu","got":"khong","key":""}
+{"q":"hút nhỏ tai cho người lớn loại nào tốt","got":"khong","key":""}
+{"q":"người văn bình đang phải làm sao","got":"khong","key":""}
+{"q":"có bầu ba tháng răng huyết","got":"ra_mau_thai","key":"có bầu+huyết"}
+{"q":"và vòng đề can dị thắng","got":"khong","key":""}
+{"q":"rụng bị dân gian so với các đập tắt","got":"khong","key":""}
+{"q":"người don bề phốt bị ngập khí","got":"khong","key":""}
+{"q":"phát hiện trẻ bị xâm hại phải báo ai","got":"bao_hanh_tre_em","key":"bị xâm hại"}
+{"q":"nhị đén nước sại viên pin","got":"khong","key":""}
+{"q":"để khớp bão lỗ húp một lần","got":"khong","key":""}
+{"q":"ba bâu chai máu âm đá","got":"khong","key":""}
+{"q":"dìm con dự đựng không kịp đến viện","got":"khong","key":""}
+{"q":"sao khuôn mặt lại có đèn lồng","got":"khong","key":""}
+{"q":"dương phải đình đâm vào trận","got":"du_phong","key":""}
+{"q":"nệm đền hạ cắn đau đực","got":"du_phong","key":""}
+{"q":"một bình la giá bao nhiêu","got":"khong","key":""}
+{"q":"bí mật nặng đè lên người không cử động được","got":"khong","key":""}
+{"q":"một bé bị vai trò bám vào đầu","got":"du_phong","key":""}
+{"q":"vì vậy nên chích phải xử lý ra sao","got":"du_phong","key":""}
+{"q":"có người vừa uống thuốc tự tử","got":"tu_tu","key":"uống thuốc tự tử"}
+{"q":"nên có mấy chém bom","got":"khong","key":""}
+{"q":"dòng chảy của sông mệt công dại bao nhiêu","got":"khong","key":""}
+{"q":"mẹ rất vắng","got":"khong","key":""}
+{"q":"chén nuốt tình trạng nhỏ có sao không có","got":"khong","key":""}
+{"q":"bé bị nuốt đồng xu","got":"hoc_tre_so_sinh","key":"~hoc_tre_so_sinh:0.95"}
+{"q":"việc xông cơ vào môn nào thì không","got":"khong","key":""}
+{"q":"mini bảo cha không ngờ được","got":"khong","key":""}
+{"q":"người nhà có ý định tự sát","got":"tu_tu","key":"tự sát"}
+{"q":"có mùi ngất dưới hông bayia","got":"ngat_xiu","key":"ngất"}
+{"q":"vết xước nhỏ có cần dựa không còn","got":"vet_thuong_nho","key":"vết xước"}
+{"q":"thấy người nóng bất động bên đường","got":"khong","key":""}
+{"q":"bằng lớp chói nên chùm ở đầu","got":"khong","key":""}
+{"q":"đám huyền bị xong cuốn da xạ","got":"khong","key":""}
+{"q":"đang vừa bị dòng nước kéo ra xa bờ","got":"dong_chay_xa_bo","key":"nước kéo ra xa"}
+{"q":"vì cả người đâm tâm","got":"du_phong","key":""}
+{"q":"có con côn trùng trụi vào lỗ tai thều vọt","got":"di_vat_tai","key":"vào lỗ tai"}
+{"q":"họ dông xuất hiện ngân nhà","got":"khong","key":""}
+{"q":"vệ trung tá","got":"khong","key":""}
+{"q":"mất điện khi đang ở trong thang máy","got":"ket_thang_may","key":"thang máy+mất điện"}
+{"q":"răng bụi vàng da có cắm lại được không","got":"khong","key":""}
+{"q":"sinh lời nghiêng mới nhất","got":"khong","key":""}
+{"q":"tắm biển bị sứa cắn phải làm gì","got":"sua_dot","key":"sứa cắn"}
+{"q":"tuyết mãi chụp trước tận tay","got":"khong","key":""}
+{"q":"bí mật mí sứa lượm trên sân đỏ","got":"khong","key":""}
+{"q":"chém bọc răng sữa lúc mười tháng","got":"khong","key":""}
+{"q":"bạn tôi nói muốn thử tự nhiên","got":"tu_tu","key":"~tu_tu:0.96"}
+{"q":"nến hết hạn đầu vào tại","got":"khong","key":""}
+{"q":"bị cuốn ra biển phải bơi thế nào","got":"dong_chay_xa_bo","key":"cuốn ra biển"}
+{"q":"đang lái xe thì thấy lốc","got":"loc_xoay","key":"thấy lốc"}
+{"q":"nạp nạm trụ máu thực hành","got":"khong","key":""}
+{"q":"con tôi bị sứa đốt cầu chăn rác quá","got":"sua_dot","key":"sứa đốt"}
+{"q":"cả máy do hay pháp mình","got":"khong","key":""}
+{"q":"mắc kẹt kẹt thang máy phải làm gì mới","got":"ket_thang_may","key":"kẹt thang máy"}
+{"q":"bây giờ mình sẽ thành công","got":"khong","key":""}
+{"q":"sứa miệng đốt có nên giữ nước ngọt không","got":"sua_dot","key":"sứa+đốt"}
+{"q":"đông người bị nan phải làm dị chức thiên đàng hoàng","got":"so_cuu_chung","key":"nguoi bi nan"}
+{"q":"cổng tiến bỏ vào","got":"khong","key":""}
+{"q":"để bị bật dâm khi chơi","got":"khong","key":""}
+{"q":"ngự thánh mura trong bếp","got":"khong","key":""}
+{"q":"hai nạn giao thông năm hải my không trăm hải mười lăm giảm bao nhiêu","got":"khong","key":""}
+{"q":"vừa gặp tai nạn giao thông có người bị thương","got":"so_cuu_chung","key":"tai nạn giao thông"}
+{"q":"bố tôi xuống giếng rôi bất tỉnh","got":"khi_doc_ham","key":"giếng+bất tỉnh"}
+{"q":"tai nạn tai nạn xe máy người bị thượng năm dưới đường","got":"so_cuu_chung","key":"tai nạn xe"}
+{"q":"di vật trọng tài lấy ra thế nào","got":"di_vat_tai","key":"di vat trong tai"}
+{"q":"có lúc xoáy đang tới","got":"khong","key":""}
+{"q":"con vẽ bám vào da chó rồi bám sang người khác","got":"ve_can","key":"con ve bam"}
+{"q":"bị kẹt trong xe sau tài năng","got":"mac_ket_cau_cuu","key":"bị kẹt"}
+{"q":"con tôi ở mức biên đồng hồ của tôi","got":"khong","key":""}
+{"q":"sông chảy xa bờ là phải làm sao để thoát khỏi","got":"khong","key":""}
+{"q":"vỡ con ve chê ra thế nào","got":"khong","key":""}
+{"q":"nhà đang có mùi gà nồng nạc","got":"khong","key":""}
+{"q":"bị nhện cắn sưng tấy tay","got":"nhen_can","key":"nhện cắn"}
+{"q":"vợ tôi đang mang thai bị sa máu","got":"ra_mau_thai","key":"mang thai+máu"}
+{"q":"bé nuốt viên kinh quốc áo phao","got":"khong","key":""}
+{"q":"bị bọ vè cắn bám chặt không gỡ ra được","got":"du_phong","key":""}
+{"q":"tin điện thoại báo lâu thì chài","got":"khong","key":""}
+{"q":"lúc xoáy hình thành thế nào","got":"khong","key":""}
+{"q":"hàng xóm đánh đập cò giã man tuốt","got":"khong","key":""}
+{"q":"mùa hè ở đà nẵng có lúc không","got":"khong","key":""}
+{"q":"sứa có ăn được không","got":"khong","key":""}
+{"q":"ngã bị gãy sang cửa","got":"du_phong","key":""}
+{"q":"cách trồng nấm rơm","got":"khong","key":""}
+{"q":"bị kẹt trong thang máy","got":"ket_thang_may","key":"kẹt trong thang máy"}
+{"q":"càng phải cá nóc","got":"du_phong","key":""}
+{"q":"bị dao cắt nhẹ vào tay","got":"vet_thuong_nho","key":"cắt nhẹ vào tay"}
+{"q":"tôi buồn vì khi trượt tôi","got":"khong","key":""}
+{"q":"thang thang máy dừng giữa chừng không mở cửa cũng","got":"ket_thang_may","key":"thang máy dừng"}
+{"q":"con nhện độc cắn vào tay bé","got":"nhen_can","key":"nhện độc cắn"}
+{"q":"mang thai bị đau bụng ra máu","got":"ra_mau_thai","key":"mang thai+ra máu"}
+{"q":"kẹo cao su nút và có dao không","got":"khong","key":""}
+{"q":"thấy em bé bị bạo hành không","got":"bao_hanh_tre_em","key":"bạo hành"}
+{"q":"những vết thương sưng đỏ có mùi","got":"vet_thuong_nho","key":"vết thương sưng đỏ"}
+{"q":"an tôi định nhảy cầu không","got":"tu_tu","key":"nhảy cầu"}
+{"q":"không thuốc nhỏ tai cho người lớn loại nào tốt","got":"khong","key":""}
+{"q":"khớp văn bình gặp phải làm sao","got":"khong","key":""}
+{"q":"có bầu ba tháng giao huyết thì","got":"ra_mau_thai","key":"có bầu+huyết"}
+{"q":"ba bầu nên ăn gì","got":"khong","key":""}
+{"q":"răng bị rời xa do pha đập","got":"gay_rang","key":"rang bi roi"}
+{"q":"người dọn bể phốt bị ngạt khí","got":"khi_doc_ham","key":"ngạt khí"}
+{"q":"vì đái ngút phải viên tin cậy","got":"khong","key":""}
+{"q":"để phúc bào lâu hút một lần","got":"khong","key":""}
+{"q":"bà bầu chảy máu âm đạo","got":"ra_mau_thai","key":"bà bầu+chảy máu"}
+{"q":"sinh con giữa đường không kịp đến viện","got":"du_phong","key":""}
+{"q":"răng khô mọc liệt có nên nhổ","got":"khong","key":""}
+{"q":"rỗng phải đính đâm vào chân tay","got":"vet_thuong_nho","key":"dinh dam vao chan"}
+{"q":"bị nhện là cắn đau nhức","got":"nhen_can","key":"bị nhện"}
+{"q":"một bình ca xá bao nhiêu","got":"khong","key":""}
+{"q":"bị vật nặng đè lên người không cử động được","got":"khong","key":""}
+{"q":"bé bị tay chó bám vào đầu","got":"du_phong","key":""}
+{"q":"điện trích phải xử lý ra sao","got":"khong","key":""}
+{"q":"có người vừa uống thuốc tự tử kết hôn","got":"tu_tu","key":"uống thuốc tự tử"}
+{"q":"nhận có mấy chân tôi","got":"khong","key":""}
+{"q":"dòng chảy của sông mê công dài bao nhiêu","got":"khong","key":""}
+{"q":"bị giết cắn từ đầu","got":"khong","key":""}
+{"q":"trẻ nuốt tinh tròn nhỏ có sao không","got":"khong","key":""}
+{"q":"bé bị nuốt đồng xu vào","got":"hoc_tre_so_sinh","key":"~hoc_tre_so_sinh:0.95"}
+{"q":"xe sầu cư vào mùa nào","got":"khong","key":""}
+{"q":"bị đỉa bám chặt không gỡ được","got":"du_phong","key":""}
+{"q":"người nhà có ý định tự sát với nhau","got":"tu_tu","key":"tự sát"}
+{"q":"có người ngất dưới hầm mê hoa xưa","got":"khi_doc_ham","key":"hầm+ngất"}
+{"q":"những vết xước nhỏ có cần rửa không tốt","got":"vet_thuong_nho","key":"vết xước"}
+{"q":"thấy người nằm bất động bên đường","got":"so_cuu_chung","key":"nằm bất động"}
+{"q":"gặp lốc xoáy nghề chú ở đâu","got":"loc_xoay","key":"lốc xoáy"}
+{"q":"tắt tắm biển bị sóng cuốn ra xa cả","got":"dong_chay_xa_bo","key":"bị sóng cuốn"}
+{"q":"đang bời bị dòng nước kéo ra xa bờ","got":"dong_chay_xa_bo","key":"nước kéo ra xa"}
+{"q":"bị cá đuối đâm","got":"du_phong","key":""}
+{"q":"có con côn trùng chui vào lỗ tai kêu vào vẹ của con người","got":"di_vat_tai","key":"vào lỗ tai"}
+{"q":"vòi rồng xuất hiện gần nhà thì","got":"loc_xoay","key":"vòi rồng"}
+{"q":"bị chuột cắn ta","got":"cho_meo_can","key":"chuột cắn"}
+{"q":"răng bị văng da có cắm lại được không","got":"gay_rang","key":"răng+văng"}
+{"q":"phim người nhện mới nhất","got":"khong","key":""}
+{"q":"huyết áp cụt rất thấp","got":"du_phong","key":""}
+{"q":"bị sứa nửa chiếc xương đỏ đã","got":"sua_dot","key":"bị sứa"}
+{"q":"trẻ mọc rắn sữa lúc mấy tháng cũng","got":"khong","key":""}
+{"q":"bạn tôi nói muốn tự tử kết hôn","got":"tu_tu","key":"tự tử"}
+{"q":"bé nhét hạt đậu vào tai","got":"di_vat_tai","key":"tai+hạt"}
+{"q":"bị cuốn ra biển phải bờ thế nào","got":"dong_chay_xa_bo","key":"cuốn ra biển"}
+{"q":"đang lái xe thì thấy lúc không","got":"khong","key":""}
+{"q":"nhạc chu báu thức hay","got":"khong","key":""}
+{"q":"con tôi bị sứa đốt ở chân rát quá","got":"sua_dot","key":"sứa đốt"}
+{"q":"thang thang máy do anh phát minh","got":"khong","key":""}
+{"q":"mắc kẹt thang máy phải làm gì cho phép","got":"ket_thang_may","key":"mắc kẹt thang máy"}
+{"q":"binh ca bị rò rỉ tai nạn","got":"so_cuu_chung","key":"tai nạn"}
+{"q":"sứa biển đốt có nên rửa nước ngọt không","got":"sua_dot","key":"sứa biển"}
+{"q":"gặp người bị nạn phải làm gì trước tiên","got":"so_cuu_chung","key":"người bị nạn"}
+{"q":"có kiến bò vào tai","got":"di_vat_tai","key":"bò vào tai"}
+{"q":"bé bị bật răng khi trời còn lại","got":"gay_rang","key":"bật răng"}
+{"q":"ngửi thấy mùi cát trong bếp","got":"khong","key":""}
+{"q":"tai nạn tai nạn giao thông năm hai nghìn không trăm hai mươi làm giảm bao nhiêu tiền","got":"khong","key":""}
+{"q":"bố tôi xuống giếng rồi bất tỉnh","got":"khi_doc_ham","key":"giếng+bất tỉnh"}
+{"q":"tai nạn tai nạn xe máy người bị thương nằm dưới đường","got":"so_cuu_chung","key":"người bị thương"}
+{"q":"dị vật trong tay lấy ra thế nào","got":"khong","key":""}
+{"q":"có lốc xoáy đang tới","got":"loc_xoay","key":"lốc xoáy"}
+{"q":"con ve bám vào da chó rồi bám sang người khác","got":"ve_can","key":"con ve bám"}
+{"q":"bị kẹt trong xe sau tai nạn","got":"mac_ket_cau_cuu","key":"bị kẹt"}
+{"q":"con tôi lỡn nuốt tiếng đồng hồ","got":"khong","key":""}
+{"q":"tịnh cống có liên xoa bóp không","got":"khong","key":""}
+{"q":"súng nước cho trẻ em loại nào tốt","got":"khong","key":""}
+{"q":"nghe tin lộ bom hạt nhân thì chủ ở gần","got":"phong_xa","key":"bom hạt nhân"}
+{"q":"nga mãi điện hạt nhân hoạt động thế nào","got":"khong","key":""}
+{"q":"vì vậy trí tôi đang chuyển ra đau bung dữ dội và không","got":"du_phong","key":""}
+{"q":"sinh con năm nào hợp tuổi con","got":"khong","key":""}
+{"q":"bị bỏng ngang vào tai","got":"bong","key":"bị bỏng"}
+{"q":"lễ hội đậu nguội nhất việt nam","got":"khong","key":""}
+{"q":"núi lửa phụ chao gần khách sạn","got":"khong","key":""}
+{"q":"báo yên năm hai nghìn không trăm hai mươi tự mảnh cấp mấy","got":"khong","key":""}
+{"q":"có kẻ xa súng trong trung tâm thương mại","got":"khong","key":""}
+{"q":"mi rắn ghê cắn khi đi lăn","got":"ran_can","key":"rắn+cắn"}
+{"q":"lau nối thiết bị thể cắm ngón tay","got":"khong","key":""}
+{"q":"thế tay thi ngủ dậy là bệnh gì","got":"khong","key":""}
+{"q":"chọn đồ sơ sinh cho bé","got":"khong","key":""}
+{"q":"tuyết rơi dày không đi được nữa","got":"bao_tuyet","key":"tuyết rơi dày"}
+{"q":"mẹ rơi tại nhà phải làm sao","got":"khong","key":""}
+{"q":"và vùng mù mịt trên đường cao tốc","got":"khong","key":""}
+{"q":"không ngừng đau thịnh lại gần tôi","got":"du_phong","key":""}
+{"q":"có mẹ cầm dao tấn không ngoài đường","got":"tan_cong_vu_khi","key":"dao+cầm"}
+{"q":"người ảnh của chả lúc mấy giờ tôi không","got":"khong","key":""}
+{"q":"bị cáo xấu tấn công","got":"khong","key":""}
+{"q":"có người ngất trên máy bay","got":"ngat_xiu","key":"ngất"}
+{"q":"bị rét cắn xương to cắn","got":"khong","key":""}
+{"q":"vì sánh độ cao khi nhăng núi","got":"khong","key":""}
+{"q":"người vợ uống rượu đường","got":"khong","key":""}
+{"q":"tóm ra là chị không","got":"khong","key":""}
+{"q":"bị thép dưới đống nộp","got":"khong","key":""}
+{"q":"đồng bào cát ở sa mạc","got":"khong","key":""}
+{"q":"năm ngoái set thì gặp bảo thiết","got":"khong","key":""}
+{"q":"mẹ tính súng nổ ở sân bay","got":"tan_cong_vu_khi","key":"súng+nổ"}
+{"q":"bị mắc kẹt trên đường đầy tuyết","got":"bao_tuyet","key":"đường đầy tuyết"}
+{"q":"chen chúc ở sự kiện không thơ được","got":"giam_dap","key":"chen chúc"}
+{"q":"đốc bù trẻ hết tầm nhìn khi lái xe","got":"khong","key":""}
+{"q":"tuyết rơi ở safa vào tháng mấy thì","got":"khong","key":""}
+{"q":"trẻ bị sốt phát bạ thín","got":"sot_cao","key":"bị sốt"}
+{"q":"đám đông đây dâng nạ ở lê hội","got":"giam_dap","key":"~giam_dap:0.94"}
+{"q":"bị kẹt chân vào nương say tàu","got":"mac_ket_cau_cuu","key":"bị kẹt"}
+{"q":"mà vùng điện thoại nước pháp là gì","got":"khong","key":""}
+{"q":"lý mỹ gặp chuyện khẩn cấp gọi số mấy của anh","got":"so_khan_cap_quoc_te","key":"mỹ+khẩn cấp"}
+{"q":"vì mì cần để được không tốt","got":"khong","key":""}
+{"q":"đến một nắm chân tay","got":"khong","key":""}
+{"q":"bình la giữa đám đông","got":"khong","key":""}
+{"q":"một ngụy lạ trên núi thuyết","got":"khong","key":""}
+{"q":"mình nghiêng khói cháy rừng","got":"khong","key":""}
+{"q":"thị tú ngoan không","got":"khong","key":""}
+{"q":"canh báo rõ gì phóng ra phải làm gì","got":"khong","key":""}
+{"q":"xe bị thẻ trong bảo tước","got":"khong","key":""}
+{"q":"nó không bố phải làm gì","got":"khong","key":""}
+{"q":"mình cảm ngập gần","got":"khong","key":""}
+{"q":"dấu canh xác cực anh là dị ứng","got":"khong","key":""}
+{"q":"bị chó sòi tấn công","got":"cho_meo_can","key":"bị chó"}
+{"q":"có nên mua sẹ điền không","got":"khong","key":""}
+{"q":"đang lái xe áp đảo cát","got":"khong","key":""}
+{"q":"cô thích lắm","got":"khong","key":""}
+{"q":"có sự cố nhà máy điện hạt nhân luân đầy","got":"phong_xa","key":"hạt nhân+sự cố"}
+{"q":"đau đầu dữ dội như sét đánh","got":"giong_set","key":"sét đánh"}
+{"q":"mạnh hơn trong ống thêm dịch bệnh","got":"khong","key":""}
+{"q":"cần phải vào lớp","got":"khong","key":""}
+{"q":"đi cắm trai thấy gấu đệm","got":"gap_gau","key":"thấy gấu"}
+{"q":"vào gấu trong dựng","got":"khong","key":""}
+{"q":"bị chuột giúp giữa hũ sông","got":"khong","key":""}
+{"q":"nếu chúng ăn gì cũng không","got":"khong","key":""}
+{"q":"nhưng phóng xa phải làm sao","got":"khong","key":""}
+{"q":"gối bông giá bao nhiêu","got":"khong","key":""}
+{"q":"tưởng châu âu vãi cấp cứu châu nào","got":"so_khan_cap_quoc_te","key":"châu âu+cấp cứu"}
+{"q":"nghiên cứu tấn công phải làm gì","got":"khong","key":""}
+{"q":"đột nhiên mất tỉ lượt một bên mắt","got":"khong","key":""}
+{"q":"một đậu áo khoác chống lành ở đâu","got":"khong","key":""}
+{"q":"riêng về khung bố hay nhất là","got":"khong","key":""}
+{"q":"da mặt xã hảo giọt bao nhiêu","got":"khong","key":""}
+{"q":"đang du lịch nước ngoài cần gọi cấp cứu","got":"so_khan_cap_quoc_te","key":"nước ngoài+cấp cứu"}
+{"q":"bị kẹt giữa đám đông chen lấn đấu","got":"giam_dap","key":"đám đông chen lấn"}
+{"q":"vợ tôi sắp sinh hoạt sẻ cấp cứu chưa tới thăm","got":"sinh_con_khan_cap","key":"sắp sinh"}
+{"q":"người biên đội hà nội hôm nay","got":"khong","key":""}
+{"q":"nón trận trắng bệch cứng đơ vì lạnh","got":"te_cong","key":"trắng bệch+lạnh"}
+{"q":"từ cống có nên xoa bóp không","got":"khong","key":""}
+{"q":"nghe tin đổ bom hạt nhân thì chú ở đâu cũng không","got":"phong_xa","key":"bom hạt nhân"}
+{"q":"nhà máy điện hạt nhân hoạt động thế nào","got":"khong","key":""}
+{"q":"chị tôi đang chuyển dạ đau bụng dữ dội từ đầu","got":"sinh_con_khan_cap","key":"chuyển dạ"}
+{"q":"bị bỏng lạnh ở tay","got":"te_cong","key":"bỏng lạnh"}
+{"q":"lễ hội đông người nhất việt nam","got":"khong","key":""}
+{"q":"núi lửa phun trào gần khách sạn","got":"khong","key":""}
+{"q":"bão năm hai nghìn không trăm hai mươi tư mạnh cấp mấy","got":"khong","key":""}
+{"q":"có kẻ xả súng trong trung tâm thương mại kinh doanh","got":"tan_cong_vu_khi","key":"xả súng"}
+{"q":"bị gián biển cắn khi đi lại","got":"khong","key":""}
+{"q":"leo núi tuyết bị tê cóng ngón tay","got":"te_cong","key":"tê cóng"}
+{"q":"thay tay khi ngủ dậy là bệnh gì","got":"khong","key":""}
+{"q":"cho đồ sơ sinh cho bé","got":"khong","key":""}
+{"q":"đè dơi tại nhà phải làm sao","got":"khong","key":""}
+{"q":"bão bụi mù mịt trên đường cao tốc","got":"bao_cat","key":"bụi mù mịt"}
+{"q":"con gấu đang tiến lại gần tới","got":"gap_gau","key":"con gấu"}
+{"q":"có người cầm dao tấn công ngoài đường","got":"tan_cong_vu_khi","key":"cầm dao tấn công"}
+{"q":"người anh uống trà lúc mấy giờ","got":"khong","key":""}
+{"q":"vì cá sấu tấn công anh","got":"khong","key":""}
+{"q":"bị rét cắn dừng cỏ","got":"khong","key":""}
+{"q":"bị say độ cao khi léo núi","got":"du_phong","key":""}
+{"q":"bị vỡ ối giữa đường không","got":"sinh_con_khan_cap","key":"vỡ ối"}
+{"q":"phóng xạ là gì","got":"khong","key":""}
+{"q":"bị kẹt dưới đống đổ nát","got":"mac_ket_cau_cuu","key":"bị kẹt"}
+{"q":"gặp bão cát ở sa mạc","got":"bao_cat","key":"bão cát"}
+{"q":"đang lái xe thì gặp bão tuyết","got":"bao_tuyet","key":"bão tuyết"}
+{"q":"nghe tiếng súng nổ ở sân bay","got":"tan_cong_vu_khi","key":"tiếng súng"}
+{"q":"tranh trúc ở sự kiện không thở được không","got":"hoi_suc_tim_phoi","key":"không thở"}
+{"q":"lúc bụi tré tầm nhìn khi lái xe kéo","got":"khong","key":""}
+{"q":"tuyết tuyết rơi ở sa ca vào tháng mấy","got":"khong","key":""}
+{"q":"trẻ bị sốt phát ban tín dụng","got":"sot_cao","key":"bị sốt"}
+{"q":"đám đông xô đẩy giẫm đạp ở lễ hội","got":"giam_dap","key":"giẫm đạp"}
+{"q":"bị kẹt chân vào đường dây tàu","got":"mac_ket_cau_cuu","key":"bị kẹt"}
+{"q":"mã phùng điện thoại nước pháp là gì","got":"khong","key":""}
+{"q":"đi mỹ gặp chuyện khẩn cấp gọi số mấy trong số","got":"so_khan_cap_quoc_te","key":"mỹ+khẩn cấp"}
+{"q":"đi mỹ cần gì không","got":"khong","key":""}
+{"q":"bé nuốt nào châm cơm","got":"khong","key":""}
+{"q":"bị ngã giữa đám đông","got":"giam_dap","key":"ngã giữa đám đông"}
+{"q":"bị lạc trên núi tuyết","got":"bao_tuyet","key":"tuyết+lạc"}
+{"q":"bị nhiễm khói cháy rừng","got":"du_phong","key":""}
+{"q":"bì thu hoàng cao","got":"khong","key":""}
+{"q":"cảnh báo do gì phóng xạ phải làm gì","got":"phong_xa","key":"phóng xạ+cảnh báo"}
+{"q":"xe bị kẹt trong bão tuyết","got":"mac_ket_cau_cuu","key":"xe bị kẹt"}
+{"q":"gặp khủng bố phải làm gì","got":"tan_cong_vu_khi","key":"khủng bố"}
+{"q":"bị cá mập cắn","got":"du_phong","key":""}
+{"q":"số cảnh sát ở anh là gì","got":"so_khan_cap_quoc_te","key":"anh+cảnh sát"}
+{"q":"bị chó sói tấn công","got":"cho_meo_can","key":"bị chó"}
+{"q":"có nên mua xe điện không","got":"khong","key":""}
+{"q":"đang lái xe gặp bão cát lái","got":"bao_cat","key":"bão cát"}
+{"q":"có tuyết lở đất","got":"sat_lo","key":"lở đất"}
+{"q":"có sự cố nhà máy điện hạt nhân gần đây của ông","got":"phong_xa","key":"hạt nhân+sự cố"}
+{"q":"đau đầu dữ dội như sét đánh cắn","got":"giong_set","key":"sét đánh"}
+{"q":"gọi châu âu tiền gì","got":"khong","key":""}
+{"q":"căn vải cá nóc","got":"du_phong","key":""}
+{"q":"đi cắm trại thấy gấu đen","got":"gap_gau","key":"thấy gấu"}
+{"q":"và cam gú trong rừng","got":"khong","key":""}
+{"q":"bị chuột rút giữa hồ sâu","got":"du_phong","key":""}
+{"q":"vú trúc ăn gì","got":"khong","key":""}
+{"q":"bị nhiễm phóng xạ phải làm sao","got":"phong_xa","key":"nhiễm phóng xạ"}
+{"q":"gối bùng giá bao nhiêu","got":"khong","key":""}
+{"q":"ở châu âu gọi cấp cứu số nào về","got":"so_khan_cap_quoc_te","key":"châu âu+cấp cứu"}
+{"q":"bị gấu tấn công phải làm gì","got":"gap_gau","key":"gấu tấn công"}
+{"q":"bỗng nhiên mất thị lực một bên mắt","got":"du_phong","key":""}
+{"q":"mua áo khoác chống lạnh ở đâu","got":"khong","key":""}
+{"q":"phim về khủng bố hay nhất","got":"khong","key":""}
+{"q":"sa mạc to rộng bao nhiêu ấm","got":"khong","key":""}
+{"q":"đám du lịch nước ngoài cần gọi cấp cứu","got":"so_khan_cap_quoc_te","key":"nước ngoài+cấp cứu"}
+{"q":"bị kẹt giữa đám đông chen lấn khởi","got":"giam_dap","key":"đám đông chen lấn"}
+{"q":"vợ tôi sắp sinh mà xe cấp cứu chưa tới","got":"sinh_con_khan_cap","key":"sắp sinh"}
+{"q":"bôi mịn ở hà nội hôm nay","got":"khong","key":""}
+{"q":"ngón chân trắng bệch cứng đờ vì lạnh","got":"te_cong","key":"trắng bệch+lạnh"}
+{"q":"Mình muốn biết, tại sao internet lại bị tắt đột ngột?","got":"khong","key":""}
+{"q":"Robot có cảm xúc như con người không?","got":"khong","key":""}
+{"q":"Ai là người tạo ra thuật ngữ robot?","got":"khong","key":""}
+{"q":"Chip bán dẫn có ảnh hưởng đến môi trường không?","got":"khong","key":""}
+{"q":"Có cần biết lập trình để dùng internet không?","got":"khong","key":""}
+{"q":"internet có thật không bạn?","got":"khong","key":""}
+{"q":"Tại sao giá chip lại tăng cao như vậy?","got":"khong","key":""}
+{"q":"Tại sao mật khẩu lại không nên để quá ngắn?","got":"khong","key":""}
+{"q":"làm thế nào để sửa lỗi trong một con chip sau khi đã sản xuất rồi?","got":"khong","key":""}
+{"q":"làm thế nào để tái sử dụng một con chip khi nó đã hết hạn?","got":"khong","key":""}
+{"q":"Tại sao cần cập nhật phần mềm liên tục?","got":"khong","key":""}
+{"q":"Ai phát minh ra pin lithium đầu tiên?","got":"khong","key":""}
+{"q":"wifi nhà mình chậm quá, bạn ơi có cách nào xử lý không?","got":"khong","key":""}
+{"q":"Mình hỏi thử, xe điện có thể chở nhiều người như xe máy không bạn?","got":"khong","key":""}
+{"q":"Tại sao không nên chia sẻ mã xác minh với bất kỳ ai?","got":"khong","key":""}
+{"q":"có chắc bạn biết tên người đầu tiên truy cập internet không?","got":"khong","key":""}
+{"q":"Làm thế nào robot biết mình đang ở đâu?","got":"khong","key":""}
+{"q":"Như thế nào để nhận biết trang web giả mạo?","got":"khong","key":""}
+{"q":"Robot có thể tự sửa chữa mình không?","got":"khong","key":""}
+{"q":"Tại sao robot trong phim thường rất nguy hiểm?","got":"khong","key":""}
+{"q":"tại sao mình không nên lưu mật khẩu trên trình duyệt mặc dù tiện lợi?","got":"khong","key":""}
+{"q":"Tại sao chip bán dẫn lại đắt vậy?","got":"khong","key":""}
+{"q":"Bạn ơi, làm thế nào để biết một chip có tốt không?","got":"khong","key":""}
+{"q":"Giá của một chiếc robot thông minh hiện nay là bao nhiêu?","got":"khong","key":""}
+{"q":"Có loại pin nào không cần sạc lại không?","got":"khong","key":""}
+{"q":"xe điện có cần bảo dưỡng định kỳ như xe xăng không?","got":"khong","key":""}
+{"q":"pin điện thoại yếu có nên thay ngay không?","got":"khong","key":""}
+{"q":"Tại sao robot vẫn chưa thay thế hoàn toàn con người?","got":"khong","key":""}
+{"q":"Mình có thể nâng cấp chip trong laptop được không?","got":"khong","key":""}
+{"q":"Nhà mạng nào cung cấp internet nhanh nhất ở Việt Nam?","got":"khong","key":""}
+{"q":"xe điện có đắt hơn xe xăng nhiều không?","got":"khong","key":""}
+{"q":"cho mình hỏi, liệu mình có thể dùng mạng wifi ở quán cà phê để làm việc không?","got":"khong","key":""}
+{"q":"Robot có bị ảnh hưởng bởi thời tiết xấu không?","got":"khong","key":""}
+{"q":"Mình muốn biết sạc xe điện mất bao lâu?","got":"khong","key":""}
+{"q":"tại sao người ta lại dùng hai lớp xác thực như mật khẩu và mã gửi về điện thoại?","got":"khong","key":""}
+{"q":"Cho mình hỏi, robot có biết tương lai sẽ ra sao không?","got":"khong","key":""}
+{"q":"Cho mình hỏi xe điện có bị hỏng đường xấu không?","got":"khong","key":""}
+{"q":"Cho mình hỏi bạn có biết giờ này là mấy giờ không?","got":"khong","key":""}
+{"q":"Sao mình không thể gửi tin nhắn này được?","got":"khong","key":""}
+{"q":"trợ lý có hoạt động tốt nhất ở đâu khi không có mạng không?","got":"khong","key":""}
+{"q":"Sao mình không tìm thấy ứng dụng nhắn tin kia?","got":"khong","key":""}
+{"q":"Bạn ơi, tại sao app lại bị lỗi khi mình đang tải xuống?","got":"khong","key":""}
+{"q":"Bạn ơi, ở đâu thì mình có thể bật tính năng offline cho trợ lý được?","got":"khong","key":""}
+{"q":"cho mình hỏi, mình bật trợ lý offline thì có thể điều chỉnh âm lượng không?","got":"khong","key":""}
+{"q":"Trợ lý làm được những gì?","got":"khong","key":""}
+{"q":"trợ lý ơi mình đang cảm thấy buồn làm sao?","got":"khong","key":""}
+{"q":"Bạn ơi, giúp mình tính toán 15 nhân 20 nhé.","got":"khong","key":""}
+{"q":"Bạn có thể đặt vé máy bay cho mình đi Tokyo không?","got":"khong","key":""}
+{"q":"Con hổ ở trong rừng thì ăn gì?","got":"khong","key":""}
+{"q":"Khi nào thì kể chuyện cười về con vật là hợp lý nhất?","got":"khong","key":""}
+{"q":"Bạn ơi, tại sao phí giao hàng lại tăng cao vậy?","got":"khong","key":""}
+{"q":"Cho mình hỏi, cái gì tạo ra tia cực tím từ mặt trời?","got":"khong","key":""}
+{"q":"Cho mình hỏi, Việt Nam có bao nhiêu tỉnh thành?","got":"khong","key":""}
+{"q":"Bạn ơi, cần làm gì để mình không buồn vì những ký ức đau buồn?","got":"khong","key":""}
+{"q":"Bạn ơi, có chuyện cười ngắn về tình yêu không?","got":"khong","key":""}
+{"q":"Như thế nào là cách chia sẻ đúng khi bạn buồn?","got":"khong","key":""}
+{"q":"Tại sao máy tính của mình lại chạy chậm thế?","got":"khong","key":""}
+{"q":"Bạn ơi, tại sao mình không thể xem video chất lượng HD được?","got":"khong","key":""}
+{"q":"Bạn có biết ai là tổng thống Việt Nam không?","got":"khong","key":""}
+{"q":"Ai là người thiết lập cho trợ lý này có thể chạy offline được nhỉ?","got":"khong","key":""}
+{"q":"Tại sao bạn không chắc chắn về cách động viên mình tốt nhất trong một số trường hợp?","got":"khong","key":""}
+{"q":"Bạn có thể viết báo cáo cho công ty mình không?","got":"khong","key":""}
+{"q":"mình muốn biết kết quả trận đấu bóng đá hôm qua mà không cần net, được không?","got":"khong","key":""}
+{"q":"Thi thử trước ngày thi tốt nghiệp thì có lợi gì không?","got":"khong","key":""}
+{"q":"Bạn ơi, làm đề tài nghiên cứu khoa học khó không?","got":"khong","key":""}
+{"q":"làm nghiên cứu khoa học có tốn tiền nhiều không?","got":"khong","key":""}
+{"q":"Có cần phải xuất bản bài báo ngay sau khi xong dự án không?","got":"khong","key":""}
+{"q":"làm sao để tìm hướng dẫn viên nghiên cứu khoa học?","got":"khong","key":""}
+{"q":"như thế nào thì dữ liệu thu thập được coi là đủ tin cậy?","got":"khong","key":""}
+{"q":"nếu kết quả nghiên cứu không như ý thì sao?","got":"khong","key":""}
+{"q":"Bảo vệ đề tài nghiên cứu khoa học có khó không?","got":"khong","key":""}
+{"q":"Cho mình hỏi, nghiên cứu khoa học sinh viên là gì?","got":"khong","key":""}
+{"q":"Bạn ơi, mình hay nghe nói trọng lực trên Mặt Trăng yếu hơn Trái Đất, có đúng không?","got":"khong","key":""}
+{"q":"Mình thắc mắc núi lửa phun có thể làm mưa axit không?","got":"khong","key":""}
+{"q":"Mưa nhiều có gây lũ lụt không?","got":"khong","key":""}
+{"q":"Bạn ơi, nếu để sữa trong tủ lạnh quá lâu thì có biến mất không?","got":"khong","key":""}
+{"q":"Cho hỏi, tại sao khi đang ngồi yên, mình vẫn cảm thấy bị kéo xuống dưới?","got":"khong","key":""}
+{"q":"Cho mình hỏi, tại sao mùa khô nước lại ít hơn mùa mưa vậy nhỉ?","got":"khong","key":""}
+{"q":"Tại sao nam châm điện lại mạnh hơn nam châm thường?","got":"khong","key":""}
+{"q":"Khi nào thì sữa chua thành công trong quá trình lên men?","got":"khong","key":""}
+{"q":"Bạn ơi, nước có thể biến mất không?","got":"khong","key":""}
+{"q":"Bạn ơi, tại sao dưới nước âm thanh lại truyền nhanh hơn trong không khí?","got":"khong","key":""}
+{"q":"tại sao tiếng vang lại xuất hiện khi ta hét vào một hang động?","got":"khong","key":""}
+{"q":"tai người nghe được âm tần số rất cao không?","got":"khong","key":""}
+{"q":"Bạn ơi, hiện tượng sấm chớp xảy ra như thế nào?","got":"khong","key":""}
+{"q":"âm thanh có màu không?","got":"khong","key":""}
+{"q":"Mình muốn biết tại sao chanh làm sạch ố trên nồi?","got":"khong","key":""}
+{"q":"Cho mình hỏi, tai người nghe được âm thanh cao nhất là bao nhiêu Hz?","got":"khong","key":""}
+{"q":"Bạn ơi, âm thanh có thể nhìn thấy được không?","got":"khong","key":""}
+{"q":"Bạn có biết tại sao kim loại bị oxi hóa lại yếu đi không?","got":"khong","key":""}
+{"q":"Bạn ơi, tại sao quả bóng bay xì hơi lại bay ngược chiều trọng lực lên trời?","got":"khong","key":""}
+{"q":"Hiện tượng vang tiếng là gì bạn nhỉ?","got":"khong","key":""}
+{"q":"ở Việt Nam thì có núi lửa nào hoạt động không?","got":"khong","key":""}
+{"q":"Tại sao khi thả đường vào nước nóng thì tan nhanh hơn nước lạnh?","got":"khong","key":""}
+{"q":"Tại sao sắt bị gỉ khi để ngoài trời?","got":"khong","key":""}
+{"q":"Tại sao âm thanh trong hộp gỗ lại nghe ấm hơn so với trong phòng trống?","got":"khong","key":""}
+{"q":"Bạn ơi, nước ngầm là gì và nó hình thành ra sao nhỉ?","got":"khong","key":""}
+{"q":"khí nhà kính có gây biến đổi khí hậu không?","got":"khong","key":""}
+{"q":"Bạn ơi, tại sao cực Bắc của nam châm lại gọi là cực Bắc?","got":"khong","key":""}
+{"q":"Tại sao tiếng động cơ máy bay lại có tần số thấp nhưng vẫn nghe rõ từ xa?","got":"khong","key":""}
+{"q":"Mình không chắc nhưng có thể núi lửa phun là do con người gây ra không?","got":"khong","key":""}
+{"q":"động đất lớn nhất thế giới là bao nhiêu độ Richter?","got":"khong","key":""}
+{"q":"Âm bass và âm treble khác nhau thế nào về mặt vật lý?","got":"khong","key":""}
+{"q":"tại sao khi nói thì giọng mình thường nghe khác so với khi nghe qua điện thoại?","got":"khong","key":""}
+{"q":"núi lửa phun ra những gì nhỉ?","got":"khong","key":""}
+{"q":"Cho hỏi dầu ăn để lâu có bị biến chất không?","got":"khong","key":""}
+{"q":"cho mình hỏi, động đất thì báo trước được không?","got":"khong","key":""}
+{"q":"Tại sao nước biển không bốc hơi hết?","got":"khong","key":""}
+{"q":"Cháu bị sốt cao có cần đưa đi bệnh viện ngay không?","got":"sot_cao","key":"sốt cao"}
+{"q":"Ai sẽ giành chức vô địch giải đấu eSport này?","got":"khong","key":""}
+{"q":"Giá đồng USD hôm nay có tăng lên không?","got":"khong","key":""}
+{"q":"Số may mắn hôm nay là bao nhiêu?","got":"khong","key":""}
+{"q":"Con mèo nhà mình vừa nhảy qua cửa sổ có số 8, bạn nói xem số này có hợp không?","got":"khong","key":""}
+{"q":"Trận derby hôm nay ai thắng?","got":"khong","key":""}
+{"q":"Trời ở Đà Nẵng hôm nay có mưa không?","got":"khong","key":""}
+{"q":"Nước sông Hồng hôm nay có lũ không?","got":"khong","key":""}
+{"q":"Hôm nay số người trúng thưởng là bao nhiêu?","got":"khong","key":""}
+{"q":"Giấy tờ tùy thân của bạn ở đâu?","got":"khong","key":""}
+{"q":"Có người bảo nhìn vân tay trên ly nước để đoán số trúng, bạn tin không?","got":"khong","key":""}
+{"q":"Ngày mai có mưa không?","got":"khong","key":""}
+{"q":"Con số nào sẽ ra đầu tiên trong quay số may mắn?","got":"khong","key":""}
+{"q":"Giá nhà đất tại thành phố này có tăng không?","got":"khong","key":""}
+{"q":"Tự dưng thấy con rùa bò qua đường, người ta bảo đoán số xổ số, bạn biết số nào sẽ trúng không?","got":"khong","key":""}
+{"q":"Việc tôi bán đất có vi phạm luật đất đai không?","got":"khong","key":""}
+{"q":"Mã số thuế của mình là gì?","got":"khong","key":""}
+{"q":"Hôm qua mình làm gì?","got":"khong","key":""}
+{"q":"Địa chỉ email của mình là gì?","got":"khong","key":""}
+{"q":"Máy tính của bạn có bị virus không?","got":"khong","key":""}
+{"q":"Giá vàng hôm nay sẽ chạm mốc bao nhiêu?","got":"khong","key":""}
+{"q":"Máy tính của mình sẽ hỏng vào ngày nào?","got":"khong","key":""}
+{"q":"Bạn đã từng sống ở nước ngoài không?","got":"khong","key":""}
+{"q":"Dấu hiệu nhận biết bệnh tiểu đường là gì?","got":"khong","key":""}
+{"q":"Ai sẽ thắng trận bóng tối nay?","got":"khong","key":""}
+{"q":"Tôi bị thương tay có cần khâu chỉ không bạn?","got":"du_phong","key":""}
+{"q":"Mua cổ phiếu nào sẽ lời nhiều nhất?","got":"khong","key":""}
+{"q":"Mình nên mua lô nào để trúng thưởng lớn?","got":"khong","key":""}
+{"q":"Giá Bitcoin ngày mai có lên không?","got":"khong","key":""}
+{"q":"Vi phạm biển báo dừng xe bị phạt bao nhiêu tiền?","got":"khong","key":""}
+{"q":"Triệu chứng của bệnh Alzheimer là gì?","got":"khong","key":""}
+{"q":"Bạn có sở thích gì đặc biệt không?","got":"khong","key":""}
+{"q":"Mình muốn biết lãi suất của một ngân hàng cụ thể thì làm sao?","got":"khong","key":""}
+{"q":"Tại sao lãi suất cho vay lại cao hơn nhiều so với lãi suất tiết kiệm?","got":"khong","key":""}
+{"q":"Tại sao mùa khô lại khó trồng lúa hơn mùa mưa?","got":"khong","key":""}
+{"q":"Giá lúa thu mua hiện tại bao nhiêu?","got":"khong","key":""}
+{"q":"Giá lúa gạo năm nay so với năm ngoái tăng hay giảm?","got":"khong","key":""}
+{"q":"Tại sao lúa gạo lại là lương thực chủ lực của Việt Nam?","got":"khong","key":""}
+{"q":"Bạn ơi, mở tài khoản tiết kiệm có cần tiền gửi nhiều không?","got":"khong","key":""}
+{"q":"Ngân hàng có cho vay online không?","got":"khong","key":""}
+{"q":"Tại sao lãi suất thả nổi lại thay đổi liên tục vậy?","got":"khong","key":""}
+{"q":"Ai là người được bầu làm Chủ tịch nước đầu tiên?","got":"khong","key":""}
+{"q":"Bạn ơi, khởi nghĩa Hai Bà Trưng có ý nghĩa gì với lịch sử nước ta?","got":"khong","key":""}
+{"q":"Bạn ơi, sau khi đánh bại quân Nguyên Mông, nhà Trần đã làm gì?","got":"khong","key":""}
+{"q":"Việt Nam là thành viên của tổ chức nào vào năm 1945?","got":"khong","key":""}
+{"q":"Hai Bà Trưng và Bà Triệu có cùng quê hương không?","got":"khong","key":""}
+{"q":"Lê Lợi khởi nghĩa ở đâu vậy?","got":"khong","key":""}
+{"q":"Cho mình hỏi, có những thay đổi nào trong đời sống văn hóa sau Đổi Mới?","got":"khong","key":""}
+{"q":"Cho mình hỏi, khởi nghĩa Hai Bà Trưng xảy ra vào năm nào thế bạn?","got":"khong","key":""}
+{"q":"Tại sao mình lại không chắc về thông tin này?","got":"khong","key":""}
+{"q":"Mình muốn biết như thế nào là cuộc khởi nghĩa của Hai Bà Trưng đã diễn ra?","got":"khong","key":""}
+{"q":"Cuộc khởi nghĩa này có phải là lần đầu tiên đánh quân xâm lược phương Bắc không?","got":"khong","key":""}
+{"q":"Mình không chắc lắm về một vấn đề cụ thể liên quan đến chính sách thuế trong thời kỳ này, bạn có thể giúp không?","got":"khong","key":""}
+{"q":"Biểu tượng cờ đỏ sao vàng có từ thời Lê Lợi không?","got":"khong","key":""}
+{"q":"bạn ơi, Quốc khánh 2\/9 là ngày gì?","got":"khong","key":""}
+{"q":"Cho mình hỏi tại sao phải đổi mới năm 1986?","got":"khong","key":""}
+{"q":"Mình cần biết, cờ đỏ sao vàng là cờ của ai?","got":"khong","key":""}
+{"q":"Mình hỏi tại sao lại có khó khăn trong quá trình đổi mới?","got":"khong","key":""}
+{"q":"tự nhiên, cuộc khởi nghĩa Hà Nội bắt đầu từ đâu?","got":"khong","key":""}
+{"q":"Cuộc khởi nghĩa này kéo dài bao lâu?","got":"khong","key":""}
+{"q":"ai là người đọc Tuyên ngôn Độc lập?","got":"khong","key":""}
+{"q":"Bạn ơi, tại sao triều đại phong kiến lại thường xuyên xảy ra chiến tranh?","got":"khong","key":""}
+{"q":"tại sao vua Nam Hán lại thua ngay từ lần đầu tiên đánh vào nước ta?","got":"khong","key":""}
+{"q":"Sao người ta lại gọi là nhà Lý?","got":"khong","key":""}
+{"q":"Tại sao động vật lại di cư nhiều hơn thế?","got":"khong","key":""}
+{"q":"trồng cây xanh có ảnh hưởng đến chất lượng nước không?","got":"khong","key":""}
+{"q":"Bạn ơi, cây xanh giúp môi trường thế nào?","got":"khong","key":""}
+{"q":"Nếu không biết tên cây thì làm sao để nhận biết nó?","got":"khong","key":""}
+{"q":"tại sao cây lại cần phân bón?","got":"khong","key":""}
+{"q":"Mình không rõ loại đất nào phù hợp nhất cho cây ăn quả?","got":"khong","key":""}
+{"q":"Điện mặt trời có dùng được vào ban đêm không?","got":"khong","key":""}
+{"q":"mình muốn giảm sử dụng túi nilon, bạn cho mình biết cách nào dễ nhất?","got":"khong","key":""}
+{"q":"thôi mình hỏi, liệu rừng ngập mặn có khác gì so với rừng thường không?","got":"khong","key":""}
+{"q":"cho mình hỏi, phá rừng làm ảnh hưởng gì đến lũ lụt không?","got":"khong","key":""}
+{"q":"có nên tưới cây vào giữa trưa không?","got":"khong","key":""}
+{"q":"Nếu cây bị sâu bệnh thì làm sao bạn?","got":"khong","key":""}
+{"q":"Cho mình hỏi, làm sao mà mưa bão lại dữ dội thế?","got":"khong","key":""}
+{"q":"mình muốn làm tình nguyện viên trồng rừng, cần đăng ký ở đâu?","got":"khong","key":""}
+{"q":"bạn ơi, chữ 'kể' có phải là 'ke' không?","got":"khong","key":""}
+{"q":"dấu sắc dùng trong trường hợp nào?","got":"khong","key":""}
+{"q":"Mình không chắc lắm nhưng có phải dấu thanh chỉ dùng cho người nói không?","got":"khong","key":""}
+{"q":"khi nào thì dùng từ 'nghiệm' hay 'ngiệm'?","got":"khong","key":""}
+{"q":"từ 'thành tích' viết đúng chưa?","got":"khong","key":""}
+{"q":"Dấu nặng có phải là dấu mới nhất không?","got":"khong","key":""}
+{"q":"Dấu thanh nào dùng để chỉ âm thấp nhất?","got":"khong","key":""}
+{"q":"khí nào được cây thải ra khi quang hợp?","got":"khong","key":""}
+{"q":"Tại sao đôi khi mình vẫn ngủ ngon nhưng sáng hôm sau vẫn thấy đầu óc ù?","got":"khong","key":""}
+{"q":"cây lấy nước từ đâu và như thế nào?","got":"khong","key":""}
+{"q":"Thực vật làm quang hợp ở đâu trên cây vậy?","got":"khong","key":""}
+{"q":"Nước có vai trò gì trong quang hợp?","got":"khong","key":""}
+{"q":"Tại sao người lớn tuổi lại dễ bị nhiễm virus hơn trẻ em?","got":"khong","key":""}
+{"q":"tốc độ quang hợp có thay đổi theo mùa không?","got":"khong","key":""}
+{"q":"con người có thể quang hợp được không?","got":"khong","key":""}
+{"q":"Bạn ơi, người ta có thể sửa ADN không?","got":"khong","key":""}
+{"q":"Mình không chắc lắm, nhưng tại sao virus corona lại lây qua không khí?","got":"khong","key":""}
+{"q":"Có cách nào để biết não bộ của mình đang khỏe mạnh không?","got":"khong","key":""}
+{"q":"Mình không chắc giấc ngủ có thể điều trị được bệnh Alzheimer không?","got":"khong","key":""}
+{"q":"Làm sao ADN lại quyết định màu mắt mình?","got":"khong","key":""}
+{"q":"Ai có thể gọi điện cho số khẩn cấp trong trường hợp khẩn cấp?","got":"so_khan_cap","key":"số khẩn cấp"}
+{"q":"Nếu bị côn trùng đốt sưng đỏ, thuốc mỡ gì là phù hợp nhất?","got":"ong_dot","key":"côn trùng đốt"}
+{"q":"Cái gì quan trọng nhất khi sơ cứu người bị đuối nước?","got":"duoi_nuoc","key":"đuối nước"}
+{"q":"người nào dễ bị cảm cúm nhất bạn ơi?","got":"khong","key":""}
+{"q":"Tập xong có cần tắm ngay không?","got":"khong","key":""}
+{"q":"Bạn ơi, mình không biết làm sao để vượt qua nỗi buồn này.","got":"khong","key":""}
+{"q":"Khi bị bỏng nhẹ, chỗ nào là quan trọng nhất để xử lý đầu tiên?","got":"bong","key":"bỏng nhẹ"}
+{"q":"Cho mình hỏi, nếu người bị đuối nước không thở thì có nên thổi hơi vào miệng không?","got":"duoi_nuoc","key":"đuối nước"}
+{"q":"cảm cúm có thể dẫn đến biến chứng nguy hiểm không?","got":"khong","key":""}
+{"q":"mình bị cảm cúm khi nào trong ngày?","got":"khong","key":""}
+{"q":"có cách nào tự điều trị cảm cúm tại nhà không?","got":"khong","key":""}
+{"q":"Mình bị chấn thương nhẹ có thể tập được không?","got":"khong","key":""}
+{"q":"cảm cúm khác với cảm lạnh ở điểm nào nhỉ?","got":"khong","key":""}
+{"q":"Bạn ơi, nếu bị rắn cắn thì có nên cột dây lên chân không?","got":"ran_can","key":"bị rắn cắn"}
+{"q":"Khi nào nên di chuyển nạn nhân khỏi khu vực nguy hiểm?","got":"so_cuu_chung","key":"nạn nhân"}
+{"q":"Mình bị stress nhiều, làm sao để giảm bớt ngay bây giờ?","got":"khong","key":""}
+{"q":"Ai cần uống nhiều nước nhất trong ngày?","got":"khong","key":""}
+{"q":"Cho mình hỏi, tập sáng sớm hay tập tối tốt hơn cho sức khỏe?","got":"khong","key":""}
+{"q":"Liên Hợp Quốc có quyền lực gì hơn các nước thành viên không?","got":"khong","key":""}
+{"q":"Bạn ơi, cái gì giúp con người chữa bệnh ung thư?","got":"khong","key":""}
+{"q":"Việt Nam gia nhập ASEAN khi nào?","got":"khong","key":""}
+{"q":"Biên bản ASEAN có đầy đủ bao nhiêu nước?","got":"khong","key":""}
+{"q":"Châu Nam Cực có dân số không?","got":"khong","key":""}
+{"q":"Cho mình hỏi, phát minh gì giúp con người lưu trữ nhiều dữ liệu?","got":"khong","key":""}
+{"q":"mình muốn biết ngôn ngữ nào có từ vựng phong phú nhất thế giới?","got":"khong","key":""}
+{"q":"Ai giúp mình biết châu Nam Cực thuộc về nước nào?","got":"khong","key":""}
+{"q":"mình muốn biết robot đầu tiên trên thế giới là của ai vậy bạn?","got":"khong","key":""}
+{"q":"Bạn ơi, cái gì giúp mọi người giao tiếp nhanh chóng trên khắp thế giới?","got":"khong","key":""}
+{"q":"Châu Âu và châu Phi có chung đại dương nào không?","got":"khong","key":""}
+{"q":"rừng mưa nhiệt đới lớn nhất thế giới là rừng nào bạn?","got":"khong","key":""}
+{"q":"bạn ơi liệu AI có thể học mọi ngôn ngữ trên thế giới không?","got":"khong","key":""}
+{"q":"tiếng Việt có phải là ngôn ngữ chính thức của Việt Nam không?","got":"khong","key":""}
+{"q":"Đồ dùng nào cần thiết nhất khi chạy?","got":"khong","key":""}
+{"q":"Sao vợt cầu lông lại nhẹ đến vậy?","got":"khong","key":""}
+{"q":"chạy bộ trong mưa có tốt không?","got":"khong","key":""}
+{"q":"Bóng bàn có thể dùng vợt cầu lông được không?","got":"khong","key":""}
+{"q":"Người già tập Vovinam có dễ bị ngã không?","got":"khong","key":""}
+{"q":"chạy bộ có giúp giảm mỡ bụng không bạn?","got":"khong","key":""}
+{"q":"tại sao mình cảm thấy đau đầu khi chạy bộ?","got":"khong","key":""}
+{"q":"có nên chạy bộ khi đang mang thai không bạn?","got":"khong","key":""}
+{"q":"Chào bạn, nếu mình nhân số 0 với bất kỳ số nào thì kết quả là mấy?","got":"khong","key":""}
+{"q":"ba tháng có chắc chắn là 90 ngày không bạn?","got":"khong","key":""}
+{"q":"Chào bạn, trong một tuần có bao nhiêu ngày thứ bảy?","got":"khong","key":""}
+{"q":"mình thắc mắc 1 giờ có bao nhiêu phút?","got":"khong","key":""}
+{"q":"cho mình hỏi 1 năm có mấy tháng?","got":"khong","key":""}
+{"q":"Hai giờ bằng bao nhiêu phút?","got":"khong","key":""}
+{"q":"làm ơn cho mình hỏi tại sao có năm nhuận?","got":"khong","key":""}
+{"q":"mình muốn hỏi 1 thế kỷ có bao nhiêu tháng?","got":"khong","key":""}
+{"q":"Bạn ơi, 1 ngày đêm có bao nhiêu giây nhỉ?","got":"khong","key":""}
+{"q":"Cho mình hỏi, 1 năm có bao nhiêu giờ?","got":"khong","key":""}
+{"q":"Bạn có biết 1 giờ bằng bao nhiêu phút không?","got":"khong","key":""}
+{"q":"Cho mình hỏi, một thế kỷ có bao nhiêu năm?","got":"khong","key":""}
+{"q":"Cho mình hỏi giá vé xem múa rối nước khoảng bao nhiêu?","got":"khong","key":""}
+{"q":"Như thế nào là lễ hội quan họ Bắc Ninh?","got":"khong","key":""}
+{"q":"Cho mình hỏi, tại sao nhiều người lại cho rằng múa rối nước là di sản văn hóa phi vật thể?","got":"khong","key":""}
+{"q":"Hát quan họ thì phải đi đám cưới mới được đúng không?","got":"khong","key":""}
+{"q":"Mình muốn biết ca trù có mấy người hát chính?","got":"khong","key":""}
+{"q":"Bạn ơi, áo dài có mấy loại cổ phổ biến nhất?","got":"khong","key":""}
+{"q":"Bạn ơi, những chú rối trong múa rối nước làm bằng chất liệu gì?","got":"khong","key":""}
+{"q":"Cho hỏi, một vở múa rối nước thường có bao nhiêu nhân vật chính?","got":"khong","key":""}
+{"q":"Rối nước được làm bằng chất liệu gì?","got":"khong","key":""}
+{"q":"Bạn ơi ca trù có phải là di sản văn hóa thế giới không?","got":"khong","key":""}
+{"q":"Cho mình hỏi, màu sắc nào của áo dài được mặc nhiều nhất?","got":"khong","key":""}
+{"q":"Khi nào thì áo dài bắt buộc phải mặc khi đi học?","got":"khong","key":""}
+{"q":"Ca trù có dùng lời nói đời thường không?","got":"khong","key":""}
+{"q":"Mình thắc mắc, múa rối nước có xuất hiện ở nước ngoài không?","got":"khong","key":""}
+{"q":"Quan họ hát có được tổ chức quốc tế không?","got":"khong","key":""}
+{"q":"Áo dài có được mặc đi du lịch nước ngoài không bạn?","got":"khong","key":""}
+{"q":"Tết này có phát lương thưởng cho nhân viên không?","got":"khong","key":""}
+{"q":"Tại sao ca trù lại ít được biết đến hơn quan họ?","got":"khong","key":""}
+{"q":"Có nên mua hoa mai vào đêm giao thừa không?","got":"khong","key":""}
+{"q":"Mình muốn biết ai là người sáng lập ca trù?","got":"khong","key":""}
+{"q":"Như thế nào mà Nguyễn Du lại có thể dự đoán được số phận của các nhân vật?","got":"khong","key":""}
+{"q":"Mình muốn biết 'Trăm năm trong cõi người ta' thuộc tác phẩm gì?","got":"khong","key":""}
+{"q":"ai là tác giả của bài thơ 'Tràng giang' nổi tiếng?","got":"khong","key":""}
+{"q":"Cho mình hỏi, tác giả của 'Người già và biển cả' là ai nhỉ?","got":"khong","key":""}
+{"q":"Tại sao phố đi bộ Nguyễn Thái Học lại được yêu thích như vậy?","got":"khong","key":""}
+{"q":"Cho mình hỏi, tại sao Hà Nội lại nổi tiếng với những cây cầu vòm đẹp thế?","got":"khong","key":""}
+{"q":"Voi nhà thường ăn gì trong rừng?","got":"khong","key":""}
+{"q":"Thời gian chim di cư thường là lúc nào?","got":"khong","key":""}
+{"q":"bạn ơi, ve sầu có hại không?","got":"khong","key":""}
+{"q":"Cho mình hỏi, tại sao mèo thích leo cao?","got":"khong","key":""}
+{"q":"Bạn ơi, voi có sừng không cho mình hỏi?","got":"khong","key":""}
+{"q":"tôi không chắc về bọ chét, bạn có thể nói về lợi ích của chúng không?","got":"khong","key":""}
+{"q":"bạn nói xem, kiến có gây hại gì không?","got":"khong","key":""}
+{"q":"Mình muốn biết cá heo có cần ăn gì để sống không?","got":"khong","key":""}
+{"q":"Cá heo có thể sống được trong nhà không?","got":"khong","key":""}
+{"q":"Mình không chắc nhưng cá voi có ngủ không nhỉ?","got":"khong","key":""}
+{"q":"Cho mình hỏi cá voi xanh có to bằng cả một tòa nhà không?","got":"khong","key":""}
+{"q":"Voi có thể nhớ lại những sự kiện từ xa không bạn?","got":"khong","key":""}
+{"q":"Mình muốn biết, làm sao để huấn luyện chó không gặm đồ nhà?","got":"khong","key":""}
+{"q":"Bạn ơi, cá voi có thể bay trên không trung không?","got":"khong","key":""}
+{"q":"Khi nào thì nên bắt đầu ôn tập cho kỳ thi cuối năm để không bị stress?","got":"khong","key":""}
+{"q":"Mình không chắc về việc đầu tư vào tiền tiết kiệm, nên làm sao?","got":"khong","key":""}
+{"q":"Khi nào mình biết tủ lạnh đã hết hạn sử dụng cần thay mới?","got":"khong","key":""}
+{"q":"Khi nào mình cần kiểm tra lại dây điện của bếp từ?","got":"khong","key":""}
+{"q":"pin sạc cũ mình vứt vào thùng nào cho đúng?","got":"khong","key":""}
+{"q":"Bạn ơi, liệu có ứng dụng nào giúp nhắc nhở làm việc không?","got":"khong","key":""}
+{"q":"Liệu ngủ đủ giấc có thực sự giúp trí não hoạt động tốt hơn?","got":"khong","key":""}
+{"q":"mình muốn biết khi nào thì xe rác của phường đến thu gom?","got":"khong","key":""}
+{"q":"Khi nào mình cần thay đổi dụng cụ làm bếp cũ?","got":"khong","key":""}
+{"q":"cho mình hỏi quản lý thời gian là cái gì bạn ơi","got":"khong","key":""}
+{"q":"Kỹ năng nào quan trọng nhất khi cần học một ngôn ngữ mới nhanh?","got":"khong","key":""}
+{"q":"Mình muốn biết đồ hộp bị phồng có ăn được không?","got":"khong","key":""}
+{"q":"Học nhóm có hiệu quả hơn học một mình không?","got":"khong","key":""}
+{"q":"Mình cần biết cách ghi nhớ nhanh công thức toán khó.","got":"khong","key":""}
+{"q":"Tại sao mình lại phải phân loại rác ngay từ đầu nhỉ?","got":"khong","key":""}
+{"q":"ở đâu mình có thể học thêm về quản lý thời gian miễn phí?","got":"khong","key":""}
+{"q":"Nền tảng nào cung cấp chứng chỉ quốc tế về kỹ năng mềm miễn phí?","got":"khong","key":""}
+{"q":"Ai là người thu gom rác tái chế ở khu dân cư của mình?","got":"khong","key":""}
+{"q":"Làm sao để tập trung khi nhà có nhiều tiếng ồn?","got":"khong","key":""}
+{"q":"Nơi nào ở Hà Nội có thư viện yên tĩnh để học nhóm vào cuối tuần?","got":"khong","key":""}
+{"q":"cho mình hỏi, nếu không biết luật giao thông thì có được xin người lớn tuổi giải thích không?","got":"khong","key":""}
+{"q":"Cho mình hỏi có cách nào học ngoại ngữ nhanh không?","got":"khong","key":""}
+{"q":"Bạn ơi, ai nổi tiếng nhất về phương pháp học tập khoa học hiện nay?","got":"khong","key":""}
+{"q":"tại sao dầu ăn thừa không được đổ trực tiếp xuống bồn rửa?","got":"khong","key":""}
+{"q":"Nước mắm cần bảo quản ở nhiệt độ nào?","got":"khong","key":""}
+{"q":"Ai thường là người chế biến nước mắm truyền thống bạn nhỉ?","got":"khong","key":""}
+{"q":"Cà phê đen có thể gây viêm loét dạ dày không?","got":"khong","key":""}
+{"q":"Cho mình hỏi gạo nào là tốt nhất để nấu cơm trắng?","got":"khong","key":""}
+{"q":"Tại sao bún bò Huế lại không phải là món ăn miền Nam?","got":"khong","key":""}
+{"q":"Cà phê đen có thể gây mất ngủ không?","got":"khong","key":""}
+{"q":"Thời gian ủ nước mắm lâu nhất là bao lâu bạn?","got":"khong","key":""}
+{"q":"Cho mình hỏi phở bò hay phở gà ngon hơn?","got":"khong","key":""}
+{"q":"Tại sao bún riêu cua miền Nam lại có vị cay nhẹ?","got":"khong","key":""}
+{"q":"Mình có thể dùng nước mắm để ướp thịt không?","got":"khong","key":""}
+{"q":"Ở đâu thì nổi tiếng với nước mắm ngon nhất bạn ơi?","got":"khong","key":""}
+{"q":"Mình muốn học nấu phở từ đầu, khó không?","got":"khong","key":""}
+{"q":"Tại sao người ta lại ăn chay chứ?","got":"khong","key":""}
+{"q":"mình không chắc, có nên nấu cơm với nước lọc hay nước luộc thịt không?","got":"khong","key":""}
+{"q":"Uống cà phê có giúp giảm cân không?","got":"khong","key":""}
+{"q":"Bạn ơi, tại sao bánh canh chay lại có nước trong?","got":"khong","key":""}
+{"q":"Tại sao nước mắm lại đắt một chút?","got":"khong","key":""}
+{"q":"Mình muốn biết nước mắm có giá bao nhiêu một lít bạn ơi?","got":"khong","key":""}
+{"q":"nước mắm nào tốt nhất cho trẻ nhỏ?","got":"khong","key":""}
+{"q":"Bánh mì chảo có gì đặc biệt không bạn?","got":"khong","key":""}
+{"q":"bạn ơi, nước mắm có gây dị ứng không?","got":"khong","key":""}
+{"q":"Tại sao bún bò Huế lại có vị ngọt từ nước dừa?","got":"khong","key":""}
+{"q":"Cho mình hỏi bánh mì chảo có ở những tỉnh nào trong cả nước?","got":"khong","key":""}
+{"q":"Nhưng muốn biết tại sao interil lại bị tắc đột bột.","got":"khong","key":""}
+{"q":"Do một có cảm xúc như con người không.","got":"khong","key":""}
+{"q":"Ai là người tạo xác gật lúa rau múc.","got":"khong","key":""}
+{"q":"Chiếc bàn dân có ảnh hưởng đến một chiều khâu.","got":"khong","key":""}
+{"q":"Có cần viết lập trình để dùng kyn thennes không.","got":"khong","key":""}
+{"q":"Linlionel có thất không bán.","got":"khong","key":""}
+{"q":"Tại sao giá trịt lại tăng cao như vậy.","got":"khong","key":""}
+{"q":"Tại sao mật khẩu lại không nên để quán án.","got":"khong","key":""}
+{"q":"Làm thế nào để sữa lỗi trong một con trịt sau khi đã sản xuất rồi.","got":"khong","key":""}
+{"q":"Nam thế nào để thay sử dụng một con trái tim nó đã hết hạn.","got":"khong","key":""}
+{"q":"Thay sao cần cập nhật phần mềm nhiệt tụi.","got":"khong","key":""}
+{"q":"Ai phát ninh ra kênh lên lượt đầu tiên.","got":"khong","key":""}
+{"q":"Vài phản nhạc mình trân quá bạn ơi có cách nào xử lý không.","got":"khong","key":""}
+{"q":"Nhưng họ tự xem điện có thể chở nhiều người như xem máy không bạn.","got":"khong","key":""}
+{"q":"Tại sao không nên chia sẻ mà xác mình với bất thị ai.","got":"khong","key":""}
+{"q":"Có chắc bạn biết tên người đầu tiên truy cập gds không.","got":"khong","key":""}
+{"q":"Làm kiến giao do bốc biết mình đang ở đâu.","got":"khong","key":""}
+{"q":"Như thế não để nhận biết chạng guam gia màu.","got":"khong","key":""}
+{"q":"Do con có thể cứ sửa chữa mình không.","got":"khong","key":""}
+{"q":"Tại sao rau hoạch trong phiên thượng rất nguy hiểm.","got":"khong","key":""}
+{"q":"Phải sao mình không nên như mật khẩu chân trình duyệt mạc du tiên lợi.","got":"khong","key":""}
+{"q":"Tại sao trịch bản dân loại đáp vệ unk.","got":"khong","key":""}
+{"q":"Bạn ơi làm thế nào để viết một chiếc có tốt không.","got":"khong","key":""}
+{"q":"Giá của một chiếc do bo thông bệnh hiện nay là bao nhiêu.","got":"khong","key":""}
+{"q":"Có loại tin nào không cần sạc lại không.","got":"khong","key":""}
+{"q":"Xe điện có cần bao dựng định kỹ như xe sang không.","got":"khong","key":""}
+{"q":"Điên điện thoại yêu có nên thanh ngay không.","got":"khong","key":""}
+{"q":"Tại sao robot vẫn chưa tai tế hoàn toàn con người.","got":"khong","key":""}
+{"q":"Mình có thể nâng cấp trước trong lọt lấp được không.","got":"khong","key":""}
+{"q":"Làm măng nào cung cấp internet nhanh nhất ở việt nam.","got":"khong","key":""}
+{"q":"Xe liễu có đắt hơn xe xăng nhiều không.","got":"khong","key":""}
+{"q":"Cho mình họ liệu mình có thể dùng mang ngoài phải ở quán cà phết để làm việc không.","got":"khong","key":""}
+{"q":"Trông nó có bị anh hương bởi thời tiết sống không.","got":"khong","key":""}
+{"q":"Nhìn muốn viết sạc xe điện mất bão lâu.","got":"khong","key":""}
+{"q":"Tại sao người ta lại dung hãy lấp rác thực như mật khẩu và mã gừng về điện thoại.","got":"khong","key":""}
+{"q":"Cho mình hỏi do mọt có biết thương rãi sẽ ra sao không.","got":"khong","key":""}
+{"q":"Cho mình hòa xe điện có bị họng đừng xấu không.","got":"khong","key":""}
+{"q":"Cho mình hỏi bạn có biết giờ này là mới rời không.","got":"khong","key":""}
+{"q":"Sao mình không thể gửi tin nhắn này được.","got":"khong","key":""}
+{"q":"Trời có hoạt động tốt nhất ở đầu khi không có mạng không.","got":"khong","key":""}
+{"q":"Sao huỳnh không tìm thấy ứng dụng nắng tinh tia.","got":"khong","key":""}
+{"q":"Bạn tôi tay sang cặp lại bị lôi khi mình rang tai xuống.","got":"khong","key":""}
+{"q":"Bạn tôi ở đâu thì mình có thể được tính năng uspp kyn cho chợ lý được.","got":"khong","key":""}
+{"q":"Trong mình họ bình bật chối us ff m ffr e ffr n m trên tâm hành động không hả.","got":"khong","key":""}
+{"q":"Chơi làm được những gì.","got":"khong","key":""}
+{"q":"Chợ lý ở nhìn đang cảm thấy buồn làm sao.","got":"khong","key":""}
+{"q":"Bạn ở chung tinh thoắn mới làm nhất hai người nhé.","got":"khong","key":""}
+{"q":"Bạn có thể đặt vé máy bay trong hìnhty thì o cả i o không.","got":"khong","key":""}
+{"q":"Con hô cảu trong dựng thị ăn gì.","got":"khong","key":""}
+{"q":"Khi nào thì kê chuyện cười bề con vật là hợp lý nhất.","got":"khong","key":""}
+{"q":"Bạn ơi tại sao phí rau hàng lại tăng cao vậy.","got":"khong","key":""}
+{"q":"Cho mình hỏi cái gì tao ra thia cực tím từ mặt chơi.","got":"khong","key":""}
+{"q":"Trong huỳnh hỏi việt nam có bão nhiều tinh thành.","got":"khong","key":""}
+{"q":"Bạn tội cần làm gì để mình không muộn vì những thí ấp đau nguồn.","got":"du_phong","key":""}
+{"q":"Bạn ơi có chuyện cười nán về tình yêu không.","got":"khong","key":""}
+{"q":"Như thế nào là cách chia sẻ đúng khi bạn buồn.","got":"khong","key":""}
+{"q":"Tai sao máy tính của mình lại chạy trong tế.","got":"khong","key":""}
+{"q":"Bạn ơi tại sao mình không thể xem video chất lượng hd được.","got":"khong","key":""}
+{"q":"Bạn có biết ai là tâm thống vịt nam không.","got":"khong","key":""}
+{"q":"Ai là người tiết lộ cho chợ ý mày có thể chạy to ép eo k no tfx fxxx hẻ được nhìn.","got":"khong","key":""}
+{"q":"Tại sao bạn không chắc chắn vì cách đông huyên minh tốt nhất trong một số trường hợp.","got":"khong","key":""}
+{"q":"Bạn có thể vết báo cáo cho công ty mình không.","got":"khong","key":""}
+{"q":"Nhìn muốn biết kết qua chân đầu bóng đá hôm qua mà không cật lẹ được không.","got":"khong","key":""}
+{"q":"Kỹ tổ chức ngay khi quốc nghiệp thì có lợi sẽ không.","got":"khong","key":""}
+{"q":"Bạn ơi làm nghề tai nhiên cứ khoa học khó không.","got":"khong","key":""}
+{"q":"Nàng nghiên cứu khoa học có vốn thì nhiều không.","got":"khong","key":""}
+{"q":"Có cần phải xuất bạn bãi máu ngay sau khi xong dự án không.","got":"khong","key":""}
+{"q":"Làm sao để tin hướng dân viên nghiên cứu khoa học.","got":"khong","key":""}
+{"q":"Như thế nào thì dữ liệu thuộc tập được coi là đủ tin cậy.","got":"khong","key":""}
+{"q":"Nếu kết quản viên thu không như ý thì sao.","got":"khong","key":""}
+{"q":"Bảo vệ để tai nghiên cứu khoa học có khó không.","got":"khong","key":""}
+{"q":"Trong linh hỏi nghiên cứu khoa học sinh viên là gì.","got":"khong","key":""}
+{"q":"Bạn ơi mình hay nghe nó trong lực trên mặt trump hiếu hơn trái đất có đúng không.","got":"khong","key":""}
+{"q":"Nhìn tát mắc lối ở phụng có thể là mua ax không.","got":"khong","key":""}
+{"q":"Nguyễn nhiều có về hư luận không.","got":"khong","key":""}
+{"q":"Bạn ơi biếu bể sửa trong tủ lạnh quá lâu thì có biến mất không.","got":"khong","key":""}
+{"q":"Cho hỏi tại sao kỹ năng ngôi yên mình vẫn cảm thấy bị kéo xuống dưới.","got":"khong","key":""}
+{"q":"Trong bình khỏi tại sao mua khu nước lợi ích hơn ngừa gậy nhì.","got":"khong","key":""}
+{"q":"Tại sao nam trâm điện lại mạnh hơn nam châm hương.","got":"khong","key":""}
+{"q":"Khi nào thì sử chúa thanh công trong quá trình liên ngệ.","got":"khong","key":""}
+{"q":"Loại tơi nước có thể đến mức không.","got":"khong","key":""}
+{"q":"Vạ tồi tại sao giới nước âm thanh lại chuyển nhanh hơn trong không khí.","got":"khong","key":""}
+{"q":"Tại sao tiếng bằng lại xuất hiện khi tạo hét vào một tham động.","got":"khong","key":""}
+{"q":"Hai người mẹ được ẩm dần số rất cao không.","got":"khong","key":""}
+{"q":"Bạn ơi hiện tứ sấm chấp xảy ra như thế nào.","got":"khong","key":""}
+{"q":"Tình thị có màu khung.","got":"khong","key":""}
+{"q":"Lin muốn biết thại sao tranh giảm sách bố chiên lộ.","got":"khong","key":""}
+{"q":"Cho mình tài người nhện được âm thành cao nhất là bao nhiều gắt xét.","got":"khong","key":""}
+{"q":"Bạn ơi âm thành có thể nhìn thấy được không.","got":"khong","key":""}
+{"q":"Bạn có biết tay sao kim loại bị ô xy bán lại yếu đi không.","got":"khong","key":""}
+{"q":"Bạn ở tại sao quà bóng vạch xí hơi lạ ba ngược triệu trong lực lên chơi.","got":"khong","key":""}
+{"q":"Hiện tượng bàn tiếng lan xịn bạn nhé.","got":"khong","key":""}
+{"q":"Từng việt nam chỉ còn nguyên hiện là hoạt động không.","got":"khong","key":""}
+{"q":"Tại sao khi ta đường vào nước nóng thì tặng nhanh hơn nước lạnh.","got":"khong","key":""}
+{"q":"Thai sao xác bị di khi đến ngoài trỗi.","got":"khong","key":""}
+{"q":"Tại sao ông thanh trong hộp ngỗ lại mị ấm hơn so với trông phồng chống.","got":"khong","key":""}
+{"q":"Bạn ơi nước ngâm là gì mà nó hình thành ra sau nhi.","got":"khong","key":""}
+{"q":"Thì là tính có gây biến đổi khí hậu không.","got":"khong","key":""}
+{"q":"Và tôi tại sao cực bắc của năm chân lại gọi là cựbắc.","got":"khong","key":""}
+{"q":"Tại sao tiếng động cơ máy bay lại có thân số tất nhiên vẫn nghe sau từ xa.","got":"khong","key":""}
+{"q":"Mình không chắc những có thể núi lựa phụ là do con người gây ra không.","got":"khong","key":""}
+{"q":"Đừng đất hướng nhất thế giới là báo nhiễu đối với cận.","got":"khong","key":""}
+{"q":"Âm bệnh và âm trăng khác nhau thế nào về mặt vật lý.","got":"khong","key":""}
+{"q":"Tai sao khi nói thì dòng luỳnh thừng nghe khác so với khi nghe qua điện thoại.","got":"khong","key":""}
+{"q":"Lưỡi lửa phong ra thêm rèn ý.","got":"khong","key":""}
+{"q":"Cho hỏi dâu ăn để lâu có bị bến chất không.","got":"khong","key":""}
+{"q":"Chào mình hỏi động đắp thì báo trước được không.","got":"khong","key":""}
+{"q":"Tờ sau nước miệng không mắp hơi hết.","got":"khong","key":""}
+{"q":"Cháu bị sốt cao có cần đưa đi bệnh viện này không.","got":"sot_cao","key":"sốt cao"}
+{"q":"Ai sẽ giành chức vô địch giải đấu e tọt này.","got":"khong","key":""}
+{"q":"Giám đốc i s đế hùng nai có thang lên không.","got":"khong","key":""}
+{"q":"Súm mạnh mắm hôm nay là bão nhiều.","got":"khong","key":""}
+{"q":"Con nêu nhà mình vừa nhạy quả cửa sổ có số tháng bạn nói xem số này có hợp không.","got":"khong","key":""}
+{"q":"Trần đá mi hôm nay ai tháng.","got":"khong","key":""}
+{"q":"Chợ ở đà năng hôm này có mua không.","got":"khong","key":""}
+{"q":"Nước sông hồng thuốc này có hay không.","got":"khong","key":""}
+{"q":"Hung lại số người chứng tự là bao nhiêu.","got":"khong","key":""}
+{"q":"Giấy thờ tuy tân của bạn ở đâu.","got":"khong","key":""}
+{"q":"Có người bảo nhìn vận thai chân ly nước để đoán số chúng bạn tin không.","got":"khong","key":""}
+{"q":"Nên ai có ngữ không.","got":"khong","key":""}
+{"q":"Con số nào sẽ ra đầu tiên trong quay số may mắn.","got":"khong","key":""}
+{"q":"Dàn nhà đất tại thành phố này có tăng không.","got":"khong","key":""}
+{"q":"Tự dựng thấy con dưa bỏ qua đường người ta bao ván sống sô số bạn biết số đỏ sẽ chứng không.","got":"khong","key":""}
+{"q":"Được tôi bán đất có vi phạm luật đất đại không.","got":"khong","key":""}
+{"q":"Mà xấu thấy của mình là gì.","got":"khong","key":""}
+{"q":"Bồn pha mình làm gì.","got":"khong","key":""}
+{"q":"Liếc chị y về của vịnh brazil.","got":"khong","key":""}
+{"q":"Mái tính của bạn có bị vay không.","got":"khong","key":""}
+{"q":"Giáo phạm hôm nay sẽ chẵn móc vào nhiều.","got":"khong","key":""}
+{"q":"Mái tính của mình sẽ hong cao ngay nào.","got":"khong","key":""}
+{"q":"Mạng đã từng sống cử nước ngoài không.","got":"khong","key":""}
+{"q":"Dấu hiệu nhân biết bệnh tiểu đường là gì.","got":"khong","key":""}
+{"q":"Cái sẽ tán trận nóng tối này.","got":"khong","key":""}
+{"q":"Thôi bị thương tay có cân khấu chỉ không ban.","got":"du_phong","key":""}
+{"q":"Mu cấu phiếu nào sẽ là nhiều nhất.","got":"khong","key":""}
+{"q":"Minh muôn lậu nào bị trung thực ngấn.","got":"khong","key":""}
+{"q":"Giá bị quân ngày mai có lên không.","got":"khong","key":""}
+{"q":"Đi phong định báo dừng xe bị phát bao nhiêu tiền.","got":"khong","key":""}
+{"q":"Triệu chứng của oanh an xanh là gì unk.","got":"khong","key":""}
+{"q":"Bạn có sở thích gì khác biệt không.","got":"khong","key":""}
+{"q":"Mìn muốn biết lãi suất của một ngân hàng cụng thể thì làm sao.","got":"khong","key":""}
+{"q":"Tai sao lãi suất cho vạch lại cao hơn nhiều so với lãã suất tiếp tiểu.","got":"khong","key":""}
+{"q":"Hải sau mua cổ lại khó chung mới hơn mua ngựa.","got":"khong","key":""}
+{"q":"Giải hóa thu mô hiện tại đón nhiều.","got":"khong","key":""}
+{"q":"Dàn lúa gạo năm này so với năm ngoái tăng hại giả.","got":"khong","key":""}
+{"q":"Tại sao người đạo lại là những thực chủ lực của việt nam.","got":"khong","key":""}
+{"q":"Bạn ở mỗi tài khoản tiết kiệm có cần tin gửi nhiều không.","got":"khong","key":""}
+{"q":"Lịnh hàng có cho vạy anh không.","got":"khong","key":""}
+{"q":"Tại sao lại xuất thán nguội lại cay đổi liên tục vượt.","got":"khong","key":""}
+{"q":"Tai là người được bầu làm chủ tịch nước đầu tiên.","got":"khong","key":""}
+{"q":"Bạn ơi khởi nghĩ hai và chứng có những nghĩa gì với giữ nước ta.","got":"khong","key":""}
+{"q":"Bạn tới sau khi ngắn vài quấn nguyên mông nhà trận đã làm gì.","got":"khong","key":""}
+{"q":"Việt nam là thành viên của tổ chức nào vào năm một nghìn chín trăm bốn mươi lăm.","got":"khong","key":""}
+{"q":"Hải bài chưng và bài triệu cọp cũng quên hương không.","got":"khong","key":""}
+{"q":"Đi gây hội như thường dậy.","got":"khong","key":""}
+{"q":"Trong mình khỏi có những thay đổi nào trong đời sống văn hóa sau lười mới.","got":"khong","key":""}
+{"q":"Cho mình hỏi khởi nghĩ hai ba chân sảy ra vào năm nào thấy bạn.","got":"khong","key":""}
+{"q":"Thầy sao mình lại không chắc về thông tin này.","got":"khong","key":""}
+{"q":"Nhưng muốn viết như thế nào là cuộc khởi nghĩ của hai phát triển đã diễn ra.","got":"khong","key":""}
+{"q":"Cuộc khởi nghĩa này có phải là lần đầu tiên đánh quân sơn lực phương mắc không.","got":"khong","key":""}
+{"q":"Nên không chắc lắm về một vấn đề cụ thể liên quan đến chính sách ghế trong thời kỳ này bạn có thề xúc không.","got":"khong","key":""}
+{"q":"Biểu thương cơ đỏ sao bằng có từ thời lý lợi không.","got":"khong","key":""}
+{"q":"Bạn ơi quốc khánh ngay hai tháng chín làng nghệ sĩ.","got":"khong","key":""}
+{"q":"Trong mình hỏi thai sọ phải đổi mới năm chín trăm tháng mười sáu.","got":"khong","key":""}
+{"q":"Nên cần biết cưa đỏ sao vào gã thư của ai.","got":"khong","key":""}
+{"q":"Nhưng hỏi tại sao lại có khó khăn trong quá trình lười mới.","got":"khong","key":""}
+{"q":"Được nhiên phục với nhãn bắt đầu từ đầu.","got":"khong","key":""}
+{"q":"Cuộc khởi nghĩa này téo dại bao lâu.","got":"khong","key":""}
+{"q":"Ai là người đọc tên nguồn độc lập.","got":"khong","key":""}
+{"q":"Bạn ơi tại sao triệu đại phong kiến lại thường xuyền xoài ra chiến tranh.","got":"khong","key":""}
+{"q":"Tại sao mua năng hắn lại tôi ngạch từ lần đầu tiên đến vào nước tạ.","got":"khong","key":""}
+{"q":"Sao người ta lại gọi là nhà ý.","got":"khong","key":""}
+{"q":"Tại sao động vật lại gì cũng nhiều hơn thế.","got":"khong","key":""}
+{"q":"Trông cây xanh có ảnh hưởng đến chất lượng nước không.","got":"khong","key":""}
+{"q":"Bạn ơi cây xanh giúp mổ trưng thế nào.","got":"khong","key":""}
+{"q":"Nếu không biết thên cây thì làm sao để nhận biết nó.","got":"khong","key":""}
+{"q":"Tại sao cây lại cân phân mói.","got":"khong","key":""}
+{"q":"Nhưng không do loại đất nào phù hợp nhất cho cây ăn qua.","got":"khong","key":""}
+{"q":"Định mạc chơi có dụng được vào đêm không.","got":"khong","key":""}
+{"q":"Nhưng muốn dạo sử dụng túi nai và cho mình biết cách nào dễ nhất.","got":"khong","key":""}
+{"q":"Tôi minh hỏi liệu dựng ngập mặn có khác gì so với dương thượng không.","got":"khong","key":""}
+{"q":"Trong mình hỏi phá dừng làm anh hương gì đến lưu lục không.","got":"khong","key":""}
+{"q":"Có nên cười cây vào giữa chữa không.","got":"khong","key":""}
+{"q":"Nếu cây bị sao bệnh thì làm sao văn.","got":"khong","key":""}
+{"q":"Trong linh hỏi làm sao mà ngừa bao lại giữ rồi thế.","got":"khong","key":""}
+{"q":"Nhìn múa làm tiễnh nguyện huyền chung giúp cân đăng ký tổi đâu.","got":"khong","key":""}
+{"q":"Bạn ơi trực tế có phải là thẻ phong unk.","got":"khong","key":""}
+{"q":"Dấu sát dụng trong trường hợp nào.","got":"khong","key":""}
+{"q":"Mình không chắc lắm nhưng có phải giấu thanh chỉ dùng cho người nói không.","got":"khong","key":""}
+{"q":"Khi nào thì dùng tứ nhiên hai miệng.","got":"khong","key":""}
+{"q":"Từ thành tiết biên đúng trước.","got":"khong","key":""}
+{"q":"Rồi năng có phải là dấu mờ nhất không.","got":"khong","key":""}
+{"q":"Dấu thành não dùng để trị âm thấp nhất.","got":"khong","key":""}
+{"q":"Khí nào được cây tai ra khi quang hợp.","got":"khong","key":""}
+{"q":"Tại sao vợ khi mình vẫn nguồn ngoan những sáng hôm sau vẫn thấy đầu óc khung.","got":"khong","key":""}
+{"q":"Thuê dấy nước từ đầu và như thế nào.","got":"khong","key":""}
+{"q":"Thức bật láng khoang hợp ẩu đấu trên tay vậy.","got":"khong","key":""}
+{"q":"Nước có vai trò gì trong quang hợp.","got":"khong","key":""}
+{"q":"Tại sao người lớn tuổi lại dễ bị nhiễm và lên s sân trẻ em.","got":"khong","key":""}
+{"q":"Thốc độ quả hợp có tay đồ theo mùa không.","got":"khong","key":""}
+{"q":"Con người có thể quang ngợp được không.","got":"khong","key":""}
+{"q":"Bạn ơi người ta có thể sữa ai để n không.","got":"khong","key":""}
+{"q":"Nhìn không chắc lắm những tay sao bayscandal à lại liền qua không khí.","got":"khong","key":""}
+{"q":"Có cách nào để ít não bộ của mình đã khỏe mạnh không.","got":"khong","key":""}
+{"q":"Nhìn không chắc rất ngụ có thể điều trị được bệnh à xanh mà không.","got":"khong","key":""}
+{"q":"Làm sao ai đ em n lạại quyết định máu mắt mình.","got":"khong","key":""}
+{"q":"Ai có thể gọi điện cho số phần cấp trong trường hợp phần gấp.","got":"khong","key":""}
+{"q":"Nếu bị côn trùng đốt xuân đỏ thúc mơ gì là phù hợp nhất.","got":"ong_dot","key":"côn trùng đốt"}
+{"q":"Cái gì quan trâm nhất khi sự cứu người bị nuôi nước.","got":"khong","key":""}
+{"q":"Người nào sẽ bị càng cúng nhất bạn ơi.","got":"khong","key":""}
+{"q":"Tật xong có cần thấm ngày không.","got":"khong","key":""}
+{"q":"Bạn ơi mình không biết làm sao để vượt qua nỗi buồn này.","got":"khong","key":""}
+{"q":"Bị bỏng trộn nó là quan trọng nhất để xử lý đầu tiên.","got":"bong","key":"bị bỏng"}
+{"q":"Cho mình hỏi nếu người bị nuối nước không thở thì có nên thơi hơi vào miệng không.","got":"hoi_suc_tim_phoi","key":"không thở"}
+{"q":"Cảm cúng có thể dẫn đến viễn chứng nguy hiệp không.","got":"khong","key":""}
+{"q":"Mình bị cạn cuống vì nào trong này.","got":"khong","key":""}
+{"q":"Có cách nào thương điều trị cắn cúng tai nha không.","got":"khong","key":""}
+{"q":"Mình đẩy chấn thương nhé có thể tập được không.","got":"khong","key":""}
+{"q":"Thậm u khác với các mạnh ở điểm nào mi.","got":"khong","key":""}
+{"q":"Bạn người nếu bị rắn cắn thì có nên cột dây lên trên không.","got":"ran_can","key":"bị rắn cắn"}
+{"q":"Hy lòng đên di chuyện nặng nhận khỏi khu vực nguy hiểm.","got":"khong","key":""}
+{"q":"Nhìn bị stress nhiều làm sao để ra mức ngay bây giờ.","got":"khong","key":""}
+{"q":"Ai cần uống nhiều nước nhất trong ngày.","got":"khong","key":""}
+{"q":"Cho mình hỏi tập sáng sớm hay tặc tối tốt hơn cho sức khỏe.","got":"khong","key":""}
+{"q":"Liên hợp quốc có về lực dị hơn các nước thành viện không.","got":"khong","key":""}
+{"q":"Vạm ừ cái gì giúp con người chữa bệnh ung thư.","got":"khong","key":""}
+{"q":"Việt nhằn gia nhập axit on thịt.","got":"khong","key":""}
+{"q":"Nhật bản an xếp hẳn có đầy đủ bảng nhiều nước.","got":"khong","key":""}
+{"q":"Triều nam cực có dẫn số không.","got":"khong","key":""}
+{"q":"Cho nguyên hỏi phép mình chỉ giúp con người lương chịu nhiều dữ liệu.","got":"khong","key":""}
+{"q":"Mình muốn biết nguồn lượng nào có từ vũng phong phú nhất thế giới.","got":"khong","key":""}
+{"q":"Ai giúp mình biết trong năm cực thuộc về nước nào.","got":"khong","key":""}
+{"q":"Nhưng muốn biết do bận đầu tiên trên thế giới là của ai vạy bạn.","got":"khong","key":""}
+{"q":"Bạn ơi cái gì chúc mọi người giao tiếp nhanh chóng trên khắp thế giới.","got":"khong","key":""}
+{"q":"Chỗ âu và châu phi có trung đại dương nào không.","got":"khong","key":""}
+{"q":"Dư mua nhiệt nới lớn nhất thế giới là dự lao vào.","got":"khong","key":""}
+{"q":"Bạn bởi những ai có thể học nguồn lựu trên thế giới không.","got":"khong","key":""}
+{"q":"Tiến về có phải là ngôn ngữ chính thức của việt na không.","got":"khong","key":""}
+{"q":"N sử dụng nó vẫn tiếp nhất khi chai.","got":"khong","key":""}
+{"q":"Sao vợ cầu lông lại nhẹ đến vậy.","got":"khong","key":""}
+{"q":"Trải bộ trong mùi có tốt không.","got":"khong","key":""}
+{"q":"Bạn có tỷ dụng cậu lọt được không.","got":"khong","key":""}
+{"q":"Người gia tập không nên làm có dễ bị nga không.","got":"khong","key":""}
+{"q":"Trại ngộ có giúp giang mở bụng không ban.","got":"khong","key":""}
+{"q":"Tay sao mình cảm thấy đau đầu khi chạy bù.","got":"du_phong","key":""}
+{"q":"Có nên chai bục khi đang bằng thai không bạn.","got":"khong","key":""}
+{"q":"Chao bạn nếu nhận số không với bất kỳ số nào thì kết quả là mấy.","got":"khong","key":""}
+{"q":"Mà kháng có chắc chắn là chính mười ngày không bạn.","got":"khong","key":""}
+{"q":"Chao bạn trong một tưởng có bao nhiêu ngày thứ bay.","got":"khong","key":""}
+{"q":"Mìn tắc mắc một giờ có bạn liêu phúc.","got":"khong","key":""}
+{"q":"Cho mình hỏi một nặng con mấy tháng.","got":"khong","key":""}
+{"q":"Hai sữa bàn bao nhiêu phút.","got":"khong","key":""}
+{"q":"Làm tôn cho mình hỏi tay sao có năm lượn.","got":"khong","key":""}
+{"q":"Miền muốn họ một cái thị có bao nhiêu tháng.","got":"khong","key":""}
+{"q":"Bạn ơi một ngày đến có bao nhiêu dành đi.","got":"khong","key":""}
+{"q":"Trong lựa hỏi một năm có bao nhiêu giờ.","got":"khong","key":""}
+{"q":"Bạn có biết một dự bằng bao nhiêu phúc không.","got":"khong","key":""}
+{"q":"Cho mình học thế thì có bao nhiều năm.","got":"khong","key":""}
+{"q":"Cho mình khỏi giá vé xen lúa dưới nước khoảng bao nhiều.","got":"khong","key":""}
+{"q":"Như thế nào là lê hội quan họ bắc ninh.","got":"khong","key":""}
+{"q":"Trong mình họ tại sao nhiều người lại cho rằng múa dưới nước là di sản phăn hóa phi vật thể.","got":"khong","key":""}
+{"q":"Hát quan họ thì phải đi đám cưới mới được đúng không.","got":"khong","key":""}
+{"q":"Đính muốn biết đã chú có với người hát chín.","got":"khong","key":""}
+{"q":"Bạn ơi áo giải có mấy lại cô phổ biến nhất.","got":"khong","key":""}
+{"q":"Bạn ơi miễn trú dối trong búa rồi nước giảm bằng chất hiện gì.","got":"khong","key":""}
+{"q":"Cho hỏi một đội muốn rối nức cựu có bao nhiêu nhân vật chín.","got":"khong","key":""}
+{"q":"Dấu nước được làm bằng chất liệu riêng.","got":"khong","key":""}
+{"q":"Bạn ơi cả chủ có phải là di sản văn hóa thế giới không.","got":"khong","key":""}
+{"q":"Trong bình hỏi màu sắc nào của áo dài được mặc nhiều nhất.","got":"khong","key":""}
+{"q":"Khi nào thấy áo dạy mắt một phải mọc khi đi học.","got":"khong","key":""}
+{"q":"Các chủ có dụng lợi nói đợi thì không.","got":"khong","key":""}
+{"q":"Nhìn tát mát muối rối nước có xuất hiện ở nước ngoài không.","got":"khong","key":""}
+{"q":"Ngoàn họ hát có được tổ chức quốc đề không.","got":"khong","key":""}
+{"q":"Áo sạy có được mặc đi du lịch nước ngoài không bán.","got":"khong","key":""}
+{"q":"Tết này có phát lượng tưởng cho nhân viên không.","got":"khong","key":""}
+{"q":"Tại sao cả chú lại ít được biết đến hơn quan họ.","got":"khong","key":""}
+{"q":"Có niên mua hoang lại vào đêm sau thứ không.","got":"khong","key":""}
+{"q":"Nhưng muốn biết ai là người sáng lập cả chủ.","got":"khong","key":""}
+{"q":"Như thế nào mà nguyên dụng lại có thể dự đoán được số phân của các nhận vật.","got":"khong","key":""}
+{"q":"Nhưng muốn biết chăm nom trong cõi người ta thuộc các phẩm gì.","got":"khong","key":""}
+{"q":"Ai đã tắt ra của bài thứ trăm giăng nổi tiếng.","got":"khong","key":""}
+{"q":"Trong bình nhỏ tắt ra phẩy mười da và biến cảng là anh.","got":"khong","key":""}
+{"q":"Tại sao phố bi bộ nguyên thái học lại được yêu thích như vậy.","got":"khong","key":""}
+{"q":"Trong mình họ tại sao hà nội lại nổi tiếng với những cây cầu vong đẹp thế.","got":"khong","key":""}
+{"q":"Gọi nhà thứ ăn gì trong dư.","got":"khong","key":""}
+{"q":"Thời gian trình di cư thường là lúc nào.","got":"khong","key":""}
+{"q":"Nặng tùn về sụp có hay không.","got":"khong","key":""}
+{"q":"Trong mìn hỏi tai sao mà họ thích lao cạo.","got":"khong","key":""}
+{"q":"Bạn có ấy gọi có sưng không cho mình hỏi.","got":"du_phong","key":""}
+{"q":"Tôi không chặng vì bọ stress bạn có thể nói về lợi ít của chúng không.","got":"khong","key":""}
+{"q":"Bạn nói xem tiếng có gây hại gì không.","got":"khong","key":""}
+{"q":"Nhưng muốn biết cá heo có cần ăn gì để sống không.","got":"khong","key":""}
+{"q":"Các heo có thể sống được trong nhà không.","got":"khong","key":""}
+{"q":"Mìn không trách nên cả vòi có ngủ công nhi.","got":"khong","key":""}
+{"q":"Trong lễ hội đã coi xanh có to hoặc là lúc tòa nhà không.","got":"khong","key":""}
+{"q":"Gọi có thể nhớ lại những sự kiện từ xa không bạn.","got":"khong","key":""}
+{"q":"Nhìn muốn viết làm sao để huấn luyện chó không găm độ nhã.","got":"khong","key":""}
+{"q":"Nghệ tôi cá gọi có thể vài trên không chung không.","got":"khong","key":""}
+{"q":"Khi nào thì nên bắt đầu ôn tập chất thế kỷ cuối năm để không bị stress.","got":"khong","key":""}
+{"q":"Mình không chấp về việc đầu tư vào tiên viết kiệm liên làm sao.","got":"khong","key":""}
+{"q":"Khi nào mình viết thử lạnh đã hết hạn sử dụng cần tay mới.","got":"khong","key":""}
+{"q":"Khi nào mình cần kiểm tra lại dạy điện của bếp tư.","got":"khong","key":""}
+{"q":"Tiên xa của mình với bào thùng nào cho đúng.","got":"khong","key":""}
+{"q":"Bạn ơi liệu có ứng dụng nào giúp nhấp nhờ làm việc không.","got":"khong","key":""}
+{"q":"Nhiều ngũ bổ sung có thực sự giúp trí nào hoạt động tốt hơn.","got":"khong","key":""}
+{"q":"Mình muốn biết khi nào thì xảy ra của phượng đến thụ gõm.","got":"khong","key":""}
+{"q":"Thì nào mình cần thay đổi rừng cũng làm bếp khủng.","got":"khong","key":""}
+{"q":"Cho mình hỏi quản lý thời gian là cái gì bạn ơi.","got":"khong","key":""}
+{"q":"Khi năng nào vàng trong nhất khi cần học mùi thuôn lương mới nhanh.","got":"khong","key":""}
+{"q":"Mình muốn biết đỗ hộp bị sống có ăn được không.","got":"khong","key":""}
+{"q":"Học nóng có hiệu quả hơn hẳn một mình không.","got":"khong","key":""}
+{"q":"Nhưng cần biết cách đi nhờ nhanh cẩn thức giòn khó.","got":"khong","key":""}
+{"q":"Tại sao mình lại phải phân loại rác nai tường đồng nhi.","got":"khong","key":""}
+{"q":"Từ đầu mình có thể học thêm về quản lý thời gian miễn phí.","got":"khong","key":""}
+{"q":"Điện thằng nào cung cấp chứng chỉ quốc tế về tị năng lượt miễn phí.","got":"khong","key":""}
+{"q":"Ai là người thu ngọn dạng thái chế ở khu dân cư của mình.","got":"khong","key":""}
+{"q":"Làm sao để tập trung khi nhà có nhiều tiếng côn.","got":"khong","key":""}
+{"q":"Nơi não ở hà nội có tử viên yên tinh để học nhóm vào cuối thận.","got":"khong","key":""}
+{"q":"Cho mình họ nếu không biết lượng giao thông thì có được xin mười hướng tới giải thích không.","got":"khong","key":""}
+{"q":"Trong mình hỏi có cách nào học ngoài ngũ nhanh không.","got":"khong","key":""}
+{"q":"Loại ơi ai nổi tiếng nhất đề phương pháp học tập khoa học hiện nay.","got":"khong","key":""}
+{"q":"Cái sao dầu ăn thưa không được đổ trực tiếp xuống ngôn giữa.","got":"khong","key":""}
+{"q":"Nước mắm cần bắc khoản ở nhịp bộ nào.","got":"khong","key":""}
+{"q":"Tai thượng là người chế biến nước mắm chuyện tống bạn nhi.","got":"khong","key":""}
+{"q":"Cà phê nên có thể lê miệng loét dạ dày không.","got":"khong","key":""}
+{"q":"Cho mình hỏi đọng nào là tốt nhất để nấu cơm trán.","got":"khong","key":""}
+{"q":"Tại sao bún bọ với lại không phải là món ăn miệt nam.","got":"khong","key":""}
+{"q":"Cà phê đen có thể gây mất ngủ không.","got":"khong","key":""}
+{"q":"Thời gian ù nước mắm lâu nhất lại bão lâu bạn.","got":"khong","key":""}
+{"q":"Cho mình khoản tô vỗ hay khâu giã ngọt hơn.","got":"du_phong","key":""}
+{"q":"Tại sao bối rượu cổ nguyễn nam lại có vịt cái nhẹ.","got":"khong","key":""}
+{"q":"Mình có thể dùng nước mắm để ướp thịt không.","got":"khong","key":""}
+{"q":"Ở đầu thì lợi tiếng với nước nó ngọn nhất bạn ơi.","got":"khong","key":""}
+{"q":"Chỉ mìn muốn hỏng nấu một từ đâu khó không.","got":"khong","key":""}
+{"q":"Tại sao người ta lại ăn chay chữ.","got":"khong","key":""}
+{"q":"Mình không chắc có nên nấu cơm với nước lọc hay nước luộc thì không.","got":"khong","key":""}
+{"q":"Cũng cả phải có giúp giảm cân không.","got":"khong","key":""}
+{"q":"Bạn ơi tại sao bắn cành chay lại có nước trọng.","got":"khong","key":""}
+{"q":"Tay rau nước mỏng lại đắp một chút.","got":"khong","key":""}
+{"q":"Ninh muốn bếp nước mắm có giá bao nhiêu mít vạ tợi.","got":"khong","key":""}
+{"q":"Nước mắm nào tốt nhất cho chạy nhỏ.","got":"khong","key":""}
+{"q":"Bánh mì treo có gì đặc biệt không bạn.","got":"khong","key":""}
+{"q":"Bạn ở nước mắm có gây dị ứng không.","got":"khong","key":""}
+{"q":"Thai sao muốn bọ với lại có vị ngọt từng nước dương.","got":"khong","key":""}
+{"q":"Cho mình khỏi bánh mỹ trao có ở những tình nào trong cả nước.","got":"khong","key":""}

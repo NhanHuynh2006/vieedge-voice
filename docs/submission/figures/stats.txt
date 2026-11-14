@@ -1,0 +1,57 @@
+A 5w/3t answer: n=13 p50=2025 p95=3506 CI95(p50)=[1473,2187] ms
+A 5w/3t first: n=13 p50=660 p95=2282 CI95(p50)=[640,677] ms
+   cfg={'model': 'qwen3.5-2b-vi-voice-Q4_0-imx.gguf', 'device': 'HTP0', 'voice': 'vits-piper-vi_VN-vais1000-medium', 'ack': True, 'endpoint': 0.4, 'rag': True, 'words': 5}
+B 3w/3t answer: n=12 p50=1598 p95=2383 CI95(p50)=[1394,1696] ms
+B 3w/3t first: n=12 p50=659 p95=718 CI95(p50)=[638,675] ms
+   cfg={'model': 'qwen3.5-2b-vi-voice-Q4_0-imx.gguf', 'device': 'HTP0', 'voice': 'vits-piper-vi_VN-vais1000-medium', 'ack': True, 'endpoint': 0.4, 'rag': True, 'words': 3}
+C 3w/4t answer: n=13 p50=1529 p95=2496 CI95(p50)=[1470,1777] ms
+C 3w/4t first: n=13 p50=650 p95=1243 CI95(p50)=[646,671] ms
+   cfg={'model': 'qwen3.5-2b-vi-voice-Q4_0-imx.gguf', 'device': 'HTP0', 'voice': 'vits-piper-vi_VN-vais1000-medium', 'ack': True, 'endpoint': 0.4, 'rag': True, 'words': 3}
+D 3w/4t/300 answer: n=13 p50=1550 p95=2357 CI95(p50)=[1397,1920] ms
+D 3w/4t/300 first: n=13 p50=572 p95=679 CI95(p50)=[549,606] ms
+   cfg={'model': 'qwen3.5-2b-vi-voice-Q4_0-imx.gguf', 'device': 'HTP0', 'voice': 'vits-piper-vi_VN-vais1000-medium', 'ack': True, 'endpoint': 0.3, 'rag': True, 'words': 3}
+2B base answer: n=13 p50=1485 p95=3221 CI95(p50)=[1353,1953] ms
+2B base first: n=13 p50=1485 p95=3221 CI95(p50)=[1353,1953] ms
+   cfg={'model': 'qwen3.5-2b-vi-voice-Q4_0.gguf', 'device': 'HTP0', 'voice': 'vits-piper-vi_VN-vais1000-medium', 'ack': False, 'endpoint': 0.4}
+2B ack answer: n=12 p50=1714 p95=2109 CI95(p50)=[1239,1870] ms
+2B ack first: n=12 p50=539 p95=560 CI95(p50)=[532,544] ms
+   cfg={'model': 'qwen3.5-2b-vi-voice-Q4_0.gguf', 'device': 'HTP0', 'voice': 'vits-piper-vi_VN-vais1000-medium', 'ack': True, 'endpoint': 0.4}
+xlow answer: n=12 p50=1270 p95=1831 CI95(p50)=[1166,1501] ms
+xlow first: n=12 p50=1270 p95=1831 CI95(p50)=[1166,1501] ms
+   cfg={'model': 'qwen3.5-2b-vi-voice-Q4_0.gguf', 'device': 'HTP0', 'voice': 'vits-piper-vi_VN-vivos-x_low', 'ack': False, 'endpoint': 0.4}
+xlow ack ep300 answer: n=12 p50=1281 p95=1790 CI95(p50)=[1157,1554] ms
+xlow ack ep300 first: n=12 p50=423 p95=445 CI95(p50)=[411,438] ms
+   cfg={'model': 'qwen3.5-2b-vi-voice-Q4_0.gguf', 'device': 'HTP0', 'voice': 'vits-piper-vi_VN-vivos-x_low', 'ack': True, 'endpoint': 0.3}
+0.8 GPU answer: n=12 p50=1217 p95=1483 CI95(p50)=[1103,1368] ms
+0.8 GPU first: n=12 p50=1217 p95=1483 CI95(p50)=[1103,1368] ms
+   cfg={'model': 'qwen3.5-0.8b-vi-voice-Q4_0.gguf', 'device': 'GPUOpenCL', 'voice': 'vits-piper-vi_VN-vais1000-medium', 'ack': False, 'endpoint': 0.4}
+0.8 NPU answer: n=22 p50=1189 p95=1706 CI95(p50)=[933,1399] ms
+0.8 NPU first: n=22 p50=1189 p95=1706 CI95(p50)=[933,1399] ms
+   cfg={'model': 'qwen3.5-0.8b-vi-voice-Q4_0.gguf', 'device': 'HTP0', 'voice': 'vits-piper-vi_VN-vais1000-medium', 'ack': False, 'endpoint': 0.4}
+2B GPU answer: n=13 p50=1313 p95=1744 CI95(p50)=[1148,1548] ms
+2B GPU first: n=13 p50=1313 p95=1744 CI95(p50)=[1148,1548] ms
+   cfg={'model': 'qwen3.5-2b-vi-voice-Q4_0.gguf', 'device': 'GPUOpenCL', 'voice': 'vits-piper-vi_VN-vais1000-medium', 'ack': False, 'endpoint': 0.4}
+norag answer: n=12 p50=1690 p95=2184 CI95(p50)=[1399,1748] ms
+norag first: n=12 p50=556 p95=588 CI95(p50)=[544,572] ms
+   cfg={'model': 'qwen3.5-2b-vi-voice-Q4_0-imx.gguf', 'device': 'HTP0', 'voice': 'vits-piper-vi_VN-vais1000-medium', 'ack': True, 'endpoint': 0.4, 'rag': False}
+rag answer: n=12 p50=1753 p95=2228 CI95(p50)=[1456,2119] ms
+rag first: n=12 p50=657 p95=698 CI95(p50)=[643,691] ms
+   cfg={'model': 'qwen3.5-2b-vi-voice-Q4_0-imx.gguf', 'device': 'HTP0', 'voice': 'vits-piper-vi_VN-vais1000-medium', 'ack': True, 'endpoint': 0.4, 'rag': True}
+yocto answer: n=16 p50=2019 p95=3780 CI95(p50)=[1494,2684] ms
+pios answer: n=16 p50=1602 p95=3619 CI95(p50)=[1024,2464] ms
+paired yocto-pios: n=16 median diff=64 ms CI=[-81.7     590.85125] wilcoxon p=0.404
+yocto loaded answer: n=16 p50=6509 p95=17772 CI95(p50)=[2519,8698] ms
+pios loaded answer: n=16 p50=9267 p95=20689 CI95(p50)=[6060,12745] ms
+yocto questions: Khi nào mình viết tủ lạn | Người nào sẽ bị cảm cúng |  | 
+yocto answer LLM-only: n=12 p50=2441 p95=3909 CI95(p50)=[1867,2940] ms
+pios questions: Khi nào mình viết tủ lạn | Người nào sẽ bị cảm cúng |  | 
+pios answer LLM-only: n=11 p50=1848 p95=3785 CI95(p50)=[1578,3275] ms
+paired LLM-only n=11 median diff=79 CI=[-291.  1114.6] wilcoxon p=0.831
+stages Pi n=12: [0.428 0.302 0.91  0.797] sum=2.438; Fold7 n=13: [0.628 0.196 0.419 0.282] sum=1.526
+YO-LAT-base-20261013-131838: n=12 first p50/p95=2446/4515 answer=2359/4433
+YO-LAT-ack-20261013-132117: n=12 first p50/p95=528/1145 answer=2435/3954
+YO-LAT-ack-ep300-w3-20261013-132355: n=12 first p50/p95=430/1074 answer=1954/4017
+jitter Pi OS: đỉnh 127 µs: samples=1800000 max=127
+jitter Yocto-RT: đỉnh 92 µs: samples=1800000 max=92
+soak log sample [45, 4, [51.7, 51.3, 50.5, 49.9, 50.3]], keys ['turns', 'log', 't0', 't1', 'b0', 'b1']
+soak tok/s n=61 q1=25.3 q4=25.3 std=0.57

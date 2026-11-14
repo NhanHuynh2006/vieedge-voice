@@ -1,0 +1,140 @@
+{
+ "STYLEACLEAN_qwen3.5-2b-vi-voice-Q4_0": {
+  "n": 345,
+  "hedge": 207,
+  "starts_with_khong_chac": 177,
+  "mean_words": 26.4
+ },
+ "STYLEAZIP_qwen3.5-2b-vi-voice-Q4_0": {
+  "n": 345,
+  "hedge": 274,
+  "starts_with_khong_chac": 252,
+  "mean_words": 26.0
+ },
+ "STYLEBCLEAN_qwen3.5-2b-vi-voice-Q4_0": {
+  "n": 345,
+  "hedge": 60,
+  "starts_with_khong_chac": 18,
+  "most_common_start": [
+   [
+    "mình không biết",
+    33
+   ],
+   [
+    "mình không chắc",
+    18
+   ],
+   [
+    "mình không thể",
+    10
+   ]
+  ],
+  "mean_words": 29.2,
+  "s": 106
+ },
+ "STYLEBZIP_qwen3.5-2b-vi-voice-Q4_0": {
+  "n": 345,
+  "hedge": 69,
+  "starts_with_khong_chac": 21,
+  "most_common_start": [
+   [
+    "mình không biết",
+    38
+   ],
+   [
+    "mình không chắc",
+    21
+   ],
+   [
+    "mình không thể",
+    11
+   ]
+  ],
+  "mean_words": 28.8,
+  "s": 107
+ },
+ "STYLECCLEAN_qwen3.5-2b-vi-voice-Q4_0": {
+  "n": 345,
+  "hedge": 139,
+  "starts_with_khong_chac": 103,
+  "most_common_start": [
+   [
+    "mình không chắc",
+    103
+   ],
+   [
+    "mình không biết",
+    22
+   ],
+   [
+    "mình không thể",
+    15
+   ]
+  ],
+  "mean_words": 30.8,
+  "s": 129
+ },
+ "STYLECZIP_qwen3.5-2b-vi-voice-Q4_0": {
+  "n": 345,
+  "hedge": 186,
+  "starts_with_khong_chac": 159,
+  "most_common_start": [
+   [
+    "mình không chắc",
+    159
+   ],
+   [
+    "mình không biết",
+    18
+   ],
+   [
+    "mình không thể",
+    10
+   ]
+  ],
+  "mean_words": 30.7,
+  "s": 113
+ },
+ "STYLEACLEAN_gemma-4-e2b-Q4_K_M": {
+  "n": 345,
+  "hedge": 134,
+  "starts_with_khong_chac": 11,
+  "most_common_start": [
+   [
+    "tôi không có",
+    71
+   ],
+   [
+    "mình không có",
+    29
+   ],
+   [
+    "tôi không chắc",
+    14
+   ]
+  ],
+  "mean_words": 32.7,
+  "s": 154
+ },
+ "STYLEAZIP_gemma-4-e2b-Q4_K_M": {
+  "n": 345,
+  "hedge": 214,
+  "starts_with_khong_chac": 11,
+  "most_common_start": [
+   [
+    "tôi không có",
+    116
+   ],
+   [
+    "tôi không chắc",
+    51
+   ],
+   [
+    "mình không có",
+    26
+   ]
+  ],
+  "mean_words": 29.7,
+  "s": 129
+ }
+}

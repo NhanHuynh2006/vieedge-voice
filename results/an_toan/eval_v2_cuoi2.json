@@ -1,0 +1,102 @@
+{
+ "tag": "v2_cuoi2",
+ "cards": 42,
+ "version": "2026-11-04",
+ "n": 134,
+ "match_ms_per_question": 0.201,
+ "by_kind": {
+  "trong": {
+   "n": 84,
+   "sot": 1,
+   "dung": 83
+  },
+  "ngoai": {
+   "n": 20,
+   "dung": 16,
+   "khong_kich_hoat": 4
+  },
+  "am": {
+   "n": 30,
+   "dung": 26,
+   "kich_hoat_nham": 4
+  },
+  "qa": {}
+ },
+ "errors": [
+  {
+   "q": "Có người nằm gục trên bàn, gọi không trả lời, ngực không phập phồng",
+   "nhan": [
+    "hoi_suc_tim_phoi",
+    "ngat_xiu"
+   ],
+   "loai": "trong",
+   "text": "Có người nằm gục trên bàn, gọi không trả lời, ngực không phập phồng",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Ăn cá nóc bị tê môi",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Ăn cá nóc bị tê môi",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Lạc trong rừng, trời sắp tối",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Lạc trong rừng, trời sắp tối",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị cào xước do dây thép gai rỉ sét",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị cào xước do dây thép gai rỉ sét",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đứa nhỏ nhét hạt đậu vào mũi",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Đứa nhỏ nhét hạt đậu vào mũi",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đội tuyển bị loại đau quá",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Đội tuyển bị loại đau quá",
+   "got": "du_phong",
+   "key": ""
+  },
+  {
+   "q": "Kể chuyện cổ tích Sơn Tinh Thủy Tinh và lũ lụt",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Kể chuyện cổ tích Sơn Tinh Thủy Tinh và lũ lụt",
+   "got": "ngap_lut",
+   "key": "lũ lụt"
+  },
+  {
+   "q": "Mình muốn mua máy phát điện loại nào tốt",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Mình muốn mua máy phát điện loại nào tốt",
+   "got": "mat_dien",
+   "key": "máy phát điện"
+  },
+  {
+   "q": "Con mèo nhà mình cứ cào ghế sofa",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Con mèo nhà mình cứ cào ghế sofa",
+   "got": "cho_meo_can",
+   "key": "mèo+cào+con"
+  }
+ ]
+}

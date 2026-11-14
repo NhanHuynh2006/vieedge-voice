@@ -1,0 +1,81 @@
+# VieEdge-Voice — Yocto (scarthgap LTS) for Raspberry Pi 5 + Hailo-8L.
+# This file = configuration O2 (minimal Yocto, standard kernel).
+# kas-rt.yml layers PREEMPT_RT + core isolation on top (O3/O4).
+#
+#   ./yocto/build.sh            # O2
+#   ./yocto/build.sh rt         # O3/O4
+header:
+  version: 14
+
+machine: raspberrypi5
+distro: poky
+target: vieedge-image
+
+defaults:
+  repos:
+    branch: scarthgap
+
+repos:
+  vieedge:
+    layers:
+      yocto/meta-vieedge:
+
+  poky:
+    url: https://git.yoctoproject.org/poky
+    layers:
+      meta:
+      meta-poky:
+
+  meta-openembedded:
+    url: https://github.com/openembedded/meta-openembedded.git
+    layers:
+      meta-oe:
+      meta-python:
+      meta-multimedia:
+      meta-networking:
+
+  meta-raspberrypi:
+    url: https://github.com/agherzan/meta-raspberrypi.git
+
+  # Hailo-8 / Hailo-8L stack (HailoRT 4.x). The plain "scarthgap" branch is HailoRT 5.x (Hailo-10H/15 only).
+  meta-hailo:
+    url: https://github.com/hailo-ai/meta-hailo.git
+    branch: hailo8-scarthgap
+    layers:
+      meta-hailo-accelerator:
+      meta-hailo-libhailort:
+
+local_conf_header:
+  00-base: |
+    CONF_VERSION = "2"
+    INIT_MANAGER = "systemd"
+    DISTRO_FEATURES:append = " systemd usrmerge pci wifi"
+    DISTRO_FEATURES:remove = "x11 wayland vulkan opengl bluetooth 3g nfc pulseaudio ptest"
+    LICENSE_FLAGS_ACCEPTED = "synaptics-killswitch commercial"
+    PACKAGE_CLASSES = "package_ipk"
+
+  10-machine: |
+    # Cortex-A76: ARMv8.2-A with dotprod + fp16 (passed to all recipes as -mcpu=cortex-a76)
+    DEFAULTTUNE = "cortexa76"
+    PREFERRED_VERSION_linux-raspberrypi = "6.12.%"
+    ENABLE_UART = "1"
+    RPI_USE_U_BOOT = "0"
+    DISABLE_RPI_BOOT_LOGO = "1"
+    GPU_MEM = "16"
+    # PCIe for the Hailo HAT+ / AI Kit, Gen3 doubles NPU bandwidth; onboard audio off (USB mic/speaker)
+    RPI_EXTRA_CONFIG = "\ndtparam=pciex1\ndtparam=pciex1_gen=3\ndtparam=audio=off\n"
+
+  20-build: |
+    # 14 GB RAM host: keep C++ compiles from OOMing (container also capped, see build.sh)
+    BB_NUMBER_THREADS = "4"
+    PARALLEL_MAKE = "-j 6"
+    INHERIT += "rm_work"
+    IMAGE_FSTYPES = "wic.bz2 wic.bmap"
+    # Room for models deployed after flashing (deploy_models.sh)
+    IMAGE_ROOTFS_EXTRA_SPACE = "6291456"
+
+  30-vieedge: |
+    VIEEDGE_RT ?= "0"
+    VIEEDGE_TRACING ?= "1"
+    # Set to "1" (and VIEEDGE_MODELS_DIR) to bake models into the image instead of deploy_models.sh
+    VIEEDGE_BUNDLE_MODELS ?= "0"

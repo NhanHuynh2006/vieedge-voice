@@ -1,0 +1,145 @@
+  kept 3418/4900  rejected {}  28s
+  kept 3433/4900  rejected {}  31s
+  kept 3448/4900  rejected {}  34s
+  kept 3463/4900  rejected {}  36s
+  kept 3478/4900  rejected {}  55s
+  kept 3493/4900  rejected {}  55s
+  kept 3508/4900  rejected {}  63s
+  kept 3508/4900  rejected {}  70s
+  kept 3523/4900  rejected {}  78s
+  kept 3538/4900  rejected {}  85s
+  kept 3538/4900  rejected {}  97s
+  kept 3553/4900  rejected {}  102s
+  kept 3568/4900  rejected {}  105s
+  kept 3583/4900  rejected {}  116s
+  kept 3598/4900  rejected {}  128s
+  kept 3598/4900  rejected {}  129s
+  kept 3598/4900  rejected {}  132s
+  kept 3613/4900  rejected {}  150s
+  kept 3627/4900  rejected {'duplicate': 1}  159s
+  kept 3627/4900  rejected {'duplicate': 1}  161s
+  kept 3642/4900  rejected {'duplicate': 1}  165s
+  kept 3657/4900  rejected {'duplicate': 1}  180s
+  kept 3672/4900  rejected {'duplicate': 1}  188s
+  kept 3687/4900  rejected {'duplicate': 1}  190s
+  kept 3702/4900  rejected {'duplicate': 1}  192s
+  kept 3717/4900  rejected {'duplicate': 1}  216s
+  kept 3732/4900  rejected {'duplicate': 1}  218s
+  kept 3747/4900  rejected {'duplicate': 1}  220s
+  kept 3762/4900  rejected {'duplicate': 1}  221s
+  kept 3777/4900  rejected {'duplicate': 1}  240s
+  kept 3792/4900  rejected {'duplicate': 1}  248s
+  kept 3807/4900  rejected {'duplicate': 1}  250s
+  kept 3817/4900  rejected {'duplicate': 6}  268s
+  kept 3817/4900  rejected {'duplicate': 6}  270s
+  kept 3830/4900  rejected {'duplicate': 8}  272s
+  kept 3845/4900  rejected {'duplicate': 8}  282s
+  kept 3855/4900  rejected {'duplicate': 8}  297s
+  kept 3870/4900  rejected {'duplicate': 8}  303s
+  kept 3885/4900  rejected {'duplicate': 8}  305s
+  kept 3900/4900  rejected {'duplicate': 8}  314s
+  kept 3915/4900  rejected {'duplicate': 8}  325s
+  kept 3915/4900  rejected {'duplicate': 8}  337s
+  kept 3930/4900  rejected {'duplicate': 8}  338s
+  kept 3945/4900  rejected {'duplicate': 8}  344s
+  kept 3959/4900  rejected {'duplicate': 9}  352s
+  kept 3974/4900  rejected {'duplicate': 9}  370s
+  kept 3989/4900  rejected {'duplicate': 9}  373s
+  kept 4004/4900  rejected {'duplicate': 9}  379s
+  kept 4019/4900  rejected {'duplicate': 9}  386s
+  kept 4033/4900  rejected {'duplicate': 10}  399s
+  kept 4034/4900  rejected {'duplicate': 10}  401s
+  kept 4034/4900  rejected {'duplicate': 10}  414s
+  kept 4034/4900  rejected {'duplicate': 10}  416s
+  kept 4048/4900  rejected {'duplicate': 11}  428s
+  kept 4062/4900  rejected {'duplicate': 12}  433s
+  kept 4077/4900  rejected {'duplicate': 12}  442s
+  kept 4087/4900  rejected {'duplicate': 17}  442s
+  kept 4102/4900  rejected {'duplicate': 17}  456s
+  kept 4117/4900  rejected {'duplicate': 17}  462s
+  kept 4132/4900  rejected {'duplicate': 17}  463s
+  kept 4147/4900  rejected {'duplicate': 17}  475s
+  kept 4162/4900  rejected {'duplicate': 17}  485s
+  kept 4177/4900  rejected {'duplicate': 17}  500s
+  kept 4192/4900  rejected {'duplicate': 17}  507s
+  kept 4207/4900  rejected {'duplicate': 17}  509s
+  kept 4222/4900  rejected {'duplicate': 17}  527s
+  kept 4236/4900  rejected {'duplicate': 18}  533s
+  kept 4236/4900  rejected {'duplicate': 18}  541s
+  kept 4251/4900  rejected {'duplicate': 18}  545s
+  kept 4266/4900  rejected {'duplicate': 18}  565s
+  kept 4281/4900  rejected {'duplicate': 18}  565s
+  kept 4296/4900  rejected {'duplicate': 18}  567s
+  kept 4311/4900  rejected {'duplicate': 18}  572s
+  kept 4326/4900  rejected {'duplicate': 18}  595s
+  kept 4341/4900  rejected {'duplicate': 18}  599s
+  kept 4356/4900  rejected {'duplicate': 18}  600s
+  kept 4371/4900  rejected {'duplicate': 18}  601s
+  kept 4386/4900  rejected {'duplicate': 18}  622s
+  kept 4387/4900  rejected {'duplicate': 18}  628s
+  kept 4402/4900  rejected {'duplicate': 18}  631s
+  kept 4417/4900  rejected {'duplicate': 18}  634s
+  kept 4432/4900  rejected {'duplicate': 18}  653s
+  kept 4447/4900  rejected {'duplicate': 18}  654s
+  kept 4460/4900  rejected {'duplicate': 20}  661s
+  kept 4479/4900  rejected {'duplicate': 20}  666s
+  kept 4494/4900  rejected {'duplicate': 20}  680s
+  kept 4508/4900  rejected {'duplicate': 21}  683s
+  kept 4522/4900  rejected {'duplicate': 22}  687s
+  kept 4537/4900  rejected {'duplicate': 22}  699s
+  kept 4537/4900  rejected {'duplicate': 22}  711s
+  kept 4552/4900  rejected {'duplicate': 22}  714s
+  kept 4567/4900  rejected {'duplicate': 22}  720s
+  kept 4582/4900  rejected {'duplicate': 22}  729s
+  kept 4597/4900  rejected {'duplicate': 22}  740s
+  kept 4612/4900  rejected {'duplicate': 22}  746s
+  kept 4627/4900  rejected {'duplicate': 22}  764s
+  kept 4627/4900  rejected {'duplicate': 22}  769s
+  kept 4627/4900  rejected {'duplicate': 22}  780s
+  kept 4642/4900  rejected {'duplicate': 22}  795s
+  kept 4657/4900  rejected {'duplicate': 22}  796s
+  kept 4672/4900  rejected {'duplicate': 22}  808s
+  kept 4672/4900  rejected {'duplicate': 22}  817s
+  kept 4687/4900  rejected {'duplicate': 22}  825s
+  kept 4702/4900  rejected {'duplicate': 22}  836s
+  kept 4717/4900  rejected {'duplicate': 22}  853s
+  kept 4732/4900  rejected {'duplicate': 22}  855s
+  kept 4746/4900  rejected {'duplicate': 23}  864s
+  kept 4761/4900  rejected {'duplicate': 23}  884s
+  kept 4774/4900  rejected {'duplicate': 25}  887s
+  kept 4789/4900  rejected {'duplicate': 25}  893s
+  kept 4789/4900  rejected {'duplicate': 25}  902s
+  kept 4804/4900  rejected {'duplicate': 25}  913s
+  kept 4819/4900  rejected {'duplicate': 25}  916s
+  kept 4835/4900  rejected {'duplicate': 25}  919s
+  kept 4850/4900  rejected {'duplicate': 25}  939s
+  kept 4865/4900  rejected {'duplicate': 25}  940s
+  kept 4880/4900  rejected {'duplicate': 25}  952s
+  kept 4895/4900  rejected {'duplicate': 25}  958s
+  kept 4910/4900  rejected {'duplicate': 25}  967s
+train=4419 test=491 -> /home/nhanhuynh/Documents/robotassitance/vieedge-voice/data/qa
+verify: 3303 already scored, 1607 to go
+  0/1607
+  100/1607
+  200/1607
+  300/1607
+  400/1607
+  500/1607
+  600/1607
+  700/1607
+  800/1607
+  900/1607
+  1000/1607
+  1100/1607
+  1200/1607
+  1300/1607
+  1400/1607
+  1500/1607
+  1600/1607
+fact scores {0: 154, 1: 275, 2: 617, 3: 427, 4: 740, 5: 2697}; keeping 3437/4910
+train=3095 test=342 -> /home/nhanhuynh/Documents/robotassitance/vieedge-voice/data/qa
+verify: 4756 already scored, 154 to go
+  0/154
+  100/154
+fact scores {0: 108, 1: 278, 2: 630, 3: 430, 4: 752, 5: 2712}; keeping 3464/4910
+train=3119 test=345 -> /home/nhanhuynh/Documents/robotassitance/vieedge-voice/data/qa

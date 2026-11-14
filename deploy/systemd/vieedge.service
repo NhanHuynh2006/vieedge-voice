@@ -1,0 +1,20 @@
+[Unit]
+Description=VieEdge-Voice offline Vietnamese voice assistant
+After=vieedge-tuning.service sound.target network.target
+Wants=vieedge-tuning.service
+
+[Service]
+Type=simple
+Environment=PYTHONUNBUFFERED=1
+EnvironmentFile=-/etc/vieedge/env
+ExecStartPre=-/usr/bin/vieedge-audio-select
+ExecStart=/usr/bin/python3 -m vieedge run -c /etc/vieedge/config.yaml
+Restart=on-failure
+RestartSec=15
+# real-time audio process needs SCHED_FIFO + mlock
+LimitRTPRIO=99
+LimitMEMLOCK=infinity
+Nice=-5
+
+[Install]
+WantedBy=multi-user.target

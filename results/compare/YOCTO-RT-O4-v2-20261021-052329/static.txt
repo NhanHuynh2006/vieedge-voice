@@ -1,0 +1,11 @@
+tag=YOCTO-RT-O4-v2
+kernel=6.12.93-rt
+#1 SMP PREEMPT_RT Fri Jun 12 11:45:31 UTC 2026
+cmdline=reboot=w coherent_pool=1M 8250.nr_uarts=1 pci=pcie_bus_safe cgroup_disable=memory numa_policy=interleave nvme.max_host_mem_size_mb=0  numa=fake=8 system_heap.max_order=0 iommu_dma_numa_policy=interleave smsc95xx.macaddr=88:A2:9E:21:8E:E8 vc_mem.mem_base=0x3fc00000 vc_mem.mem_size=0x40000000  isolcpus=3 dwc_otg.lpm_enable=0 console=ttyAMA0,115200 root=/dev/mmcblk0p2 rootfstype=ext4 rootwait  logo.nologo nohz_full=3 rcu_nocbs=3 irqaffinity=0-2 net.ifnames=0
+governor=performance
+rootfs_used_MB=3520
+uptime_s=363.18
+ram_used_MB=329 ram_available_MB=7732
+procs=218
+systemd_units_running=25
+idle_cpu_busy_pct=7.0

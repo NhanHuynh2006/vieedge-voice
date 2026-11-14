@@ -1,0 +1,76 @@
+# VieEdge-Voice on Raspberry Pi 5 + Hailo-8L (Yocto image or Raspberry Pi OS).
+# Everything experiment-related is switchable here (or with --set key=value), never in code.
+profile: pi
+paths:
+  models: /opt/vieedge/models
+  results: /opt/vieedge/results
+cpu:
+  main_cores: "0-2"          # STT decoder, TTS, Python; core 3 = isolated audio core in O4
+audio:
+  backend: auto                      # USB sound card plugged in -> ALSA; otherwise the phone is mic + speaker (https://<ip>:8443/phone)
+  capture_device: default            # vieedge-audio-select maps "default" to the USB mic
+  playback_device: default
+  sample_rate: 16000
+  period_ms: 20
+  periods: 4
+  rt_core: 3
+  rt_priority: 80
+input_mode: both             # VAD auto-detect + push-to-talk button (GPIO17)
+vad:
+  engine: silero
+  model: vad/silero_vad.onnx
+  endpoint_ms: 400           # P2 sweeps 300/500/800; 350 saved ~250 ms in emulation, 400 = fewer cut-offs
+echo_guard: {mode: mute, tail_ms: 300}
+stt:
+  backend: zipformer         # zipformer = best accuracy+speed on CPU (VIVOS WER 0.041, ~30 ms); hybrid = PhoWhisper encoder on
+                             # Hailo-8L + CPU decoder (S3); ct2 = PhoWhisper all-CPU (S1)
+  zipformer: {model: stt/zipformer-vi, threads: 3}
+  hybrid:
+    encoder: hailo
+    hef: stt/hef/phowhisper-tiny-encoder-10s_vi_h8l.hef
+    decoder: stt/ct2/phowhisper-tiny-int8
+    compute_type: int8
+    threads: 2
+    beam_size: 1
+    final_beam_size: 1
+  ct2:
+    model: stt/ct2/phowhisper-tiny-int8
+    compute_type: int8
+    threads: 3
+    window_s: 10
+  zipformer: {model: stt/zipformer-vi, threads: 3}
+  incremental: {enabled: true, interval_ms: 750, speculative_final: true}
+llm:
+  server_bin: /usr/bin/llama-server
+  # tuned on a 3-core CPU-only emulation (results/experiments.csv tune-*): Qwen3.5-0.8B 23 tok/s vs 14 for Qwen2.5-1.5B,
+  # first audio 1.70 s vs 2.52 s, judge score 3.63 vs 3.81. Quality alternative: llm/gguf/qwen2.5-1.5b-vi-voice-Q4_K_M.gguf
+  model: llm/gguf/qwen3.5-0.8b-vi-voice-Q4_0.gguf
+  threads: 3
+  cores: "0-2"
+  ctx: 2048
+  batch: 256
+  max_tokens: 160
+  temperature: 0.3
+  extra_args: ["-lm", "mmap+mlock"]
+tts:
+  voice: tts/piper/vi_VN-vais1000-medium.onnx
+  threads: 1
+rag:
+  enabled: true               # offline Vietnamese Wikipedia (SQLite FTS5): bịa 0.52 -> 0.30 on voice questions, +0.6 s first audio (laptop)
+  db: rag/wiki_vi.sqlite
+  max_chars: 240              # prompt budget: every context token costs CPU prefill
+  max_docs: 1
+fastpath: {enabled: true}   # reflex rules + prepared answers: no LLM, pre-synthesised audio (vieedge/fastpath, models/fastpath/*)
+pipeline:
+  ack: {enabled: true, phrases: ["Dạ.", "Vâng.", "Ừm."], max_ms: 700}   # instant acknowledgement while the LLM thinks: first sound 2.4 s -> 0.5 s (Yocto Pi); the real answer still starts ~2 s
+  first_chunk_max_words: 5     # first TTS chunk after 5 words: -0.7 s first audio vs 9 words (emulation)
+  first_chunk_min_chars: 8
+  preload_stt: [ct2]         # keep the all-CPU STT loaded for the on-stage comparison switch
+gpio: {enabled: true, button: 17, led_listen: 22, led_think: 23, led_speak: 24}
+web: {enabled: true, host: 0.0.0.0, port: 8000}
+telemetry: {power: auto}
+Linux raspberrypi5 6.12.93-rt #1 SMP PREEMPT_RT Fri Jun 12 11:45:31 UTC 2026 aarch64 GNU/Linux
+reboot=w coherent_pool=1M 8250.nr_uarts=1 pci=pcie_bus_safe cgroup_disable=memory numa_policy=interleave nvme.max_host_mem_size_mb=0  numa=fake=8 system_heap.max_order=0 iommu_dma_numa_policy=interleave smsc95xx.macaddr=88:A2:9E:21:8E:E8 vc_mem.mem_base=0x3fc00000 vc_mem.mem_size=0x40000000  isolcpus=3 dwc_otg.lpm_enable=0 console=ttyAMA0,115200 root=/dev/mmcblk0p2 rootfstype=ext4 rootwait  logo.nologo nohz_full=3 rcu_nocbs=3 irqaffinity=0-2 net.ifnames=0
+ID=poky
+NAME="Poky (Yocto Project Reference Distro)"
+VERSION="5.0.20 (scarthgap)"

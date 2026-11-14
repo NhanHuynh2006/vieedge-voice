@@ -1,0 +1,68 @@
+{
+ "tag": "heldout_v1_sau",
+ "cards": 42,
+ "version": "2026-11-04",
+ "n": 134,
+ "match_ms_per_question": 0.205,
+ "by_kind": {
+  "trong": {
+   "n": 84,
+   "dung": 82,
+   "sai_the": 1,
+   "sot": 1
+  },
+  "ngoai": {
+   "n": 20,
+   "sai_the": 2,
+   "dung": 18
+  },
+  "am": {
+   "n": 30,
+   "dung": 29,
+   "kich_hoat_nham": 1
+  },
+  "qa": {}
+ },
+ "errors": [
+  {
+   "q": "Chuẩn bị đồ dự trữ trong nhà cho mùa mưa bão",
+   "nhan": "do_dung_khan_cap",
+   "loai": "trong",
+   "text": "Chuẩn bị đồ dự trữ trong nhà cho mùa mưa bão",
+   "got": "truoc_bao",
+   "key": "bão+chuẩn bị"
+  },
+  {
+   "q": "Sau đợt ngập lụt trẻ con hay bị bệnh gì và phòng sao",
+   "nhan": "phong_benh_sau_lu",
+   "loai": "trong",
+   "text": "Sau đợt ngập lụt trẻ con hay bị bệnh gì và phòng sao",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị cá đuối đâm ở chân khi đi biển",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị cá đuối đâm ở chân khi đi biển",
+   "got": "duoi_nuoc",
+   "key": "đuối+biển"
+  },
+  {
+   "q": "Răng bị gãy do té",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Răng bị gãy do té",
+   "got": "gay_xuong",
+   "key": "bị gãy"
+  },
+  {
+   "q": "Lũ lụt ở Thái Lan năm 2011 lớn cỡ nào",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Lũ lụt ở Thái Lan năm 2011 lớn cỡ nào",
+   "got": "ngap_lut",
+   "key": "lũ lụt"
+  }
+ ]
+}

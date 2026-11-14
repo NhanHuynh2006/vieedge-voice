@@ -1,0 +1,40 @@
+{
+ "tag": "dev_85_clf",
+ "classifier": true,
+ "by_classifier": 0,
+ "cards": 85,
+ "version": "2026-11-06",
+ "n": 727,
+ "match_ms_per_question": 0.35,
+ "by_kind": {
+  "trong": {
+   "n": 307,
+   "dung": 307
+  },
+  "ngoai": {
+   "n": 11,
+   "dung": 11
+  },
+  "am": {
+   "n": 64,
+   "dung": 63,
+   "kich_hoat_nham": 1
+  },
+  "qa": {
+   "n": 345,
+   "dung": 345
+  }
+ },
+ "errors": [
+  {
+   "q": "Tiếng Anh gọi cứu thương là gì",
+   "nhan": "khong",
+   "loai": "am",
+   "ghi_chu": "thêm cho 9 thẻ toàn cầu (06/11/2026)",
+   "text": "Tiếng Anh gọi cứu thương là gì",
+   "got": "so_khan_cap",
+   "key": "gọi+cứu thương",
+   "via": "luat"
+  }
+ ]
+}

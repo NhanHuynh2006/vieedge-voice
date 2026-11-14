@@ -1,0 +1,682 @@
+[S5-on-lap] session 1/1
+  [0:0] first_audio 1512.2 ms | stt 151.7 | ttft 132.7 | Q: Thi nào mình viết thủ lạnh đã hết hạn sử dụng cần 
+  [0:1] first_audio 1635.2 ms | stt 139.1 | ttft 117.1 | Q: Người nào sẽ bị cảm cúi nhất bạn ơi.
+  [0:2] first_audio 1168.3 ms | stt 159.0 | ttft 122.8 | Q: Cho mình hỏi và dựng làm anh hương gì đến lương lự
+  [0:3] first_audio 1284.0 ms | stt 155.6 | ttft 145.4 | Q: Cho mình khỏi tai sau mua khu nước lại ít hơn ngừa
+  [0:4] first_audio 1524.1 ms | stt 151.3 | ttft 116.1 | Q: Con số nào sẽ ra đầu tiên trong quay số may mắn.
+  [0:5] first_audio 1604.3 ms | stt 154.0 | ttft 125.9 | Q: Nên bác ác sĩ ăn có đầy đủ vào nhâm nước.
+  [0:6] first_audio 1356.2 ms | stt 252.8 | ttft 146.4 | Q: Bạn ở nhìn không biết làm sao để vượt qua nỗi buồn
+  [0:7] first_audio 1516.0 ms | stt 136.0 | ttft 130.9 | Q: Hãy giúp mìn nít trong năm cực thuộc về nước nào.
+  [0:8] first_audio 1495.9 ms | stt 140.6 | ttft 122.3 | Q: Cho mình họ phát mình dễ giúp con người lưu trữ nh
+  [0:9] first_audio 1244.3 ms | stt 140.4 | ttft 107.6 | Q: Xung hoài món hôm nay là bảo nhiều.
+  [0:10] first_audio 1559.5 ms | stt 161.1 | ttft 142.3 | Q: Tại sao ngô cổ lại khó chung với hơn ngô ngượng.
+  [0:11] first_audio 1208.1 ms | stt 149.2 | ttft 125.5 | Q: Mình cần biết cơ đọt sau vàng là cơ của ai.
+  [0:12] first_audio 1375.6 ms | stt 144.3 | ttft 112.0 | Q: Bạn ơi cái gì giúp con người chữa bệnh ung thư.
+  [0:13] first_audio 1444.2 ms | stt 158.9 | ttft 175.2 | Q: Tại sao người lớn tuổi lạy bị nhiễm bayern hơn trẻ
+  [0:14] first_audio 1556.6 ms | stt 142.9 | ttft 104.6 | Q: Có nên tưới cây vào giữa chữa không.
+  [0:15] first_audio 1491.9 ms | stt 150.7 | ttft 138.8 | Q: Bạn ơi những chung số trăm mùa rồi nước giảm bằng 
+  [0:16] first_audio 1812.0 ms | stt 140.3 | ttft 132.6 | Q: Nhưng không chắc về việc đầu tư vào tiên tiết kiệm
+  [0:17] first_audio 1491.6 ms | stt 133.3 | ttft 119.0 | Q: Bạn ấy tại sao phía sau hàng loại tăng cao vậy.
+  [0:18] first_audio 1720.0 ms | stt 142.1 | ttft 146.0 | Q: Nguyên muốn biết khi nào thì sẽ rắc của phượng đến
+  [0:19] first_audio 1544.0 ms | stt 136.7 | ttft 116.7 | Q: Xe điện có đắc hơn xe gian nhiều không.
+  [0:20] first_audio 1100.1 ms | stt 164.3 | ttft 147.5 | Q: Cho mình hỏi thái xã phải đợi mười năm một nghìn c
+  [0:21] first_audio 1511.7 ms | stt 149.5 | ttft 122.7 | Q: Nếu không biết thiên cây thì làm sao để nhận viết 
+  [0:22] first_audio 1436.0 ms | stt 141.5 | ttft 127.9 | Q: Tại sao joe trong phim tưởng rất nguy hiệm.
+  [0:23] first_audio 1623.9 ms | stt 156.6 | ttft 134.6 | Q: Bạn ơi tại sao bánh cành xay lại có nước trong.
+  [0:24] first_audio 1348.2 ms | stt 162.9 | ttft 120.2 | Q: Mãi ở những ai có thể học ngôn ngữ trên thế giới k
+  [0:25] first_audio 1523.7 ms | stt 152.6 | ttft 136.0 | Q: Nghiền tắc mắc mua dưới nước có xuất hiện ở nước n
+  [0:26] first_audio 1007.8 ms | stt 168.1 | ttft 221.1 | Q: Hay là người tiếp lập cho chữ ủy này có thể chạy u
+  [0:27] first_audio 1436.2 ms | stt 160.2 | ttft 132.5 | Q: Cảm cúng có thể dẫn đến miền chứng nguy hiểm không
+  [0:28] first_audio 1520.1 ms | stt 143.9 | ttft 112.5 | Q: Nếu cây bị sâu bệnh thì làm sao vang.
+  [0:29] first_audio 1463.5 ms | stt 179.3 | ttft 135.4 | Q: Tại là tắc ra cỗ bãi thơ trang gian nổi tiếng.
+{
+ "metrics": {
+  "first_audio_ms": {
+   "p50": 1493.9,
+   "p95": 1681.8,
+   "p99": 1785.3,
+   "mean": 1450.5,
+   "std": 174.1,
+   "n": 30
+  },
+  "stt_after_speech_ms": {
+   "p50": 151.0,
+   "p95": 174.3,
+   "p99": 231.5,
+   "mean": 154.0,
+   "std": 21.2,
+   "n": 30
+  },
+  "stt_after_endpoint_ms": {
+   "p50": -361.0,
+   "p95": -337.3,
+   "p99": -280.4,
+   "mean": -358.0,
+   "std": 21.2,
+   "n": 30
+  },
+  "endpoint_wait_ms": {
+   "p50": 512.0,
+   "p95": 512.7,
+   "p99": 512.7,
+   "mean": 512.0,
+   "std": 0.4,
+   "n": 30
+  },
+  "ttft_ms": {
+   "p50": 129.4,
+   "p95": 162.7,
+   "p99": 207.8,
+   "mean": 132.3,
+   "std": 21.8,
+   "n": 30
+  },
+  "first_chunk_ms": {
+   "p50": 469.1,
+   "p95": 602.2,
+   "p99": 606.0,
+   "mean": 437.5,
+   "std": 126.4,
+   "n": 30
+  },
+  "tts_first_ms": {
+   "p50": 263.3,
+   "p95": 374.4,
+   "p99": 436.9,
+   "mean": 267.3,
+   "std": 80.0,
+   "n": 30
+  },
+  "llm_total_ms": {
+   "p50": 930.4,
+   "p95": 1211.3,
+   "p99": 1254.1,
+   "mean": 923.8,
+   "std": 160.6,
+   "n": 30
+  },
+  "turn_total_ms": {
+   "p50": 8208.5,
+   "p95": 10492.1,
+   "p99": 11050.6,
+   "mean": 8386.3,
+   "std": 1422.2,
+   "n": 30
+  }
+ },
+ "first_audio_p50_per_session": [
+  1493.9
+ ],
+ "first_audio_p50_mean_std": [
+  1493.9,
+  0.0
+ ],
+ "asr_wer_on_questions": 0.3649425287356322,
+ "speculative_hit_rate": 1.0,
+ "timeouts": 0,
+ "xruns_per_h": [
+  0.0
+ ],
+ "power_w_mean": null
+}
+experiments.csv <- {'exp_id': 'S5-on-lap', 'os_cfg': 'laptop', 'stt_model': 'phowhisper-tiny-encoder-10s.onnx', 'stt_where': 'cpu', 'llm_model': 'qwen2.5-1.5b-vi-voice-Q4_K_M.gguf', 'spec_dec': 'no', 'threads': 6, 'wer': 0.3649, 'ttft_ms': 129.4, 'tok_s': 48.94, 'first_audio_p50': 1493.9, 'first_audio_p95': 1681.8, 'first_audio_p99': 1785.3, 'ram_mb': 4441, 'temp_max': 70.0, 'xruns_per_h': 0.0, 'notes': 'manifest=e2e_synth;turns=30x1sess;spec_hit=1.00;endpoint_ms=500;stream=True;first_words=9;file-audio'}
+[S5-off-lap] session 1/1
+  [0:0] first_audio 1544.2 ms | stt 643.0 | ttft 129.8 | Q: Thi nào mình viết thủ lạnh đã hết hạn sử dụng cần 
+  [0:1] first_audio 1771.9 ms | stt 614.0 | ttft 116.4 | Q: Người nào sẽ bị cảm cúm nhắc bạn ơi.
+  [0:2] first_audio 1652.0 ms | stt 617.0 | ttft 128.5 | Q: Cho mình hỏi và dựng làm anh hương gì đến lương lự
+  [0:3] first_audio 1712.1 ms | stt 623.2 | ttft 156.6 | Q: Trong hình khỏi tai sao mua khu nước lại ít hơn mu
+  [0:4] first_audio 1875.9 ms | stt 622.4 | ttft 117.4 | Q: Con số nào sẽ ra đầu tiên trong quay số may mắn.
+  [0:5] first_audio 1604.1 ms | stt 632.5 | ttft 126.3 | Q: Nên bác ác sĩ ăn có đầy đủ vào nhâm nước.
+  [0:6] first_audio 1604.1 ms | stt 641.2 | ttft 135.5 | Q: Bạn ở nhìn không biết làm sao để vượt qua nỗi buồn
+  [0:7] first_audio 1552.0 ms | stt 628.2 | ttft 117.3 | Q: Hãy giúp mít trong năm cực thuộc với nước nào.
+  [0:8] first_audio 1852.1 ms | stt 630.5 | ttft 126.6 | Q: Cho mình họ phát mình dễ giúp con người lưu trữ nh
+  [0:9] first_audio 1564.0 ms | stt 625.7 | ttft 111.9 | Q: Xung hoài ngón hôm nay là bảo nhiều.
+  [0:10] first_audio 1348.1 ms | stt 633.3 | ttft 134.7 | Q: Tại sao ngô cổ lại khó chung nó hơn ngô ngượng.
+  [0:11] first_audio 1540.3 ms | stt 632.2 | ttft 121.4 | Q: Mình cần biết cơ đọt sau vàng là cơ của ai.
+  [0:12] first_audio 1863.4 ms | stt 638.6 | ttft 111.0 | Q: Bạn ơi cái dị giúp con người chữa bệnh ung thư.
+  [0:13] first_audio 1667.6 ms | stt 637.0 | ttft 136.9 | Q: Tại sao người lớn tuổi lại dễ bị nhiễng bayern hơn
+  [0:14] first_audio 1624.1 ms | stt 625.2 | ttft 98.7 | Q: Có nên tưới cây vào giữa chữa không.
+  [0:15] first_audio 1411.9 ms | stt 617.5 | ttft 142.5 | Q: Bạn ơi những chung số trăm mùa rồi nước giảm bằng 
+  [0:16] first_audio 1544.0 ms | stt 657.2 | ttft 133.2 | Q: Nhưng không chắc về việc đầu tư vào tiên tiết kiệm
+  [0:17] first_audio 1516.1 ms | stt 622.5 | ttft 120.2 | Q: Bạn ấy tại sao phía sau hàng loại tăng cao vậy.
+  [0:18] first_audio 1504.2 ms | stt 638.6 | ttft 147.1 | Q: Nhìn muốn quét khi nào thì sẽ rắc của phượng đến t
+  [0:19] first_audio 1644.3 ms | stt 631.6 | ttft 110.4 | Q: Xe điện có đắc hơn xe gian nhiều không.
+  [0:20] first_audio 1516.1 ms | stt 639.8 | ttft 155.0 | Q: Cho mình hỏi tại sao phải đời mười năm một nghìn c
+  [0:21] first_audio 1636.0 ms | stt 625.9 | ttft 125.3 | Q: Nếu không biết thiên cây thì làm sao để nhận biết 
+  [0:22] first_audio 1484.1 ms | stt 637.7 | ttft 109.2 | Q: Tại sao do trong phiên tưởng rất nguy hiểm.
+  [0:23] first_audio 1731.9 ms | stt 619.5 | ttft 130.7 | Q: Bạn ơi tại sao bánh cành chay lại có nước trong.
+  [0:24] first_audio 1100.4 ms | stt 630.6 | ttft 132.3 | Q: Mãi từ nhiệm ây ai có thể học ngôn ngữ trên thế gi
+  [0:25] first_audio 1676.1 ms | stt 630.9 | ttft 133.2 | Q: Nghiền tắc mắc mua dưới nước có xuất hiện ở nước n
+  [0:26] first_audio 1148.0 ms | stt 661.6 | ttft 177.0 | Q: Hay là người tiếp lập cho chữ ủy này có thể chạy u
+  [0:27] first_audio 1859.7 ms | stt 630.4 | ttft 131.4 | Q: Cảm cúng có thể dẫn đến miền chứng nguy hiểm không
+  [0:28] first_audio 1140.2 ms | stt 628.6 | ttft 110.2 | Q: Nếu cây bị sâu bệnh thì làm sao vang.
+  [0:29] first_audio 1724.0 ms | stt 634.3 | ttft 125.6 | Q: Tại là tắc ra cỗ bãi thơ trang gian nổi tiếng.
+{
+ "metrics": {
+  "first_audio_ms": {
+   "p50": 1604.1,
+   "p95": 1861.7,
+   "p99": 1872.3,
+   "mean": 1580.4,
+   "std": 197.6,
+   "n": 30
+  },
+  "stt_after_speech_ms": {
+   "p50": 630.8,
+   "p95": 650.8,
+   "p99": 660.3,
+   "mean": 631.7,
+   "std": 10.4,
+   "n": 30
+  },
+  "stt_after_endpoint_ms": {
+   "p50": 118.8,
+   "p95": 138.6,
+   "p99": 148.2,
+   "mean": 119.6,
+   "std": 10.5,
+   "n": 30
+  },
+  "endpoint_wait_ms": {
+   "p50": 512.0,
+   "p95": 512.6,
+   "p99": 512.7,
+   "mean": 512.1,
+   "std": 0.2,
+   "n": 30
+  },
+  "ttft_ms": {
+   "p50": 127.5,
+   "p95": 155.9,
+   "p99": 171.1,
+   "mean": 128.4,
+   "std": 16.0,
+   "n": 30
+  },
+  "first_chunk_ms": {
+   "p50": 480.5,
+   "p95": 731.5,
+   "p99": 754.9,
+   "mean": 473.6,
+   "std": 158.9,
+   "n": 30
+  },
+  "tts_first_ms": {
+   "p50": 252.2,
+   "p95": 369.2,
+   "p99": 407.7,
+   "mean": 256.3,
+   "std": 77.1,
+   "n": 30
+  },
+  "llm_total_ms": {
+   "p50": 853.2,
+   "p95": 1167.3,
+   "p99": 1315.6,
+   "mean": 897.2,
+   "std": 164.2,
+   "n": 30
+  },
+  "turn_total_ms": {
+   "p50": 8108.5,
+   "p95": 10650.6,
+   "p99": 10999.1,
+   "mean": 8368.7,
+   "std": 1319.1,
+   "n": 30
+  }
+ },
+ "first_audio_p50_per_session": [
+  1604.1
+ ],
+ "first_audio_p50_mean_std": [
+  1604.1,
+  0.0
+ ],
+ "asr_wer_on_questions": 0.3620689655172414,
+ "speculative_hit_rate": 0.0,
+ "timeouts": 0,
+ "xruns_per_h": [
+  0.0
+ ],
+ "power_w_mean": null
+}
+experiments.csv <- {'exp_id': 'S5-off-lap', 'os_cfg': 'laptop', 'stt_model': 'phowhisper-tiny-encoder-10s.onnx', 'stt_where': 'cpu', 'llm_model': 'qwen2.5-1.5b-vi-voice-Q4_K_M.gguf', 'spec_dec': 'no', 'threads': 6, 'wer': 0.3621, 'ttft_ms': 127.5, 'tok_s': 49.09, 'first_audio_p50': 1604.1, 'first_audio_p95': 1861.7, 'first_audio_p99': 1872.3, 'ram_mb': 4622, 'temp_max': 71.0, 'xruns_per_h': 0.0, 'notes': 'manifest=e2e_synth;turns=30x1sess;spec_hit=0.00;endpoint_ms=500;stream=True;first_words=9;file-audio'}
+[P1-full-lap] session 1/1
+  [0:0] first_audio 1828.0 ms | stt 229.8 | ttft 132.4 | Q: Thi nào mình viết thủ lạnh đã hết hạn sử dụng cần 
+  [0:1] first_audio 2036.0 ms | stt 135.2 | ttft 116.3 | Q: Người nào sẽ bị cảm cúi nhất bạn ơi.
+  [0:2] first_audio 1636.0 ms | stt 148.7 | ttft 120.1 | Q: Cho mình hỏi và dựng làm anh hương gì đến lương lự
+  [0:3] first_audio 1756.0 ms | stt 170.4 | ttft 171.9 | Q: Trong mình khỏi tai xong mắc hữu nước lại ít hơn n
+  [0:4] first_audio 1495.5 ms | stt 136.1 | ttft 116.8 | Q: Con số nào sẽ ra đầu tiên trong quay số may mắn.
+  [0:5] first_audio 1547.9 ms | stt 154.1 | ttft 125.6 | Q: Nên bác ác sĩ ăn có đầy đủ vào nhâm nước.
+  [0:6] first_audio 1755.8 ms | stt 229.3 | ttft 124.6 | Q: Bạn ở nhìn không biết làm sao để vượt qua nỗi buồn
+  [0:7] first_audio 1552.1 ms | stt 133.9 | ttft 114.8 | Q: Hãy giúp mít trong năm cực thuộc về nước nào.
+  [0:8] first_audio 1936.0 ms | stt 149.4 | ttft 124.7 | Q: Cho mình họ phát mình dễ giúp con người lưu trữ nh
+  [0:9] first_audio 1691.9 ms | stt 123.7 | ttft 113.6 | Q: Xung hoài ngón hôm nay là bảo nhiều.
+  [0:10] first_audio 1395.9 ms | stt 140.2 | ttft 136.1 | Q: Tại sao ngô cổ lại khó trùng nó hơn ngô ngượng.
+  [0:11] first_audio 2188.1 ms | stt 144.4 | ttft 122.7 | Q: Mình cần biết cơ đọt sau vàng là cơ của ai.
+  [0:12] first_audio 1640.0 ms | stt 157.9 | ttft 110.5 | Q: Bạn ơi cái dị giúp con người chữa bệnh ung thư.
+  [0:13] first_audio 1567.9 ms | stt 156.1 | ttft 180.1 | Q: Tại sao người lớn tuổi lại dễ bị nhiễng bayern hơn
+  [0:14] first_audio 1492.1 ms | stt 133.8 | ttft 106.3 | Q: Có đến tưỡi cây vào giữa chữa không.
+  [0:15] first_audio 1524.0 ms | stt 162.6 | ttft 140.8 | Q: Ơi những chung số trăm mối rối nước làng vắng trướ
+  [0:16] first_audio 1976.0 ms | stt 150.9 | ttft 130.1 | Q: Nhưng không chắc về lịch đầu tư vào tiên tiết kiệm
+  [0:17] first_audio 1951.6 ms | stt 139.6 | ttft 121.8 | Q: Bạn ấy tại sao phía sau hàng loại tăng cao vậy.
+  [0:18] first_audio 1907.9 ms | stt 158.2 | ttft 145.4 | Q: Nhìn muốn quét khi nào thì sẽ rắc của phượng đến t
+  [0:19] first_audio 1963.6 ms | stt 139.1 | ttft 108.2 | Q: Xe điện có đắc hơn xe sang nhiều không.
+  [0:20] first_audio 1796.0 ms | stt 154.1 | ttft 150.0 | Q: Cho mình hỏi tại sao phải đời mười năm một nghìn c
+  [0:21] first_audio 1780.1 ms | stt 141.4 | ttft 120.1 | Q: Nếu không biết thiên cây thì làm sao để nhận biết 
+  [0:22] first_audio 1436.1 ms | stt 138.6 | ttft 120.7 | Q: Tại sao joe trong phim tưởng rất nguy hiệm.
+  [0:23] first_audio 2119.9 ms | stt 158.6 | ttft 130.2 | Q: Bạn ơi tại sao bánh cành chay lại có nước trong.
+  [0:24] first_audio 1704.0 ms | stt 161.1 | ttft 144.1 | Q: Mạng ở nhượng ây ai có thể học mọi ngôn ngữ trên t
+  [0:25] first_audio 2099.7 ms | stt 149.8 | ttft 136.6 | Q: Nghiền tắc mắc mua dới nước có xuất hiện ở nước ng
+  [0:26] first_audio 1540.0 ms | stt 148.8 | ttft 226.6 | Q: Hay là người tiết lập cho chữ bí mệt có thể chạy u
+  [0:27] first_audio 1776.0 ms | stt 159.7 | ttft 123.5 | Q: Cảm cúng có thể dẫn đến miền chứng nguy hiểm không
+  [0:28] first_audio 1724.0 ms | stt 152.6 | ttft 113.7 | Q: Nếu gây bị sâu bệnh thì làm sao vang.
+  [0:29] first_audio 1924.0 ms | stt 168.5 | ttft 125.8 | Q: Tại là tác ra cỗ bãi thơ trang gian nổi tiếng.
+{
+ "metrics": {
+  "first_audio_ms": {
+   "p50": 1755.9,
+   "p95": 2110.8,
+   "p99": 2168.3,
+   "mean": 1758.1,
+   "std": 213.1,
+   "n": 30
+  },
+  "stt_after_speech_ms": {
+   "p50": 150.4,
+   "p95": 202.8,
+   "p99": 229.7,
+   "mean": 154.2,
+   "std": 22.9,
+   "n": 30
+  },
+  "stt_after_endpoint_ms": {
+   "p50": -361.4,
+   "p95": -309.2,
+   "p99": -282.4,
+   "mean": -357.8,
+   "std": 22.9,
+   "n": 30
+  },
+  "endpoint_wait_ms": {
+   "p50": 512.0,
+   "p95": 512.3,
+   "p99": 513.8,
+   "mean": 512.1,
+   "std": 0.5,
+   "n": 30
+  },
+  "ttft_ms": {
+   "p50": 124.7,
+   "p95": 176.4,
+   "p99": 213.1,
+   "mean": 131.8,
+   "std": 24.2,
+   "n": 30
+  },
+  "first_chunk_ms": {
+   "p50": 732.6,
+   "p95": 1001.6,
+   "p99": 1041.3,
+   "mean": 740.4,
+   "std": 160.8,
+   "n": 30
+  },
+  "tts_first_ms": {
+   "p50": 280.9,
+   "p95": 372.3,
+   "p99": 385.8,
+   "mean": 273.8,
+   "std": 60.3,
+   "n": 30
+  },
+  "llm_total_ms": {
+   "p50": 858.3,
+   "p95": 1134.7,
+   "p99": 1166.2,
+   "mean": 872.2,
+   "std": 156.5,
+   "n": 30
+  },
+  "turn_total_ms": {
+   "p50": 8516.6,
+   "p95": 11060.6,
+   "p99": 11302.6,
+   "mean": 8437.5,
+   "std": 1628.8,
+   "n": 30
+  }
+ },
+ "first_audio_p50_per_session": [
+  1755.9
+ ],
+ "first_audio_p50_mean_std": [
+  1755.9,
+  0.0
+ ],
+ "asr_wer_on_questions": 0.3620689655172414,
+ "speculative_hit_rate": 1.0,
+ "timeouts": 0,
+ "xruns_per_h": [
+  0.0
+ ],
+ "power_w_mean": null
+}
+experiments.csv <- {'exp_id': 'P1-full-lap', 'os_cfg': 'laptop', 'stt_model': 'phowhisper-tiny-encoder-10s.onnx', 'stt_where': 'cpu', 'llm_model': 'qwen2.5-1.5b-vi-voice-Q4_K_M.gguf', 'spec_dec': 'no', 'threads': 6, 'wer': 0.3621, 'ttft_ms': 124.7, 'tok_s': 51.76, 'first_audio_p50': 1755.9, 'first_audio_p95': 2110.8, 'first_audio_p99': 2168.3, 'ram_mb': 4759, 'temp_max': 71.0, 'xruns_per_h': 0.0, 'notes': 'manifest=e2e_synth;turns=30x1sess;spec_hit=1.00;endpoint_ms=500;stream=False;first_words=9;file-audio'}
+[P3-cpu-lap] session 1/1
+  [0:0] first_audio 1583.8 ms | stt 242.1 | ttft 129.9 | Q: Thì nào mình viết thủ lạnh đã hết hạn sử dụng cần 
+  [0:1] first_audio 1616.0 ms | stt 127.7 | ttft 115.6 | Q: Người nào sẽ bị cảm cúm nhất bạn ơi.
+  [0:2] first_audio 1440.2 ms | stt 148.6 | ttft 122.7 | Q: Cho mình hỏi và dựng làm anh hương gì đến lương lự
+  [0:3] first_audio 1908.1 ms | stt 166.6 | ttft 199.5 | Q: Trong hình khỏi tai sao mua khu nước lại ít hơn mu
+  [0:4] first_audio 1671.9 ms | stt 139.7 | ttft 116.2 | Q: Con số nào sẽ ra đầu tiên trong quay số may mắn.
+  [0:5] first_audio 1467.9 ms | stt 161.0 | ttft 124.5 | Q: Đến bác ác sĩ ăn có đầy đủ vào nhóm nước.
+  [0:6] first_audio 1519.5 ms | stt 144.6 | ttft 133.7 | Q: Bạn ở ninh không biết làm sao để vượt qua nỗi buồn
+  [0:7] first_audio 1032.2 ms | stt 130.7 | ttft 122.9 | Q: Hãy giúp mìn nít trong năm cực thuộc với nước nào.
+  [0:8] first_audio 1599.4 ms | stt 211.3 | ttft 118.1 | Q: Cho mình họ phát mình dễ giúp con người lưu trữ nh
+  [0:9] first_audio 972.4 ms | stt 138.4 | ttft 103.4 | Q: Xung hoài món hôm nay là bảo nhiều.
+  [0:10] first_audio 1092.1 ms | stt 144.5 | ttft 127.8 | Q: Tại sao ngô cổ lại khó trùng nó hơn ngô ngượng.
+  [0:11] first_audio 1139.4 ms | stt 149.1 | ttft 117.0 | Q: Mình cần biết cơ đọt sau vàng là cơ của ai.
+  [0:12] first_audio 1399.6 ms | stt 144.8 | ttft 107.5 | Q: Bạn ơi cái dị giúp con người chữa bệnh ung thư.
+  [0:13] first_audio 1428.0 ms | stt 159.7 | ttft 166.7 | Q: Tại sao người lớn tuổi lại dễ bị nhiễm virus hơn t
+  [0:14] first_audio 1687.3 ms | stt 142.6 | ttft 89.8 | Q: Có nên cứ cây vào giữa chữa không.
+  [0:15] first_audio 1099.9 ms | stt 146.6 | ttft 128.7 | Q: Ơi những chung số trăm múa rối nước giảm vàng trướ
+  [0:16] first_audio 1340.2 ms | stt 155.6 | ttft 126.1 | Q: Nhưng không chắc về việc đầu tư vào tiên tiết kiệm
+  [0:17] first_audio 1400.0 ms | stt 148.1 | ttft 111.1 | Q: Bạn ấy tại sao phía sau hàng loại tăng cao vậy.
+  [0:18] first_audio 1375.7 ms | stt 140.3 | ttft 141.5 | Q: Nhìn muốn quét khi nào thì sẽ rắc của phượng đến t
+  [0:19] first_audio 1324.1 ms | stt 137.2 | ttft 109.0 | Q: Xe điện có đắc hơn xe gian nhiều không.
+  [0:20] first_audio 1075.9 ms | stt 150.2 | ttft 151.6 | Q: Cho mình hỏi tại sao phạch đời mười năm một nghìn 
+  [0:21] first_audio 1176.2 ms | stt 131.9 | ttft 119.8 | Q: Nếu không biết thiên cây thì làm sao để nhận biết 
+  [0:22] first_audio 1272.2 ms | stt 116.1 | ttft 116.8 | Q: Tại sao do trong phim tưởng rất nguy hiệm.
+  [0:23] first_audio 1496.3 ms | stt 139.3 | ttft 122.6 | Q: Bạn ơi tại sao bánh cành xay lại có nước trong.
+  [0:24] first_audio 1283.7 ms | stt 152.9 | ttft 136.0 | Q: Mạng ở nhượng ây ai có thể học mọi ngôn ngữ trên t
+  [0:25] first_audio 1611.9 ms | stt 138.6 | ttft 121.0 | Q: Nghiền tắc mắc mùa dưới nước có xuất hiện ở nước n
+  [0:26] first_audio 1328.0 ms | stt 179.5 | ttft 203.8 | Q: Hay là người tiếp lập cho chữ ủy này có thể chạy u
+  [0:27] first_audio 1400.0 ms | stt 135.4 | ttft 121.0 | Q: Cảm cúng có thể dẫn đến miền trứng nguy hiểm không
+  [0:28] first_audio 1367.8 ms | stt 146.9 | ttft 107.4 | Q: Nếu cây bị sâu bệnh thì làm sao vang.
+  [0:29] first_audio 1352.1 ms | stt 161.4 | ttft 121.0 | Q: Tại là tắc ra cỗ bãi thơ trang gian nổi tiếng.
+{
+ "metrics": {
+  "first_audio_ms": {
+   "p50": 1387.7,
+   "p95": 1680.4,
+   "p99": 1844.1,
+   "mean": 1382.1,
+   "std": 214.1,
+   "n": 30
+  },
+  "stt_after_speech_ms": {
+   "p50": 145.7,
+   "p95": 197.0,
+   "p99": 233.2,
+   "mean": 151.0,
+   "std": 24.0,
+   "n": 30
+  },
+  "stt_after_endpoint_ms": {
+   "p50": -365.9,
+   "p95": -314.8,
+   "p99": -278.7,
+   "mean": -360.9,
+   "std": 24.0,
+   "n": 30
+  },
+  "endpoint_wait_ms": {
+   "p50": 511.9,
+   "p95": 512.8,
+   "p99": 513.3,
+   "mean": 512.0,
+   "std": 0.5,
+   "n": 30
+  },
+  "ttft_ms": {
+   "p50": 121.8,
+   "p95": 184.7,
+   "p99": 202.6,
+   "mean": 127.8,
+   "std": 24.3,
+   "n": 30
+  },
+  "first_chunk_ms": {
+   "p50": 406.8,
+   "p95": 614.5,
+   "p99": 632.3,
+   "mean": 409.7,
+   "std": 132.0,
+   "n": 30
+  },
+  "tts_first_ms": {
+   "p50": 226.4,
+   "p95": 346.9,
+   "p99": 434.3,
+   "mean": 233.0,
+   "std": 86.2,
+   "n": 30
+  },
+  "llm_total_ms": {
+   "p50": 904.8,
+   "p95": 1122.9,
+   "p99": 1233.9,
+   "mean": 901.5,
+   "std": 164.6,
+   "n": 30
+  },
+  "turn_total_ms": {
+   "p50": 8421.5,
+   "p95": 10249.8,
+   "p99": 10278.4,
+   "mean": 8348.6,
+   "std": 1417.6,
+   "n": 30
+  }
+ },
+ "first_audio_p50_per_session": [
+  1387.7
+ ],
+ "first_audio_p50_mean_std": [
+  1387.7,
+  0.0
+ ],
+ "asr_wer_on_questions": 0.367816091954023,
+ "speculative_hit_rate": 1.0,
+ "timeouts": 0,
+ "xruns_per_h": [
+  0.0
+ ],
+ "power_w_mean": null
+}
+experiments.csv <- {'exp_id': 'P3-cpu-lap', 'os_cfg': 'laptop', 'stt_model': 'phowhisper-tiny-int8', 'stt_where': 'cpu', 'llm_model': 'qwen2.5-1.5b-vi-voice-Q4_K_M.gguf', 'spec_dec': 'no', 'threads': 6, 'wer': 0.3678, 'ttft_ms': 121.8, 'tok_s': 50.88, 'first_audio_p50': 1387.7, 'first_audio_p95': 1680.4, 'first_audio_p99': 1844.1, 'ram_mb': 4397, 'temp_max': 69.0, 'xruns_per_h': 0.0, 'notes': 'manifest=e2e_synth;turns=30x1sess;spec_hit=1.00;endpoint_ms=500;stream=True;first_words=9;file-audio'}
+[P3-noisy10dB-lap] session 1/1
+LLM error: [Errno 111] Connection refused
+Traceback (most recent call last):
+  File "/home/nhanhuynh/Documents/robotassitance/vieedge-voice/src/vieedge/pipeline.py", line 300, in _respond_loop
+    for piece in self.llm.stream_chat(msgs, stats, self._cancel):
+  File "/home/nhanhuynh/Documents/robotassitance/vieedge-voice/src/vieedge/llm/llamacpp_stream.py", line 142, in stream_chat
+    conn.request("POST", "/v1/chat/completions", body=self._body(messages, max_tokens, True, **kw),
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1351, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1397, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1346, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1106, in _send_output
+    self.send(msg)
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1044, in send
+    self.connect()
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1010, in connect
+    self.sock = self._create_connection(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/socket.py", line 863, in create_connection
+    raise exceptions[0]
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/socket.py", line 848, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+LLM error: [Errno 111] Connection refused
+Traceback (most recent call last):
+  File "/home/nhanhuynh/Documents/robotassitance/vieedge-voice/src/vieedge/pipeline.py", line 300, in _respond_loop
+    for piece in self.llm.stream_chat(msgs, stats, self._cancel):
+  File "/home/nhanhuynh/Documents/robotassitance/vieedge-voice/src/vieedge/llm/llamacpp_stream.py", line 142, in stream_chat
+    conn.request("POST", "/v1/chat/completions", body=self._body(messages, max_tokens, True, **kw),
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1351, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1397, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1346, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1106, in _send_output
+    self.send(msg)
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1044, in send
+    self.connect()
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1010, in connect
+    self.sock = self._create_connection(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/socket.py", line 863, in create_connection
+    raise exceptions[0]
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/socket.py", line 848, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+LLM error: [Errno 111] Connection refused
+Traceback (most recent call last):
+  File "/home/nhanhuynh/Documents/robotassitance/vieedge-voice/src/vieedge/pipeline.py", line 300, in _respond_loop
+    for piece in self.llm.stream_chat(msgs, stats, self._cancel):
+  File "/home/nhanhuynh/Documents/robotassitance/vieedge-voice/src/vieedge/llm/llamacpp_stream.py", line 142, in stream_chat
+    conn.request("POST", "/v1/chat/completions", body=self._body(messages, max_tokens, True, **kw),
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1351, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1397, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1346, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1106, in _send_output
+    self.send(msg)
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1044, in send
+    self.connect()
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1010, in connect
+    self.sock = self._create_connection(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/socket.py", line 863, in create_connection
+    raise exceptions[0]
+  File "/home/nhanhuynh/.local/share/uv/python/cpython-3.11.17-linux-x86_64-gnu/lib/python3.11/socket.py", line 848, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+  [0:0] first_audio 1536.1 ms | stt 142.3 | ttft 125.5 | Q: Thì nào mình biết tủ lãnh đã hết hạn sử dụng cần t
+  [0:1] first_audio 1368.1 ms | stt 145.9 | ttft 94.3 | Q: Nó sẽ bị cảm ứng nhất bà ơi.
+  [0:2] first_audio 1276.2 ms | stt 137.3 | ttft 119.9 | Q: Cho mình hỏi và dựng làm anh hương gì đến lưu lục 
+  [0:3] first_audio 1367.6 ms | stt 227.1 | ttft 131.1 | Q: Cho mình khỏi tại sao ngô phú nước lại ít hơn ngô 
+  [0:4] first_audio 1592.0 ms | stt 132.3 | ttft 110.9 | Q: Con số nào sẽ ra đầu tiên trong quay số may mắn.
+  [0:5] first_audio 1491.7 ms | stt 129.1 | ttft 105.7 | Q: Mệt là axit ăn có đầy đủ vào nhiều nước.
+  [0:6] first_audio 1719.8 ms | stt 196.5 | ttft 126.5 | Q: Bạn ơi mình không biết làm sao để vượt qua nỗi buồ
+  [0:7] first_audio 1139.9 ms | stt 139.6 | ttft 101.2 | Q: Ai giúp mình biết chống năm cực thuộc với nước nào
+  [0:8] first_audio 1284.0 ms | stt 153.0 | ttft 125.6 | Q: Cho mình hỏi phát mình dễ giúp con người lựu chuyệ
+  [0:9] first_audio 1591.6 ms | stt 124.1 | ttft 94.8 | Q: Số may mắn hung tay là bạn nhiều.
+  [0:10] first_audio 1335.9 ms | stt 141.3 | ttft 139.9 | Q: Tại sao ngục thổi lại khó chừng nó lần mua ngụi.
+  [0:11] first_audio 1115.9 ms | stt 133.6 | ttft 111.1 | Q: Cần biết cơ đọt sau vàng là cơ của ai.
+  [0:12] first_audio 1751.9 ms | stt 129.2 | ttft 113.1 | Q: Bạn ơi cái dị giúp con người chữa bệnh ung thư.
+  [0:13] first_audio 1544.3 ms | stt 157.2 | ttft 130.1 | Q: Tại sao người lớn tuổi lại dễ bị nhiễm váy sơn trẻ
+  [0:14] first_audio 1240.1 ms | stt 140.5 | ttft 93.9 | Q: Có niên tưới cây vào giữa chữa không.
+  [0:15] first_audio 1080.1 ms | stt 145.2 | ttft 125.5 | Q: Bạn ơi miễn chú rối trong múa rối nước làm bằng ch
+  [0:16] first_audio 1567.6 ms | stt 149.3 | ttft 125.6 | Q: Nhìn không chắc về việc đầu tư vào tiên tiết kiệm 
+  [0:17] first_audio 1567.6 ms | stt 153.5 | ttft 125.4 | Q: Bạn tồi tại sao phí giao hàng ngã tăng cao vậy.
+  [0:18] first_audio 1327.4 ms | stt 160.9 | ttft 130.6 | Q: Nguyên muốn biết khi nào thì sẽ rác của phẫn đến t
+  [0:19] first_audio 1332.2 ms | stt 129.0 | ttft 98.7 | Q: Xe định có đất hương xe sang nhiều không.
+  [0:20] first_audio 1115.8 ms | stt 152.4 | ttft 150.2 | Q: Trong hình hỏi tại sao phẩy mười l năm chín trăm t
+  [0:21] first_audio 1503.9 ms | stt 147.4 | ttft 110.6 | Q: Nếu không giết thêm cây làm sao để nhận huyết nó.
+  [0:22] first_audio 1335.6 ms | stt 140.5 | ttft 101.9 | Q: Sao do trong phim từng rất nguy hiểm.
+  [0:23] first_audio 1500.0 ms | stt 145.4 | ttft 152.7 | Q: Hoạ câu tại sao bắn cành chay lại có nước trọng.
+  [0:24] first_audio 1364.0 ms | stt 158.5 | ttft 129.8 | Q: Bạn thời điệu ây ai có thể học mọi ngôn ngữ trên t
+  [0:25] first_audio 1643.9 ms | stt 158.9 | ttft 121.1 | Q: Mìn tắc mắc mùa suối nước có xuất hiện ở nước ngoà
+  [0:26] first_audio 1520.0 ms | stt 158.8 | ttft 151.7 | Q: Hay là tích lập cho chở lý này có thể chạy to ép r
+  [0:27] first_audio 679.3 ms | stt 188.8 | ttft None | Q: Có thể dẫn đến bến chín nguy hiệp không.
+  [0:28] first_audio 672.0 ms | stt 129.0 | ttft None | Q: Nếu cây bị sâu vệ thi làm sao vạn.
+  [0:29] first_audio 703.9 ms | stt 152.1 | ttft None | Q: Ai là tát ra cổ vài thơ trăng răng nổi tiếm.
+{
+ "metrics": {
+  "first_audio_ms": {
+   "p50": 1365.8,
+   "p95": 1685.6,
+   "p99": 1742.6,
+   "mean": 1342.3,
+   "std": 279.3,
+   "n": 30
+  },
+  "stt_after_speech_ms": {
+   "p50": 145.7,
+   "p95": 193.0,
+   "p99": 218.2,
+   "mean": 150.0,
+   "std": 21.4,
+   "n": 30
+  },
+  "stt_after_endpoint_ms": {
+   "p50": -366.4,
+   "p95": -318.5,
+   "p99": -293.8,
+   "mean": -362.0,
+   "std": 21.4,
+   "n": 30
+  },
+  "endpoint_wait_ms": {
+   "p50": 511.9,
+   "p95": 512.3,
+   "p99": 512.5,
+   "mean": 511.9,
+   "std": 0.3,
+   "n": 30
+  },
+  "ttft_ms": {
+   "p50": 125.4,
+   "p95": 151.2,
+   "p99": 152.4,
+   "mean": 120.3,
+   "std": 16.8,
+   "n": 27
+  },
+  "first_chunk_ms": {
+   "p50": 461.8,
+   "p95": 691.6,
+   "p99": 738.7,
+   "mean": 448.7,
+   "std": 139.5,
+   "n": 27
+  },
+  "tts_first_ms": {
+   "p50": 223.9,
+   "p95": 312.8,
+   "p99": 324.9,
+   "mean": 231.7,
+   "std": 59.0,
+   "n": 27
+  },
+  "llm_total_ms": {
+   "p50": 820.5,
+   "p95": 1063.6,
+   "p99": 1104.0,
+   "mean": 743.2,
+   "std": 278.6,
+   "n": 30
+  },
+  "turn_total_ms": {
+   "p50": 8134.6,
+   "p95": 10330.9,
+   "p99": 10813.6,
+   "mean": 7531.0,
+   "std": 2091.9,
+   "n": 30
+  }
+ },
+ "first_audio_p50_per_session": [
+  1365.8
+ ],
+ "first_audio_p50_mean_std": [
+  1365.8,
+  0.0
+ ],
+ "asr_wer_on_questions": 0.34770114942528735,
+ "speculative_hit_rate": 1.0,
+ "timeouts": 0,
+ "xruns_per_h": [
+  0.0
+ ],
+ "power_w_mean": null
+}
+experiments.csv <- {'exp_id': 'P3-noisy10dB-lap', 'os_cfg': 'laptop', 'stt_model': 'phowhisper-tiny-encoder-10s.onnx', 'stt_where': 'cpu', 'llm_model': 'qwen2.5-1.5b-vi-voice-Q4_K_M.gguf', 'spec_dec': 'no', 'threads': 6, 'wer': 0.3477, 'ttft_ms': 125.4, 'tok_s': 51.38, 'first_audio_p50': 1365.8, 'first_audio_p95': 1685.6, 'first_audio_p99': 1742.6, 'ram_mb': 4229, 'temp_max': 56.0, 'xruns_per_h': 0.0, 'notes': 'manifest=e2e_synth_snr10;turns=30x1sess;spec_hit=1.00;endpoint_ms=500;stream=True;first_words=9;file-audio'}

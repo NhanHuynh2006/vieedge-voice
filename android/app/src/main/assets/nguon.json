@@ -1,0 +1,412 @@
+{
+ "cuc_pctt_bao": {
+  "ten": "Cục Quản lý đê điều và Phòng, chống thiên tai: 11 hướng dẫn kỹ năng ứng phó với bão và mưa lũ sau bão (đăng trên Báo Lào Cai, 21/07/2025)",
+  "url": "https://baolaocai.vn/11-huong-dan-ky-nang-ung-pho-voi-bao-so-3-va-mua-lu-sau-bao-post649306.html",
+  "loai": "văn bản hướng dẫn của cơ quan nhà nước"
+ },
+ "cuc_pctt_lu": {
+  "ten": "Cục Quản lý đê điều và Phòng, chống thiên tai: hướng dẫn bảo đảm an toàn khi có mưa lớn, lũ, ngập lụt, lũ quét và sạt lở đất (Cổng TTĐT tỉnh Hà Tĩnh, 24/09/2026)",
+  "url": "https://hatinh.gov.vn/vi/bai-viet/huong-dan-dam-bao-an-toan-khi-co-mua-lon-lu-ngap-lut-lu-quet-va-sat-lo-dat-cho-khu-vuc-tu-nghe-an-den-quang-tri",
+  "loai": "văn bản hướng dẫn của cơ quan nhà nước"
+ },
+ "cuc_pctt_lqsl": {
+  "ten": "Cục Quản lý đê điều và Phòng, chống thiên tai: kỹ năng an toàn trước lũ quét và sạt lở đất (Báo Thế giới và Việt Nam, 30/09/2025)",
+  "url": "https://baoquocte.vn/ky-nang-quan-trong-de-dam-bao-an-toan-truoc-thien-tai-lu-quet-va-sat-lo-dat-329420.html",
+  "loai": "văn bản hướng dẫn của cơ quan nhà nước"
+ },
+ "byt_nuoc": {
+  "ten": "Cục Quản lý Môi trường y tế, Bộ Y tế: hướng dẫn xử lý nước sạch sinh hoạt ở vùng bão lụt (Tạp chí Luật sư Việt Nam, 10/09/2024)",
+  "url": "https://lsvn.vn/huong-dan-nguoi-dan-cach-xu-ly-de-co-nuoc-sach-sinh-hoat-o-vung-bao-lut-1725935972-a147034.html",
+  "loai": "văn bản hướng dẫn của cơ quan nhà nước"
+ },
+ "cpb_nuoc": {
+  "ten": "Cục Phòng bệnh, Bộ Y tế: biện pháp làm sạch nước và phòng bệnh sau mưa lũ (VnEconomy, 16/10/2025)",
+  "url": "https://vneconomy.vn/cuc-phong-benh-bo-y-te-huong-dan-nguoi-dan-cac-bien-phap-lam-sach-nuoc-de-su-dung-sau-mua-lu.htm",
+  "loai": "văn bản hướng dẫn của cơ quan nhà nước"
+ },
+ "ttg_112": {
+  "ten": "Quyết định 2024/QĐ-TTg ngày 15/09/2025 về Quy chế sử dụng số điện thoại 112",
+  "url": "https://luatvietnam.vn/tai-nguyen/quyet-dinh-2024-qd-ttg-2025-quy-che-su-dung-so-dien-thoai-112-tiep-nhan-thong-tin-su-co-thien-tai-411548-d1.html",
+  "loai": "văn bản quy phạm pháp luật"
+ },
+ "ready_lu": {
+  "ten": "Ready.gov (FEMA, Hoa Kỳ), trang tiếng Việt: Lũ lụt",
+  "url": "https://www.ready.gov/vi/floods",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "ready_bao": {
+  "ten": "Ready.gov (FEMA, Hoa Kỳ), trang tiếng Việt: Bão",
+  "url": "https://www.ready.gov/vi/hurricanes",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "ready_set": {
+  "ten": "Ready.gov (FEMA, Hoa Kỳ), trang tiếng Việt: Giông bão và sét",
+  "url": "https://www.ready.gov/vi/thunderstorms-lightning",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "ready_nong": {
+  "ten": "Ready.gov (FEMA, Hoa Kỳ), trang tiếng Việt: Nhiệt độ khắc nghiệt",
+  "url": "https://www.ready.gov/vi/heat",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "ready_matdien": {
+  "ten": "Ready.gov (FEMA, Hoa Kỳ), trang tiếng Việt: Mất điện và an toàn máy phát điện",
+  "url": "https://www.ready.gov/vi/power-outages",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "ready_satlo": {
+  "ten": "Ready.gov (FEMA, Hoa Kỳ), trang tiếng Việt: Sạt lở đất và dòng vật vụn",
+  "url": "https://www.ready.gov/vi/landslide-debris-flow",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "ready_sotan": {
+  "ten": "Ready.gov (FEMA, Hoa Kỳ), trang tiếng Việt: Sơ tán",
+  "url": "https://www.ready.gov/vi/evacuation",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "ready_dodung": {
+  "ten": "Ready.gov (FEMA, Hoa Kỳ), trang tiếng Việt: Lập một bộ dụng cụ khẩn cấp",
+  "url": "https://www.ready.gov/vi/kit",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "ready_chay": {
+  "ten": "Ready.gov (FEMA, Hoa Kỳ), trang tiếng Việt: Cháy nhà",
+  "url": "https://www.ready.gov/vi/home-fires",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "cdc_ran": {
+  "ten": "CDC/NIOSH (Hoa Kỳ): Venomous Snakes at Work, mục If a snake bites you",
+  "url": "https://www.cdc.gov/niosh/outdoor-workers/about/venomous-snakes.html",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "cdc_hathan": {
+  "ten": "CDC (Hoa Kỳ): Preventing Hypothermia",
+  "url": "https://www.cdc.gov/winter-weather/prevention/index.html",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "cdc_nuoc": {
+  "ten": "CDC (Hoa Kỳ): How to Make Water Safe in an Emergency",
+  "url": "https://www.cdc.gov/water-emergency/about/index.html",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "cdc_cogiat": {
+  "ten": "CDC (Hoa Kỳ): First Aid for Seizures",
+  "url": "https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "cdc_dotquy": {
+  "ten": "CDC (Hoa Kỳ): Signs and Symptoms of Stroke",
+  "url": "https://www.cdc.gov/stroke/signs-symptoms/index.html",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "cdc_dai": {
+  "ten": "CDC (Hoa Kỳ): Rabies Prevention and Control",
+  "url": "https://www.cdc.gov/rabies/prevention/index.html",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "cdc_nuoclu": {
+  "ten": "CDC (Hoa Kỳ): Safety Guidelines: Floodwater",
+  "url": "https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "cdc_co": {
+  "ten": "CDC (Hoa Kỳ): Preventing Carbon Monoxide Poisoning After an Emergency (bản lưu trữ)",
+  "url": "https://www.cdc.gov/disasters/cofacts.html",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "nws_set": {
+  "ten": "National Weather Service (Hoa Kỳ): Lightning safety when outdoors",
+  "url": "https://www.weather.gov/safety/lightning-outdoors",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "who_bong": {
+  "ten": "WHO: Burns, fact sheet (mục First aid)",
+  "url": "https://www.who.int/news-room/fact-sheets/detail/burns",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_cpr": {
+  "ten": "MedlinePlus (Thư viện Y khoa Quốc gia Hoa Kỳ): CPR - adult and child after onset of puberty",
+  "url": "https://medlineplus.gov/ency/article/000013.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_hoc": {
+  "ten": "MedlinePlus: Choking - adult or child over 1 year",
+  "url": "https://medlineplus.gov/ency/article/000049.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_hoc_be": {
+  "ten": "MedlinePlus: Choking - infant under 1 year",
+  "url": "https://medlineplus.gov/ency/article/000048.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_duoi": {
+  "ten": "MedlinePlus: Drowning",
+  "url": "https://medlineplus.gov/ency/article/000046.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_dien": {
+  "ten": "MedlinePlus: Electrical injury",
+  "url": "https://medlineplus.gov/ency/article/000053.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_gay": {
+  "ten": "MedlinePlus: Broken bone",
+  "url": "https://medlineplus.gov/ency/article/000001.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_mau": {
+  "ten": "MedlinePlus: Bleeding",
+  "url": "https://medlineplus.gov/ency/article/000045.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_ong": {
+  "ten": "MedlinePlus: Insect bites and stings",
+  "url": "https://medlineplus.gov/ency/article/000033.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_ngat": {
+  "ten": "MedlinePlus: Fainting",
+  "url": "https://medlineplus.gov/ency/article/003092.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_tim": {
+  "ten": "MedlinePlus: Heart attack first aid",
+  "url": "https://medlineplus.gov/ency/article/000063.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_phanve": {
+  "ten": "MedlinePlus: Anaphylaxis",
+  "url": "https://medlineplus.gov/ency/article/000844.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_dau": {
+  "ten": "MedlinePlus: Head injury - first aid",
+  "url": "https://medlineplus.gov/ency/article/000028.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_matnuoc": {
+  "ten": "MedlinePlus: Dehydration",
+  "url": "https://medlineplus.gov/ency/article/000982.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_bong": {
+  "ten": "MedlinePlus: Burns",
+  "url": "https://medlineplus.gov/ency/article/000030.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_ngodoc": {
+  "ten": "MedlinePlus: Lighter fluid poisoning (mục Home Care)",
+  "url": "https://medlineplus.gov/ency/article/002833.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "arc_vi": {
+  "ten": "Hội Chữ Thập Đỏ Úc: Hướng dẫn sơ cứu quan trọng (bản tiếng Việt)",
+  "url": "https://www.redcross.org.au/globalassets/cms/first-aid/first-aid-pdfs/first-aid-essentials/arc-essential-first-aid-guide-ebook-viet.pdf",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "vinmec_duoi": {
+  "ten": "Vinmec: Đuối nước: đừng vội xốc nước, hãy cấp cứu đúng cách (16/07/2026)",
+  "url": "https://www.vinmec.com/vie/bai-viet/duoi-nuoc-dung-voi-xoc-nuoc-hay-cap-cuu-dung-cach",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_haduong": {
+  "ten": "MedlinePlus: Low blood sugar",
+  "url": "https://medlineplus.gov/ency/article/000386.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_maucam": {
+  "ten": "MedlinePlus: Nosebleed",
+  "url": "https://medlineplus.gov/ency/article/003106.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_bonggan": {
+  "ten": "MedlinePlus: Sprains",
+  "url": "https://medlineplus.gov/ency/article/000041.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_trat": {
+  "ten": "MedlinePlus: Dislocation",
+  "url": "https://medlineplus.gov/ency/article/000014.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_mat": {
+  "ten": "MedlinePlus: Eye emergencies",
+  "url": "https://medlineplus.gov/ency/article/000054.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_dutchi": {
+  "ten": "MedlinePlus: Traumatic amputation",
+  "url": "https://medlineplus.gov/ency/article/000006.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_tp": {
+  "ten": "MedlinePlus: Food poisoning",
+  "url": "https://medlineplus.gov/ency/article/001652.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_methanol": {
+  "ten": "MedlinePlus: Methanol poisoning",
+  "url": "https://medlineplus.gov/ency/article/002680.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_khoaitay": {
+  "ten": "MedlinePlus: Potato plant poisoning (mục Home Care, cách xử trí chung khi ăn phải cây độc)",
+  "url": "https://medlineplus.gov/ency/article/002875.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_bocap": {
+  "ten": "MedlinePlus: Scorpions",
+  "url": "https://medlineplus.gov/ency/article/002850.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_soc": {
+  "ten": "MedlinePlus: Shock",
+  "url": "https://medlineplus.gov/ency/article/000039.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_sot": {
+  "ten": "MedlinePlus: Fever",
+  "url": "https://medlineplus.gov/ency/article/003090.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_hen": {
+  "ten": "MedlinePlus: Signs of an asthma attack",
+  "url": "https://medlineplus.gov/ency/patientinstructions/000062.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_xit": {
+  "ten": "MedlinePlus: How to use an inhaler - no spacer",
+  "url": "https://medlineplus.gov/ency/patientinstructions/000041.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_cpr_tre": {
+  "ten": "MedlinePlus: CPR - young child (age 1 year to onset of puberty)",
+  "url": "https://medlineplus.gov/ency/article/000012.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_cpr_be": {
+  "ten": "MedlinePlus: CPR - infant",
+  "url": "https://medlineplus.gov/ency/article/000011.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_hoachat": {
+  "ten": "MedlinePlus: Chemical burn or reaction",
+  "url": "https://medlineplus.gov/ency/article/000059.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "nz_dongdat": {
+  "ten": "Cơ quan Quản lý khẩn cấp New Zealand (Civil Defence), tờ hướng dẫn tiếng Việt: Khi động đất xảy ra: Quỳ xuống, Che chắn, Bám chắc",
+  "url": "https://getready.govt.nz/assets/Uploads/documents/earthquake/drop-cover-hold/translations/factsheets/drop-cover-earthquake-happens-fact-vi-jan17.pdf",
+  "loai": "tài liệu của cơ quan nhà nước nước ngoài, trích dẫn và viết lại"
+ },
+ "nws_songthan": {
+  "ten": "National Weather Service (Hoa Kỳ): Tsunami Preparedness, Natural Tsunami Warnings",
+  "url": "https://www.weather.gov/wrn/tsunami-sm",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "nws_lu_xe": {
+  "ten": "National Weather Service (Hoa Kỳ): Turn Around Don't Drown",
+  "url": "https://www.weather.gov/safety/flood-turn-around-dont-drown",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "mp_tai": {
+  "ten": "MedlinePlus: Ear emergencies",
+  "url": "https://medlineplus.gov/ency/article/000052.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_pin": {
+  "ten": "MedlinePlus: Button batteries",
+  "url": "https://medlineplus.gov/ency/article/002764.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_vet": {
+  "ten": "MedlinePlus: Cuts and puncture wounds",
+  "url": "https://medlineplus.gov/ency/article/000043.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_rang": {
+  "ten": "MedlinePlus: Broken or knocked out tooth",
+  "url": "https://medlineplus.gov/ency/article/000058.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_thai": {
+  "ten": "MedlinePlus: Vaginal bleeding in pregnancy",
+  "url": "https://medlineplus.gov/ency/article/003264.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "mp_tutu": {
+  "ten": "MedlinePlus: Suicide and suicidal behavior",
+  "url": "https://medlineplus.gov/ency/article/001554.htm",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "nws_rip": {
+  "ten": "National Weather Service (Hoa Kỳ): How to Survive a Rip Current",
+  "url": "https://www.weather.gov/safety/ripcurrent-surviving",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "nws_loc": {
+  "ten": "National Weather Service (Hoa Kỳ): What to do During a Tornado",
+  "url": "https://www.weather.gov/safety/tornado-during",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "tdqg_111": {
+  "ten": "Tổng đài quốc gia bảo vệ trẻ em 111, Cục Trẻ em (bài trên Pháp luật TP.HCM, 01/01/2022)",
+  "url": "https://tuoitre.vn/plo/tong-dai-quoc-gia-111-ket-noi-de-bao-ve-tre-em-post663452.html",
+  "loai": "văn bản hướng dẫn của cơ quan nhà nước"
+ },
+ "bca_gas": {
+  "ten": "Bộ Công an: hướng dẫn phòng, chống cháy nổ khi dùng bếp gas (Báo Pháp luật Việt Nam, 02/08/2018)",
+  "url": "https://baophapluat.vn/bo-cong-an-huong-dan-cach-phong-chong-chay-no-khi-dung-bep-gas-post282596.html",
+  "loai": "văn bản hướng dẫn của cơ quan nhà nước"
+ },
+ "pccc_thangmay": {
+  "ten": "Cảnh sát PCCC TP.HCM: cách xử lý khi bị kẹt thang máy (Pháp luật TP.HCM, 07/06/2019)",
+  "url": "https://tuoitre.vn/plo/3-nguyen-tac-vang-can-nho-khi-bi-ket-thang-may-post528058.html",
+  "loai": "văn bản hướng dẫn của cơ quan nhà nước"
+ },
+ "bm_h2s": {
+  "ten": "Trung tâm Chống độc, Bệnh viện Bạch Mai: khuyến cáo khi có người ngạt khí trong hầm, không gian kín (VOV, 20 và 22/07/2026)",
+  "url": "https://vov.vn/suc-khoe/vi-sao-khi-h2s-trong-ham-biogas-co-the-khien-nan-nhan-tu-vong-chi-trong-vai-giay-post1316785.vov",
+  "loai": "văn bản hướng dẫn của cơ quan nhà nước"
+ },
+ "cdc_phongxa": {
+  "ten": "CDC (Hoa Kỳ): What to Do for Different Types of Radiation Emergencies",
+  "url": "https://www.cdc.gov/radiation-emergencies/about/what-to-do.html",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "ctp_rht": {
+  "ten": "Counter Terrorism Policing (Vương quốc Anh): Run Hide Tell",
+  "url": "https://www.counterterrorism.police.uk/runhidetell/",
+  "loai": "tài liệu của cơ quan nhà nước nước ngoài, trích dẫn và viết lại"
+ },
+ "stjohn_sinh": {
+  "ten": "Hato Hone St John (New Zealand): Childbirth and miscarriage in an emergency",
+  "url": "https://www.stjohn.org.nz/First-Aid/First-Aid-Library/Childbirth-and-Miscarriage-in-an-Emergency/",
+  "loai": "trích dẫn, viết lại bằng lời của nhóm"
+ },
+ "ec_112": {
+  "ten": "Ủy ban châu Âu: 112, the EU's emergency phone number",
+  "url": "https://digital-strategy.ec.europa.eu/en/policies/112",
+  "loai": "tài liệu của cơ quan nhà nước nước ngoài, trích dẫn và viết lại"
+ },
+ "nws_tuyet": {
+  "ten": "National Weather Service (Hoa Kỳ): What To Do If You're Caught in a Winter Storm",
+  "url": "https://www.weather.gov/safety/winter-during",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "nps_gau": {
+  "ten": "National Park Service (Hoa Kỳ): Staying Safe Around Bears",
+  "url": "https://www.nps.gov/subjects/bears/safety.htm",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "nws_bui": {
+  "ten": "National Weather Service (Hoa Kỳ): Dust Storms and Haboobs",
+  "url": "https://www.weather.gov/safety/wind-dust-storm",
+  "loai": "tài liệu của chính phủ Hoa Kỳ, phạm vi công cộng"
+ },
+ "pccc_damdong": {
+  "ten": "Phòng Cảnh sát PCCC và CNCH, Công an TP.HCM: thoát hiểm khi kẹt giữa đám đông (Sài Gòn Giải Phóng, 24/04/2025)",
+  "url": "https://www.sggp.org.vn/canh-sat-phong-chay-chua-chay-mach-nuoc-thoat-hiem-khi-ket-giua-dam-dong-post792195.html",
+  "loai": "văn bản hướng dẫn của cơ quan nhà nước"
+ }
+}

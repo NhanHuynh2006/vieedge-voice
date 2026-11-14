@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VieEdge so sánh</title>
+<link rel="stylesheet" href="/static/fonts.css">
+<link rel="stylesheet" href="/static/style.css?v=20261103">
+<style>
+  body { margin:0; background:var(--bg); color:var(--ink); font-family:system-ui,sans-serif; }
+  header { padding:10px 16px; border-bottom:1px solid var(--line); display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+  input { padding:6px 8px; border:1px solid var(--line); border-radius:6px; background:transparent; color:var(--ink); }
+  .grid { display:grid; grid-template-columns:1fr 1fr; gap:8px; padding:8px; height:calc(100vh - 56px); }
+  @media (max-width:900px) { .grid { grid-template-columns:1fr; height:auto; } iframe { height:90vh; } }
+  iframe { width:100%; height:100%; border:1px solid var(--line); border-radius:8px; background:var(--card); }
+</style>
+</head>
+<body>
+<header>
+  <b>So sánh trên sân khấu</b>
+  <label>A <input id="a" placeholder="192.168.50.1:8000"></label>
+  <label>B <input id="b" placeholder="192.168.50.2:8000"></label>
+  <button id="go">Mở</button>
+</header>
+<div class="grid"><iframe id="fa" title="Thiết bị A"></iframe><iframe id="fb" title="Thiết bị B"></iframe></div>
+<script>
+  const p = new URLSearchParams(location.search);
+  const a = document.getElementById("a"), b = document.getElementById("b");
+  a.value = p.get("a") || location.host; b.value = p.get("b") || "";
+  function go() {
+    document.getElementById("fa").src = a.value ? `http://${a.value}/` : "about:blank";
+    document.getElementById("fb").src = b.value ? `http://${b.value}/` : "about:blank";
+    history.replaceState(null, "", `?a=${encodeURIComponent(a.value)}&b=${encodeURIComponent(b.value)}`);
+  }
+  document.getElementById("go").onclick = go; go();
+</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+tag=YOCTO-RT-O4-v2
+kernel=6.12.93-rt
+#1 SMP PREEMPT_RT Fri Jun 12 11:45:31 UTC 2026
+cmdline=reboot=w coherent_pool=1M 8250.nr_uarts=1 pci=pcie_bus_safe cgroup_disable=memory numa_policy=interleave nvme.max_host_mem_size_mb=0  numa=fake=8 system_heap.max_order=0 iommu_dma_numa_policy=interleave smsc95xx.macaddr=88:A2:9E:21:8E:E8 vc_mem.mem_base=0x3fc00000 vc_mem.mem_size=0x40000000  isolcpus=3 dwc_otg.lpm_enable=0 console=ttyAMA0,115200 root=/dev/mmcblk0p2 rootfstype=ext4 rootwait  logo.nologo nohz_full=3 rcu_nocbs=3 irqaffinity=0-2 net.ifnames=0
+governor=performance
+rootfs_used_MB=3520
+uptime_s=1068.76
+ram_used_MB=335 ram_available_MB=7726
+procs=218
+systemd_units_running=25
+idle_cpu_busy_pct=6.8
+[05:35:49] jitter idle 5 min
+[05:40:49] cyclictest idle: samples=300000 max_us=13 p99_us=2 p99.99_us=4 p99.999_us=9
+[05:40:49] jitter under heavy load 5 min
+[05:45:59] cyclictest load: samples=300000 max_us=85 p99_us=49 p99.99_us=69 p99.999_us=80
+[05:49:38] e2e quiet: CMP-YOCTO-RT-O4-v2-quiet,312.1,12.5,524,532.1,532.2,1965
+[05:56:57] e2e loaded: CMP-YOCTO-RT-O4-v2-loaded,1737,2.38,642,1027,1082,2541
+[05:56:57] DONE -> /opt/vieedge/results/compare/YOCTO-RT-O4-v2-20261021-053515

@@ -1,0 +1,363 @@
+{
+ "tag": "tuneT",
+ "cards": 42,
+ "version": "2026-11-04",
+ "n": 516,
+ "match_ms_per_question": 0.137,
+ "by_kind": {
+  "trong": {
+   "n": 126,
+   "dung": 126
+  },
+  "ngoai": {
+   "n": 20,
+   "dung": 8,
+   "sai_the": 12
+  },
+  "am": {
+   "n": 25,
+   "dung": 22,
+   "kich_hoat_nham": 3
+  },
+  "qa": {
+   "n": 345,
+   "dung": 319,
+   "kich_hoat_nham": 26
+  }
+ },
+ "errors": [
+  {
+   "q": "Con tôi bị sốt cao 39 độ nên uống thuốc gì?",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Con tôi bị sốt cao 39 độ nên uống thuốc gì?",
+   "got": "nang_nong",
+   "key": "~cao+độ"
+  },
+  {
+   "q": "Bị bong gân cổ chân khi chơi bóng thì xử lý thế nào?",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị bong gân cổ chân khi chơi bóng thì xử lý thế nào?",
+   "got": "nuoc_sach",
+   "key": "~lý+xử+xử lý"
+  },
+  {
+   "q": "Say xe nôn nhiều phải làm sao?",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Say xe nôn nhiều phải làm sao?",
+   "got": "mat_nuoc",
+   "key": "~nhiều+nôn"
+  },
+  {
+   "q": "Bị gai đâm vào chân sưng mủ phải làm gì?",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị gai đâm vào chân sưng mủ phải làm gì?",
+   "got": "vat_dam",
+   "key": "~chân+vào chân+đâm+đâm vào"
+  },
+  {
+   "q": "Đau đầu dữ dội kéo dài mấy ngày nên làm gì?",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Đau đầu dữ dội kéo dài mấy ngày nên làm gì?",
+   "got": "mat_dien",
+   "key": "~dài+kéo+kéo dài"
+  },
+  {
+   "q": "Bị động đất thì nên trốn ở đâu?",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị động đất thì nên trốn ở đâu?",
+   "got": "sat_lo",
+   "key": "~đất+động"
+  },
+  {
+   "q": "Bà tôi bị tiểu đường hạ đường huyết run tay phải làm sao?",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bà tôi bị tiểu đường hạ đường huyết run tay phải làm sao?",
+   "got": "ha_than_nhiet",
+   "key": "~hạ+run"
+  },
+  {
+   "q": "Bị cảm lạnh sổ mũi uống thuốc gì?",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị cảm lạnh sổ mũi uống thuốc gì?",
+   "got": "ngo_doc_hoa_chat",
+   "key": "~thuốc+uống"
+  },
+  {
+   "q": "Người bị lên cơn hen suyễn khó thở phải làm gì?",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Người bị lên cơn hen suyễn khó thở phải làm gì?",
+   "got": "dau_nguc",
+   "key": "~cơn+khó+khó thở+lên cơn+thở"
+  },
+  {
+   "q": "Con tôi bị nôn ra máu phải làm gì?",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Con tôi bị nôn ra máu phải làm gì?",
+   "got": "chay_mau",
+   "key": "~máu+ra máu"
+  },
+  {
+   "q": "Bị kiến ba khoang đốt bỏng da thì xử lý sao?",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị kiến ba khoang đốt bỏng da thì xử lý sao?",
+   "got": "nuoc_sach",
+   "key": "~lý+xử+xử lý"
+  },
+  {
+   "q": "Thuốc hạ sốt cho trẻ hai tuổi uống bao nhiêu?",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Thuốc hạ sốt cho trẻ hai tuổi uống bao nhiêu?",
+   "got": "hoc_tre_so_sinh",
+   "key": "~trẻ+tuổi"
+  },
+  {
+   "q": "Lửa trại cần chuẩn bị củi thế nào?",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Lửa trại cần chuẩn bị củi thế nào?",
+   "got": "do_dung_khan_cap",
+   "key": "~chuẩn+chuẩn bị+cần chuẩn"
+  },
+  {
+   "q": "Ong mật làm tổ như thế nào?",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Ong mật làm tổ như thế nào?",
+   "got": "ong_dot",
+   "key": "~mật+ong+ong mật"
+  },
+  {
+   "q": "Hôm nay trời nắng đẹp quá",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Hôm nay trời nắng đẹp quá",
+   "got": "nang_nong",
+   "key": "~nắng+trời"
+  },
+  {
+   "q": "wifi nhà mình chậm quá, bạn ơi có cách nào xử lý không?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "wifi nhà mình chậm quá, bạn ơi có cách nào xử lý không?",
+   "got": "nuoc_sach",
+   "key": "~lý+xử+xử lý"
+  },
+  {
+   "q": "Mình hỏi thử, xe điện có thể chở nhiều người như xe máy không bạn?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Mình hỏi thử, xe điện có thể chở nhiều người như xe máy không bạn?",
+   "got": "ngo_doc_khi_co",
+   "key": "~máy+điện"
+  },
+  {
+   "q": "pin điện thoại yếu có nên thay ngay không?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "pin điện thoại yếu có nên thay ngay không?",
+   "got": "so_khan_cap",
+   "key": "~thoại+điện+điện thoại"
+  },
+  {
+   "q": "Bảo vệ đề tài nghiên cứu khoa học có khó không?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Bảo vệ đề tài nghiên cứu khoa học có khó không?",
+   "got": "soc_phan_ve",
+   "key": "~khó+vệ"
+  },
+  {
+   "q": "Bạn ơi, mình hay nghe nói trọng lực trên Mặt Trăng yếu hơn Trái Đất, có đúng không?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Bạn ơi, mình hay nghe nói trọng lực trên Mặt Trăng yếu hơn Trái Đất, có đúng không?",
+   "got": "dot_quy",
+   "key": "~mặt+nói+yếu"
+  },
+  {
+   "q": "Bạn ơi, nếu để sữa trong tủ lạnh quá lâu thì có biến mất không?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Bạn ơi, nếu để sữa trong tủ lạnh quá lâu thì có biến mất không?",
+   "got": "ha_than_nhiet",
+   "key": "~lâu+lạnh"
+  },
+  {
+   "q": "ở Việt Nam thì có núi lửa nào hoạt động không?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "ở Việt Nam thì có núi lửa nào hoạt động không?",
+   "got": "sat_lo",
+   "key": "~núi+động"
+  },
+  {
+   "q": "Nước sông Hồng hôm nay có lũ không?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Nước sông Hồng hôm nay có lũ không?",
+   "got": "duoi_nuoc",
+   "key": "~nước+sông"
+  },
+  {
+   "q": "Con số nào sẽ ra đầu tiên trong quay số may mắn?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Con số nào sẽ ra đầu tiên trong quay số may mắn?",
+   "got": "so_khan_cap",
+   "key": "~số+số nào"
+  },
+  {
+   "q": "Tự dưng thấy con rùa bò qua đường, người ta bảo đoán số xổ số, bạn biết số nào sẽ trúng không?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Tự dưng thấy con rùa bò qua đường, người ta bảo đoán số xổ số, bạn biết số nào sẽ trúng không?",
+   "got": "so_khan_cap",
+   "key": "~số+số nào"
+  },
+  {
+   "q": "Dấu hiệu nhận biết bệnh tiểu đường là gì?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Dấu hiệu nhận biết bệnh tiểu đường là gì?",
+   "got": "dot_quy",
+   "key": "~dấu+dấu hiệu+hiệu"
+  },
+  {
+   "q": "Tôi bị thương tay có cần khâu chỉ không bạn?",
+   "nhan": [
+    "du_phong"
+   ],
+   "loai": "qa",
+   "text": "Tôi bị thương tay có cần khâu chỉ không bạn?",
+   "got": "chay_mau",
+   "key": "~tay+thương"
+  },
+  {
+   "q": "Cuộc khởi nghĩa này kéo dài bao lâu?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Cuộc khởi nghĩa này kéo dài bao lâu?",
+   "got": "mat_dien",
+   "key": "~dài+kéo+kéo dài"
+  },
+  {
+   "q": "Mình không chắc lắm nhưng có phải dấu thanh chỉ dùng cho người nói không?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Mình không chắc lắm nhưng có phải dấu thanh chỉ dùng cho người nói không?",
+   "got": "dot_quy",
+   "key": "~dấu+nói"
+  },
+  {
+   "q": "Thực vật làm quang hợp ở đâu trên cây vậy?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Thực vật làm quang hợp ở đâu trên cây vậy?",
+   "got": "vat_dam",
+   "key": "~cây+vật"
+  },
+  {
+   "q": "Có cách nào để biết não bộ của mình đang khỏe mạnh không?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Có cách nào để biết não bộ của mình đang khỏe mạnh không?",
+   "got": "trong_bao",
+   "key": "~bộ+mạnh"
+  },
+  {
+   "q": "Mình bị chấn thương nhẹ có thể tập được không?",
+   "nhan": [
+    "khong",
+    "du_phong"
+   ],
+   "loai": "qa",
+   "text": "Mình bị chấn thương nhẹ có thể tập được không?",
+   "got": "chan_thuong_dau",
+   "key": "~chấn+chấn thương+thương"
+  },
+  {
+   "q": "Liên Hợp Quốc có quyền lực gì hơn các nước thành viên không?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Liên Hợp Quốc có quyền lực gì hơn các nước thành viên không?",
+   "got": "mat_nuoc",
+   "key": "~liên+nước"
+  },
+  {
+   "q": "Đồ dùng nào cần thiết nhất khi chạy?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Đồ dùng nào cần thiết nhất khi chạy?",
+   "got": "do_dung_khan_cap",
+   "key": "~cần thiết+dùng+thiết+đồ+đồ dùng"
+  },
+  {
+   "q": "Chào bạn, nếu mình nhân số 0 với bất kỳ số nào thì kết quả là mấy?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Chào bạn, nếu mình nhân số 0 với bất kỳ số nào thì kết quả là mấy?",
+   "got": "so_khan_cap",
+   "key": "~số+số nào"
+  },
+  {
+   "q": "Khi nào thì áo dài bắt buộc phải mặc khi đi học?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Khi nào thì áo dài bắt buộc phải mặc khi đi học?",
+   "got": "chay_quan_ao",
+   "key": "~bắt+áo"
+  },
+  {
+   "q": "Mình muốn biết cá heo có cần ăn gì để sống không?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Mình muốn biết cá heo có cần ăn gì để sống không?",
+   "got": "hoc_di_vat",
+   "key": "~cá+ăn"
+  },
+  {
+   "q": "Khi nào mình cần kiểm tra lại dây điện của bếp từ?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Khi nào mình cần kiểm tra lại dây điện của bếp từ?",
+   "got": "an_toan_dien_ngap",
+   "key": "~dây+dây điện+điện"
+  },
+  {
+   "q": "Nước mắm cần bảo quản ở nhiệt độ nào?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Nước mắm cần bảo quản ở nhiệt độ nào?",
+   "got": "nang_nong",
+   "key": "~nhiệt+nhiệt độ+độ"
+  },
+  {
+   "q": "Thời gian ủ nước mắm lâu nhất là bao lâu bạn?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Thời gian ủ nước mắm lâu nhất là bao lâu bạn?",
+   "got": "ha_than_nhiet",
+   "key": "~lâu+nước"
+  },
+  {
+   "q": "mình không chắc, có nên nấu cơm với nước lọc hay nước luộc thịt không?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "mình không chắc, có nên nấu cơm với nước lọc hay nước luộc thịt không?",
+   "got": "nuoc_sach",
+   "key": "~lọc+nước"
+  }
+ ]
+}

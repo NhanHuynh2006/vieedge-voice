@@ -1,0 +1,277 @@
+{
+ "n": 24,
+ "correct": 20,
+ "safety_first_audio_ms": {
+  "n": 20,
+  "p50": 1527.817543,
+  "p95": 1779.421929,
+  "max": 2055.392851
+ },
+ "stt_ms_p50": 1388.4730814999998,
+ "rows": [
+  {
+   "wav": "v4_q009.wav",
+   "q_ref": "Bé bị người lớn xâm hại tình dục",
+   "heard": "Bé bị người lớn xâm hại tình dục",
+   "want": [
+    "bao_hanh_tre_em"
+   ],
+   "got": "bao_hanh_tre_em",
+   "first_audio_ms": 1666.473236,
+   "stt_ms": 1490.101006
+  },
+  {
+   "wav": "v4_q020.wav",
+   "q_ref": "Thang máy dừng giữa chừng không mở cửa",
+   "heard": "Thang thang máy dừng giữa chừng không mở cửa cũng",
+   "want": [
+    "ket_thang_may"
+   ],
+   "got": "ket_thang_may",
+   "first_audio_ms": 2055.392851,
+   "stt_ms": 1837.078466
+  },
+  {
+   "wav": "v4_q025.wav",
+   "q_ref": "Vết thương sưng đỏ có mủ",
+   "heard": "Những vết thương sưng đỏ có mùi",
+   "want": [
+    "vet_thuong_nho"
+   ],
+   "got": "vet_thuong_nho",
+   "first_audio_ms": 1213.663697,
+   "stt_ms": 1060.735159
+  },
+  {
+   "wav": "v4_q029.wav",
+   "q_ref": "Có bầu ba tháng ra huyết",
+   "heard": "Có bầu ba tháng giao huyết thì",
+   "want": [
+    "ra_mau_thai"
+   ],
+   "got": "ra_mau_thai",
+   "first_audio_ms": 1334.143389,
+   "stt_ms": 1199.920005
+  },
+  {
+   "wav": "v4_q031.wav",
+   "q_ref": "Răng bị rơi ra do va đập",
+   "heard": "Răng bị rời xa do pha đập",
+   "want": [
+    "gay_rang"
+   ],
+   "got": "gay_rang",
+   "first_audio_ms": 1242.003082,
+   "stt_ms": 1134.33539
+  },
+  {
+   "wav": "v4_q039.wav",
+   "q_ref": "Dẫm phải đinh đâm vào chân",
+   "heard": "Rỗng phải đính đâm vào chân tay",
+   "want": [
+    "vet_thuong_nho"
+   ],
+   "got": "vet_thuong_nho",
+   "first_audio_ms": 1394.558467,
+   "stt_ms": 1230.653159
+  },
+  {
+   "wav": "v4_q049.wav",
+   "q_ref": "Trẻ nuốt pin tròn nhỏ có sao không",
+   "heard": "Trẻ nuốt tinh tròn nhỏ có sao không",
+   "want": [
+    "nuot_pin"
+   ],
+   "got": "khong",
+   "first_audio_ms": 17275.568929,
+   "stt_ms": 1253.79762
+  },
+  {
+   "wav": "v4_q064.wav",
+   "q_ref": "Mất điện khi đang ở trong thang máy",
+   "heard": "Mất điện khi đang ở trong thang máy",
+   "want": [
+    "ket_thang_may"
+   ],
+   "got": "ket_thang_may",
+   "first_audio_ms": 1547.48862,
+   "stt_ms": 1420.093774
+  },
+  {
+   "wav": "v4_q072.wav",
+   "q_ref": "Bé nhét hạt đậu vào tai",
+   "heard": "Bé nhét hạt đậu vào tại tứ",
+   "want": [
+    "di_vat_tai"
+   ],
+   "got": "khong",
+   "first_audio_ms": 30750.516546,
+   "stt_ms": 1256.557236
+  },
+  {
+   "wav": "v4_q073.wav",
+   "q_ref": "Bị cuốn ra biển phải bơi thế nào",
+   "heard": "Bị cuốn ra biển phải bởi thế nào",
+   "want": [
+    "dong_chay_xa_bo"
+   ],
+   "got": "dong_chay_xa_bo",
+   "first_audio_ms": 1527.166389,
+   "stt_ms": 1438.158389
+  },
+  {
+   "wav": "v4_q078.wav",
+   "q_ref": "Mắc kẹt thang máy phải làm gì",
+   "heard": "Mắc kẹt thang máy phải làm gì cho phép",
+   "want": [
+    "ket_thang_may"
+   ],
+   "got": "ket_thang_may",
+   "first_audio_ms": 1402.245928,
+   "stt_ms": 1287.908697
+  },
+  {
+   "wav": "v4_q080.wav",
+   "q_ref": "Sứa biển đốt có nên rửa nước ngọt không",
+   "heard": "Sứa biển đốt có nên rửa nước ngọt không",
+   "want": [
+    "sua_dot"
+   ],
+   "got": "sua_dot",
+   "first_audio_ms": 1652.710466,
+   "stt_ms": 1544.963697
+  },
+  {
+   "wav": "v5_q000.wav",
+   "q_ref": "Tê cóng có nên xoa bóp không",
+   "heard": "Từ cống có nên xoa bóp không kịp",
+   "want": [
+    "te_cong"
+   ],
+   "got": "khong",
+   "first_audio_ms": 28888.436699,
+   "stt_ms": 1219.191774
+  },
+  {
+   "wav": "v5_q015.wav",
+   "q_ref": "Tuyết rơi dày không đi được nữa",
+   "heard": "Tuyết rơi dày không đi được nữa",
+   "want": [
+    "bao_tuyet"
+   ],
+   "got": "bao_tuyet",
+   "first_audio_ms": 1356.066774,
+   "stt_ms": 1242.405851
+  },
+  {
+   "wav": "v5_q016.wav",
+   "q_ref": "Đẻ rơi tại nhà phải làm sao",
+   "heard": "Đè dơi tại nhà phải làm sao",
+   "want": [
+    "sinh_con_khan_cap"
+   ],
+   "got": "khong",
+   "first_audio_ms": 37306.964622,
+   "stt_ms": 1434.144928
+  },
+  {
+   "wav": "v5_q017.wav",
+   "q_ref": "Bão bụi mù mịt trên đường cao tốc",
+   "heard": "Bão bụi mù mịt trên đường cao tốc",
+   "want": [
+    "bao_cat"
+   ],
+   "got": "bao_cat",
+   "first_audio_ms": 1614.512621,
+   "stt_ms": 1455.689929
+  },
+  {
+   "wav": "v5_q029.wav",
+   "q_ref": "Đang lái xe thì gặp bão tuyết",
+   "heard": "Đang lái xe thì gặp bão tuyết",
+   "want": [
+    "bao_tuyet"
+   ],
+   "got": "bao_tuyet",
+   "first_audio_ms": 1597.704928,
+   "stt_ms": 1470.081313
+  },
+  {
+   "wav": "v5_q036.wav",
+   "q_ref": "Đám đông xô đẩy giẫm đạp ở lễ hội",
+   "heard": "Đám đông xô đẩy giẫm đạp ở lễ hội",
+   "want": [
+    "giam_dap"
+   ],
+   "got": "giam_dap",
+   "first_audio_ms": 1598.856312,
+   "stt_ms": 1481.169236
+  },
+  {
+   "wav": "v5_q048.wav",
+   "q_ref": "Gặp khủng bố phải làm gì",
+   "heard": "Gặp khủng bố phải làm gì",
+   "want": [
+    "tan_cong_vu_khi"
+   ],
+   "got": "tan_cong_vu_khi",
+   "first_audio_ms": 1437.918236,
+   "stt_ms": 1356.852389
+  },
+  {
+   "wav": "v5_q050.wav",
+   "q_ref": "Số cảnh sát ở Anh là gì",
+   "heard": "Số cảnh sát ở anh là gì",
+   "want": [
+    "so_khan_cap_quoc_te"
+   ],
+   "got": "so_khan_cap_quoc_te",
+   "first_audio_ms": 1367.57639,
+   "stt_ms": 1256.187775
+  },
+  {
+   "wav": "v5_q055.wav",
+   "q_ref": "Có sự cố nhà máy điện hạt nhân gần đây",
+   "heard": "Có sự cố nhà máy điện hạt nhân gần đây của ông",
+   "want": [
+    "phong_xa"
+   ],
+   "got": "phong_xa",
+   "first_audio_ms": 1527.817543,
+   "stt_ms": 1439.942082
+  },
+  {
+   "wav": "v5_q059.wav",
+   "q_ref": "Đi cắm trại thấy gấu đen",
+   "heard": "Đi cắm trại thấy gấu đen",
+   "want": [
+    "gap_gau"
+   ],
+   "got": "gap_gau",
+   "first_audio_ms": 1422.154774,
+   "stt_ms": 1305.868005
+  },
+  {
+   "wav": "v5_q072.wav",
+   "q_ref": "Bị kẹt giữa đám đông chen lấn",
+   "heard": "Bị kẹt giữa đám đông chen lấn khởi",
+   "want": [
+    "giam_dap"
+   ],
+   "got": "giam_dap",
+   "first_audio_ms": 1617.68562,
+   "stt_ms": 1491.93262
+  },
+  {
+   "wav": "v5_q073.wav",
+   "q_ref": "Vợ tôi sắp sinh mà xe cấp cứu chưa tới",
+   "heard": "Vợ tôi sắp sinh mà xe cấp cứu chưa tới",
+   "want": [
+    "sinh_con_khan_cap"
+   ],
+   "got": "sinh_con_khan_cap",
+   "first_audio_ms": 1779.421929,
+   "stt_ms": 1638.265005
+  }
+ ]
+}

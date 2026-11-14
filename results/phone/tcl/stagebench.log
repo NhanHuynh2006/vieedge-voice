@@ -1,0 +1,3 @@
+11-07 13:46:55.082 21135 22437 I VieEdge : TEST start model=qwen3.5-0.8b-vi-voice-Q4_0.gguf device=none err=null load_s=72.664
+11-07 13:48:21.901 21135 22437 I VieEdge : STAGEBENCH {"asr_ms_per_utt":888.961539,"asr_rtf":0.3050533184930681,"asr_n":24,"tts_ms_per_sentence":2273.670692,"tts_rtf":0.721679873068974,"safety_ms_per_q":27.063223531764706,"load_s":159.482}
+11-07 13:48:21.901 21135 22437 I VieEdge : TEST done

@@ -1,0 +1,62 @@
+{
+ "tag": "typed",
+ "cards": 42,
+ "version": "2026-11-04",
+ "n": 516,
+ "match_ms_per_question": 0.102,
+ "by_kind": {
+  "trong": {
+   "n": 126,
+   "dung": 124,
+   "sot": 2
+  },
+  "ngoai": {
+   "n": 20,
+   "dung": 19,
+   "khong_kich_hoat": 1
+  },
+  "am": {
+   "n": 25,
+   "dung": 25
+  },
+  "qa": {
+   "n": 345,
+   "dung": 344,
+   "kich_hoat_nham": 1
+  }
+ },
+ "errors": [
+  {
+   "q": "Nước đang dâng vào nhà phải làm gì?",
+   "nhan": "ngap_lut",
+   "loai": "trong",
+   "text": "Nước đang dâng vào nhà phải làm gì?",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Dấu hiệu sắp có lũ quét là gì để chạy kịp?",
+   "nhan": "lu_quet",
+   "loai": "trong",
+   "text": "Dấu hiệu sắp có lũ quét là gì để chạy kịp?",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Thuốc hạ sốt cho trẻ hai tuổi uống bao nhiêu?",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Thuốc hạ sốt cho trẻ hai tuổi uống bao nhiêu?",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bạn ơi, cần làm gì để mình không buồn vì những ký ức đau buồn?",
+   "nhan": "khong",
+   "loai": "qa",
+   "text": "Bạn ơi, cần làm gì để mình không buồn vì những ký ức đau buồn?",
+   "got": "du_phong",
+   "key": ""
+  }
+ ]
+}

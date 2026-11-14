@@ -1,0 +1,23 @@
+MAX log buffer size is 5 MiB. So set it to 5 MiB
+cat: files/turns.jsonl: No such file or directory
+peak_pss_kb=1895863 temp=35,4 elapsed_s=31
+11-07 13:23:01.399 21810 21835 I VieEdge : TEST start model=qwen3.5-0.8b-vi-voice-Q4_0.gguf device=none err=null load_s=3.837
+MAX log buffer size is 5 MiB. So set it to 5 MiB
+peak_pss_kb=1879075 temp=35,8 elapsed_s=93
+11-07 13:23:34.509 22270 22297 I VieEdge : TEST start model=qwen3.5-0.8b-vi-voice-Q4_0.gguf device=none err=null load_s=5.134
+MAX log buffer size is 5 MiB. So set it to 5 MiB
+peak_pss_kb=1890682 temp=36 elapsed_s=104
+11-07 13:25:08.797 22996 23023 I VieEdge : TEST start model=qwen3.5-0.8b-vi-voice-Q4_0.gguf device=none err=null load_s=5.241
+MAX log buffer size is 5 MiB. So set it to 5 MiB
+peak_pss_kb=1017883 temp=36,4 elapsed_s=83
+11-07 13:26:53.341 23477 23506 I VieEdge : TEST start model=qwen3.5-0.8b-vi-voice-Q4_0.gguf device=HTP0 err=null load_s=5.317
+MAX log buffer size is 5 MiB. So set it to 5 MiB
+peak_pss_kb=1226753 temp=36,7 elapsed_s=94
+11-07 13:28:20.181 24090 24121 I VieEdge : TEST start model=qwen3.5-2b-vi-voice-Q4_0-imx.gguf device=HTP0 err=null load_s=8.523
+MAX log buffer size is 5 MiB. So set it to 5 MiB
+peak_pss_kb=1227009 temp=37 elapsed_s=93
+11-07 13:29:56.127 25102 25172 I VieEdge : TEST start model=qwen3.5-2b-vi-voice-Q4_0-imx.gguf device=HTP0 err=null load_s=9.976
+MAX log buffer size is 5 MiB. So set it to 5 MiB
+peak_pss_kb=3233446 temp=37,1 elapsed_s=94
+11-07 13:31:30.253 26396 26424 I VieEdge : TEST start model=qwen3.5-2b-vi-voice-Q4_0.gguf device=none err=null load_s=9.864
+ALL DONE

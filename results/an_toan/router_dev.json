@@ -1,0 +1,1331 @@
+{
+ "tag": "dev",
+ "n": 516,
+ "router_ms_p50": 238.44707700027357,
+ "router": {
+  "am_sai": 12,
+  "am_dung": 13,
+  "ngoai_sai": 19,
+  "ngoai_dung": 1,
+  "qa_sai": 140,
+  "qa_dung": 205,
+  "trong_sai": 124,
+  "trong_dung": 2
+ },
+ "hybrid": {
+  "am_sai": 12,
+  "am_dung": 13,
+  "ngoai_dung": 20,
+  "qa_sai": 133,
+  "qa_dung": 212,
+  "trong_dung": 126
+ },
+ "errors": [
+  {
+   "q": "Lũ quét hình thành như thế nào?",
+   "loai": "am",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "Rắn hổ mang chúa dài tối đa bao nhiêu mét?",
+   "loai": "am",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ran_can"
+  },
+  {
+   "q": "Bão số ba năm nay tên là gì?",
+   "loai": "am",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "bong"
+  },
+  {
+   "q": "Vì sao miền Trung hay bị lũ lụt?",
+   "loai": "am",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "do_dung_khan_cap"
+  },
+  {
+   "q": "Cá mập có cắn người không?",
+   "loai": "am",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "chay_mau"
+  },
+  {
+   "q": "Nhiệt độ sôi của nước là bao nhiêu?",
+   "loai": "am",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "trong_bao"
+  },
+  {
+   "q": "Điện năng lượng mặt trời hoạt động thế nào?",
+   "loai": "am",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Bài hát Bão tố là của ai?",
+   "loai": "am",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Sông Mekong dài bao nhiêu cây số?",
+   "loai": "am",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "sau_bao"
+  },
+  {
+   "q": "Cách nấu canh chua cá lóc",
+   "loai": "am",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "chan_thuong_dau"
+  },
+  {
+   "q": "Trung Quốc có bao nhiêu dân?",
+   "loai": "am",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "dau_nguc"
+  },
+  {
+   "q": "Sét hòn là gì?",
+   "loai": "am",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "sat_lo"
+  },
+  {
+   "q": "Chip bán dẫn có ảnh hưởng đến môi trường không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "internet có thật không bạn?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "Tại sao giá chip lại tăng cao như vậy?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ngat_xiu"
+  },
+  {
+   "q": "Tại sao cần cập nhật phần mềm liên tục?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "vat_dam"
+  },
+  {
+   "q": "có chắc bạn biết tên người đầu tiên truy cập internet không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "dau_nguc"
+  },
+  {
+   "q": "Robot có thể tự sửa chữa mình không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "nang_nong"
+  },
+  {
+   "q": "Tại sao chip bán dẫn lại đắt vậy?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "chay_mau"
+  },
+  {
+   "q": "Giá của một chiếc robot thông minh hiện nay là bao nhiêu?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "xe điện có đắt hơn xe xăng nhiều không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "cho_meo_can"
+  },
+  {
+   "q": "Robot có bị ảnh hưởng bởi thời tiết xấu không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "nang_nong"
+  },
+  {
+   "q": "trợ lý có hoạt động tốt nhất ở đâu khi không có mạng không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "trong_bao"
+  },
+  {
+   "q": "trợ lý ơi mình đang cảm thấy buồn làm sao?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "hoc_di_vat"
+  },
+  {
+   "q": "Bạn ơi, giúp mình tính toán 15 nhân 20 nhé.",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "an_toan_dien_ngap"
+  },
+  {
+   "q": "Con hổ ở trong rừng thì ăn gì?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "Khi nào thì kể chuyện cười về con vật là hợp lý nhất?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Bạn ơi, tại sao phí giao hàng lại tăng cao vậy?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "do_dung_khan_cap"
+  },
+  {
+   "q": "Cho mình hỏi, cái gì tạo ra tia cực tím từ mặt trời?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "nang_nong"
+  },
+  {
+   "q": "Bạn ơi, có chuyện cười ngắn về tình yêu không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Tại sao máy tính của mình lại chạy chậm thế?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "nang_nong"
+  },
+  {
+   "q": "Bạn ơi, mình hay nghe nói trọng lực trên Mặt Trăng yếu hơn Trái Đất, có đúng không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "trong_bao"
+  },
+  {
+   "q": "Mưa nhiều có gây lũ lụt không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "Bạn ơi, nếu để sữa trong tủ lạnh quá lâu thì có biến mất không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "Cho mình hỏi, tại sao mùa khô nước lại ít hơn mùa mưa vậy nhỉ?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ngap_lut"
+  },
+  {
+   "q": "Khi nào thì sữa chua thành công trong quá trình lên men?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "sau_bao"
+  },
+  {
+   "q": "Bạn ơi, hiện tượng sấm chớp xảy ra như thế nào?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "do_dung_khan_cap"
+  },
+  {
+   "q": "Cho mình hỏi, tai người nghe được âm thanh cao nhất là bao nhiêu Hz?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Bạn ơi, tại sao quả bóng bay xì hơi lại bay ngược chiều trọng lực lên trời?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "ở Việt Nam thì có núi lửa nào hoạt động không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "nang_nong"
+  },
+  {
+   "q": "Tại sao khi thả đường vào nước nóng thì tan nhanh hơn nước lạnh?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "do_dung_khan_cap"
+  },
+  {
+   "q": "Tại sao sắt bị gỉ khi để ngoài trời?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "sau_bao"
+  },
+  {
+   "q": "động đất lớn nhất thế giới là bao nhiêu độ Richter?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Âm bass và âm treble khác nhau thế nào về mặt vật lý?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "núi lửa phun ra những gì nhỉ?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ngap_lut"
+  },
+  {
+   "q": "Cho hỏi dầu ăn để lâu có bị biến chất không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "nang_nong"
+  },
+  {
+   "q": "Tại sao nước biển không bốc hơi hết?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "vat_dam"
+  },
+  {
+   "q": "Trận derby hôm nay ai thắng?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Ngày mai có mưa không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "Hôm qua mình làm gì?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "hoc_di_vat"
+  },
+  {
+   "q": "Bạn đã từng sống ở nước ngoài không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "nang_nong"
+  },
+  {
+   "q": "Bạn có sở thích gì đặc biệt không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "sau_bao"
+  },
+  {
+   "q": "Giá lúa gạo năm nay so với năm ngoái tăng hay giảm?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "Hai Bà Trưng và Bà Triệu có cùng quê hương không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "chan_thuong_dau"
+  },
+  {
+   "q": "Lê Lợi khởi nghĩa ở đâu vậy?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "hoc_di_vat"
+  },
+  {
+   "q": "Biểu tượng cờ đỏ sao vàng có từ thời Lê Lợi không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "chan_thuong_dau"
+  },
+  {
+   "q": "bạn ơi, Quốc khánh 2/9 là ngày gì?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "Mình cần biết, cờ đỏ sao vàng là cờ của ai?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "ai là người đọc Tuyên ngôn Độc lập?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "do_dung_khan_cap"
+  },
+  {
+   "q": "Bạn ơi, tại sao triều đại phong kiến lại thường xuyên xảy ra chiến tranh?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "do_dung_khan_cap"
+  },
+  {
+   "q": "Sao người ta lại gọi là nhà Lý?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "do_dung_khan_cap"
+  },
+  {
+   "q": "Bạn ơi, cây xanh giúp môi trường thế nào?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ong_dot"
+  },
+  {
+   "q": "tại sao cây lại cần phân bón?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "phong_benh_sau_lu"
+  },
+  {
+   "q": "Mình không rõ loại đất nào phù hợp nhất cho cây ăn quả?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "dau_nguc"
+  },
+  {
+   "q": "Điện mặt trời có dùng được vào ban đêm không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "sau_bao"
+  },
+  {
+   "q": "mình muốn giảm sử dụng túi nilon, bạn cho mình biết cách nào dễ nhất?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "thuc_pham_sau_lu"
+  },
+  {
+   "q": "thôi mình hỏi, liệu rừng ngập mặn có khác gì so với rừng thường không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ran_can"
+  },
+  {
+   "q": "cho mình hỏi, phá rừng làm ảnh hưởng gì đến lũ lụt không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "do_dung_khan_cap"
+  },
+  {
+   "q": "có nên tưới cây vào giữa trưa không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ngat_xiu"
+  },
+  {
+   "q": "mình muốn làm tình nguyện viên trồng rừng, cần đăng ký ở đâu?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "hoc_di_vat"
+  },
+  {
+   "q": "dấu sắc dùng trong trường hợp nào?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "dau_nguc"
+  },
+  {
+   "q": "từ 'thành tích' viết đúng chưa?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "thuc_pham_sau_lu"
+  },
+  {
+   "q": "Dấu thanh nào dùng để chỉ âm thấp nhất?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "vat_dam"
+  },
+  {
+   "q": "khí nào được cây thải ra khi quang hợp?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ong_dot"
+  },
+  {
+   "q": "Tại sao đôi khi mình vẫn ngủ ngon nhưng sáng hôm sau vẫn thấy đầu óc ù?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "do_dung_khan_cap"
+  },
+  {
+   "q": "cây lấy nước từ đâu và như thế nào?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "thuc_pham_sau_lu"
+  },
+  {
+   "q": "Tại sao người lớn tuổi lại dễ bị nhiễm virus hơn trẻ em?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "tốc độ quang hợp có thay đổi theo mùa không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ngo_doc_khi_co"
+  },
+  {
+   "q": "con người có thể quang hợp được không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "hoc_di_vat"
+  },
+  {
+   "q": "Làm sao ADN lại quyết định màu mắt mình?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "người nào dễ bị cảm cúm nhất bạn ơi?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "bong"
+  },
+  {
+   "q": "Bạn ơi, mình không biết làm sao để vượt qua nỗi buồn này.",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "hoc_di_vat"
+  },
+  {
+   "q": "cảm cúm có thể dẫn đến biến chứng nguy hiểm không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "có cách nào tự điều trị cảm cúm tại nhà không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "hoc_di_vat"
+  },
+  {
+   "q": "Khi nào nên di chuyển nạn nhân khỏi khu vực nguy hiểm?",
+   "loai": "qa",
+   "want": [
+    "du_phong",
+    "khong"
+   ],
+   "kw": null,
+   "router": "ngap_lut"
+  },
+  {
+   "q": "Việt Nam gia nhập ASEAN khi nào?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "cho_meo_can"
+  },
+  {
+   "q": "Châu Nam Cực có dân số không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "dau_nguc"
+  },
+  {
+   "q": "Cho mình hỏi, phát minh gì giúp con người lưu trữ nhiều dữ liệu?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "mình muốn biết ngôn ngữ nào có từ vựng phong phú nhất thế giới?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "trong_bao"
+  },
+  {
+   "q": "Châu Âu và châu Phi có chung đại dương nào không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "chay_nha"
+  },
+  {
+   "q": "rừng mưa nhiệt đới lớn nhất thế giới là rừng nào bạn?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ran_can"
+  },
+  {
+   "q": "bạn ơi liệu AI có thể học mọi ngôn ngữ trên thế giới không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ngo_doc_khi_co"
+  },
+  {
+   "q": "tiếng Việt có phải là ngôn ngữ chính thức của Việt Nam không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "chan_thuong_dau"
+  },
+  {
+   "q": "Đồ dùng nào cần thiết nhất khi chạy?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Sao vợt cầu lông lại nhẹ đến vậy?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "chạy bộ trong mưa có tốt không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ngat_xiu"
+  },
+  {
+   "q": "tại sao mình cảm thấy đau đầu khi chạy bộ?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "chan_thuong_dau"
+  },
+  {
+   "q": "Chào bạn, nếu mình nhân số 0 với bất kỳ số nào thì kết quả là mấy?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "sau_bao"
+  },
+  {
+   "q": "Chào bạn, trong một tuần có bao nhiêu ngày thứ bảy?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "trong_bao"
+  },
+  {
+   "q": "mình thắc mắc 1 giờ có bao nhiêu phút?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "dau_nguc"
+  },
+  {
+   "q": "Hai giờ bằng bao nhiêu phút?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "làm ơn cho mình hỏi tại sao có năm nhuận?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ngap_lut"
+  },
+  {
+   "q": "Bạn ơi, 1 ngày đêm có bao nhiêu giây nhỉ?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ong_dot"
+  },
+  {
+   "q": "Cho mình hỏi, 1 năm có bao nhiêu giờ?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "trong_bao"
+  },
+  {
+   "q": "Bạn có biết 1 giờ bằng bao nhiêu phút không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "dau_nguc"
+  },
+  {
+   "q": "Cho mình hỏi giá vé xem múa rối nước khoảng bao nhiêu?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Mình muốn biết ca trù có mấy người hát chính?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Bạn ơi, áo dài có mấy loại cổ phổ biến nhất?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "vat_dam"
+  },
+  {
+   "q": "Bạn ơi, những chú rối trong múa rối nước làm bằng chất liệu gì?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Cho hỏi, một vở múa rối nước thường có bao nhiêu nhân vật chính?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Cho mình hỏi, màu sắc nào của áo dài được mặc nhiều nhất?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "hoi_suc_tim_phoi"
+  },
+  {
+   "q": "Mình muốn biết ai là người sáng lập ca trù?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Mình muốn biết 'Trăm năm trong cõi người ta' thuộc tác phẩm gì?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "ai là tác giả của bài thơ 'Tràng giang' nổi tiếng?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "trong_bao"
+  },
+  {
+   "q": "Cho mình hỏi, tác giả của 'Người già và biển cả' là ai nhỉ?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Tại sao phố đi bộ Nguyễn Thái Học lại được yêu thích như vậy?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "hoi_suc_tim_phoi"
+  },
+  {
+   "q": "Cho mình hỏi, tại sao Hà Nội lại nổi tiếng với những cây cầu vòm đẹp thế?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "chan_thuong_dau"
+  },
+  {
+   "q": "Thời gian chim di cư thường là lúc nào?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "Bạn ơi, voi có sừng không cho mình hỏi?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "sau_bao"
+  },
+  {
+   "q": "tôi không chắc về bọ chét, bạn có thể nói về lợi ích của chúng không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "bong"
+  },
+  {
+   "q": "Mình muốn biết cá heo có cần ăn gì để sống không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Cá heo có thể sống được trong nhà không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "chan_thuong_dau"
+  },
+  {
+   "q": "Mình không chắc nhưng cá voi có ngủ không nhỉ?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "hoi_suc_tim_phoi"
+  },
+  {
+   "q": "Cho mình hỏi cá voi xanh có to bằng cả một tòa nhà không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Bạn ơi, cá voi có thể bay trên không trung không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "pin sạc cũ mình vứt vào thùng nào cho đúng?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "mình muốn biết khi nào thì xe rác của phường đến thu gom?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "hoc_di_vat"
+  },
+  {
+   "q": "Mình muốn biết đồ hộp bị phồng có ăn được không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "phong_benh_sau_lu"
+  },
+  {
+   "q": "tại sao dầu ăn thừa không được đổ trực tiếp xuống bồn rửa?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "dau_nguc"
+  },
+  {
+   "q": "Nước mắm cần bảo quản ở nhiệt độ nào?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "nang_nong"
+  },
+  {
+   "q": "Ai thường là người chế biến nước mắm truyền thống bạn nhỉ?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "bong"
+  },
+  {
+   "q": "Cà phê đen có thể gây viêm loét dạ dày không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "chan_thuong_dau"
+  },
+  {
+   "q": "Tại sao bún bò Huế lại không phải là món ăn miền Nam?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "bong"
+  },
+  {
+   "q": "Cà phê đen có thể gây mất ngủ không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Thời gian ủ nước mắm lâu nhất là bao lâu bạn?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "nang_nong"
+  },
+  {
+   "q": "Cho mình hỏi phở bò hay phở gà ngon hơn?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "mac_ket_cau_cuu"
+  },
+  {
+   "q": "Tại sao bún riêu cua miền Nam lại có vị cay nhẹ?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "chan_thuong_dau"
+  },
+  {
+   "q": "Mình muốn học nấu phở từ đầu, khó không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "ngo_doc_khi_co"
+  },
+  {
+   "q": "Uống cà phê có giúp giảm cân không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  },
+  {
+   "q": "Bạn ơi, tại sao bánh canh chay lại có nước trong?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "nang_nong"
+  },
+  {
+   "q": "nước mắm nào tốt nhất cho trẻ nhỏ?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "nang_nong"
+  },
+  {
+   "q": "Bánh mì chảo có gì đặc biệt không bạn?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "chay_nha"
+  },
+  {
+   "q": "bạn ơi, nước mắm có gây dị ứng không?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "an_toan_dien_ngap"
+  },
+  {
+   "q": "Tại sao bún bò Huế lại có vị ngọt từ nước dừa?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "nang_nong"
+  },
+  {
+   "q": "Cho mình hỏi bánh mì chảo có ở những tỉnh nào trong cả nước?",
+   "loai": "qa",
+   "want": [
+    "khong"
+   ],
+   "kw": null,
+   "router": "du_phong"
+  }
+ ]
+}

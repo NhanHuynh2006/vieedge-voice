@@ -1,0 +1,47 @@
+# Never commit models, datasets, keys (PLAN §16)
+.venv/
+__pycache__/
+*.pyc
+.ruff_cache/
+.pytest_cache/
+third_party/
+models/
+data/*
+!data/README.md
+!data/manifests/
+data/manifests/*.jsonl
+!data/qa/
+data/qa/*
+!data/qa/README.md
+results/raw/
+results/turns/
+results/audio/
+*.gguf
+*.onnx
+*.hef
+*.har
+*.npy
+*.wav
+*.flac
+*.safetensors
+*.bin
+.env
+# Yocto
+yocto/build*/
+yocto/poky/
+yocto/meta-openembedded/
+yocto/meta-raspberrypi/
+yocto/meta-hailo/
+yocto/.kas*
+hailo_compile/work/
+hailo_compile/wheels/*
+!hailo_compile/wheels/README.md
+training/runs/
+images/
+# real-location screenshots (only the redacted copies go into the repo)
+docs/submission/figures/anh_may/raw/
+# APKs are attached to the GitHub release instead
+dist/*.apk
+# tool logs
+/acceleras.log
+/hailo_sdk*.log

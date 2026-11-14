@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VieEdge Review</title>
+<style>
+:root{--bg:#f4f6f8;--card:#fff;--ink:#17202a;--muted:#6b7785;--line:#e1e6eb;--acc:#0f7b6c}
+@media (prefers-color-scheme:dark){:root{--bg:#11161b;--card:#1a2128;--ink:#e8edf2;--muted:#93a1af;--line:#2a333c}}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,sans-serif}
+main{max-width:860px;margin:0 auto;padding:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;margin:12px 0}
+.l{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.5px;margin-top:10px}
+.v{font-size:18px;line-height:1.5}
+button{padding:10px 14px;margin:4px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink);font-size:15px;cursor:pointer}
+button.on{background:var(--acc);color:#fff}
+input,textarea{width:100%;box-sizing:border-box;padding:8px;border-radius:8px;border:1px solid var(--line);background:var(--card);color:var(--ink)}
+.bar{height:6px;background:var(--line);border-radius:3px}.bar>div{height:100%;background:var(--acc);border-radius:3px}
+</style></head><body><main>
+<h2>Duyệt nhanh <span id="name"></span></h2>
+<label>Người chấm <input id="rater" placeholder="tên"></label>
+<div class="bar"><div id="prog" style="width:0"></div></div>
+<div class="card" id="card"></div>
+<div id="btns"></div>
+<textarea id="note" rows="2" placeholder="ghi chú (tuỳ chọn)"></textarea>
+<p style="color:var(--muted);font-size:13px">Phím tắt: 1–5 / Đ (đúng) S (sai) B (bịa) D (dài) · Enter = lưu & tiếp · ← quay lại</p>
+</main>
+<script>
+let D,i=0,sel={};
+const BTN={qa:[["dung","Đúng","đ"],["sai","Sai","s"],["bia","Bịa","b"],["dai","Quá dài","d"],["khongnghe","Khó nghe","k"]],
+ mos:[["1","1"],["2","2"],["3","3"],["4","4"],["5","5"]],numbers:[["dung","Đọc đúng","đ"],["sai","Đọc sai","s"]]};
+fetch("/items").then(r=>r.json()).then(d=>{D=d;document.getElementById("name").textContent=d.name+" ("+d.mode+")";show();});
+function esc(s){return (s||"").replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]))}
+function show(){const it=D.items[i];sel={};let h="";
+ if(D.mode==="qa")h=`<div class=l>Câu hỏi</div><div class=v>${esc(it.q)}</div><div class=l>Câu trả lời của mô hình</div><div class=v>${esc(it.answer)}</div><div class=l>Tham khảo</div><div class=v style="color:var(--muted)">${esc(it.ref)}</div>`;
+ else h=`<div class=l>Câu</div><div class=v>${esc(it.text)}</div>${it.expected?`<div class=l>Cách đọc đúng</div><div class=v style="color:var(--muted)">${esc(it.expected)}</div>`:""}<audio controls autoplay src="/audio/${it.audio}" style="width:100%;margin-top:10px"></audio>`;
+ document.getElementById("card").innerHTML=`<div class=l>${i+1} / ${D.items.length}</div>`+h;
+ document.getElementById("prog").style.width=(100*i/D.items.length)+"%";
+ document.getElementById("btns").innerHTML=BTN[D.mode].map(([k,t])=>`<button data-k="${k}">${t}</button>`).join("")+`<button id=next>Lưu & tiếp →</button>`;
+ document.querySelectorAll("#btns button[data-k]").forEach(b=>b.onclick=()=>toggle(b.dataset.k));
+ document.getElementById("next").onclick=save;document.getElementById("note").value="";}
+function toggle(k){if(D.mode!=="qa")sel={};sel[k]=!sel[k];document.querySelectorAll("#btns button[data-k]").forEach(b=>b.classList.toggle("on",!!sel[b.dataset.k]));}
+function save(){const it=D.items[i];fetch("/save",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({id:it.id,labels:Object.keys(sel).filter(k=>sel[k]),note:document.getElementById("note").value,rater:document.getElementById("rater").value,item:it,ts:Date.now()})});
+ if(i<D.items.length-1){i++;show();}else{document.getElementById("card").innerHTML="<b>Xong. Cảm ơn!</b>";}}
+document.addEventListener("keydown",e=>{if(e.target.tagName==="INPUT"||e.target.tagName==="TEXTAREA")return;
+ if(e.key==="Enter")return save(); if(e.key==="ArrowLeft"&&i>0){i--;return show();}
+ const m=BTN[D.mode].find(([k,t,s])=>(s||k)===e.key.toLowerCase());if(m)toggle(m[0]);});
+</script></body></html>

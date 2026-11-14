@@ -1,0 +1,60 @@
+#!/bin/sh
+# OS tuning for the O-ladder (PLAN §6, §7.2). Called by vieedge-tuning.service at boot.
+#   vieedge-tune apply    apply what the current boot/config asks for
+#   vieedge-tune status   print governor, isolation, IRQ placement, RT settings
+# O-level comes from /etc/vieedge/env (VIEEDGE_OS_CFG=O1|O2|O3|O4); O4 is detected from isolcpus= on the cmdline.
+set -u
+CMDLINE=$(cat /proc/cmdline)
+OS_CFG=${VIEEDGE_OS_CFG:-auto}
+ISO=$(echo "$CMDLINE" | tr ' ' '\n' | sed -n 's/^isolcpus=//p')
+if [ "$OS_CFG" = auto ]; then
+  if [ -n "$ISO" ]; then OS_CFG=O4; elif uname -v | grep -q PREEMPT_RT; then OS_CFG=O3; else OS_CFG=O2; fi
+fi
+
+governor() {
+  for g in /sys/devices/system/cpu/cpu[0-9]*/cpufreq/scaling_governor; do echo "$1" > "$g" 2>/dev/null; done
+}
+
+pin_irqs() {   # all IRQs on cores 0-2, USB host controller (USB mic/speaker) on the isolated audio core
+  echo 7 > /proc/irq/default_smp_affinity 2>/dev/null
+  for d in /proc/irq/[0-9]*; do
+    n=${d##*/}
+    echo 7 > "$d/smp_affinity" 2>/dev/null
+  done
+  for n in $(grep -iE 'xhci|dwc|usb' /proc/interrupts | cut -d: -f1 | tr -d ' '); do
+    echo 8 > /proc/irq/$n/smp_affinity 2>/dev/null && echo "IRQ $n (USB) -> core 3"
+  done
+}
+
+apply() {
+  echo "vieedge-tune: $OS_CFG (isolcpus=${ISO:-none}, kernel $(uname -r))"
+  case "$OS_CFG" in
+    O0) ;;  # stock: leave the default governor (ondemand on Pi OS)
+    *) governor performance ;;
+  esac
+  case "$OS_CFG" in
+    O4) pin_irqs
+        # RT kthreads that serve the audio core stay there; keep the default RT throttle (safety)
+        ;;
+  esac
+  mkdir -p /etc/vieedge
+  [ -f /etc/vieedge/env ] || echo "VIEEDGE_OS_CFG=$OS_CFG" > /etc/vieedge/env
+  date +%s.%N > /run/vieedge-tuned
+}
+
+status() {
+  echo "OS cfg      : $OS_CFG"
+  echo "kernel      : $(uname -r) $(uname -v | grep -o 'PREEMPT[_A-Z]*' | head -1)"
+  echo "cmdline     : $CMDLINE"
+  echo "governor    : $(cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor 2>/dev/null)"
+  echo "isolated    : $(cat /sys/devices/system/cpu/isolated 2>/dev/null)"
+  echo "nohz_full   : $(cat /sys/devices/system/cpu/nohz_full 2>/dev/null)"
+  echo "rt_runtime  : $(cat /proc/sys/kernel/sched_rt_runtime_us)"
+  grep -iE 'xhci|usb' /proc/interrupts | head -3
+}
+
+case "${1:-apply}" in
+  apply) apply ;;
+  status) status ;;
+  *) echo "usage: $0 apply|status"; exit 2 ;;
+esac

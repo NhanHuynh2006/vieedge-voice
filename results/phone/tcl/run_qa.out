@@ -1,0 +1,7 @@
+peak_pss_kb=1305596 temp=35,5 elapsed_s=288
+11-07 02:03:03.484 22627   764 I VieEdge : TEST start model=qwen3.5-0.8b-vi-voice-Q4_0.gguf device=none err=null load_s=68.211
+peak_pss_kb=1295388 temp=36,2 elapsed_s=558
+11-07 02:08:00.339 22628  2604 I VieEdge : TEST start model=qwen3.5-0.8b-vi-voice-Q4_0.gguf device=none err=null load_s=74.93
+peak_pss_kb=1957420 temp=36,5 elapsed_s=432
+11-07 02:17:44.023 28678  4702 I VieEdge : TEST start model=qwen3.5-2b-vi-voice-Q4_0.gguf device=none err=null load_s=99.821
+ALL DONE

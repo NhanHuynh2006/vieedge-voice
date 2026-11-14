@@ -1,0 +1,13 @@
+peak_pss_kb=1434915 temp=34,7 elapsed_s=718
+11-07 01:14:26.624 16247 25893 I VieEdge : TEST start model=qwen3.5-0.8b-vi-voice-Q4_0.gguf device=none err=null load_s=67.364
+peak_pss_kb=1602418 temp=35,4 elapsed_s=746
+11-07 01:26:20.946 16248 27319 I VieEdge : TEST start model=qwen3.5-0.8b-vi-voice-Q4_0.gguf device=none err=null load_s=62.044
+peak_pss_kb=1547710 temp=35,4 elapsed_s=725
+11-07 01:38:47.780 16249 28247 I VieEdge : TEST start model=qwen3.5-0.8b-vi-voice-Q4_0.gguf device=none err=null load_s=62.213
+peak_pss_kb=1752376 temp=35,9 elapsed_s=445
+11-07 01:50:57.832 22624 31060 I VieEdge : TEST start model=qwen3.5-0.8b-vi-voice-Q4_0.gguf device=none err=null load_s=63.288
+cat: files/turns.jsonl: No such file or directory
+peak_pss_kb=1956157 temp=35,6 elapsed_s=186
+11-07 01:59:00.037 22625 31822 I VieEdge : TEST start model=qwen3.5-2b-vi-voice-Q4_0.gguf device=none err=null load_s=100.695
+11-07 02:00:13.381 22625 31822 E AndroidRuntime: FATAL EXCEPTION: Thread-2
+ALL DONE

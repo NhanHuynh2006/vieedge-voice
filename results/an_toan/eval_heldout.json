@@ -1,0 +1,377 @@
+{
+ "tag": "heldout",
+ "cards": 42,
+ "version": "2026-11-04",
+ "n": 134,
+ "match_ms_per_question": 0.146,
+ "by_kind": {
+  "trong": {
+   "n": 84,
+   "dung": 50,
+   "sot": 29,
+   "sai_the": 5,
+   "du_phong": 2
+  },
+  "ngoai": {
+   "n": 20,
+   "khong_kich_hoat": 7,
+   "dung": 12,
+   "sai_the": 1
+  },
+  "am": {
+   "n": 30,
+   "dung": 29,
+   "kich_hoat_nham": 1
+  },
+  "qa": {}
+ },
+ "errors": [
+  {
+   "q": "Thái thịt bị dao cứa vào tay máu ra nhiều không dừng",
+   "nhan": "chay_mau",
+   "loai": "trong",
+   "text": "Thái thịt bị dao cứa vào tay máu ra nhiều không dừng",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bỏng do bô xe máy thì xử lý thế nào",
+   "nhan": "bong",
+   "loai": "trong",
+   "text": "Bỏng do bô xe máy thì xử lý thế nào",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đang nấu ăn mà lửa bén vào áo",
+   "nhan": "chay_quan_ao",
+   "loai": "trong",
+   "text": "Đang nấu ăn mà lửa bén vào áo",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Người bị cháy quần áo phải dập lửa ra sao",
+   "nhan": "chay_quan_ao",
+   "loai": "trong",
+   "text": "Người bị cháy quần áo phải dập lửa ra sao",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Dây điện rớt xuống người bị giật thì cứu sao cho khỏi bị giật lây",
+   "nhan": "dien_giat",
+   "loai": "trong",
+   "text": "Dây điện rớt xuống người bị giật thì cứu sao cho khỏi bị giật lây",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đi rẫy bị con rắn xanh cắn vào cổ chân",
+   "nhan": "ran_can",
+   "loai": "trong",
+   "text": "Đi rẫy bị con rắn xanh cắn vào cổ chân",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị con chó lạ cắn chảy máu ở bắp chân",
+   "nhan": "cho_meo_can",
+   "loai": "trong",
+   "text": "Bị con chó lạ cắn chảy máu ở bắp chân",
+   "got": "chay_mau",
+   "key": "chảy máu"
+  },
+  {
+   "q": "Con mèo hoang cắn tay tôi có sao không",
+   "nhan": "cho_meo_can",
+   "loai": "trong",
+   "text": "Con mèo hoang cắn tay tôi có sao không",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Mấy ngày nay nóng bốn mươi độ, làm sao cho đỡ",
+   "nhan": "nang_nong",
+   "loai": "trong",
+   "text": "Mấy ngày nay nóng bốn mươi độ, làm sao cho đỡ",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Lội nước lũ cả buổi giờ run lập cập môi tím",
+   "nhan": "ha_than_nhiet",
+   "loai": "trong",
+   "text": "Lội nước lũ cả buổi giờ run lập cập môi tím",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đứa em tôi tự dưng lên cơn giật, mắt trợn ngược",
+   "nhan": "co_giat",
+   "loai": "trong",
+   "text": "Đứa em tôi tự dưng lên cơn giật, mắt trợn ngược",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Ba tôi đang ăn tự nhiên rớt đũa, nói không rõ, miệng lệch qua một bên",
+   "nhan": "dot_quy",
+   "loai": "trong",
+   "text": "Ba tôi đang ăn tự nhiên rớt đũa, nói không rõ, miệng lệch qua một bên",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Chồng tôi kêu đau tức ngực lan ra tay trái",
+   "nhan": "dau_nguc",
+   "loai": "trong",
+   "text": "Chồng tôi kêu đau tức ngực lan ra tay trái",
+   "got": "du_phong",
+   "key": ""
+  },
+  {
+   "q": "Ăn tôm xong nổi mẩn khắp người, cổ họng bị nghẹt",
+   "nhan": "soc_phan_ve",
+   "loai": "trong",
+   "text": "Ăn tôm xong nổi mẩn khắp người, cổ họng bị nghẹt",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Hít phải khí độc khi xịt thuốc sâu bị chóng mặt",
+   "nhan": "ngo_doc_hoa_chat",
+   "loai": "trong",
+   "text": "Hít phải khí độc khi xịt thuốc sâu bị chóng mặt",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Mất điện cả nhà mở máy phát dưới gầm cầu thang, mọi người đau đầu",
+   "nhan": "ngo_doc_khi_co",
+   "loai": "trong",
+   "text": "Mất điện cả nhà mở máy phát dưới gầm cầu thang, mọi người đau đầu",
+   "got": "mat_dien",
+   "key": "mất điện"
+  },
+  {
+   "q": "Ngủ phòng kín có đốt lò than bị buồn nôn",
+   "nhan": "ngo_doc_khi_co",
+   "loai": "trong",
+   "text": "Ngủ phòng kín có đốt lò than bị buồn nôn",
+   "got": "du_phong",
+   "key": ""
+  },
+  {
+   "q": "Dự báo có bão vào tuần sau thì gia đình nên chuẩn bị những gì",
+   "nhan": "truoc_bao",
+   "loai": "trong",
+   "text": "Dự báo có bão vào tuần sau thì gia đình nên chuẩn bị những gì",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Nhà mái tôn trước mùa bão gia cố thế nào",
+   "nhan": "truoc_bao",
+   "loai": "trong",
+   "text": "Nhà mái tôn trước mùa bão gia cố thế nào",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bão đang vào, gió giật mạnh quá, ở nhà phải làm gì",
+   "nhan": "trong_bao",
+   "loai": "trong",
+   "text": "Bão đang vào, gió giật mạnh quá, ở nhà phải làm gì",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Có nên ra ngoài lúc bão đổ bộ để chằng lại mái nhà không",
+   "nhan": "trong_bao",
+   "loai": "trong",
+   "text": "Có nên ra ngoài lúc bão đổ bộ để chằng lại mái nhà không",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bão vừa qua, ra ngoài thì cần cẩn thận gì",
+   "nhan": "sau_bao",
+   "loai": "trong",
+   "text": "Bão vừa qua, ra ngoài thì cần cẩn thận gì",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Nước lũ rút rồi về dọn nhà cần chú ý gì",
+   "nhan": "sau_bao",
+   "loai": "trong",
+   "text": "Nước lũ rút rồi về dọn nhà cần chú ý gì",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Nước lên ngang gối rồi, ở trong nhà phải làm gì bây giờ",
+   "nhan": "ngap_lut",
+   "loai": "trong",
+   "text": "Nước lên ngang gối rồi, ở trong nhà phải làm gì bây giờ",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đang cắm trại bên suối thì nghe tiếng ầm ầm trên thượng nguồn",
+   "nhan": "lu_quet",
+   "loai": "trong",
+   "text": "Đang cắm trại bên suối thì nghe tiếng ầm ầm trên thượng nguồn",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đồi sau nhà có vết nứt dài và đất cứ trôi xuống",
+   "nhan": "sat_lo",
+   "loai": "trong",
+   "text": "Đồi sau nhà có vết nứt dài và đất cứ trôi xuống",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Thịt cá trong tủ lạnh mất điện hai ngày rồi có nên ăn",
+   "nhan": "thuc_pham_sau_lu",
+   "loai": "trong",
+   "text": "Thịt cá trong tủ lạnh mất điện hai ngày rồi có nên ăn",
+   "got": "mat_dien",
+   "key": "mất điện"
+  },
+  {
+   "q": "Gạo bị ngập nước lũ còn ăn được không",
+   "nhan": "thuc_pham_sau_lu",
+   "loai": "trong",
+   "text": "Gạo bị ngập nước lũ còn ăn được không",
+   "got": "ngap_lut",
+   "key": "ngập nước"
+  },
+  {
+   "q": "Sau đợt ngập lụt trẻ con hay bị bệnh gì và phòng sao",
+   "nhan": "phong_benh_sau_lu",
+   "loai": "trong",
+   "text": "Sau đợt ngập lụt trẻ con hay bị bệnh gì và phòng sao",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Nước đang dâng có nên cúp cầu dao điện không",
+   "nhan": "an_toan_dien_ngap",
+   "loai": "trong",
+   "text": "Nước đang dâng có nên cúp cầu dao điện không",
+   "got": "ngap_lut",
+   "key": "nước đang dâng"
+  },
+  {
+   "q": "Phòng bên cạnh bốc khói, ngửi mùi khét, phải làm gì",
+   "nhan": "chay_nha",
+   "loai": "trong",
+   "text": "Phòng bên cạnh bốc khói, ngửi mùi khét, phải làm gì",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Muốn gọi xe cứu thương thì bấm số mấy",
+   "nhan": "so_khan_cap",
+   "loai": "trong",
+   "text": "Muốn gọi xe cứu thương thì bấm số mấy",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Cả xóm bị nước lũ bao vây không ai ra được",
+   "nhan": "mac_ket_cau_cuu",
+   "loai": "trong",
+   "text": "Cả xóm bị nước lũ bao vây không ai ra được",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đang kẹt trên nóc nhà, làm sao để người ta thấy mà cứu",
+   "nhan": "mac_ket_cau_cuu",
+   "loai": "trong",
+   "text": "Đang kẹt trên nóc nhà, làm sao để người ta thấy mà cứu",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị cá đuối đâm ở chân khi đi biển",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị cá đuối đâm ở chân khi đi biển",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị chuột rút ở bắp chân khi đang bơi",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị chuột rút ở bắp chân khi đang bơi",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Mẹ bầu bị ra máu thì phải làm gì",
+   "nhan": [
+    "du_phong",
+    "chay_mau"
+   ],
+   "loai": "ngoai",
+   "text": "Mẹ bầu bị ra máu thì phải làm gì",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị đỉa bám vào chân không gỡ ra được",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị đỉa bám vào chân không gỡ ra được",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Người già bị tụt huyết áp chóng mặt",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Người già bị tụt huyết áp chóng mặt",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đứa nhỏ nuốt phải pin cúc áo",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Đứa nhỏ nuốt phải pin cúc áo",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Răng bị gãy do té",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Răng bị gãy do té",
+   "got": "gay_xuong",
+   "key": "bị gãy"
+  },
+  {
+   "q": "Bị bọ cạp chích",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị bọ cạp chích",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Lũ lụt ở Thái Lan năm 2011 lớn cỡ nào",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Lũ lụt ở Thái Lan năm 2011 lớn cỡ nào",
+   "got": "ngap_lut",
+   "key": "lũ lụt"
+  }
+ ]
+}

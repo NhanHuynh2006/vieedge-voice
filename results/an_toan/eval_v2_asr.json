@@ -1,0 +1,512 @@
+{
+ "tag": "v2_asr",
+ "cards": 42,
+ "version": "2026-11-04",
+ "n": 134,
+ "match_ms_per_question": 0.217,
+ "by_kind": {
+  "trong": {
+   "n": 84,
+   "sot": 41,
+   "du_phong": 4,
+   "dung": 40,
+   "sai_the": 3
+  },
+  "ngoai": {
+   "n": 20,
+   "khong_kich_hoat": 11,
+   "dung": 9
+  },
+  "am": {
+   "n": 30,
+   "dung": 27,
+   "kich_hoat_nham": 3
+  },
+  "qa": {}
+ },
+ "errors": [
+  {
+   "q": "Sốt cao bốn mươi độ không hạ",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "xúc cao bốn ngựa đồ không hả",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Té cầu thang chắc gãy cổ tay rồi",
+   "nhan": "gay_xuong",
+   "loai": "trong",
+   "text": "thế cậu tang chắc vay cô tay rồi",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đang leo cầu thang thì tức ngực khó thở",
+   "nhan": [
+    "dau_nguc",
+    "soc_phan_ve"
+   ],
+   "loai": "trong",
+   "text": "đang leo cầu thang thì thức nước khó thở",
+   "got": "du_phong",
+   "key": ""
+  },
+  {
+   "q": "Nhà mình nên chuẩn bị túi đồ khẩn cấp gồm gì",
+   "nhan": "do_dung_khan_cap",
+   "loai": "trong",
+   "text": "nhà mình nên chuẩn bị tú đô gân cấp bôm gì",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đứa nhỏ nhét hạt đậu vào mũi",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "đứa nhỏ nét hạ đầu vào muông",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Số cứu hỏa ở Việt Nam là bao nhiêu",
+   "nhan": "so_khan_cap",
+   "loai": "trong",
+   "text": "số cứu mà ở việt nam là bao nhiêu",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Công nhân rơi từ giàn giáo xuống, có nên đỡ dậy không",
+   "nhan": "chan_thuong_dau",
+   "loai": "trong",
+   "text": "công nhận rời từ săn ráo xuống có nên đờ dây không quá",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đang trong cơn bão mà cửa kính rung mạnh",
+   "nhan": "trong_bao",
+   "loai": "trong",
+   "text": "đang trong cơn đau mà cửa kính dùng mạch",
+   "got": "du_phong",
+   "key": ""
+  },
+  {
+   "q": "Uống kháng sinh xong nổi mề đay khắp người",
+   "nhan": "soc_phan_ve",
+   "loai": "trong",
+   "text": "cúng kháng sinh xong nổi mệt đầy khắp người",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Trẻ sơ sinh sặc sữa lên mũi phải làm sao",
+   "nhan": "hoc_tre_so_sinh",
+   "loai": "trong",
+   "text": "thẽ sợi sặc sừng đến muộn phải nắn sao",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị bỏng do axit",
+   "nhan": [
+    "bong",
+    "ngo_doc_hoa_chat",
+    "du_phong"
+   ],
+   "loai": "ngoai",
+   "text": "bục mê bóng cho các chân tướng",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đi rừng bị trượt chân nghi gãy chân, cách làm nẹp tạm",
+   "nhan": "gay_xuong",
+   "loai": "trong",
+   "text": "đi rừng bị trượt chân bị gay chân cách lòng nẹt tam",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Taluy sau nhà bị nứt, đất đá lăn xuống",
+   "nhan": "sat_lo",
+   "loai": "trong",
+   "text": "thai sau nhà bị nước đấp đá lăn xuống",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đang đi qua ngầm thì nghe tiếng ầm ầm từ thượng nguồn",
+   "nhan": "lu_quet",
+   "loai": "trong",
+   "text": "đang đi qua ngường thì nghe tiếng âm ầm từ từng nguồn",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Kể chuyện cổ tích Sơn Tinh Thủy Tinh và lũ lụt",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "kể chuyện cô tiết sơn tỉnh tuyệt tình và lũ lụt",
+   "got": "ngap_lut",
+   "key": "lũ lụt"
+  },
+  {
+   "q": "Nắng gay gắt mấy hôm nay, giữ sức khỏe thế nào",
+   "nhan": "nang_nong",
+   "loai": "trong",
+   "text": "nắm gay gắt mấy hôm này giữ sức khỏe thế nào",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bé uống nhầm dầu hỏa",
+   "nhan": "ngo_doc_hoa_chat",
+   "loai": "trong",
+   "text": "để uống thêm dầu mạt",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Cứu được người dưới nước lạnh lên, giờ run cầm cập",
+   "nhan": "ha_than_nhiet",
+   "loai": "trong",
+   "text": "cứ được bưởi dưới nước lại lên dở dũng cập",
+   "got": "ngap_lut",
+   "key": "nước+lên"
+  },
+  {
+   "q": "Nhà bị nước bao vây, người già không đi được",
+   "nhan": "mac_ket_cau_cuu",
+   "loai": "trong",
+   "text": "nhà bị nước vào vậy người ra không đi được",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Thằng cu bốn tuổi nuốt viên bi bị nghẹn tím mặt",
+   "nhan": "hoc_di_vat",
+   "loai": "trong",
+   "text": "tăng cũng muốn thổi nuốt viên bi bị nghèn tím mặn",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Ngộ độc thực phẩm cả nhà nôn ói",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "mua được thực phẩm tại nhà lô vòi của",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bạn cùng lớp lên cơn động kinh trong giờ học",
+   "nhan": "co_giat",
+   "loai": "trong",
+   "text": "bạn cũng lớp lên cơn động thinh trong giờ học",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị một khúc tre nhọn găm vào bắp tay",
+   "nhan": "vat_dam",
+   "loai": "trong",
+   "text": "vì một khúc che nhọn lăn vào bắt tay",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Sau lụt cả nhà bị ngứa da, phòng bệnh sao",
+   "nhan": "phong_benh_sau_lu",
+   "loai": "trong",
+   "text": "xong lục cả nhà bị ngứa ra phong bền sao",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Con bị con ong chích ở mắt sưng húp",
+   "nhan": "ong_dot",
+   "loai": "trong",
+   "text": "con bị con bong che mắt dựng hút",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Thuốc sâu bắn vào mắt khi đang phun",
+   "nhan": "ngo_doc_hoa_chat",
+   "loai": "trong",
+   "text": "thuốc sợ bắn vào mắt khi đang phụ",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Nghe nói ngày mai bão tới, nhà ven biển nên làm gì",
+   "nhan": "truoc_bao",
+   "loai": "trong",
+   "text": "nghe nói ngày mai báo tới nhà ven biển nên làm gì",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Má tôi đột nhiên bị tê một bên mặt và nói không rõ",
+   "nhan": "dot_quy",
+   "loai": "trong",
+   "text": "mà tôi đột nhiên bị tể một bên mặt và nói không do",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Có lệnh di dời dân vùng ven sông thì làm gì",
+   "nhan": "so_tan",
+   "loai": "trong",
+   "text": "có lẽ dĩ dậy dân vũ ven sông thì làm dị tật",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đứng chào cờ có bạn bị xỉu",
+   "nhan": "ngat_xiu",
+   "loai": "trong",
+   "text": "đứng trong cơ có bạn bị sinh",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đang hàn thì quần bắt lửa",
+   "nhan": "chay_quan_ao",
+   "loai": "trong",
+   "text": "đang hàn thì quần mắt lựa chọn",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Gió bão đang giật mạnh, có nên trú dưới gầm cầu không",
+   "nhan": "trong_bao",
+   "loai": "trong",
+   "text": "gió bao đang giật mạnh có nên chú dưới gầm câu không",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Lạc trong rừng, trời sắp tối",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "lại trong dinh chới sắc tối",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Ở bản dưới chân núi, thấy nước suối dâng nhanh bất thường",
+   "nhan": "lu_quet",
+   "loai": "trong",
+   "text": "từ bản dưới chân núi thấy nước suối dân nhanh bất thượng",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đội tuyển bị loại đau quá",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "đưa thuyền bị loại đau quá",
+   "got": "du_phong",
+   "key": ""
+  },
+  {
+   "q": "Mất điện cả ngày, sữa của con trong tủ lạnh còn dùng được không",
+   "nhan": "thuc_pham_sau_lu",
+   "loai": "trong",
+   "text": "mất điện cả ngày sự của con trong tủ lạnh con dụng được không",
+   "got": "mat_dien",
+   "key": "mất điện"
+  },
+  {
+   "q": "Dự trữ đồ dùng mùa mưa bão cho gia đình bốn người",
+   "nhan": [
+    "do_dung_khan_cap",
+    "truoc_bao"
+   ],
+   "loai": "trong",
+   "text": "dược triều đồ dùng mua lụa bảo cho gia đình bốn người",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bão tan rồi, ra đường có gì nguy hiểm",
+   "nhan": "sau_bao",
+   "loai": "trong",
+   "text": "bao tạm dội xà đương có dị nguy hiểm",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Ăn cá nóc bị tê môi",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "ăn than nóc bị thề một",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Mình muốn mua máy phát điện loại nào tốt",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "mình muốn mua máy phát điện thoại nào tốt",
+   "got": "mat_dien",
+   "key": "máy phát điện"
+  },
+  {
+   "q": "Hai đứa nhỏ tắm ao bị chìm, mới kéo lên được một đứa",
+   "nhan": "duoi_nuoc",
+   "loai": "trong",
+   "text": "hai đứa nhỏ thăm tao bị chỉ mới kéo lên được một được",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị ong đốt xong sưng môi, khó thở",
+   "nhan": [
+    "soc_phan_ve",
+    "ong_dot"
+   ],
+   "loai": "trong",
+   "text": "nghĩ ông đốt xong xương mộ có tờ",
+   "got": "du_phong",
+   "key": ""
+  },
+  {
+   "q": "Bị nước sôi dội vào chân, da đỏ rát",
+   "nhan": "bong",
+   "loai": "trong",
+   "text": "miếng nước sôi rồi vào trần gian đỏ rác",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Người làm ruộng bị say nắng nặng, da khô nóng",
+   "nhan": "soc_nhiet",
+   "loai": "trong",
+   "text": "người làm ruông bị sành ăn năm da khu đóng",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị cào xước do dây thép gai rỉ sét",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bị tong sức rõ rệt kép dai dị sét",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị trẹo cổ chân sưng tấy",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bị treo cổ trên sân tấy",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Đang chạy bộ bị chuột rút ở đùi",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "đang chai bộ bị chuột giúp ở đủ",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Có người nằm gục trên bàn, gọi không trả lời, ngực không phập phồng",
+   "nhan": [
+    "hoi_suc_tim_phoi",
+    "ngat_xiu"
+   ],
+   "loai": "trong",
+   "text": "có người năng ngụp trên bạn ngoại không trả lời lục không phập phồng",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị chảy máu cam mãi không ngừng",
+   "nhan": [
+    "du_phong",
+    "chay_mau"
+   ],
+   "loai": "ngoai",
+   "text": "bị chai màu cam mai không ngưng",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Nước vừa rút, vào nhà dọn bùn đất cần cẩn thận gì",
+   "nhan": "sau_bao",
+   "loai": "trong",
+   "text": "nước vừa giúp vào nhà dọn vùng đất cần cần thần dịp",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Người bị ngạt nước vừa được đưa lên bờ thì sơ cứu sao",
+   "nhan": "duoi_nuoc",
+   "loai": "trong",
+   "text": "người bị nạt nước vừa được đưa lên bờ thì sợ cứu sao",
+   "got": "ngap_lut",
+   "key": "nước+lên"
+  },
+  {
+   "q": "Đang câu cá thì trời nổi giông",
+   "nhan": "giong_set",
+   "loai": "trong",
+   "text": "đang cộng cả thịt chơi nổi dâm",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Con nhỏ chạm vào nồi cơm điện bị phỏng tay",
+   "nhan": "bong",
+   "loai": "trong",
+   "text": "còn nó chăn vào mồi cơm điện bị phòng thay",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị khỉ cắn khi đi du lịch",
+   "nhan": "cho_meo_can",
+   "loai": "trong",
+   "text": "bị khi cắn thì bị rung lên cơn",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Có động đất mạnh, tòa nhà rung lắc",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "có độc đất mạnh và nhà dùng nắp",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Cả nhà đóng kín cửa đốt than sưởi, sáng ra ai cũng đau đầu",
+   "nhan": "ngo_doc_khi_co",
+   "loai": "trong",
+   "text": "cả nhà đóng kín cửa đốt tạ sưởi sáng ra cũng đau đầu",
+   "got": "du_phong",
+   "key": ""
+  },
+  {
+   "q": "Trời oi nóng quá, người già ở nhà nên làm gì",
+   "nhan": "nang_nong",
+   "loai": "trong",
+   "text": "trời ổi nóng quá người ra ở ná nên làm gì",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Sơ tán có nên mang theo vật nuôi không",
+   "nhan": "so_tan",
+   "loai": "trong",
+   "text": "giờ thắn có nên mang theo vật nuôi không",
+   "got": "khong",
+   "key": ""
+  }
+ ]
+}

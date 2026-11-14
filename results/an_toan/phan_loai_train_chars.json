@@ -1,0 +1,238 @@
+{
+ "train_rows": 8584,
+ "typed": 4292,
+ "classes": 61,
+ "features_kept": 10879,
+ "chosen": {
+  "tau": 0.95,
+  "margin": 0.0,
+  "extra_false": 0,
+  "v2_cards": 122
+ },
+ "rules_only": {
+  "v2": {
+   "trong": [
+    80,
+    84
+   ],
+   "ngoai": [
+    8,
+    20
+   ],
+   "am": [
+    26,
+    30
+   ]
+  },
+  "v2_asr": {
+   "trong": [
+    38,
+    84
+   ],
+   "ngoai": [
+    7,
+    20
+   ],
+   "am": [
+    27,
+    30
+   ]
+  },
+  "qa": {
+   "trong": [
+    0,
+    0
+   ],
+   "ngoai": [
+    10,
+    10
+   ],
+   "am": [
+    335,
+    335
+   ]
+  },
+  "qa_asr": {
+   "trong": [
+    0,
+    0
+   ],
+   "ngoai": [
+    9,
+    10
+   ],
+   "am": [
+    331,
+    335
+   ]
+  }
+ },
+ "with_classifier": {
+  "v2": {
+   "trong": [
+    80,
+    84
+   ],
+   "ngoai": [
+    7,
+    20
+   ],
+   "am": [
+    26,
+    30
+   ]
+  },
+  "v2_asr": {
+   "trong": [
+    42,
+    84
+   ],
+   "ngoai": [
+    7,
+    20
+   ],
+   "am": [
+    27,
+    30
+   ]
+  },
+  "qa": {
+   "trong": [
+    0,
+    0
+   ],
+   "ngoai": [
+    10,
+    10
+   ],
+   "am": [
+    335,
+    335
+   ]
+  },
+  "qa_asr": {
+   "trong": [
+    0,
+    0
+   ],
+   "ngoai": [
+    9,
+    10
+   ],
+   "am": [
+    331,
+    335
+   ]
+  }
+ },
+ "grid": [
+  {
+   "tau": 0.5,
+   "margin": 0.0,
+   "extra_false": 8,
+   "v2_cards": 128
+  },
+  {
+   "tau": 0.5,
+   "margin": 0.2,
+   "extra_false": 8,
+   "v2_cards": 128
+  },
+  {
+   "tau": 0.5,
+   "margin": 0.4,
+   "extra_false": 7,
+   "v2_cards": 125
+  },
+  {
+   "tau": 0.6,
+   "margin": 0.0,
+   "extra_false": 8,
+   "v2_cards": 126
+  },
+  {
+   "tau": 0.6,
+   "margin": 0.2,
+   "extra_false": 8,
+   "v2_cards": 126
+  },
+  {
+   "tau": 0.6,
+   "margin": 0.4,
+   "extra_false": 7,
+   "v2_cards": 124
+  },
+  {
+   "tau": 0.7,
+   "margin": 0.0,
+   "extra_false": 5,
+   "v2_cards": 124
+  },
+  {
+   "tau": 0.7,
+   "margin": 0.2,
+   "extra_false": 5,
+   "v2_cards": 124
+  },
+  {
+   "tau": 0.7,
+   "margin": 0.4,
+   "extra_false": 5,
+   "v2_cards": 124
+  },
+  {
+   "tau": 0.8,
+   "margin": 0.0,
+   "extra_false": 3,
+   "v2_cards": 124
+  },
+  {
+   "tau": 0.8,
+   "margin": 0.2,
+   "extra_false": 3,
+   "v2_cards": 124
+  },
+  {
+   "tau": 0.8,
+   "margin": 0.4,
+   "extra_false": 3,
+   "v2_cards": 124
+  },
+  {
+   "tau": 0.9,
+   "margin": 0.0,
+   "extra_false": 2,
+   "v2_cards": 122
+  },
+  {
+   "tau": 0.9,
+   "margin": 0.2,
+   "extra_false": 2,
+   "v2_cards": 122
+  },
+  {
+   "tau": 0.9,
+   "margin": 0.4,
+   "extra_false": 2,
+   "v2_cards": 122
+  },
+  {
+   "tau": 0.95,
+   "margin": 0.0,
+   "extra_false": 0,
+   "v2_cards": 122
+  },
+  {
+   "tau": 0.95,
+   "margin": 0.2,
+   "extra_false": 0,
+   "v2_cards": 122
+  },
+  {
+   "tau": 0.95,
+   "margin": 0.4,
+   "extra_false": 0,
+   "v2_cards": 122
+  }
+ ]
+}

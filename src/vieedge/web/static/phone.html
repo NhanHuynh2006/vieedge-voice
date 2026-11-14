@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b1220">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="manifest" href="/static/manifest.json">
+<link rel="apple-touch-icon" href="/static/icon-192.png">
+<title>VieEdge Voice</title>
+<link rel="stylesheet" href="/static/fonts.css">
+<link rel="stylesheet" href="/static/style.css?v=20261103">
+</head>
+<body class="phone">
+<header>
+  <div class="brand">VieEdge<span>Voice</span></div>
+  <div id="badges"><button class="badge" id="b-rag" type="button" title="Tra cứu Wikipedia offline: chính xác hơn, chậm hơn khoảng 1,5 s">Tra cứu: …</button><span class="badge" id="b-link">Chưa kết nối</span><span class="badge state idle" id="b-state">Sẵn sàng</span></div>
+</header>
+
+<section class="stage" aria-live="polite">
+  <canvas id="orb" width="600" height="600" aria-label="Trạng thái giọng nói"></canvas>
+  <div class="stage-label" id="stage-label">Chạm để bắt đầu</div>
+</section>
+<div class="stage-sub" id="stage-sub">Điện thoại là micro và loa, Pi suy nghĩ và trả lời</div>
+
+<section class="chat" id="chat" aria-label="Hội thoại">
+  <div class="bubble hint" id="hint">Bật micro rồi hỏi bằng tiếng Việt, ví dụ: “Thủ đô của Nhật Bản là gì?”</div>
+</section>
+<div class="chip-row" id="chips"></div>
+
+<div class="dock">
+  <button class="go" id="go">Bật micro và loa</button>
+  <div class="side">
+    <button class="round" id="ptt" title="Giữ để nói">Giữ nói</button>
+    <button class="round" id="barge" title="Ngắt lời">Ngắt</button>
+  </div>
+</div>
+<div class="net" id="net"></div>
+<script src="/static/phone.js?v=20261103"></script>
+</body>
+</html>

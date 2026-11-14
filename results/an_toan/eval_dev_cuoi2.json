@@ -1,0 +1,26 @@
+{
+ "tag": "dev_cuoi2",
+ "cards": 42,
+ "version": "2026-11-04",
+ "n": 516,
+ "match_ms_per_question": 0.192,
+ "by_kind": {
+  "trong": {
+   "n": 126,
+   "dung": 126
+  },
+  "ngoai": {
+   "n": 20,
+   "dung": 20
+  },
+  "am": {
+   "n": 25,
+   "dung": 25
+  },
+  "qa": {
+   "n": 345,
+   "dung": 345
+  }
+ },
+ "errors": []
+}

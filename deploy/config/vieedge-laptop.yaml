@@ -1,0 +1,40 @@
+# Laptop development / CI: same pipeline, sounddevice audio (or `file` for automated runs),
+# ONNX Runtime stand-in for the Hailo encoder, llama-server from third_party/llama.cpp.
+profile: laptop
+os_cfg: laptop
+paths:
+  models: models
+  results: results
+cpu:
+  main_cores: ""
+audio:
+  backend: sounddevice
+  rt_core: null
+  rt_priority: 0
+input_mode: both
+stt:
+  backend: zipformer
+  zipformer: {model: stt/zipformer-vi, threads: 4}
+  hybrid:
+    encoder: onnx
+    onnx: stt/onnx/phowhisper-tiny-encoder-10s.onnx
+    decoder: stt/ct2/phowhisper-tiny-int8
+    threads: 4
+  ct2:
+    model: stt/ct2/phowhisper-tiny-int8
+    threads: 4
+    window_s: 10
+llm:
+  server_bin: third_party/llama.cpp/build/bin/llama-server
+  model: llm/gguf/qwen2.5-1.5b-vi-voice-Q4_K_M.gguf
+  cores: null
+  threads: 6
+  extra_args: ["-ngl", "0"]
+tts:
+  voice: tts/piper/vi_VN-vais1000-medium.onnx
+  threads: 2
+pipeline:
+  preload_stt: [ct2]
+gpio: {enabled: false}
+web: {enabled: true, host: 127.0.0.1, port: 8000}
+telemetry: {power: none}

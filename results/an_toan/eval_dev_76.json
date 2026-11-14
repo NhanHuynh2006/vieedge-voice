@@ -1,0 +1,28 @@
+{
+ "tag": "dev_76",
+ "classifier": false,
+ "by_classifier": 0,
+ "cards": 76,
+ "version": "2026-11-06",
+ "n": 681,
+ "match_ms_per_question": 0.312,
+ "by_kind": {
+  "trong": {
+   "n": 271,
+   "dung": 271
+  },
+  "ngoai": {
+   "n": 11,
+   "dung": 11
+  },
+  "am": {
+   "n": 54,
+   "dung": 54
+  },
+  "qa": {
+   "n": 345,
+   "dung": 345
+  }
+ },
+ "errors": []
+}

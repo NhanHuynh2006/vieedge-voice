@@ -1,0 +1,141 @@
+{
+ "tag": "doc_lap_v3",
+ "cards": 60,
+ "version": "2026-11-05",
+ "n": 170,
+ "match_ms_per_question": 0.27,
+ "by_kind": {
+  "trong": {
+   "n": 114,
+   "dung": 111,
+   "sot": 2,
+   "sai_the": 1
+  },
+  "ngoai": {
+   "n": 20,
+   "khong_kich_hoat": 4,
+   "dung": 14,
+   "sai_the": 2
+  },
+  "am": {
+   "n": 36,
+   "dung": 31,
+   "kich_hoat_nham": 5
+  },
+  "qa": {}
+ },
+ "errors": [
+  {
+   "q": "Ép tim cho trẻ em thì ấn sâu bao nhiêu",
+   "nhan": "hoi_suc_tre_em",
+   "loai": "trong",
+   "text": "Ép tim cho trẻ em thì ấn sâu bao nhiêu",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Vừa vớt được người dưới ao lên",
+   "nhan": "duoi_nuoc",
+   "loai": "trong",
+   "text": "Vừa vớt được người dưới ao lên",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Mất điện hai ngày, đồ trong tủ lạnh còn ăn được không",
+   "nhan": "thuc_pham_sau_lu",
+   "loai": "trong",
+   "text": "Mất điện hai ngày, đồ trong tủ lạnh còn ăn được không",
+   "got": "mat_dien",
+   "key": "mất điện"
+  },
+  {
+   "q": "Vợ tôi sắp đẻ mà không kịp đến viện",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Vợ tôi sắp đẻ mà không kịp đến viện",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Người nhà muốn tự tử",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Người nhà muốn tự tử",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Thai phụ ra máu nhiều",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Thai phụ ra máu nhiều",
+   "got": "chay_mau",
+   "key": "ra máu nhiều"
+  },
+  {
+   "q": "Bị dị vật mắc trong tai",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị dị vật mắc trong tai",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị cào xước bởi khỉ",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị cào xước bởi khỉ",
+   "got": "cho_meo_can",
+   "key": "khỉ+cào+bị"
+  },
+  {
+   "q": "Bị nhện độc cắn",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị nhện độc cắn",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "CPR là viết tắt của gì",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "CPR là viết tắt của gì",
+   "got": "hoi_suc_tim_phoi",
+   "key": "cpr"
+  },
+  {
+   "q": "Cầu thủ bị trật khớp nghỉ bao lâu mới đá lại",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Cầu thủ bị trật khớp nghỉ bao lâu mới đá lại",
+   "got": "bong_gan",
+   "key": "trật khớp"
+  },
+  {
+   "q": "Hen suyễn là bệnh gì, có lây không",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Hen suyễn là bệnh gì, có lây không",
+   "got": "hen_suyen",
+   "key": "hen suyễn"
+  },
+  {
+   "q": "Ép tim là phim của ai",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Ép tim là phim của ai",
+   "got": "hoi_suc_tim_phoi",
+   "key": "ép tim"
+  },
+  {
+   "q": "Tôi muốn học sơ cứu thì học ở đâu",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Tôi muốn học sơ cứu thì học ở đâu",
+   "got": "du_phong",
+   "key": ""
+  }
+ ]
+}

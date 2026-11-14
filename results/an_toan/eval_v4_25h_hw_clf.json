@@ -1,0 +1,436 @@
+{
+ "tag": "v4_25h_hw_clf",
+ "classifier": true,
+ "by_classifier": 2,
+ "cards": 85,
+ "version": "2026-11-06",
+ "n": 94,
+ "match_ms_per_question": 0.341,
+ "by_kind": {
+  "trong": {
+   "n": 64,
+   "dung": 28,
+   "sot": 35,
+   "du_phong": 6,
+   "sai_the": 1
+  },
+  "ngoai": {
+   "n": 10,
+   "khong_kich_hoat": 7,
+   "sai_the": 2,
+   "dung": 1
+  },
+  "am": {
+   "n": 20,
+   "dung": 20
+  },
+  "qa": {}
+ },
+ "errors": [
+  {
+   "q": "Gỡ con ve trên da thế nào",
+   "nhan": "ve_can",
+   "loai": "trong",
+   "text": "đưa con về trên dạ thế nào",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Nhà đang có mùi ga nồng nặc",
+   "nhan": "ro_ri_gas",
+   "loai": "trong",
+   "text": "là đang có mùi da nồng nặng",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị nhện cắn sưng tấy",
+   "nhan": "nhen_can",
+   "loai": "trong",
+   "text": "mỹ miên căn sự thấy",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bé nuốt viên pin cúc áo",
+   "nhan": "nuot_pin",
+   "loai": "trong",
+   "text": "nên nuốt niềm tin cúc áo cho anh",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị bọ ve cắn bám chặt không gỡ ra được",
+   "nhan": "ve_can",
+   "loai": "trong",
+   "text": "định bỏ ghe cắn bám chặt không ngơ ra được",
+   "got": "du_phong",
+   "key": "",
+   "via": "luat"
+  },
+  {
+   "q": "Ngã bị gãy răng cửa",
+   "nhan": "gay_rang",
+   "loai": "trong",
+   "text": "nạ bị gái giang cưa",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Ăn phải cá nóc",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "tôi thấy giám đốc",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Thang máy dừng giữa chừng không mở cửa",
+   "nhan": "ket_thang_may",
+   "loai": "trong",
+   "text": "thằng máy dân dựa trên không mở cửa",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Con nhện độc cắn vào tay bé",
+   "nhan": "nhen_can",
+   "loai": "trong",
+   "text": "con nhìn được cắn vào thay bé",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Mang thai bị đau bụng ra máu",
+   "nhan": "ra_mau_thai",
+   "loai": "trong",
+   "text": "mảng tai bị đau bụng da máu",
+   "got": "du_phong",
+   "key": "",
+   "via": "luat"
+  },
+  {
+   "q": "Thấy em bé bị bạo hành",
+   "nhan": "bao_hanh_tre_em",
+   "loai": "trong",
+   "text": "thấy em bé bị bão ganh",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Vết thương sưng đỏ có mủ",
+   "nhan": "vet_thuong_nho",
+   "loai": "trong",
+   "text": "bếp thường xuyên đỏ có mụ cương",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Em tôi định nhảy cầu",
+   "nhan": "tu_tu",
+   "loai": "trong",
+   "text": "em tôi định nhai cậu",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Hở van bình gas phải làm sao",
+   "nhan": "ro_ri_gas",
+   "loai": "trong",
+   "text": "người văn bình đang phải làm sao",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Răng bị rơi ra do va đập",
+   "nhan": "gay_rang",
+   "loai": "trong",
+   "text": "rụng bị dân gian so với các đập tắt",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Người dọn bể phốt bị ngạt khí",
+   "nhan": "khi_doc_ham",
+   "loai": "trong",
+   "text": "người don bề phốt bị ngập khí",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Nghi bé nuốt phải viên pin",
+   "nhan": "nuot_pin",
+   "loai": "trong",
+   "text": "nhị đén nước sại viên pin",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bà bầu chảy máu âm đạo",
+   "nhan": "ra_mau_thai",
+   "loai": "trong",
+   "text": "ba bâu chai máu âm đá",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Sinh con giữa đường không kịp đến viện",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "dìm con dự đựng không kịp đến viện",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Dẫm phải đinh đâm vào chân",
+   "nhan": "vet_thuong_nho",
+   "loai": "trong",
+   "text": "dương phải đình đâm vào trận",
+   "got": "du_phong",
+   "key": "",
+   "via": "luat"
+  },
+  {
+   "q": "Bị nhện lạ cắn đau nhức",
+   "nhan": "nhen_can",
+   "loai": "trong",
+   "text": "nệm đền hạ cắn đau đực",
+   "got": "du_phong",
+   "key": "",
+   "via": "luat"
+  },
+  {
+   "q": "Bị vật nặng đè lên người không cử động được",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bí mật nặng đè lên người không cử động được",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bé bị ve chó bám vào đầu",
+   "nhan": "ve_can",
+   "loai": "trong",
+   "text": "một bé bị vai trò bám vào đầu",
+   "got": "du_phong",
+   "key": "",
+   "via": "luat"
+  },
+  {
+   "q": "Nhện chích phải xử lý ra sao",
+   "nhan": "nhen_can",
+   "loai": "trong",
+   "text": "vì vậy nên chích phải xử lý ra sao",
+   "got": "du_phong",
+   "key": "",
+   "via": "luat"
+  },
+  {
+   "q": "Bị rết cắn",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "mẹ rất vắng",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Trẻ nuốt pin tròn nhỏ có sao không",
+   "nhan": "nuot_pin",
+   "loai": "trong",
+   "text": "chén nuốt tình trạng nhỏ có sao không có",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bé bị nuốt đồng xu",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bé bị nuốt đồng xu",
+   "got": "hoc_tre_so_sinh",
+   "key": "~hoc_tre_so_sinh:0.95",
+   "via": "phan_loai"
+  },
+  {
+   "q": "Bị đỉa bám chặt không gỡ được",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "mini bảo cha không ngờ được",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Có người ngất dưới hầm biogas",
+   "nhan": "khi_doc_ham",
+   "loai": "trong",
+   "text": "có mùi ngất dưới hông bayia",
+   "got": "ngat_xiu",
+   "key": "ngất",
+   "via": "luat"
+  },
+  {
+   "q": "Thấy người nằm bất động bên đường",
+   "nhan": "so_cuu_chung",
+   "loai": "trong",
+   "text": "thấy người nóng bất động bên đường",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Gặp lốc xoáy nên trú ở đâu",
+   "nhan": "loc_xoay",
+   "loai": "trong",
+   "text": "bằng lớp chói nên chùm ở đầu",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Tắm biển bị sóng cuốn ra xa",
+   "nhan": "dong_chay_xa_bo",
+   "loai": "trong",
+   "text": "đám huyền bị xong cuốn da xạ",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Vòi rồng xuất hiện gần nhà",
+   "nhan": "loc_xoay",
+   "loai": "trong",
+   "text": "họ dông xuất hiện ngân nhà",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị chuột cắn",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "vệ trung tá",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Răng bị văng ra có cắm lại được không",
+   "nhan": "gay_rang",
+   "loai": "trong",
+   "text": "răng bụi vàng da có cắm lại được không",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Huyết áp tụt rất thấp",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "tuyết mãi chụp trước tận tay",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị sứa lửa chích sưng đỏ",
+   "nhan": "sua_dot",
+   "loai": "trong",
+   "text": "bí mật mí sứa lượm trên sân đỏ",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bé nhét hạt đậu vào tai",
+   "nhan": "di_vat_tai",
+   "loai": "trong",
+   "text": "nến hết hạn đầu vào tại",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bình gas bị rò rỉ",
+   "nhan": "ro_ri_gas",
+   "loai": "trong",
+   "text": "bây giờ mình sẽ thành công",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Con kiến bò vào tai",
+   "nhan": "di_vat_tai",
+   "loai": "trong",
+   "text": "cổng tiến bỏ vào",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bé bị bật răng khi chơi",
+   "nhan": "gay_rang",
+   "loai": "trong",
+   "text": "để bị bật dâm khi chơi",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Ngửi thấy mùi gas trong bếp",
+   "nhan": "ro_ri_gas",
+   "loai": "trong",
+   "text": "ngự thánh mura trong bếp",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Có lốc xoáy đang tới",
+   "nhan": "loc_xoay",
+   "loai": "trong",
+   "text": "có lúc xoáy đang tới",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị kẹt trong xe sau tai nạn",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bị kẹt trong xe sau tài năng",
+   "got": "mac_ket_cau_cuu",
+   "key": "bị kẹt",
+   "via": "luat"
+  },
+  {
+   "q": "Con tôi lỡ nuốt pin đồng hồ",
+   "nhan": "nuot_pin",
+   "loai": "trong",
+   "text": "con tôi ở mức biên đồng hồ của tôi",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  }
+ ]
+}

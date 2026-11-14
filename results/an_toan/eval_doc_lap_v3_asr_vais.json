@@ -1,0 +1,266 @@
+{
+ "tag": "doc_lap_v3_asr_vais",
+ "classifier": false,
+ "by_classifier": 0,
+ "cards": 60,
+ "version": "2026-11-05",
+ "n": 170,
+ "match_ms_per_question": 0.27,
+ "by_kind": {
+  "trong": {
+   "n": 114,
+   "sot": 14,
+   "dung": 97,
+   "sai_the": 3,
+   "du_phong": 2
+  },
+  "ngoai": {
+   "n": 20,
+   "dung": 13,
+   "khong_kich_hoat": 4,
+   "sai_the": 3
+  },
+  "am": {
+   "n": 36,
+   "dung": 34,
+   "kich_hoat_nham": 2
+  },
+  "qa": {}
+ },
+ "errors": [
+  {
+   "q": "Bong gân mắt cá chân thì sơ cứu sao",
+   "nhan": "bong_gan",
+   "loai": "trong",
+   "text": "bằng gần mắt cá chân thì sở cứu sao anh không",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Huyết áp lên hai trăm",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "quyết thắp gây hai trăm",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Đá bóng bị trật khớp vai",
+   "nhan": "bong_gan",
+   "loai": "trong",
+   "text": "đá bóng bị chật khớp vai",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị nhện độc cắn",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bị nhện độc cắn trong",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị nước sôi đổ vào chân",
+   "nhan": "bong",
+   "loai": "trong",
+   "text": "bị nước xô đổ vào chân tay",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Áo đang mặc bị bén lửa",
+   "nhan": "chay_quan_ao",
+   "loai": "trong",
+   "text": "cháu đang mặc bị bén lửa không",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Con bọ cạp chích con tôi",
+   "nhan": "bo_cap",
+   "loai": "trong",
+   "text": "và bọ cạp chiếc con tôi cũng",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Vừa vớt được người dưới ao lên",
+   "nhan": "duoi_nuoc",
+   "loai": "trong",
+   "text": "vừa vớt được người dưới ao lên",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Người nhà muốn tự tử",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "người nhà muốn tự tử cũng",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Hen suyễn là bệnh gì, có lây không",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "hen suyễn là bệnh gì có lây không tốt",
+   "got": "hen_suyen",
+   "key": "hen suyễn",
+   "via": "luat"
+  },
+  {
+   "q": "Nhà ngập nước có nên bật cầu dao không",
+   "nhan": "an_toan_dien_ngap",
+   "loai": "trong",
+   "text": "nhà ngập nước có nên bật cầu sao không",
+   "got": "ngap_lut",
+   "key": "ngập nước",
+   "via": "luat"
+  },
+  {
+   "q": "Bị suyễn khó thở quá",
+   "nhan": "hen_suyen",
+   "loai": "trong",
+   "text": "vì diễn khó thở quá",
+   "got": "du_phong",
+   "key": "",
+   "via": "luat"
+  },
+  {
+   "q": "Bỏng hóa chất phải làm sao",
+   "nhan": "bong_hoa_chat",
+   "loai": "trong",
+   "text": "bằng hóa chất phải làm sao",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị dị vật mắc trong tai",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bị dị vật mắt trong tai",
+   "got": "mat",
+   "key": "mắt+dị vật",
+   "via": "luat"
+  },
+  {
+   "q": "Tôi muốn học sơ cứu thì học ở đâu",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "tôi muốn học sơ cứu thì học ở đâu",
+   "got": "du_phong",
+   "key": "",
+   "via": "luat"
+  },
+  {
+   "q": "Bị cào xước bởi khỉ",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bị cào rước bởi khỉ",
+   "got": "cho_meo_can",
+   "key": "khỉ+cào+bị",
+   "via": "luat"
+  },
+  {
+   "q": "Ép tim cho trẻ em thì ấn sâu bao nhiêu",
+   "nhan": "hoi_suc_tre_em",
+   "loai": "trong",
+   "text": "hết tình cho trẻ em thì ấn sâu bao nhiêu",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Mất điện hai ngày, đồ trong tủ lạnh còn ăn được không",
+   "nhan": "thuc_pham_sau_lu",
+   "loai": "trong",
+   "text": "mất điện hai ngày đồ trong tủ lạnh còn ăn được không",
+   "got": "mat_dien",
+   "key": "mất điện",
+   "via": "luat"
+  },
+  {
+   "q": "Bé bảy tháng bị sặc hạt nhựa",
+   "nhan": "hoc_tre_so_sinh",
+   "loai": "trong",
+   "text": "bé bảy tháng bị sạc hạt nhựa",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Hô hấp nhân tạo cho trẻ sơ sinh thế nào",
+   "nhan": "hoi_suc_so_sinh",
+   "loai": "trong",
+   "text": "thu hút nhân tạo cho trẻ sơ sinh thế nào",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Ăn phải đồ ôi thiu nôn mửa",
+   "nhan": "ngo_doc_thuc_pham",
+   "loai": "trong",
+   "text": "căn phải đồ ô thiu nung ngừa cắt",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Nghi ngộ độc methanol thì làm gì",
+   "nhan": "ngo_doc_ruou",
+   "loai": "trong",
+   "text": "nhưng ngộ độc men thì làm gì có",
+   "got": "du_phong",
+   "key": "",
+   "via": "luat"
+  },
+  {
+   "q": "Bị axit bắn vào tay",
+   "nhan": "bong_hoa_chat",
+   "loai": "trong",
+   "text": "bị ru bắn vào tay tôi",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Vợ tôi sắp đẻ mà không kịp đến viện",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "vợ tôi sắp đẻ mà không kịp đến viện",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Chảy máu cam có nên ngửa đầu ra sau không",
+   "nhan": "chay_mau_cam",
+   "loai": "trong",
+   "text": "chảy máu càng có nên ngửa đầu ra sau không kịp",
+   "got": "chay_mau",
+   "key": "chảy máu",
+   "via": "luat"
+  },
+  {
+   "q": "Thai phụ ra máu nhiều",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "thai phụ ra máu nhiều",
+   "got": "chay_mau",
+   "key": "ra máu nhiều",
+   "via": "luat"
+  }
+ ]
+}

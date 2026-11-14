@@ -1,0 +1,159 @@
+{
+ "tag": "heldout_v2",
+ "cards": 42,
+ "version": "2026-11-04",
+ "n": 134,
+ "match_ms_per_question": 0.182,
+ "by_kind": {
+  "trong": {
+   "n": 84,
+   "sot": 5,
+   "dung": 79
+  },
+  "ngoai": {
+   "n": 20,
+   "dung": 16,
+   "khong_kich_hoat": 3,
+   "sai_the": 1
+  },
+  "am": {
+   "n": 30,
+   "dung": 23,
+   "kich_hoat_nham": 7
+  },
+  "qa": {}
+ },
+ "errors": [
+  {
+   "q": "Có người nằm gục trên bàn, gọi không trả lời, ngực không phập phồng",
+   "nhan": [
+    "hoi_suc_tim_phoi",
+    "ngat_xiu"
+   ],
+   "loai": "trong",
+   "text": "Có người nằm gục trên bàn, gọi không trả lời, ngực không phập phồng",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Chỉ tôi cách ấn ngực cứu người ngưng tim",
+   "nhan": "hoi_suc_tim_phoi",
+   "loai": "trong",
+   "text": "Chỉ tôi cách ấn ngực cứu người ngưng tim",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị một khúc tre nhọn găm vào bắp tay",
+   "nhan": "vat_dam",
+   "loai": "trong",
+   "text": "Bị một khúc tre nhọn găm vào bắp tay",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị nước sôi dội vào chân, da đỏ rát",
+   "nhan": "bong",
+   "loai": "trong",
+   "text": "Bị nước sôi dội vào chân, da đỏ rát",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Số cứu hỏa ở Việt Nam là bao nhiêu",
+   "nhan": "so_khan_cap",
+   "loai": "trong",
+   "text": "Số cứu hỏa ở Việt Nam là bao nhiêu",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Ăn cá nóc bị tê môi",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Ăn cá nóc bị tê môi",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Lạc trong rừng, trời sắp tối",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Lạc trong rừng, trời sắp tối",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Bị cào xước do dây thép gai rỉ sét",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị cào xước do dây thép gai rỉ sét",
+   "got": "giong_set",
+   "key": "sét"
+  },
+  {
+   "q": "Đứa nhỏ nhét hạt đậu vào mũi",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Đứa nhỏ nhét hạt đậu vào mũi",
+   "got": "khong",
+   "key": ""
+  },
+  {
+   "q": "Áo dài này cháy hàng chưa",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Áo dài này cháy hàng chưa",
+   "got": "chay_quan_ao",
+   "key": "cháy+áo"
+  },
+  {
+   "q": "Nghe tiếng sấm mình giật mình",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Nghe tiếng sấm mình giật mình",
+   "got": "giong_set",
+   "key": "sấm"
+  },
+  {
+   "q": "Cuộc thi này nóng bỏng quá",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Cuộc thi này nóng bỏng quá",
+   "got": "bong",
+   "key": "bỏng+nóng"
+  },
+  {
+   "q": "Đội tuyển bị loại đau quá",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Đội tuyển bị loại đau quá",
+   "got": "du_phong",
+   "key": ""
+  },
+  {
+   "q": "Kể chuyện cổ tích Sơn Tinh Thủy Tinh và lũ lụt",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Kể chuyện cổ tích Sơn Tinh Thủy Tinh và lũ lụt",
+   "got": "ngap_lut",
+   "key": "lũ lụt"
+  },
+  {
+   "q": "Mình muốn mua máy phát điện loại nào tốt",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Mình muốn mua máy phát điện loại nào tốt",
+   "got": "mat_dien",
+   "key": "máy phát điện"
+  },
+  {
+   "q": "Con mèo nhà mình cứ cào ghế sofa",
+   "nhan": "khong",
+   "loai": "am",
+   "text": "Con mèo nhà mình cứ cào ghế sofa",
+   "got": "cho_meo_can",
+   "key": "mèo+cào"
+  }
+ ]
+}

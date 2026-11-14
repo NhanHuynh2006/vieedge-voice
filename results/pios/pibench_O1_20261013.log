@@ -1,0 +1,63 @@
++ echo 12345
++ sudo -S systemctl stop vieedge
++ V=/home/raspi/vieedge/venv/bin
++ /home/raspi/vieedge/venv/bin/pip install -q sherpa-onnx==1.13.8
++ tail -1
+                 ~^
++ grep -E 'backend|model:|enabled' /etc/vieedge/config.yaml
++ head
+  backend: alsa
+  model: vad/silero_vad.onnx
+  backend: zipformer         # zipformer = best accuracy+speed on CPU (VIVOS WER 0.041, ~30 ms); hybrid = PhoWhisper encoder on
+  zipformer: {model: stt/zipformer-vi, threads: 3}
+    model: stt/ct2/phowhisper-tiny-int8
+  zipformer: {model: stt/zipformer-vi, threads: 3}
+  incremental: {enabled: true, interval_ms: 750, speculative_final: true}
+  model: llm/gguf/qwen3.5-0.8b-vi-voice-Q4_K_M.gguf
+  enabled: true               # offline Vietnamese Wikipedia (SQLite FTS5): bịa 0.52 -> 0.30 on voice questions, +0.6 s first audio (laptop)
+gpio: {enabled: true, button: 17, led_listen: 22, led_think: 23, led_speak: 24}
++ cat /etc/vieedge/env
+VIEEDGE_OS_CFG=O1
++ uname -r
+6.12.93+rpt-rpi-2712
++ /home/raspi/llama.cpp/build/bin/llama-bench -m /home/raspi/vieedge/models/llm/gguf/qwen3.5-0.8b-vi-voice-Q4_K_M.gguf -t 3 -p 128 -n 64 -r 2
++ tail -6
+| model                          |       size |     params | backend    | threads |            test |                  t/s |
+| ------------------------------ | ---------: | ---------: | ---------- | ------: | --------------: | -------------------: |
+| qwen35 0.8B Q4_K - Medium      | 506.34 MiB |   772.85 M | CPU        |       3 |           pp128 |         87.83 ± 0.02 |
+| qwen35 0.8B Q4_K - Medium      | 506.34 MiB |   772.85 M | CPU        |       3 |            tg64 |         17.23 ± 0.01 |
+
+build: 7fe450e19 (11146)
++ cd /home/raspi/vieedge-src/bench
++ for rag in false true
++ taskset -c 0-2 /home/raspi/vieedge/venv/bin/python bench_e2e.py -c /etc/vieedge/config.yaml --exp PIOS-O1-ragfalse --manifest e2e_synth --turns 16 --sessions 1 --timeout 180 --set rag.enabled=false
++ tail -12
+  2324.1,
+  0.0
+ ],
+ "asr_wer_on_questions": 0.3118279569892473,
+ "speculative_hit_rate": 1.0,
+ "timeouts": 0,
+ "xruns_per_h": [
+  0.0
+ ],
+ "power_w_mean": 3.1789086021505377
+}
+experiments.csv <- {'exp_id': 'PIOS-O1-ragfalse', 'os_cfg': 'O1', 'stt_model': 'phowhisper-tiny-encoder-10s_vi_h8l.hef', 'stt_where': 'cpu', 'llm_model': 'qwen3.5-0.8b-vi-voice-Q4_K_M.gguf', 'spec_dec': 'no', 'threads': 3, 'wer': 0.3118, 'ttft_ms': 357.6, 'tok_s': 11.96, 'first_audio_p50': 2324.1, 'first_audio_p95': 3424.1, 'first_audio_p99': 3481.6, 'ram_mb': 2210, 'temp_max': 60.0, 'power_w': 3.18, 'j_per_turn': 23.8, 'xruns_per_h': 0.0, 'notes': 'manifest=e2e_synth;turns=16x1sess;spec_hit=1.00;endpoint_ms=400;stream=True;first_words=5;file-audio'}
++ for rag in false true
++ taskset -c 0-2 /home/raspi/vieedge/venv/bin/python bench_e2e.py -c /etc/vieedge/config.yaml --exp PIOS-O1-ragtrue --manifest e2e_synth --turns 16 --sessions 1 --timeout 180 --set rag.enabled=true
++ tail -12
+  2974.0,
+  0.0
+ ],
+ "asr_wer_on_questions": 0.34408602150537637,
+ "speculative_hit_rate": 1.0,
+ "timeouts": 0,
+ "xruns_per_h": [
+  0.0
+ ],
+ "power_w_mean": 3.3037910447761196
+}
+experiments.csv <- {'exp_id': 'PIOS-O1-ragtrue', 'os_cfg': 'O1', 'stt_model': 'phowhisper-tiny-encoder-10s_vi_h8l.hef', 'stt_where': 'cpu', 'llm_model': 'qwen3.5-0.8b-vi-voice-Q4_K_M.gguf', 'spec_dec': 'no', 'threads': 3, 'wer': 0.3441, 'ttft_ms': 1232.6, 'tok_s': 12.32, 'first_audio_p50': 2974.0, 'first_audio_p95': 4573.1, 'first_audio_p99': 4604.4, 'ram_mb': 2192, 'temp_max': 60.6, 'power_w': 3.3, 'j_per_turn': 27.9, 'xruns_per_h': 0.0, 'notes': 'manifest=e2e_synth;turns=16x1sess;spec_hit=1.00;endpoint_ms=400;stream=True;first_words=5;file-audio'}
++ echo PIBENCH_DONE
+PIBENCH_DONE

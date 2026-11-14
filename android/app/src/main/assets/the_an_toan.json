@@ -1,0 +1,3702 @@
+{
+ "phien_ban": "2026-11-06",
+ "ghi_chu": "Mỗi thẻ là hướng dẫn sơ cứu hoặc ứng phó thiên tai ngắn, viết lại bằng lời của nhóm từ các nguồn trong nguon.json, không phải lời khuyên y tế thay cho nhân viên y tế. Số điện thoại trong 'noi' được viết bằng chữ để giọng đọc đọc từng chữ số.",
+ "du_phong": {
+  "noi": "Mình chưa có hướng dẫn đã kiểm duyệt cho trường hợp này nên mình không đoán. Nếu có nguy hiểm đến tính mạng, hãy gọi ngay một một lăm để được cấp cứu, hoặc một một hai nếu cần cứu nạn.",
+  "hien": "Chưa có hướng dẫn đã kiểm duyệt cho trường hợp này. Nếu nguy hiểm: gọi 115 (cấp cứu y tế) hoặc 112 (cứu nạn, cứu hộ)."
+ },
+ "the": [
+  {
+   "id": "hoi_suc_tim_phoi",
+   "nhom": "so_cuu",
+   "ten": "Người bất tỉnh, không thở (hồi sức tim phổi)",
+   "goi": "115",
+   "noi": "Gọi ngay một một lăm. Đặt người bệnh nằm ngửa trên mặt phẳng cứng. Đặt gốc bàn tay ở giữa ngực, tay kia chồng lên, ấn mạnh và nhanh, sâu khoảng 5 xăng ti mét, 100 đến 120 lần mỗi phút, để ngực nảy lên hết sau mỗi lần ấn. Nếu đã được học, cứ 30 lần ấn thì thổi ngạt 2 lần. Làm liên tục đến khi người đó tỉnh hoặc nhân viên y tế đến.",
+   "nguon": [
+    "mp_cpr",
+    "arc_vi"
+   ],
+   "khoa": [
+    "ngừng thở",
+    "không thở",
+    "hết thở",
+    "không thấy thở",
+    "không còn thở",
+    "ngừng tim",
+    "tim ngừng đập",
+    "hồi sức tim phổi",
+    "ép tim",
+    "cpr",
+    "thổi ngạt",
+    "hô hấp nhân tạo",
+    "không còn thở nữa",
+    "gục xuống không thở",
+    "ngưng tim",
+    "ấn ngực",
+    "ngưng thở"
+   ],
+   "uu_tien": 1,
+   "to_hop": [
+    [
+     [
+      "ngừng",
+      "ngưng",
+      "tắt"
+     ],
+     [
+      "thở"
+     ]
+    ],
+    [
+     [
+      "không"
+     ],
+     [
+      "thở"
+     ],
+     [
+      "bất tỉnh",
+      "nằm im",
+      "gục",
+      "ngã ra",
+      "nằm bất động"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "duoi_nuoc",
+   "nhom": "so_cuu",
+   "ten": "Đuối nước",
+   "goi": "115",
+   "noi": "Đừng tự nhảy xuống nếu không biết cứu đuối. Hãy hô hoán, đưa sào, dây hoặc phao cho nạn nhân rồi kéo vào bờ, và gọi một một lăm. Lên bờ rồi, đặt nạn nhân nằm ngửa; nếu không thở hoặc chỉ thở ngáp thì làm hồi sức tim phổi ngay. Không dốc ngược, không vác chạy để xốc nước. Cởi đồ ướt, giữ ấm, và đưa đi khám dù nạn nhân đã tỉnh.",
+   "nguon": [
+    "mp_duoi",
+    "vinmec_duoi"
+   ],
+   "khoa": [
+    "đuối nước",
+    "chết đuối",
+    "bị đuối",
+    "ngạt nước",
+    "cứu đuối",
+    "rơi xuống nước",
+    "té xuống ao",
+    "té xuống sông",
+    "té xuống hồ",
+    "rớt xuống sông",
+    "rớt xuống ao",
+    "xốc nước",
+    "vớt lên"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "té",
+      "rơi",
+      "rớt",
+      "ngã",
+      "chìm",
+      "trượt",
+      "lọt"
+     ],
+     [
+      "sông",
+      "suối",
+      "ao",
+      "hồ",
+      "mương",
+      "giếng",
+      "biển",
+      "kênh",
+      "bể bơi"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "hoc_di_vat",
+   "nhom": "so_cuu",
+   "ten": "Hóc dị vật ở người lớn và trẻ trên 1 tuổi",
+   "goi": "115",
+   "noi": "Nếu người đó còn ho mạnh, còn nói được thì để họ tiếp tục ho. Nếu không nói, không thở được: đứng phía sau, cho họ cúi về trước, vỗ mạnh 5 lần vào giữa hai bả vai bằng gốc bàn tay. Nếu chưa ra, vòng tay ôm từ phía sau, đặt nắm tay ngay trên rốn và giật mạnh vào trong, lên trên 5 lần. Lặp lại đến khi dị vật ra. Nếu họ bất tỉnh, gọi một một lăm và làm hồi sức tim phổi.",
+   "nguon": [
+    "mp_hoc"
+   ],
+   "khoa": [
+    "hóc xương",
+    "hóc thức ăn",
+    "hóc dị vật",
+    "mắc nghẹn",
+    "nghẹn thức ăn",
+    "bị hóc",
+    "hóc kẹo",
+    "hóc hạt",
+    "hóc cơm",
+    "bị nghẹn",
+    "heimlich",
+    "dị vật đường thở",
+    "hóc xương cá"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "hóc",
+      "nghẹn",
+      "mắc nghẹn"
+     ],
+     [
+      "xương",
+      "thức ăn",
+      "cơm",
+      "kẹo",
+      "hạt",
+      "thịt",
+      "đồ ăn",
+      "không thở",
+      "không nói",
+      "mặt đỏ",
+      "ăn"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "hoc_tre_so_sinh",
+   "nhom": "so_cuu",
+   "ten": "Hóc dị vật ở trẻ dưới 1 tuổi",
+   "goi": "115",
+   "noi": "Nếu bé còn ho mạnh hoặc khóc to thì để bé tự ho. Nếu bé không ho, không khóc được: đặt bé nằm sấp dọc cánh tay, đầu thấp hơn người, đỡ hàm bé, vỗ mạnh 5 lần vào giữa hai bả vai. Nếu chưa ra, lật bé nằm ngửa, đặt gốc một bàn tay giữa xương ức, ngay dưới đường nối hai núm vú, ấn nhanh xuống 5 lần. Lặp lại 5 lần vỗ lưng, 5 lần ấn ngực. Chỉ lấy dị vật ra khi nhìn thấy rõ. Nếu bé lả đi, gọi một một lăm và làm hồi sức tim phổi.",
+   "nguon": [
+    "mp_hoc_be"
+   ],
+   "khoa": [
+    "sặc sữa",
+    "trẻ sơ sinh bị hóc",
+    "em bé bị hóc",
+    "bé bị hóc",
+    "trẻ dưới một tuổi bị hóc",
+    "sơ sinh bị hóc",
+    "em bé bị nghẹn",
+    "bé bị nghẹn",
+    "sơ sinh bị nghẹn"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "sặc",
+      "nghẹn",
+      "hóc",
+      "nuốt"
+     ],
+     [
+      "sơ sinh",
+      "tháng"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "chay_mau",
+   "nhom": "so_cuu",
+   "ten": "Chảy máu nhiều",
+   "goi": "115",
+   "noi": "Ấn chặt trực tiếp lên vết thương bằng vải sạch, hoặc bằng tay nếu không có gì. Giữ ấn liên tục, đừng mở ra xem. Nếu máu thấm qua, đặt thêm vải lên trên, không bỏ lớp cũ. Cho người bị thương nằm xuống và nâng cao chỗ chảy máu nếu được. Nếu máu chảy nhiều không cầm được, gọi ngay một một lăm.",
+   "nguon": [
+    "mp_mau",
+    "arc_vi"
+   ],
+   "khoa": [
+    "chảy máu",
+    "mất máu",
+    "cầm máu",
+    "đứt tay",
+    "đứt chân",
+    "vết cắt sâu",
+    "máu chảy không ngừng",
+    "bị chém",
+    "ra máu nhiều",
+    "vết thương sâu",
+    "máu chảy nhiều"
+   ],
+   "uu_tien": 1,
+   "to_hop": [
+    [
+     [
+      "máu"
+     ],
+     [
+      "chảy",
+      "ra",
+      "mất",
+      "cầm",
+      "phun",
+      "nhiều",
+      "không dừng",
+      "không ngừng"
+     ]
+    ]
+   ],
+   "tru": [
+    "nôn",
+    "ói",
+    "ho ra",
+    "đi ngoài",
+    "tiểu"
+   ]
+  },
+  {
+   "id": "vat_dam",
+   "nhom": "so_cuu",
+   "ten": "Vật nhọn đâm vào người",
+   "goi": "115",
+   "noi": "Không rút vật đang cắm trên người ra, vì có thể làm chảy máu nhiều hơn. Quấn vải quanh vật đó để giữ nó cố định, ấn quanh vết thương để cầm máu, giữ người bị thương nằm yên và gọi ngay một một lăm.",
+   "nguon": [
+    "mp_mau"
+   ],
+   "khoa": [
+    "đâm vào người",
+    "cắm vào người",
+    "cắm vào bụng",
+    "cắm vào ngực",
+    "cắm vào chân",
+    "cắm vào tay",
+    "đâm vào bụng",
+    "đâm xuyên",
+    "bị đinh đâm",
+    "thanh sắt đâm",
+    "mảnh kính đâm",
+    "vật nhọn đâm",
+    "que cắm",
+    "cây que cắm",
+    "dao cắm",
+    "có nên rút ra"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "đâm",
+      "cắm",
+      "găm",
+      "xuyên"
+     ],
+     [
+      "đinh",
+      "que",
+      "cành",
+      "thanh",
+      "sắt",
+      "kính",
+      "dao",
+      "kéo",
+      "mảnh",
+      "vật",
+      "cây",
+      "tre",
+      "gỗ",
+      "nhọn",
+      "sắc"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "bong",
+   "nhom": "so_cuu",
+   "ten": "Bỏng",
+   "goi": "115",
+   "noi": "Làm mát chỗ bỏng dưới vòi nước mát càng sớm càng tốt, khoảng 20 phút. Không chườm đá, không bôi kem đánh răng, mỡ, dầu hay bất cứ thứ gì lên vết bỏng, không làm vỡ bọng nước. Che bằng vải sạch, khô. Giữ ấm phần còn lại của cơ thể. Nếu bỏng rộng, bỏng ở vùng kín, hoặc do điện, hãy đi cấp cứu hoặc gọi một một lăm.",
+   "nguon": [
+    "who_bong",
+    "arc_vi",
+    "mp_bong"
+   ],
+   "khoa": [
+    "bị bỏng",
+    "bỏng nước sôi",
+    "bỏng lửa",
+    "bỏng dầu",
+    "bỏng xăng",
+    "vết bỏng",
+    "phồng rộp",
+    "bỏng nước",
+    "nước sôi đổ vào",
+    "dầu nóng bắn",
+    "dầu sôi bắn",
+    "bỏng nhẹ",
+    "bỏng nặng"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "bỏng",
+      "phỏng"
+     ],
+     [
+      "nước",
+      "dầu",
+      "lửa",
+      "nóng",
+      "vết",
+      "da",
+      "tay",
+      "chân",
+      "sôi",
+      "bô",
+      "canh",
+      "cháy"
+     ]
+    ],
+    [
+     [
+      "nước sôi",
+      "dầu sôi",
+      "nước nóng",
+      "canh nóng"
+     ],
+     [
+      "dội",
+      "đổ",
+      "bắn",
+      "văng",
+      "trúng"
+     ]
+    ]
+   ],
+   "tru": [
+    "kiến",
+    "nóng bỏng"
+   ]
+  },
+  {
+   "id": "chay_quan_ao",
+   "nhom": "so_cuu",
+   "ten": "Quần áo bắt lửa",
+   "goi": "114",
+   "noi": "Dừng lại ngay, nằm xuống đất, lấy tay che mặt và lăn qua lăn lại đến khi tắt lửa. Nếu người đó không tự lăn được, trùm chăn dày hoặc áo khoác lên người để dập lửa, rồi dội nước. Không gỡ phần áo đã dính vào da. Sau đó làm mát vết bỏng bằng nước mát và gọi một một lăm.",
+   "nguon": [
+    "mp_bong",
+    "ready_chay"
+   ],
+   "khoa": [
+    "quần áo bắt lửa",
+    "áo bắt lửa",
+    "quần áo đang cháy",
+    "áo đang cháy",
+    "áo của tôi đang cháy",
+    "lửa bắt vào người",
+    "người bắt lửa",
+    "tóc bắt lửa",
+    "bị lửa bắt"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "cháy",
+      "bén",
+      "bắt lửa",
+      "lửa"
+     ],
+     [
+      "áo",
+      "quần",
+      "tóc"
+     ]
+    ]
+   ],
+   "tru": [
+    "cháy hàng"
+   ]
+  },
+  {
+   "id": "dien_giat",
+   "nhom": "so_cuu",
+   "ten": "Điện giật",
+   "goi": "115",
+   "noi": "Không chạm tay vào người bị điện giật khi họ còn dính nguồn điện. Ngắt cầu dao hoặc rút phích điện trước. Nếu không ngắt được, đứng trên chỗ khô và dùng vật khô không dẫn điện như cán chổi gỗ để tách người đó ra; không dùng vật ướt hay kim loại. Với dây điện cao thế, đứng xa ít nhất 6 mét đến khi điện được cắt. Gọi một một lăm; nếu người đó không thở, làm hồi sức tim phổi.",
+   "nguon": [
+    "mp_dien"
+   ],
+   "khoa": [
+    "điện giật",
+    "bị giật điện",
+    "giật điện",
+    "chạm điện",
+    "điện cao thế",
+    "dính điện",
+    "rò điện",
+    "chạm phải ổ điện",
+    "giật ngất"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "giật"
+     ],
+     [
+      "điện"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "gay_xuong",
+   "nhom": "so_cuu",
+   "ten": "Gãy xương",
+   "goi": "115",
+   "noi": "Giữ người bị thương nằm yên và bình tĩnh. Không cố nắn chỗ gãy. Cố định chỗ gãy bằng nẹp, có thể dùng thanh gỗ hoặc báo cuộn chặt, cố định cả phía trên và phía dưới chỗ gãy. Nếu xương lòi ra ngoài da, che bằng vải sạch và không ấn vào. Nếu nghi gãy cổ, lưng, hông hoặc đùi thì không di chuyển người bệnh, gọi ngay một một lăm.",
+   "nguon": [
+    "mp_gay"
+   ],
+   "khoa": [
+    "gãy xương",
+    "gãy tay",
+    "gãy chân",
+    "xương gãy",
+    "nghi gãy",
+    "xương lòi ra",
+    "nẹp xương",
+    "cố định xương"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "gãy"
+     ],
+     [
+      "tay",
+      "chân",
+      "xương",
+      "hông",
+      "đùi",
+      "sườn",
+      "cổ",
+      "vai"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "chan_thuong_dau",
+   "nhom": "so_cuu",
+   "ten": "Chấn thương đầu, cổ, cột sống",
+   "goi": "115",
+   "noi": "Nếu nghi chấn thương đầu hoặc cổ, không di chuyển người bị thương trừ khi bắt buộc, giữ đầu và cổ thẳng hàng với thân. Gọi ngay một một lăm nếu người đó buồn ngủ li bì, nói lẫn lộn, nôn nhiều lần, co giật, yếu tay chân, hoặc bất tỉnh dù chỉ một lúc. Nếu họ nôn, lật cả đầu, cổ và người cùng lúc sang một bên. Không tháo mũ bảo hiểm nếu nghi chấn thương nặng.",
+   "nguon": [
+    "mp_dau"
+   ],
+   "khoa": [
+    "chấn thương đầu",
+    "đập đầu",
+    "va đầu",
+    "té đập đầu",
+    "chấn thương cổ",
+    "chấn thương cột sống",
+    "gãy cổ",
+    "ngã đập đầu",
+    "té từ trên cao",
+    "ngã từ trên cao",
+    "đầu bị va đập"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "đập",
+      "va",
+      "té",
+      "ngã",
+      "đụng"
+     ],
+     [
+      "đầu"
+     ]
+    ],
+    [
+     [
+      "ngã",
+      "té",
+      "rơi",
+      "rớt"
+     ],
+     [
+      "trên cao",
+      "từ cao",
+      "giàn giáo",
+      "mái",
+      "thang",
+      "tầng"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ran_can",
+   "nhom": "so_cuu",
+   "ten": "Rắn cắn",
+   "goi": "115",
+   "noi": "Gọi một một lăm hoặc đưa người bị cắn đến bệnh viện ngay, đừng để họ tự lái xe. Giữ người bị cắn bình tĩnh, nằm hoặc ngồi yên, hạn chế cử động chỗ bị cắn. Tháo nhẫn, đồng hồ trước khi sưng. Rửa vết cắn bằng xà phòng và nước, che bằng vải sạch. Không garô, không rạch, không hút nọc, không chườm đá, không uống rượu, không dùng bài thuốc dân gian. Đừng chờ có triệu chứng mới đi. Không bắt rắn; chụp ảnh từ xa nếu an toàn.",
+   "nguon": [
+    "cdc_ran",
+    "arc_vi"
+   ],
+   "khoa": [
+    "rắn cắn",
+    "bị rắn cắn",
+    "rắn độc cắn",
+    "rắn hổ cắn",
+    "rắn lục cắn",
+    "rắn cạp nong cắn",
+    "bị rắn",
+    "nọc rắn",
+    "nọc độc"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "rắn"
+     ],
+     [
+      "cắn",
+      "mổ",
+      "đớp"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ong_dot",
+   "nhom": "so_cuu",
+   "ten": "Ong và côn trùng đốt",
+   "goi": "115",
+   "noi": "Cạo ngòi ra bằng cạnh thẻ cứng hoặc móng tay, không dùng nhíp bóp vì có thể đẩy thêm nọc vào. Rửa bằng xà phòng và nước, chườm lạnh có bọc khăn 10 phút rồi nghỉ 10 phút. Tháo nhẫn nếu chỗ đó có thể sưng. Gọi ngay một một lăm nếu người bị đốt khó thở, thở khò khè, sưng mặt hoặc miệng, nghẹn họng hay mệt lả.",
+   "nguon": [
+    "mp_ong"
+   ],
+   "khoa": [
+    "ong đốt",
+    "bị ong đốt",
+    "ong vò vẽ",
+    "ong bắp cày",
+    "ong mật đốt",
+    "côn trùng đốt",
+    "ngòi ong",
+    "ong chích"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "ong",
+      "côn trùng"
+     ],
+     [
+      "đốt",
+      "chích",
+      "cắn"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "cho_meo_can",
+   "nhom": "so_cuu",
+   "ten": "Chó, mèo hoặc thú cắn",
+   "goi": "115",
+   "noi": "Rửa vết thương ngay bằng xà phòng và nước sạch trong 15 phút. Sau đó đến cơ sở y tế càng sớm càng tốt để được tư vấn về tiêm phòng dại, kể cả khi vết cắn nhỏ, vì bệnh dại cần xử trí y tế khẩn cấp. Nhớ con vật là loài gì và có biểu hiện lạ không. Nếu là chó mèo nhà, hỏi chủ về giấy tiêm phòng dại của con vật.",
+   "nguon": [
+    "cdc_dai"
+   ],
+   "khoa": [
+    "chó cắn",
+    "mèo cắn",
+    "bị chó",
+    "bị mèo",
+    "mèo cào",
+    "chó cào",
+    "khỉ cắn",
+    "chuột cắn",
+    "dơi cắn",
+    "thú cắn",
+    "tiêm phòng dại",
+    "bệnh dại",
+    "súc vật cắn"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "chó",
+      "mèo",
+      "khỉ",
+      "chuột",
+      "dơi",
+      "heo",
+      "trâu"
+     ],
+     [
+      "cắn",
+      "cào",
+      "táp"
+     ],
+     [
+      "tôi",
+      "con",
+      "bé",
+      "tay",
+      "chân",
+      "người",
+      "bị",
+      "em",
+      "mình",
+      "cháu"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "soc_nhiet",
+   "nhom": "so_cuu",
+   "ten": "Say nắng, sốc nhiệt",
+   "goi": "115",
+   "noi": "Nếu người bị nóng có thân nhiệt rất cao, da đỏ, nóng và khô, mạch nhanh mạnh, chóng mặt, lú lẫn hoặc ngất, đó có thể là sốc nhiệt: gọi ngay một một lăm. Đưa họ vào chỗ mát và hạ nhiệt bằng mọi cách có thể đến khi nhân viên y tế tới. Không cho người đó uống gì. Nếu chỉ chuột rút hay mệt lả vì nóng, hãy vào chỗ mát, nới bớt quần áo và uống từng ngụm nước.",
+   "nguon": [
+    "ready_nong"
+   ],
+   "khoa": [
+    "say nắng",
+    "sốc nhiệt",
+    "đột quỵ do nhiệt",
+    "trúng nắng",
+    "kiệt sức vì nóng",
+    "chuột rút do nóng",
+    "say nóng",
+    "làm việc ngoài nắng",
+    "ngoài nắng bị choáng"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "nắng",
+      "nóng"
+     ],
+     [
+      "xỉu",
+      "ngất",
+      "choáng",
+      "say",
+      "mệt lả",
+      "chóng mặt",
+      "đột quỵ"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "nang_nong",
+   "nhom": "thien_tai",
+   "ten": "Phòng tránh nắng nóng gay gắt",
+   "goi": "",
+   "noi": "Uống nhiều nước, mặc quần áo rộng, nhẹ, sáng màu, đội mũ rộng vành và tìm bóng râm khi ở ngoài trời. Tránh làm việc nặng ngoài trời vào giữa trưa. Tắm nước mát. Không để người hay vật nuôi trong ô tô đóng kín. Quạt không làm hạ thân nhiệt khi trời quá nóng, nên tìm chỗ mát hơn. Hỏi thăm người già, trẻ nhỏ và hàng xóm.",
+   "nguon": [
+    "ready_nong"
+   ],
+   "khoa": [
+    "nắng nóng",
+    "nắng gay gắt",
+    "trời nóng quá",
+    "nhiệt độ cao",
+    "chống nóng",
+    "đợt nắng nóng",
+    "phòng say nắng"
+   ],
+   "uu_tien": 1,
+   "to_hop": [
+    [
+     [
+      "nóng",
+      "nắng"
+     ],
+     [
+      "độ",
+      "kéo dài",
+      "gay gắt",
+      "oi"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ha_than_nhiet",
+   "nhom": "so_cuu",
+   "ten": "Hạ thân nhiệt, nhiễm lạnh",
+   "goi": "115",
+   "noi": "Dấu hiệu hạ thân nhiệt là run, rất mệt, lú lẫn, nói lắp, buồn ngủ; trẻ nhỏ có da đỏ, lạnh và lả đi. Đưa người đó vào chỗ ấm, cởi bỏ quần áo ướt. Làm ấm phần thân giữa là ngực, cổ, đầu và bẹn bằng chăn khô hoặc áp da vào da. Cho uống đồ ấm nếu tỉnh, không cho rượu. Đưa đi khám sớm. Nếu bất tỉnh và không thở, làm hồi sức tim phổi và gọi một một lăm.",
+   "nguon": [
+    "cdc_hathan"
+   ],
+   "khoa": [
+    "hạ thân nhiệt",
+    "nhiễm lạnh",
+    "lạnh run",
+    "rét run",
+    "run cầm cập",
+    "lạnh cóng",
+    "ngâm nước lũ lâu",
+    "rét đậm",
+    "rét hại",
+    "bị lạnh cóng"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "lạnh",
+      "rét",
+      "run"
+     ],
+     [
+      "cóng",
+      "cầm cập",
+      "lập cập",
+      "tím",
+      "ngâm"
+     ]
+    ]
+   ],
+   "tru": [
+    "tủ lạnh"
+   ]
+  },
+  {
+   "id": "co_giat",
+   "nhom": "so_cuu",
+   "ten": "Co giật",
+   "goi": "115",
+   "noi": "Giữ bình tĩnh và ở cạnh người đó. Dọn vật cứng quanh họ, kê vật mềm dưới đầu, nới cổ áo, nghiêng người họ sang một bên. Không giữ chặt tay chân, không nhét gì vào miệng, không cho ăn uống đến khi tỉnh hẳn. Gọi một một lăm nếu cơn co giật kéo dài quá 5 phút, lên cơn liên tiếp, khó thở hay khó tỉnh sau cơn, bị thương, xảy ra dưới nước, hoặc đây là lần đầu bị.",
+   "nguon": [
+    "cdc_cogiat"
+   ],
+   "khoa": [
+    "co giật",
+    "lên cơn động kinh",
+    "động kinh",
+    "sùi bọt mép",
+    "co giật do sốt",
+    "lên cơn co giật",
+    "giật cứng người"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "giật",
+      "động kinh"
+     ],
+     [
+      "cơn",
+      "co",
+      "người",
+      "tay chân",
+      "mắt",
+      "trợn"
+     ]
+    ]
+   ],
+   "tru": [
+    "điện"
+   ]
+  },
+  {
+   "id": "dot_quy",
+   "nhom": "so_cuu",
+   "ten": "Nghi đột quỵ",
+   "goi": "115",
+   "noi": "Nhận biết đột quỵ: mất thăng bằng hoặc chóng mặt đột ngột, nhìn mờ, méo một bên mặt khi cười, một tay yếu không giơ lên được, nói ngọng hoặc khó nói, tê yếu một bên người, đau đầu dữ dội đột ngột. Có một dấu hiệu là gọi một một lăm ngay và ghi lại giờ bắt đầu. Nên gọi xe cấp cứu thay vì tự chở đi. Điều trị hiệu quả nhất trong vòng 3 giờ đầu.",
+   "nguon": [
+    "cdc_dotquy"
+   ],
+   "khoa": [
+    "đột quỵ",
+    "tai biến",
+    "tai biến mạch máu não",
+    "méo miệng",
+    "méo mặt",
+    "nói ngọng đột ngột",
+    "liệt nửa người",
+    "yếu nửa người",
+    "tê nửa người",
+    "dấu hiệu đột quỵ"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "méo",
+      "lệch",
+      "xệ"
+     ],
+     [
+      "miệng",
+      "mặt"
+     ]
+    ],
+    [
+     [
+      "yếu",
+      "tê",
+      "liệt"
+     ],
+     [
+      "nửa người",
+      "một bên"
+     ]
+    ],
+    [
+     [
+      "nói"
+     ],
+     [
+      "ngọng",
+      "không rõ",
+      "đớ",
+      "lắp"
+     ],
+     [
+      "đột ngột",
+      "tự nhiên",
+      "đang",
+      "bỗng"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "dau_nguc",
+   "nhom": "so_cuu",
+   "ten": "Đau ngực, nghi nhồi máu cơ tim",
+   "goi": "115",
+   "noi": "Nếu ai đó đau ngực đột ngột nghi do tim, gọi một một lăm ngay, đừng chờ xem có đỡ không. Cho họ ngồi nghỉ, giữ bình tĩnh, nới quần áo chật, và không để họ ở một mình. Nếu họ có thuốc tim do bác sĩ kê thì giúp họ dùng; không cho uống gì khác. Nếu họ bất tỉnh và không thở, làm hồi sức tim phổi.",
+   "nguon": [
+    "mp_tim"
+   ],
+   "khoa": [
+    "đau ngực",
+    "nhồi máu cơ tim",
+    "đau tim",
+    "đau thắt ngực",
+    "lên cơn đau tim",
+    "tức ngực khó thở",
+    "đau ngực trái"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "đau",
+      "tức",
+      "thắt",
+      "nặng"
+     ],
+     [
+      "ngực"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "soc_phan_ve",
+   "nhom": "so_cuu",
+   "ten": "Dị ứng nặng, sốc phản vệ",
+   "goi": "115",
+   "noi": "Nếu sau khi ăn, dùng thuốc hay bị côn trùng đốt mà khó thở, khàn giọng, thở rít, sưng mặt hoặc môi, nghẹn họng, đó có thể là sốc phản vệ: gọi ngay một một lăm. Nếu người đó có bút tiêm adrenalin, giúp họ tiêm ngay. Cho nằm và kê chân cao nếu không khó thở, không nôn và không chấn thương. Không cho uống gì khi đang khó thở, không kê gối dưới đầu.",
+   "nguon": [
+    "mp_phanve",
+    "mp_ong"
+   ],
+   "khoa": [
+    "sốc phản vệ",
+    "phản vệ",
+    "dị ứng nặng",
+    "dị ứng khó thở",
+    "sưng môi khó thở",
+    "sưng mặt khó thở",
+    "dị ứng thuốc",
+    "sưng môi",
+    "nổi mề đay khó thở"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "dị ứng",
+      "mẩn",
+      "mề đay",
+      "sưng",
+      "ngứa"
+     ],
+     [
+      "khó thở",
+      "nghẹt",
+      "họng",
+      "môi",
+      "toàn thân",
+      "khắp người"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ngat_xiu",
+   "nhom": "so_cuu",
+   "ten": "Ngất xỉu",
+   "goi": "115",
+   "noi": "Kiểm tra xem người đó còn thở không; nếu không thở, gọi một một lăm và làm hồi sức tim phổi. Nếu còn thở, đặt nằm ngửa, kê chân cao khoảng 30 phân, nới quần áo chật quanh cổ. Nếu họ nôn, nghiêng người sang một bên. Để họ nằm nghỉ 10 đến 15 phút ở chỗ thoáng mát. Gọi một một lăm nếu họ không tỉnh lại sau vài phút, ngã từ trên cao, đau ngực, đang mang thai, trên 50 tuổi, khó nói hoặc yếu tay chân.",
+   "nguon": [
+    "mp_ngat"
+   ],
+   "khoa": [
+    "ngất xỉu",
+    "bị ngất",
+    "choáng ngất",
+    "lịm đi",
+    "ngã xỉu",
+    "ngất đi",
+    "bất tỉnh",
+    "bị xỉu"
+   ],
+   "uu_tien": 1,
+   "to_hop": [
+    [
+     [
+      "ngất",
+      "xỉu",
+      "lịm"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "mat_nuoc",
+   "nhom": "so_cuu",
+   "ten": "Tiêu chảy, mất nước",
+   "goi": "115",
+   "noi": "Uống từng ngụm nhỏ nhưng nhiều lần: nước sạch đã đun sôi, hoặc nước có chất điện giải như oresol pha đúng theo hướng dẫn trên gói. Không uống viên muối. Gọi một một lăm hoặc đến cơ sở y tế nếu người bệnh bất tỉnh, lú lẫn, co giật, sốt trên 38,8 độ, hoặc không đỡ dù đã bù nước.",
+   "nguon": [
+    "mp_matnuoc"
+   ],
+   "khoa": [
+    "tiêu chảy",
+    "mất nước",
+    "đi ngoài nhiều",
+    "đi ngoài liên tục",
+    "oresol",
+    "bù nước",
+    "nôn ói mất nước"
+   ],
+   "uu_tien": 1,
+   "to_hop": [
+    [
+     [
+      "tiêu chảy",
+      "đi tả",
+      "đi ngoài",
+      "ỉa chảy",
+      "mất nước",
+      "bù nước"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ngo_doc_hoa_chat",
+   "nhom": "so_cuu",
+   "ten": "Ngộ độc hóa chất",
+   "goi": "115",
+   "noi": "Gọi ngay một một lăm. Không tự gây nôn trừ khi nhân viên y tế bảo. Nếu hóa chất dính da hoặc mắt, rửa với thật nhiều nước ít nhất 15 phút. Nếu hít phải khói độc, đưa người đó ra chỗ thoáng khí ngay. Không cho uống gì nếu người đó nôn, co giật hoặc lơ mơ.",
+   "nguon": [
+    "mp_ngodoc"
+   ],
+   "khoa": [
+    "ngộ độc hóa chất",
+    "uống nhầm",
+    "thuốc trừ sâu",
+    "thuốc diệt chuột",
+    "hóa chất vào mắt",
+    "hóa chất bắn",
+    "hóa chất văng",
+    "hóa chất dính",
+    "hít khí độc",
+    "ngộ độc thuốc",
+    "móc họng cho nôn"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "uống nhầm",
+      "ăn nhầm",
+      "uống phải"
+     ]
+    ],
+    [
+     [
+      "hóa chất",
+      "thuốc sâu",
+      "thuốc trừ sâu",
+      "thuốc diệt",
+      "nước tẩy",
+      "xăng",
+      "dầu hỏa",
+      "khí độc"
+     ],
+     [
+      "uống",
+      "nuốt",
+      "bắn",
+      "văng",
+      "dính",
+      "hít",
+      "ngửi",
+      "xịt"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ngo_doc_khi_co",
+   "nhom": "so_cuu",
+   "ten": "Ngộ độc khí than (khí CO)",
+   "goi": "115",
+   "noi": "Khí CO không màu, không mùi. Nếu đang dùng máy phát điện, bếp than hay lò sưởi đốt nhiên liệu ở chỗ kín mà mọi người đau đầu, chóng mặt, yếu, buồn nôn, đau ngực hoặc lú lẫn, hãy đưa tất cả ra chỗ thoáng ngay và gọi một một lăm. Chỉ chạy máy phát điện và bếp than ngoài trời, cách cửa sổ, cửa ra vào ít nhất 6 mét. Không dùng bếp ga để sưởi trong nhà.",
+   "nguon": [
+    "cdc_co",
+    "ready_matdien"
+   ],
+   "khoa": [
+    "khí than",
+    "ngộ độc khí",
+    "khí co",
+    "đốt than",
+    "than sưởi",
+    "sưởi than",
+    "sưởi bằng than",
+    "máy phát điện trong nhà",
+    "bếp than trong phòng",
+    "chạy máy phát điện trong nhà"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "máy phát",
+      "than",
+      "lò than",
+      "bếp than",
+      "lò sưởi"
+     ],
+     [
+      "kín",
+      "trong nhà",
+      "trong phòng",
+      "gầm",
+      "đau đầu",
+      "chóng mặt",
+      "buồn nôn",
+      "ngộp",
+      "bếp",
+      "trong"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "truoc_bao",
+   "nhom": "thien_tai",
+   "ten": "Chuẩn bị trước khi bão đến",
+   "goi": "112",
+   "noi": "Theo dõi tin dự báo, cảnh báo bão. Gia cố, chằng chống nhà cửa, cắt tỉa cành cây, mang đồ ngoài trời vào trong. Dự trữ thực phẩm, nước uống, thuốc men, đèn pin, sạc đầy điện thoại và pin dự phòng. Kê cao tài sản, cất giấy tờ quan trọng vào túi chống nước. Xác định chỗ trú an toàn cho cả nhà, sẵn sàng sơ tán khi chính quyền yêu cầu, và lưu các số cứu hộ cứu nạn, nhất là một một hai.",
+   "nguon": [
+    "cuc_pctt_bao",
+    "ready_bao"
+   ],
+   "khoa": [
+    "trước bão",
+    "chuẩn bị bão",
+    "bão sắp đến",
+    "sắp có bão",
+    "bão sắp đổ bộ",
+    "chuẩn bị cho bão",
+    "phòng chống bão",
+    "chằng chống nhà",
+    "gia cố nhà",
+    "có tin bão"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "bão"
+     ],
+     [
+      "sắp",
+      "tới",
+      "dự báo",
+      "chuẩn bị",
+      "trước",
+      "mùa bão",
+      "gia cố"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "trong_bao",
+   "nhom": "thien_tai",
+   "ten": "Trong khi bão đổ bộ",
+   "goi": "112",
+   "noi": "Tuyệt đối không ra ngoài khi bão đang đổ bộ, trừ trường hợp khẩn cấp có hướng dẫn của lực lượng chức năng. Không ở lại trên tàu thuyền, chòi canh, lồng bè. Trú ở nơi trú bão được chỉ định hoặc ở phòng phía trong của ngôi nhà kiên cố. Nếu nước dâng, lên tầng cao nhất nhưng không chui lên gác kín. Theo dõi thông báo và làm theo chỉ đạo của chính quyền.",
+   "nguon": [
+    "cuc_pctt_bao",
+    "ready_bao"
+   ],
+   "khoa": [
+    "đang có bão",
+    "bão đang đổ bộ",
+    "trong lúc bão",
+    "trong khi bão",
+    "bão to",
+    "gió bão mạnh",
+    "bão đang đến",
+    "khi bão đổ bộ",
+    "bão gió mạnh"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "bão"
+     ],
+     [
+      "đang",
+      "đổ bộ",
+      "gió giật",
+      "lúc bão"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "sau_bao",
+   "nhom": "thien_tai",
+   "ten": "Sau khi bão, lũ đi qua",
+   "goi": "112",
+   "noi": "Chỉ về nhà khi chính quyền báo đã an toàn. Tránh xa dây điện đứt, cột điện và cây đổ, báo ngay cho cơ quan chức năng. Không lội qua nước ngập. Khi dọn dẹp, đeo găng tay, ủng và quần áo bảo hộ, rửa tay bằng xà phòng sau khi tiếp xúc nước lũ. Chỉ chạy máy phát điện ngoài trời.",
+   "nguon": [
+    "ready_lu",
+    "ready_set",
+    "cdc_nuoclu",
+    "ready_sotan"
+   ],
+   "khoa": [
+    "sau bão",
+    "bão qua rồi",
+    "hết bão",
+    "sau khi bão",
+    "sau lũ",
+    "nước rút",
+    "dọn dẹp sau lũ",
+    "về nhà sau lũ",
+    "sau khi lũ",
+    "dọn dẹp nhà"
+   ],
+   "uu_tien": 1,
+   "to_hop": [
+    [
+     [
+      "bão"
+     ],
+     [
+      "qua",
+      "xong",
+      "tan"
+     ]
+    ],
+    [
+     [
+      "lũ",
+      "nước"
+     ],
+     [
+      "rút"
+     ]
+    ],
+    [
+     [
+      "dọn"
+     ],
+     [
+      "lũ",
+      "bão",
+      "ngập"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ngap_lut",
+   "nhom": "thien_tai",
+   "ten": "Ngập lụt",
+   "goi": "112",
+   "noi": "Ngắt cầu dao điện, khóa van ga trước khi nước dâng cao. Kê cao tài sản, đưa xe lên chỗ cao. Tuyệt đối không đi qua ngầm, tràn, cầu, đường đang ngập sâu hoặc nước chảy xiết: chỉ 15 phân nước chảy xiết cũng có thể quật ngã người, 30 phân có thể cuốn trôi xe. Nếu bị kẹt trong nhà, lên tầng cao nhất, không chui lên gác kín, chỉ lên mái khi cần để ra tín hiệu cầu cứu. Gọi một một hai khi cần cứu nạn.",
+   "nguon": [
+    "cuc_pctt_lu",
+    "ready_lu"
+   ],
+   "khoa": [
+    "ngập lụt",
+    "lũ lụt",
+    "nước ngập",
+    "nước dâng",
+    "nhà bị ngập",
+    "lũ lên",
+    "ngập nhà",
+    "nước dâng vào nhà",
+    "bị lụt",
+    "đường ngập",
+    "nước chảy xiết",
+    "ngập nước",
+    "lũ lên nhanh",
+    "dâng vào nhà",
+    "nước đang dâng"
+   ],
+   "uu_tien": 1,
+   "to_hop": [
+    [
+     [
+      "nước"
+     ],
+     [
+      "lên",
+      "dâng",
+      "ngập",
+      "ngang"
+     ]
+    ],
+    [
+     [
+      "ngập"
+     ],
+     [
+      "đường",
+      "nhà",
+      "sâu",
+      "nước"
+     ]
+    ],
+    [
+     [
+      "lũ"
+     ],
+     [
+      "lên",
+      "về",
+      "to",
+      "dâng"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "lu_quet",
+   "nhom": "thien_tai",
+   "ten": "Lũ quét",
+   "goi": "112",
+   "noi": "Dấu hiệu lũ quét: mưa lớn nhiều ngày, nhất là ở thượng nguồn; nước sông suối chuyển đục; có tiếng động lạ của đất đá, cây cối, tiếng ầm trong lòng đất. Khi thấy dấu hiệu, chạy ngay đến chỗ cao hơn, tránh xa lòng sông suối. Không lội qua sông, suối, ngầm, tràn, đường ngập. Đặc biệt cảnh giác khi mưa lớn vào ban đêm. Theo dõi cảnh báo và sơ tán theo hướng dẫn của chính quyền.",
+   "nguon": [
+    "cuc_pctt_lqsl",
+    "cuc_pctt_lu"
+   ],
+   "khoa": [
+    "lũ quét",
+    "lũ ống",
+    "lũ bùn đá",
+    "nước suối dâng",
+    "nước suối đục",
+    "đục ngầu",
+    "dấu hiệu lũ quét",
+    "suối dâng"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "suối",
+      "thượng nguồn"
+     ],
+     [
+      "ầm",
+      "đục",
+      "dâng",
+      "lên nhanh",
+      "tiếng"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "sat_lo",
+   "nhom": "thien_tai",
+   "ten": "Sạt lở đất",
+   "goi": "112",
+   "noi": "Dấu hiệu sạt lở: vết nứt mới trên tường nhà, sườn đồi, mái dốc; cây nghiêng; nước suối từ trong chuyển đục, nước lẫn bùn rỉ ra ở chân dốc; mặt đất phồng lên, có tiếng động lạ. Khi thấy dấu hiệu hoặc nghe tiếng động lớn, chạy ngay ra khỏi khu vực. Không đi qua hay lại gần chỗ vừa sạt vì có thể sạt tiếp. Nhiều người tử vong khi đang ngủ, nên cảnh giác khi mưa lớn ban đêm.",
+   "nguon": [
+    "cuc_pctt_lqsl",
+    "ready_satlo",
+    "cuc_pctt_lu"
+   ],
+   "khoa": [
+    "sạt lở",
+    "lở đất",
+    "sạt lở đất",
+    "sạt núi",
+    "đất đá tràn xuống",
+    "nứt đồi",
+    "tường nhà nứt",
+    "nhà nứt",
+    "tiếng động lạ",
+    "dấu hiệu sạt lở",
+    "lở núi"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "nứt",
+      "sạt",
+      "lở",
+      "sụt",
+      "trôi"
+     ],
+     [
+      "đồi",
+      "núi",
+      "đất",
+      "dốc",
+      "taluy"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "giong_set",
+   "nhom": "thien_tai",
+   "ten": "Giông, sét",
+   "goi": "112",
+   "noi": "Khi nghe sấm, vào ngay nhà kiên cố hoặc ô tô có mui kín; ở ngoài trời không có chỗ nào an toàn khi có giông. Nếu không vào được, tránh đồng trống, đỉnh đồi, cây cao đứng một mình; tránh xa nước và vật kim loại như hàng rào; đi theo nhóm thì giãn cách nhau. Lều không chống được sét. Tránh dùng thiết bị đang cắm điện. Đợi 30 phút sau tiếng sấm cuối cùng mới ra ngoài.",
+   "nguon": [
+    "ready_set",
+    "nws_set"
+   ],
+   "khoa": [
+    "sấm sét",
+    "sét đánh",
+    "có sét",
+    "giông sét",
+    "mưa giông",
+    "tránh sét",
+    "có giông",
+    "giông lốc"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "sấm",
+      "sét",
+      "giông",
+      "dông"
+     ],
+     [
+      "đang",
+      "có",
+      "trời",
+      "gần",
+      "đánh",
+      "tránh",
+      "ngoài",
+      "nổi",
+      "mưa",
+      "trú"
+     ]
+    ]
+   ],
+   "tru": [
+    "rỉ sét",
+    "giật mình"
+   ]
+  },
+  {
+   "id": "so_tan",
+   "nhom": "thien_tai",
+   "ten": "Sơ tán",
+   "goi": "112",
+   "noi": "Sơ tán sớm khi chính quyền yêu cầu, đừng chờ thời tiết xấu thêm. Mang theo túi đồ khẩn cấp gồm giấy tờ, thuốc men, nước, đồ ăn khô, đèn pin, điện thoại và sạc dự phòng. Nếu kịp, ngắt điện, khóa ga, khóa cửa. Đi theo tuyến đường được hướng dẫn, không đi đường tắt, không đi qua đường ngập, cầu bị nước cuốn hay chỗ dây điện đứt. Báo cho người thân nơi mình sẽ đến.",
+   "nguon": [
+    "ready_sotan",
+    "cuc_pctt_bao",
+    "cuc_pctt_lu"
+   ],
+   "khoa": [
+    "sơ tán",
+    "đi tản",
+    "phải rời nhà",
+    "rời nhà gấp",
+    "di dời khẩn cấp",
+    "đi sơ tán"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "sơ tán",
+      "di tản",
+      "di dời",
+      "rời nhà"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "do_dung_khan_cap",
+   "nhom": "sinh_ton",
+   "ten": "Đồ dùng khẩn cấp cần chuẩn bị",
+   "goi": "",
+   "noi": "Chuẩn bị sẵn một túi đồ khẩn cấp đủ dùng vài ngày: nước uống, đồ ăn khô không dễ hỏng, đèn pin và pin dự phòng, đài chạy pin, bộ sơ cứu, thuốc đang dùng, còi để thổi cầu cứu, khẩu trang, áo mưa, quần áo, giấy tờ quan trọng trong túi chống nước, tiền mặt, điện thoại và sạc dự phòng. Cất ở nơi cả nhà đều biết.",
+   "nguon": [
+    "ready_dodung",
+    "cuc_pctt_lqsl"
+   ],
+   "khoa": [
+    "đồ dùng khẩn cấp",
+    "túi khẩn cấp",
+    "túi đồ khẩn cấp",
+    "cần chuẩn bị gì",
+    "cần dự trữ",
+    "nên dự trữ",
+    "đồ dùng cần thiết",
+    "bộ sơ cứu",
+    "đồ dự trữ",
+    "dự trữ gì"
+   ],
+   "uu_tien": 1,
+   "to_hop": [
+    [
+     [
+      "dự trữ",
+      "chuẩn bị",
+      "túi",
+      "mang"
+     ],
+     [
+      "khẩn cấp",
+      "mùa bão",
+      "mưa bão",
+      "thiên tai",
+      "đồ dùng",
+      "sơ cứu"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "nuoc_sach",
+   "nhom": "sinh_ton",
+   "ten": "Làm sạch nước uống sau lũ",
+   "goi": "",
+   "noi": "Nếu nước đục, làm trong trước: khoảng 1 gam phèn chua cho 20 lít nước, khuấy tan, chờ 30 phút cho cặn lắng rồi gạn nước trong, hoặc lọc qua vải sạch vài lần. Sau đó khử trùng bằng Cloramin B theo hướng dẫn trên bao bì và của cán bộ y tế, chờ 30 phút; không khử trùng cùng lúc với đánh phèn. Nước đã khử trùng vẫn phải đun sôi mới uống. Nếu không có hóa chất, chỉ uống nước đã đun sôi kỹ, theo Bộ Y tế là 10 phút trở lên.",
+   "nguon": [
+    "byt_nuoc",
+    "cpb_nuoc",
+    "cdc_nuoc"
+   ],
+   "khoa": [
+    "nước sạch",
+    "lọc nước",
+    "làm sạch nước",
+    "nước uống",
+    "cloramin",
+    "phèn chua",
+    "khử trùng nước",
+    "nước giếng",
+    "nước đục",
+    "nước an toàn",
+    "xử lý nước"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "nước"
+     ],
+     [
+      "uống",
+      "lọc",
+      "khử trùng",
+      "làm sạch",
+      "đục"
+     ],
+     [
+      "lũ",
+      "lụt",
+      "ngập",
+      "sông",
+      "suối",
+      "giếng",
+      "bão",
+      "đục",
+      "mưa",
+      "hết nước"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "thuc_pham_sau_lu",
+   "nhom": "sinh_ton",
+   "ten": "Thực phẩm an toàn khi mất điện, sau lũ",
+   "goi": "",
+   "noi": "Vứt bỏ thực phẩm đã ngấm nước lũ, thức ăn có mùi, màu hay độ đặc lạ; khi nghi ngờ thì bỏ đi. Khi mất điện, đóng kín tủ lạnh và tủ đông: tủ lạnh giữ lạnh khoảng 4 giờ, tủ đông đầy khoảng 48 giờ. Không ăn rau sống rửa bằng nước chưa khử trùng.",
+   "nguon": [
+    "ready_matdien",
+    "byt_nuoc",
+    "cdc_nuoclu"
+   ],
+   "khoa": [
+    "thức ăn",
+    "đồ ăn",
+    "thực phẩm",
+    "ăn gì"
+   ],
+   "uu_tien": 3,
+   "can_ngu_canh": [
+    "lũ",
+    "ngập",
+    "mất điện",
+    "cúp điện",
+    "lụt"
+   ],
+   "to_hop": [
+    [
+     [
+      "thịt",
+      "cá",
+      "gạo",
+      "rau",
+      "đồ hộp",
+      "sữa",
+      "thức ăn",
+      "đồ ăn"
+     ],
+     [
+      "lũ",
+      "ngập",
+      "mất điện"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "phong_benh_sau_lu",
+   "nhom": "sinh_ton",
+   "ten": "Phòng bệnh sau lũ",
+   "goi": "115",
+   "noi": "Sau lũ dễ mắc bệnh ngoài da, tiêu chảy, đau mắt đỏ. Giữ vệ sinh cá nhân, rửa tay bằng xà phòng sau khi tiếp xúc nước lũ, không để trẻ em chơi trong nước lũ. Uống nước đã đun sôi, không ăn rau sống rửa bằng nước chưa khử trùng. Khi phải lội nước, đi ủng và đeo găng. Nếu có triệu chứng nghi mắc bệnh, báo ngay cho cơ sở y tế hoặc chính quyền.",
+   "nguon": [
+    "cpb_nuoc",
+    "cdc_nuoclu"
+   ],
+   "khoa": [
+    "phòng bệnh",
+    "dịch bệnh",
+    "phòng dịch",
+    "nước ăn chân",
+    "ngứa chân",
+    "đau mắt đỏ",
+    "bệnh ngoài da"
+   ],
+   "uu_tien": 3,
+   "can_ngu_canh": [
+    "lũ",
+    "ngập",
+    "lụt",
+    "mưa lũ",
+    "nước lũ"
+   ],
+   "to_hop": [
+    [
+     [
+      "bệnh",
+      "dịch",
+      "ngứa",
+      "nấm",
+      "ăn chân"
+     ],
+     [
+      "lũ",
+      "ngập",
+      "lụt"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "an_toan_dien_ngap",
+   "nhom": "sinh_ton",
+   "ten": "An toàn điện khi ngập",
+   "goi": "112",
+   "noi": "Ngắt cầu dao điện trước khi nước dâng. Không lội xuống nước nếu thấy dây điện hoặc cột điện đổ xuống nước, và không bao giờ chạm vào dây điện bị rơi. Giữ máy phát điện khô ráo và chỉ chạy ngoài trời. Báo ngay cho điện lực hoặc chính quyền khi thấy dây điện đứt.",
+   "nguon": [
+    "cuc_pctt_lu",
+    "cuc_pctt_lqsl",
+    "cdc_nuoclu",
+    "ready_matdien"
+   ],
+   "khoa": [
+    "dây điện đứt",
+    "cột điện đổ",
+    "điện bị ngập",
+    "ngắt điện",
+    "dây điện rơi",
+    "ổ điện bị ngập",
+    "an toàn điện",
+    "đứt dây điện"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "điện",
+      "cầu dao"
+     ],
+     [
+      "ngập",
+      "nước",
+      "dâng",
+      "rơi",
+      "đứt",
+      "đổ"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "mat_dien",
+   "nhom": "sinh_ton",
+   "ten": "Mất điện kéo dài",
+   "goi": "",
+   "noi": "Chuẩn bị đèn pin cho mọi người, pin và sạc dự phòng. Rút phích các thiết bị điện để tránh hỏng khi điện có lại. Đóng kín tủ lạnh, tủ đông. Chỉ chạy máy phát điện ngoài trời, cách cửa ít nhất 6 mét. Không dùng bếp ga hay lò nướng để sưởi trong nhà. Nếu quá nóng hoặc quá lạnh, đến nơi công cộng có điện.",
+   "nguon": [
+    "ready_matdien"
+   ],
+   "khoa": [
+    "mất điện",
+    "cúp điện",
+    "không có điện",
+    "bị cắt điện",
+    "dùng máy phát điện",
+    "máy phát điện"
+   ],
+   "uu_tien": 1,
+   "to_hop": []
+  },
+  {
+   "id": "chay_nha",
+   "nhom": "thien_tai",
+   "ten": "Cháy nhà",
+   "goi": "114",
+   "noi": "Thoát ra ngoài ngay và gọi một một bốn. Cúi thấp, bò sát sàn dưới làn khói để ra lối thoát, vì khói và khí độc dồn lên trần. Trước khi mở cửa, sờ tay nắm và cánh cửa; nếu nóng hoặc có khói thì giữ cửa đóng, dùng lối khác. Nếu không tới được người cần cứu, ra ngoài và báo vị trí của họ cho lực lượng cứu hỏa. Nếu không thoát ra được, đóng cửa, bịt khe cửa bằng vải để chặn khói, gọi một một bốn và ra tín hiệu ở cửa sổ.",
+   "nguon": [
+    "ready_chay"
+   ],
+   "khoa": [
+    "cháy nhà",
+    "hỏa hoạn",
+    "nhà bị cháy",
+    "đám cháy",
+    "khói dày đặc",
+    "thoát hiểm",
+    "cháy chung cư",
+    "có cháy",
+    "đang cháy"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "cháy",
+      "khói",
+      "khét"
+     ],
+     [
+      "nhà",
+      "phòng",
+      "bếp",
+      "chung cư",
+      "tòa",
+      "bốc",
+      "mùi"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "so_khan_cap",
+   "nhom": "sinh_ton",
+   "ten": "Số điện thoại khẩn cấp",
+   "goi": "112",
+   "noi": "Số khẩn cấp ở Việt Nam: một một hai là tổng đài cứu nạn, cứu hộ khẩn cấp quốc gia, nhận tin về thiên tai, thảm họa và kết nối với các số khác. Một một ba là công an, một một bốn là cứu hỏa và cứu nạn, cứu hộ, một một lăm là cấp cứu y tế. Khi gọi, nói rõ vị trí, tình trạng nguy hiểm và số người cần giúp.",
+   "nguon": [
+    "ttg_112",
+    "cuc_pctt_lu"
+   ],
+   "khoa": [
+    "số khẩn cấp",
+    "số cấp cứu",
+    "gọi số nào",
+    "số cứu hộ",
+    "số cứu nạn",
+    "tổng đài 112",
+    "số điện thoại khẩn cấp",
+    "số điện thoại cấp cứu",
+    "gọi cấp cứu",
+    "số của công an",
+    "số cứu hỏa",
+    "112",
+    "113",
+    "114",
+    "115"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "số",
+      "gọi",
+      "bấm"
+     ],
+     [
+      "cấp cứu",
+      "cứu thương",
+      "cứu hộ",
+      "cứu nạn",
+      "khẩn cấp",
+      "cứu hỏa",
+      "công an"
+     ]
+    ]
+   ],
+   "bo_qua_kien_thuc": true
+  },
+  {
+   "id": "mac_ket_cau_cuu",
+   "nhom": "sinh_ton",
+   "ten": "Bị mắc kẹt, cần cầu cứu",
+   "goi": "112",
+   "noi": "Gọi một một hai và báo chính xác vị trí, tình trạng và số người. Nếu bị kẹt trong nhà do nước lũ, lên tầng cao nhất, không chui lên gác kín; chỉ lên mái khi cần để ra tín hiệu cầu cứu. Dùng còi để thổi cầu cứu. Nếu kẹt trong ô tô ở dòng nước chảy xiết, ở trong xe; lên nóc xe nếu nước dâng vào trong.",
+   "nguon": [
+    "cuc_pctt_lu",
+    "ready_lu",
+    "ready_dodung"
+   ],
+   "khoa": [
+    "mắc kẹt",
+    "bị kẹt",
+    "bị cô lập",
+    "cầu cứu",
+    "cần cứu hộ",
+    "không ra ngoài được",
+    "kẹt trên mái",
+    "bị nước cuốn",
+    "xe bị kẹt",
+    "tín hiệu cầu cứu",
+    "cứu hộ"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "kẹt",
+      "bao vây",
+      "cô lập"
+     ],
+     [
+      "nước",
+      "lũ",
+      "mái",
+      "nóc",
+      "nhà",
+      "núi",
+      "sạt"
+     ]
+    ],
+    [
+     [
+      "nước"
+     ],
+     [
+      "cuốn"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ha_duong_huyet",
+   "nhom": "so_cuu",
+   "ten": "Hạ đường huyết ở người tiểu đường",
+   "goi": "115",
+   "noi": "Nếu người bị tiểu đường run, vã mồ hôi, lả đi mà còn tỉnh, cho họ uống ngay nước trái cây hoặc nước có đường, ăn chút đồ ăn, hoặc dùng viên đường glucose nếu có. Nếu đã ăn đồ ngọt mà không đỡ, gọi một một lăm hoặc nhờ người chở đi cấp cứu, đừng tự lái xe. Nếu họ lơ mơ dần hoặc gọi không tỉnh, đó là cấp cứu: gọi một một lăm ngay.",
+   "nguon": [
+    "mp_haduong"
+   ],
+   "khoa": [
+    "hạ đường huyết",
+    "tụt đường huyết",
+    "tụt đường máu",
+    "hạ đường máu",
+    "hạ đường",
+    "tụt đường",
+    "thiếu đường huyết"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "tiểu đường",
+      "đái tháo đường"
+     ],
+     [
+      "run",
+      "vã mồ hôi",
+      "lả",
+      "choáng",
+      "xỉu",
+      "ngất",
+      "lơ mơ",
+      "tụt",
+      "lắp bắp",
+      "mệt lả"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "chay_mau_cam",
+   "nhom": "so_cuu",
+   "ten": "Chảy máu cam",
+   "goi": "115",
+   "noi": "Ngồi xuống, cúi người về phía trước để không nuốt phải máu và thở bằng miệng. Dùng ngón cái và ngón trỏ bóp chặt phần mềm của mũi liên tục đủ 10 phút rồi mới xem lại. Có thể chườm lạnh lên sống mũi. Không nằm xuống, không nhét gạc vào trong mũi, và tránh xì mũi vài giờ sau đó. Đi cấp cứu nếu sau 20 phút vẫn chảy, nếu chảy máu sau khi bị đập vào đầu, mũi bị lệch, hoặc người đang dùng thuốc chống đông.",
+   "nguon": [
+    "mp_maucam"
+   ],
+   "khoa": [
+    "chảy máu cam",
+    "chảy máu mũi",
+    "máu mũi",
+    "máu cam",
+    "chảy máu ở mũi"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "máu"
+     ],
+     [
+      "mũi",
+      "cam"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "bong_gan",
+   "nhom": "so_cuu",
+   "ten": "Bong gân, trật khớp",
+   "goi": "115",
+   "noi": "Nếu khớp lệch khỏi chỗ, nghe tiếng rắc rồi không cử động được, nghi gãy xương hoặc đau dữ dội, gọi một một lăm hoặc đến bệnh viện. Không tự nắn hay kéo khớp về chỗ cũ; cố định khớp bằng nẹp hoặc khăn đeo đúng ở tư thế đang thấy. Với bong gân: chườm đá bọc trong khăn, không để đá chạm thẳng vào da; quấn băng chắc nhưng không quá chặt; kê chỗ sưng cao hơn tim và để khớp nghỉ vài ngày. Không cho trẻ em uống aspirin.",
+   "nguon": [
+    "mp_bonggan",
+    "mp_trat"
+   ],
+   "khoa": [
+    "bong gân",
+    "trật khớp",
+    "trẹo chân",
+    "trẹo cổ chân",
+    "trẹo tay",
+    "lật cổ chân",
+    "sái chân",
+    "sái tay",
+    "trật vai",
+    "lệch khớp",
+    "trặc chân",
+    "trặc cổ chân",
+    "trẹo mắt cá"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "trẹo",
+      "trặc",
+      "sái",
+      "lật",
+      "trật",
+      "bong"
+     ],
+     [
+      "chân",
+      "tay",
+      "cổ chân",
+      "mắt cá",
+      "khớp",
+      "vai",
+      "gối",
+      "cổ tay",
+      "gân"
+     ]
+    ],
+    [
+     [
+      "khớp",
+      "mắt cá",
+      "cổ chân",
+      "đầu gối"
+     ],
+     [
+      "sưng"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "mat",
+   "nhom": "so_cuu",
+   "ten": "Dị vật, hóa chất hoặc chấn thương ở mắt",
+   "goi": "115",
+   "noi": "Không dụi, không ấn vào mắt. Hóa chất vào mắt: xối ngay bằng dòng nước sạch mát, nghiêng đầu cho mắt bị nạn ở phía dưới, banh mí mắt và xối liên tục ít nhất 15 phút, rồi đi cấp cứu ngay. Bụi nhỏ: chớp mắt hoặc rửa nhẹ bằng nước sạch; nếu vẫn cộm hay nhìn mờ thì đi khám. Vật găm vào mắt: để nguyên, không rút ra, không chạm vào; che nhẹ cả hai mắt, có thể úp một chiếc cốc giấy lên mắt bị thương, và đi cấp cứu ngay. Mắt bị đánh hoặc bị rách: chườm mát nhẹ, không ấn, đi cấp cứu ngay.",
+   "nguon": [
+    "mp_mat"
+   ],
+   "khoa": [
+    "bay vào mắt",
+    "rơi vào mắt",
+    "bắn vào mắt",
+    "văng vào mắt",
+    "dính vào mắt",
+    "chọc vào mắt",
+    "đâm vào mắt",
+    "găm vào mắt",
+    "cát vào mắt",
+    "bụi vào mắt",
+    "dị vật trong mắt",
+    "chấn thương mắt",
+    "bị thương ở mắt",
+    "hóa chất vào mắt",
+    "cộm mắt"
+   ],
+   "uu_tien": 4,
+   "to_hop": [
+    [
+     [
+      "mắt"
+     ],
+     [
+      "bụi",
+      "cát",
+      "dị vật",
+      "hóa chất",
+      "vôi",
+      "xi măng",
+      "axit",
+      "nước tẩy",
+      "chọc",
+      "găm",
+      "mảnh",
+      "văng",
+      "bắn",
+      "rách",
+      "bị đánh",
+      "bị đấm"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "dut_chi",
+   "nhom": "so_cuu",
+   "ten": "Đứt lìa ngón tay, bàn tay hoặc chi",
+   "goi": "115",
+   "noi": "Gọi một một lăm ngay. Ấn chặt trực tiếp lên vết thương và nâng cao chỗ bị đứt để cầm máu; chỉ garô khi máu chảy dữ dội đe dọa tính mạng. Giữ phần bị đứt: lau bớt bẩn, bọc trong vải sạch ẩm, cho vào túi ni lông buộc kín, rồi đặt túi vào chậu nước đá. Không để phần bị đứt chạm thẳng vào nước hay đá, không dùng đá khô; nếu không có đá thì để nơi mát và mang theo đến viện. Không cố gắn lại. Giữ người bị nạn ấm và nằm yên. Cứu người quan trọng hơn giữ phần bị đứt.",
+   "nguon": [
+    "mp_dutchi"
+   ],
+   "khoa": [
+    "đứt lìa",
+    "đứt rời",
+    "đứt cụt",
+    "cụt tay",
+    "cụt chân",
+    "cụt ngón",
+    "đứt hẳn",
+    "lìa ngón",
+    "bị cắt cụt",
+    "đứt một đốt",
+    "đứt mất ngón"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "đứt",
+      "cắt",
+      "chặt",
+      "máy"
+     ],
+     [
+      "lìa",
+      "rời",
+      "cụt",
+      "đứt hẳn",
+      "mất ngón"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ngo_doc_thuc_pham",
+   "nhom": "so_cuu",
+   "ten": "Ngộ độc thức ăn",
+   "goi": "115",
+   "noi": "Phần lớn ngộ độc thức ăn tự khỏi sau vài ngày. Cho người bệnh nghỉ ngơi và uống đủ nước, tốt nhất là gói muối uống bù nước pha bằng nước sạch. Không tự dùng thuốc cầm tiêu chảy khi đi ngoài ra máu, sốt hoặc tiêu chảy nặng, và không cho trẻ em dùng. Đi khám ngay nếu phân có máu hay mủ, nôn đến mức không uống được, có dấu hiệu mất nước như khát, chóng mặt, sốt trên 38 độ, trẻ nôn quá 12 giờ, hoặc ngộ độc do ăn nấm, cá, hải sản.",
+   "nguon": [
+    "mp_tp"
+   ],
+   "khoa": [
+    "ngộ độc thực phẩm",
+    "ngộ độc thức ăn",
+    "ngộ độc đồ ăn",
+    "trúng thực",
+    "đồ ôi thiu",
+    "đồ ăn ôi thiu",
+    "thức ăn ôi thiu",
+    "ăn xong bị nôn",
+    "ăn xong đau bụng",
+    "đau bụng sau khi ăn"
+   ],
+   "uu_tien": 1,
+   "to_hop": [
+    [
+     [
+      "ăn",
+      "cỗ",
+      "hải sản",
+      "đồ ăn",
+      "thức ăn",
+      "tiệc"
+     ],
+     [
+      "nôn",
+      "ói",
+      "đau bụng",
+      "tiêu chảy",
+      "đi ngoài",
+      "ngộ độc",
+      "buồn nôn"
+     ]
+    ]
+   ],
+   "tru": [
+    "nấm",
+    "rượu",
+    "sơ sinh"
+   ]
+  },
+  {
+   "id": "ngo_doc_ruou",
+   "nhom": "so_cuu",
+   "ten": "Ngộ độc rượu, nghi có cồn công nghiệp methanol",
+   "goi": "115",
+   "noi": "Nghi ngộ độc rượu pha cồn công nghiệp methanol là cấp cứu: gọi một một lăm hoặc đưa đến bệnh viện ngay, không chờ. Không tự gây nôn nếu nhân viên y tế không bảo. Mang theo chai rượu đã uống nếu được, và nhớ đã uống lúc nào, bao nhiêu. Đừng chậm gọi cấp cứu chỉ vì chưa biết rõ những thông tin này.",
+   "nguon": [
+    "mp_methanol"
+   ],
+   "khoa": [
+    "ngộ độc rượu",
+    "ngộ độc methanol",
+    "ngộ độc cồn",
+    "rượu giả",
+    "rượu pha cồn",
+    "cồn công nghiệp",
+    "rượu độc",
+    "methanol",
+    "metanol"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "rượu"
+     ],
+     [
+      "ngộ độc",
+      "mờ mắt",
+      "lơ mơ",
+      "khó thở",
+      "hôn mê",
+      "co giật",
+      "bất tỉnh",
+      "độc",
+      "mù"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ngo_doc_nam",
+   "nhom": "so_cuu",
+   "ten": "Ăn phải nấm lạ, nấm độc",
+   "goi": "115",
+   "noi": "Ăn phải nấm độc có thể gây tử vong. Nếu đã ăn nấm lạ hoặc nấm hái ngoài tự nhiên mà nghi độc, đi bệnh viện hoặc gọi một một lăm ngay. Không tự gây nôn nếu nhân viên y tế không bảo. Ghi nhớ đã ăn loại gì, lúc nào, bao nhiêu để báo cho nhân viên y tế. Không ăn nấm hay cây lạ mà mình không biết rõ.",
+   "nguon": [
+    "mp_tp",
+    "mp_khoaitay"
+   ],
+   "khoa": [
+    "ngộ độc nấm",
+    "nấm độc",
+    "nấm lạ",
+    "nấm rừng",
+    "nấm dại",
+    "hái nấm"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "nấm"
+     ],
+     [
+      "độc",
+      "lạ",
+      "rừng",
+      "nôn",
+      "ói",
+      "đau bụng",
+      "ngộ độc",
+      "tiêu chảy",
+      "hái",
+      "dại"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "bo_cap",
+   "nhom": "so_cuu",
+   "ten": "Bọ cạp đốt",
+   "goi": "115",
+   "noi": "Rửa sạch chỗ bị đốt bằng xà phòng và nước. Chườm đá bọc khăn 10 phút rồi bỏ ra 10 phút, lặp lại. Giữ yên chỗ bị đốt, nới quần áo, tháo nhẫn và đồ trang sức chật. Gọi một một lăm hoặc đến cơ sở y tế, nhất là với trẻ từ 6 tuổi trở xuống, hoặc khi khó thở, co giật, tim đập bất thường. Nếu an toàn thì chụp ảnh con bọ cạp, đừng cố bắt.",
+   "nguon": [
+    "mp_bocap"
+   ],
+   "khoa": [
+    "bọ cạp đốt",
+    "bị bọ cạp",
+    "bò cạp đốt",
+    "bị bò cạp",
+    "bọ cạp cắn",
+    "bọ cạp chích",
+    "bò cạp cắn"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "bọ cạp",
+      "bò cạp"
+     ],
+     [
+      "đốt",
+      "chích",
+      "cắn",
+      "châm"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "soc",
+   "nhom": "so_cuu",
+   "ten": "Sốc do mất máu, chấn thương",
+   "goi": "115",
+   "noi": "Người bị sốc có thể lả đi, da tái, thở nhanh và nông. Gọi một một lăm ngay, đừng chờ nặng hơn. Kiểm tra hơi thở; nếu ngừng thở thì làm hồi sức tim phổi. Nếu người còn tỉnh và không bị thương ở đầu, cổ, lưng hay chân, cho nằm ngửa và kê chân cao khoảng 30 phân, không kê đầu. Cầm máu và sơ cứu vết thương, giữ ấm, nới quần áo chật. Không cho ăn uống gì. Nếu nôn, nghiêng đầu sang một bên. Kiểm tra hơi thở mỗi 5 phút cho đến khi có người đến.",
+   "nguon": [
+    "mp_soc"
+   ],
+   "khoa": [
+    "sốc mất máu",
+    "sốc do mất máu",
+    "choáng mất máu",
+    "choáng do mất máu",
+    "sốc sau tai nạn",
+    "dấu hiệu sốc",
+    "sốc chấn thương",
+    "bị sốc do"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "sốc",
+      "choáng"
+     ],
+     [
+      "mất máu",
+      "tai nạn",
+      "chấn thương",
+      "tái",
+      "da lạnh",
+      "vã mồ hôi",
+      "thở nhanh",
+      "lơ mơ"
+     ]
+    ],
+    [
+     [
+      "tái",
+      "tái nhợt"
+     ],
+     [
+      "da lạnh",
+      "vã mồ hôi"
+     ]
+    ]
+   ],
+   "tru": [
+    "sốc nhiệt",
+    "phản vệ"
+   ]
+  },
+  {
+   "id": "sot_cao",
+   "nhom": "so_cuu",
+   "ten": "Sốt cao",
+   "goi": "115",
+   "noi": "Sốt nhẹ chỉ cần uống nhiều nước và nghỉ ngơi. Bớt quần áo và chăn, mặc một lớp mỏng, để phòng thoáng mát. Có thể dùng thuốc hạ sốt paracetamol đúng liều ghi trên hộp theo cân nặng. Không chườm đá, không tắm nước lạnh, không lau cồn, không ủ ấm người đang rét run. Không cho trẻ dùng aspirin; trẻ dưới 3 tháng phải hỏi bác sĩ trước khi dùng thuốc, sốt từ 38 độ là cần đi khám. Gọi một một lăm nếu sốt kèm co giật, khó đánh thức, lú lẫn, khó thở, môi tím, đau đầu dữ dội, cứng cổ.",
+   "nguon": [
+    "mp_sot"
+   ],
+   "khoa": [
+    "sốt cao",
+    "sốt ba chín",
+    "sốt bốn mươi",
+    "sốt 39",
+    "sốt 40",
+    "sốt không hạ",
+    "sốt li bì",
+    "hạ sốt",
+    "bị sốt",
+    "lên cơn sốt",
+    "sốt mấy ngày",
+    "sốt nóng",
+    "sốt rét run"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "sốt"
+     ],
+     [
+      "độ",
+      "cao",
+      "không hạ",
+      "li bì",
+      "mê man",
+      "nóng",
+      "mấy ngày",
+      "rét run"
+     ]
+    ]
+   ],
+   "tru": [
+    "sốt ruột",
+    "nước sốt",
+    "sốt cà",
+    "sốt vang",
+    "sốt me",
+    "sốt bơ",
+    "sốt xình xịch",
+    "sốt dẻo",
+    "cơn sốt giá",
+    "sốt đất"
+   ]
+  },
+  {
+   "id": "hen_suyen",
+   "nhom": "so_cuu",
+   "ten": "Lên cơn hen suyễn",
+   "goi": "115",
+   "noi": "Nếu người lên cơn hen có bình xịt cắt cơn do bác sĩ kê, giúp họ dùng ngay: lắc bình, thở ra hết, ngậm ống, xịt khi bắt đầu hít vào chậm, rồi nín thở khoảng 10 giây; chờ 1 đến 2 phút mới xịt nhát tiếp. Gọi một một lăm ngay nếu khó thở đến mức không nói hay không đi được, phải gập người để thở, môi hoặc móng tay tím tái, hoặc lú lẫn, lơ mơ.",
+   "nguon": [
+    "mp_hen",
+    "mp_xit"
+   ],
+   "khoa": [
+    "lên cơn hen",
+    "cơn hen",
+    "hen suyễn",
+    "bị hen",
+    "bị suyễn",
+    "lên cơn suyễn",
+    "thở rít",
+    "thở khò khè",
+    "bình xịt hen",
+    "xịt hen"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "hen",
+      "suyễn"
+     ],
+     [
+      "khó thở",
+      "lên cơn",
+      "thở rít",
+      "khò khè",
+      "tím",
+      "xịt",
+      "cơn"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "hoi_suc_tre_em",
+   "nhom": "so_cuu",
+   "ten": "Hồi sức tim phổi cho trẻ từ 1 tuổi",
+   "goi": "115",
+   "noi": "Gọi to và vỗ vai trẻ. Nếu trẻ không phản ứng, không thở, nhờ người gọi một một lăm. Đặt trẻ nằm ngửa trên nền cứng. Đặt gốc bàn tay giữa ngực, tay kia đặt lên trên, ấn sâu khoảng 5 phân, nhanh và mạnh, 100 đến 120 lần mỗi phút, để ngực nảy lên hết sau mỗi lần ấn. Sau 30 lần ấn, nâng cằm ngửa đầu, bịt mũi, thổi 2 hơi, mỗi hơi khoảng 1 giây, thấy ngực phồng. Lặp lại 30 ấn, 2 thổi đến khi trẻ thở lại hoặc có người đến. Một mình thì làm khoảng 2 phút rồi mới gọi.",
+   "nguon": [
+    "mp_cpr_tre"
+   ],
+   "khoa": [
+    "ép tim cho trẻ em",
+    "ép tim cho trẻ",
+    "ép tim trẻ em",
+    "hồi sức cho trẻ",
+    "trẻ em ngừng thở",
+    "trẻ em không thở",
+    "trẻ ngừng thở",
+    "bé ngừng thở",
+    "bé không thở",
+    "cpr trẻ em",
+    "hô hấp nhân tạo cho trẻ em"
+   ],
+   "uu_tien": 3
+  },
+  {
+   "id": "hoi_suc_so_sinh",
+   "nhom": "so_cuu",
+   "ten": "Hồi sức tim phổi cho trẻ dưới 1 tuổi",
+   "goi": "115",
+   "noi": "Gọi to, búng vào lòng bàn chân bé, không lắc bé. Nếu bé không phản ứng, không thở, nhờ người gọi một một lăm. Đặt bé nằm ngửa trên nền cứng. Đặt hai ngón cái giữa ngực, ngay dưới đường nối hai núm vú, ấn sâu khoảng 4 phân, nhanh và mạnh, 100 đến 120 lần mỗi phút. Sau 30 lần ấn, nâng cằm, áp miệng trùm kín miệng và mũi bé, thổi 2 hơi, mỗi hơi khoảng 1 giây. Lặp lại 30 ấn, 2 thổi. Một mình thì làm khoảng 2 phút rồi mới gọi. Không ép tim nếu bé vẫn thở, ho hoặc cử động.",
+   "nguon": [
+    "mp_cpr_be"
+   ],
+   "khoa": [
+    "trẻ sơ sinh ngừng thở",
+    "sơ sinh ngừng thở",
+    "sơ sinh không thở",
+    "em bé ngừng thở",
+    "em bé không thở",
+    "ép tim cho trẻ sơ sinh",
+    "hô hấp nhân tạo cho trẻ sơ sinh",
+    "cpr sơ sinh",
+    "trẻ dưới một tuổi không thở"
+   ],
+   "uu_tien": 4,
+   "to_hop": [
+    [
+     [
+      "sơ sinh",
+      "tháng tuổi",
+      "dưới một tuổi",
+      "dưới 1 tuổi"
+     ],
+     [
+      "không thở",
+      "ngừng thở",
+      "tím tái",
+      "ép tim",
+      "hô hấp nhân tạo",
+      "thổi ngạt",
+      "bất tỉnh"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "dong_dat",
+   "nhom": "thien_tai",
+   "ten": "Động đất",
+   "goi": "112",
+   "noi": "Khi đất rung lắc: quỳ xuống bằng đầu gối và hai tay, chui xuống gầm bàn chắc chắn nếu ở ngay gần, che đầu và cổ, bám chắc cho đến khi hết rung. Không có bàn thì bò vào góc tường bên trong phòng, dùng tay che đầu và cổ. Đừng chạy ra ngoài và đừng đứng ở khung cửa khi còn rung; nhiều người bị thương vì cố di chuyển lúc đất còn rung. Nếu đang ở gần biển mà rung mạnh hoặc lâu, khi hết rung hãy lên ngay chỗ cao hoặc vào sâu trong đất liền vì có thể có sóng thần.",
+   "nguon": [
+    "nz_dongdat",
+    "nws_songthan"
+   ],
+   "khoa": [
+    "động đất",
+    "rung chấn",
+    "dư chấn",
+    "đất rung",
+    "nhà rung lắc",
+    "rung lắc mạnh",
+    "nhà rung"
+   ],
+   "uu_tien": 2
+  },
+  {
+   "id": "song_than",
+   "nhom": "thien_tai",
+   "ten": "Sóng thần",
+   "goi": "112",
+   "noi": "Nếu đang ở bờ biển mà thấy động đất mạnh hoặc kéo dài, nước biển dâng lên hoặc rút xuống bất thường, hay nghe tiếng gầm từ biển, sóng thần có thể đang đến và có thể không kịp có cảnh báo chính thức: chạy ngay lên chỗ cao hoặc vào sâu trong đất liền, tránh xa mặt nước. Khi có cảnh báo, làm theo hướng dẫn của chính quyền, theo dõi đài, ti vi, điện thoại, và tránh xa bãi biển, sông, kênh.",
+   "nguon": [
+    "nws_songthan"
+   ],
+   "khoa": [
+    "sóng thần",
+    "nước biển rút",
+    "nước rút đột ngột",
+    "biển rút",
+    "biển gầm",
+    "nước biển dâng đột ngột"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "biển",
+      "bờ biển",
+      "bãi biển",
+      "tắm biển"
+     ],
+     [
+      "động đất",
+      "rung",
+      "nước rút",
+      "gầm"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "lu_xe",
+   "nhom": "thien_tai",
+   "ten": "Lái xe hoặc lội qua nước lũ",
+   "goi": "112",
+   "noi": "Không bao giờ lái xe hay lội vào nước lũ. Chỉ 15 phân nước chảy xiết đã có thể quật ngã người lớn, 30 phân có thể cuốn trôi phần lớn ô tô, 60 phân cuốn trôi cả xe tải. Không đi vòng qua rào chắn đường ngập, vì mặt đường bên dưới có thể đã sụt. Hãy quay lại và tìm đường khác.",
+   "nguon": [
+    "nws_lu_xe"
+   ],
+   "khoa": [
+    "lái xe qua đường ngập",
+    "đi qua chỗ ngập",
+    "đi qua đoạn ngập",
+    "lội qua nước lũ",
+    "lội nước lũ",
+    "lội qua dòng nước",
+    "xe bị cuốn trôi",
+    "đi xe qua chỗ ngập",
+    "qua đường ngập"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "xe",
+      "lái",
+      "lội",
+      "đi bộ",
+      "đi qua",
+      "băng qua",
+      "vượt",
+      "qua"
+     ],
+     [
+      "ngập",
+      "nước lũ",
+      "nước chảy xiết",
+      "dòng nước",
+      "ngầm",
+      "nước tràn"
+     ]
+    ]
+   ],
+   "tru": [
+    "xe điện",
+    "sạc"
+   ]
+  },
+  {
+   "id": "bong_hoa_chat",
+   "nhom": "so_cuu",
+   "ten": "Bỏng hóa chất",
+   "goi": "115",
+   "noi": "Tránh để hóa chất dính vào mình. Đưa người ra khỏi chỗ có hóa chất, cởi quần áo và đồ trang sức dính hóa chất; hóa chất dạng bột khô thì phủi sạch trước. Xối chỗ bỏng dưới vòi nước mát liên tục ít nhất 15 phút; riêng vôi sống khô thì phủi sạch, không xối. Không bôi kem hay thuốc dân gian, không chọc vỡ bọng nước, không tự trung hòa bằng chất khác. Băng lỏng bằng vải sạch khô. Hóa chất vào mắt: xối nước ít nhất 15 phút rồi đi cấp cứu. Gọi một một lăm nếu khó thở, co giật, bất tỉnh, bỏng rộng và sâu.",
+   "nguon": [
+    "mp_hoachat"
+   ],
+   "khoa": [
+    "bỏng hóa chất",
+    "bỏng axit",
+    "bỏng a xít",
+    "bỏng vôi",
+    "axit bắn",
+    "axit dính",
+    "vôi bắn",
+    "vôi dính",
+    "nước tẩy bắn",
+    "bỏng kiềm",
+    "xút bắn",
+    "bỏng xút"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "axit",
+      "a xít",
+      "vôi",
+      "xút",
+      "kiềm",
+      "hóa chất",
+      "nước tẩy",
+      "thuốc tẩy",
+      "chất tẩy"
+     ],
+     [
+      "bắn",
+      "dính",
+      "đổ",
+      "văng",
+      "bỏng",
+      "rát",
+      "phồng"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "sua_dot",
+   "nhom": "so_cuu",
+   "ten": "Sứa đốt",
+   "goi": "115",
+   "noi": "Nếu người bị đốt khó thở, gọi một một lăm ngay, theo dõi và làm hồi sức tim phổi nếu cần. Rửa chỗ bị đốt bằng nước biển, không dùng nước ngọt. Gỡ hết xúc tu còn dính nhưng không chà xát và không để cát dính vào vết đốt. Nếu nghi sứa hộp có nọc độc mạnh, đổ giấm lên chỗ bị đốt. Để đỡ đau, dội nước nóng ở mức chịu được; không có nước nóng thì chườm lạnh, không đắp đá trực tiếp lên da. Sau đó tìm chăm sóc y tế.",
+   "nguon": [
+    "arc_vi"
+   ],
+   "khoa": [
+    "sứa đốt",
+    "bị sứa",
+    "sứa cắn",
+    "sứa chích",
+    "sứa lửa",
+    "sứa biển",
+    "sứa hộp"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "sứa"
+     ],
+     [
+      "đốt",
+      "cắn",
+      "chích",
+      "châm",
+      "dính",
+      "rát"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "nhen_can",
+   "nhom": "so_cuu",
+   "ten": "Nhện cắn",
+   "goi": "115",
+   "noi": "Nếu nghi bị nhện có nọc độc mạnh cắn, xử lý như rắn cắn: gọi một một lăm, giữ người bị cắn nằm yên, hạn chế cử động chỗ bị cắn và theo dõi họ. Với các loại nhện khác, chườm lạnh lên chỗ cắn, không đắp đá trực tiếp lên da, và đi khám ngay.",
+   "nguon": [
+    "arc_vi"
+   ],
+   "khoa": [
+    "nhện cắn",
+    "bị nhện",
+    "nhện độc cắn",
+    "nhện chích"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "nhện"
+     ],
+     [
+      "cắn",
+      "chích",
+      "đốt"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ve_can",
+   "nhom": "so_cuu",
+   "ten": "Ve bám, ve cắn",
+   "goi": "",
+   "noi": "Dùng nhíp mũi nhọn kẹp con ve càng sát mặt da càng tốt, rồi từ từ kéo con ve ra khỏi da. Sau đó dội rửa chỗ bị bám bằng nước muối hoặc nước sạch.",
+   "nguon": [
+    "arc_vi"
+   ],
+   "khoa": [
+    "bọ ve",
+    "con ve bám",
+    "ve chó",
+    "ve bám",
+    "bị ve cắn",
+    "ve cắn",
+    "gỡ con ve"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "ve"
+     ],
+     [
+      "bám",
+      "cắn",
+      "đốt",
+      "gỡ",
+      "chích",
+      "lấy"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "di_vat_tai",
+   "nhom": "so_cuu",
+   "ten": "Dị vật hoặc côn trùng vào tai",
+   "goi": "",
+   "noi": "Trấn an người bị nạn. Không ngoáy bằng tăm bông, kim hay dụng cụ khác, không thò nhíp vào sâu khi không nhìn thấy vật. Nếu vật lộ ra và dễ lấy, gắp nhẹ bằng tay hoặc nhíp. Thử nghiêng đầu cho tai bị kẹt hướng xuống đất và lắc nhẹ; không đập vào đầu. Nếu là côn trùng: không ngoáy ngón tay vào tai, nghiêng tai đó lên trên chờ nó bò ra; nếu không ra, nhỏ vài giọt dầu ô liu hoặc dầu em bé. Chỉ dùng dầu với côn trùng. Sau đó vẫn nên đi khám.",
+   "nguon": [
+    "mp_tai"
+   ],
+   "khoa": [
+    "dị vật trong tai",
+    "chui vào tai",
+    "bò vào tai",
+    "nhét vào tai",
+    "bay vào tai",
+    "kẹt trong tai",
+    "vào lỗ tai",
+    "côn trùng vào tai"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "tai",
+      "lỗ tai"
+     ],
+     [
+      "kiến",
+      "côn trùng",
+      "sâu",
+      "gián",
+      "hạt",
+      "đậu",
+      "nhét",
+      "chui",
+      "bò",
+      "dị vật",
+      "kẹt",
+      "mắc"
+     ]
+    ]
+   ],
+   "tru": [
+    "tai nạn",
+    "tai biến",
+    "tai họa",
+    "tai ương",
+    "tai tiếng"
+   ]
+  },
+  {
+   "id": "nuot_pin",
+   "nhom": "so_cuu",
+   "ten": "Nuốt phải pin cúc áo",
+   "goi": "115",
+   "noi": "Nuốt pin cúc áo có thể không gây triệu chứng gì lúc đầu nhưng vẫn phải đi cấp cứu ngay, hoặc gọi một một lăm. Không tự gây nôn nếu nhân viên y tế không bảo. Ghi nhớ tuổi, cân nặng của người nuốt, loại và cỡ pin, giờ nuốt để báo cho bác sĩ. Đau hay khó nuốt, chảy nước dãi, đau ngực, nôn là dấu hiệu pin có thể đang kẹt trong thực quản.",
+   "nguon": [
+    "mp_pin"
+   ],
+   "khoa": [
+    "nuốt pin",
+    "nuốt phải pin",
+    "nuốt viên pin",
+    "pin cúc áo",
+    "nuốt pin cúc",
+    "nuốt cục pin"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "nuốt",
+      "nuốt phải",
+      "ngậm"
+     ],
+     [
+      "pin"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "vet_thuong_nho",
+   "nhom": "so_cuu",
+   "ten": "Vết cắt, vết đâm nhỏ",
+   "goi": "115",
+   "noi": "Rửa tay trước. Vết cắt nhỏ: rửa kỹ bằng xà phòng và nước, ấn trực tiếp để cầm máu, rồi băng bằng băng sạch không dính. Vết đâm nhỏ như dẫm phải đinh: xối dưới vòi nước 5 phút rồi rửa xà phòng; có vật mắc bên trong thì không tự lấy ra mà đi khám. Gọi một một lăm nếu máu chảy nhiều, ấn 10 phút không cầm. Đi khám nếu vết thương sâu, ở mặt, do đinh gỉ hay lưỡi câu, do người hoặc thú cắn, sưng nóng đỏ, có mủ, sốt, hoặc chưa tiêm uốn ván trong 10 năm.",
+   "nguon": [
+    "mp_vet"
+   ],
+   "khoa": [
+    "vết cắt nhỏ",
+    "vết xước",
+    "trầy xước",
+    "bị xước",
+    "đứt tay nhẹ",
+    "dẫm phải đinh",
+    "giẫm phải đinh",
+    "đinh đâm vào chân",
+    "vết thương nhỏ",
+    "vết thương có mủ",
+    "vết thương sưng đỏ",
+    "vết thương nhiễm trùng",
+    "rửa vết thương",
+    "cắt nhẹ vào tay",
+    "trầy da"
+   ],
+   "uu_tien": 2
+  },
+  {
+   "id": "gay_rang",
+   "nhom": "so_cuu",
+   "ten": "Gãy răng, rơi răng",
+   "goi": "",
+   "noi": "Giữ chiếc răng bị rơi, chỉ cầm phần thân răng, không cầm chân răng; không cạo, chà hay rửa răng bằng cồn, và đừng để răng bị khô. Nếu được, đặt răng lại chỗ cũ ngang các răng khác rồi cắn nhẹ miếng gạc, cẩn thận đừng nuốt; nếu không, ngâm răng trong một ít sữa bò hoặc nước bọt. Cắn gạc để cầm máu, chườm lạnh bên ngoài miệng. Đến nha sĩ càng sớm càng tốt. Nếu không khép được hai hàm răng, có thể gãy xương hàm, cần đi khám ngay.",
+   "nguon": [
+    "mp_rang"
+   ],
+   "khoa": [
+    "gãy răng",
+    "rụng răng",
+    "răng bị rơi",
+    "bật răng",
+    "răng văng ra",
+    "mẻ răng",
+    "răng bị gãy",
+    "răng rơi ra"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "răng"
+     ],
+     [
+      "gãy",
+      "rơi",
+      "bật",
+      "văng",
+      "mẻ",
+      "rụng"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "dong_chay_xa_bo",
+   "nhom": "thien_tai",
+   "ten": "Bị dòng chảy kéo ra xa bờ",
+   "goi": "112",
+   "noi": "Giữ bình tĩnh, dòng chảy xa bờ không kéo bạn chìm xuống. Đừng cố bơi thẳng vào bờ ngược dòng, sẽ kiệt sức. Bơi song song với bờ cho đến khi thoát khỏi lực kéo, rồi bơi chéo vào bờ. Nếu không bơi vào được, thả lỏng cho nổi, quay mặt về bờ và gọi hoặc vẫy tay xin giúp. Chỉ tắm ở bãi có cứu hộ và không tắm một mình.",
+   "nguon": [
+    "nws_rip"
+   ],
+   "khoa": [
+    "dòng chảy xa bờ",
+    "dòng rip",
+    "bị cuốn ra xa",
+    "cuốn ra biển",
+    "kéo ra xa bờ",
+    "bị sóng cuốn",
+    "sóng cuốn",
+    "nước kéo ra xa"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "cuốn",
+      "kéo",
+      "lôi",
+      "đẩy"
+     ],
+     [
+      "xa bờ",
+      "ra xa",
+      "ra biển",
+      "ra khơi"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "loc_xoay",
+   "nhom": "thien_tai",
+   "ten": "Lốc xoáy, vòi rồng",
+   "goi": "112",
+   "noi": "Khi có lốc xoáy hoặc vòi rồng: vào ngay một tòa nhà kiên cố, xuống tầng thấp nhất hoặc vào phòng ở giữa nhà, tránh xa cửa sổ; không ở phòng rộng như hội trường. Lều, lán, chòi và nhà tạm không an toàn. Ở trong xe cũng không an toàn: lái đến chỗ trú gần nhất; nếu không kịp, cúi thấp trong xe và che đầu, hoặc bỏ xe nằm xuống chỗ trũng như mương, rãnh. Theo dõi tin cảnh báo trên đài.",
+   "nguon": [
+    "nws_loc"
+   ],
+   "khoa": [
+    "lốc xoáy",
+    "vòi rồng",
+    "cơn lốc",
+    "gió lốc",
+    "thấy lốc",
+    "lốc tới",
+    "lốc đến",
+    "lốc đang"
+   ],
+   "uu_tien": 2
+  },
+  {
+   "id": "ra_mau_thai",
+   "nhom": "so_cuu",
+   "ten": "Ra máu khi mang thai",
+   "goi": "115",
+   "noi": "Ra máu khi đang mang thai cần được coi là cấp cứu: liên hệ bác sĩ hoặc đến bệnh viện ngay, nhất là khi kèm đau bụng, co thắt, hoặc đã biết có nhau tiền đạo. Trong ba tháng đầu, ra máu có thể là dấu hiệu sảy thai hoặc thai ngoài tử cung. Trong lúc chờ, giảm vận động, nằm nghỉ, không quan hệ và không tự uống thuốc. Nếu không thể tự đến viện, gọi một một lăm.",
+   "nguon": [
+    "mp_thai"
+   ],
+   "khoa": [
+    "ra máu khi mang thai",
+    "động thai",
+    "dọa sảy",
+    "sảy thai",
+    "thai ngoài tử cung",
+    "mang thai ra máu",
+    "có thai ra máu"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "mang thai",
+      "có bầu",
+      "có thai",
+      "bà bầu",
+      "thai phụ",
+      "mang bầu",
+      "đang bầu"
+     ],
+     [
+      "ra máu",
+      "chảy máu",
+      "ra huyết",
+      "huyết",
+      "máu"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "tu_tu",
+   "nhom": "so_cuu",
+   "ten": "Có người muốn tự tử",
+   "goi": "115",
+   "noi": "Luôn coi lời nói muốn tự tử là nghiêm túc, đừng gạt đi hay cho là làm nũng. Nếu người đó vừa tự làm hại mình, đã uống thuốc, hoặc đang có nguy cơ ngay lúc này, gọi một một lăm ngay và ở bên cạnh họ, không để họ một mình kể cả sau khi đã gọi. Đừng tự xử lý một mình: báo cho người thân và đưa họ đến cơ sở y tế để được chăm sóc sức khỏe tâm thần sớm. Cất khóa thuốc men, rượu và những thứ có thể gây hại.",
+   "nguon": [
+    "mp_tutu"
+   ],
+   "khoa": [
+    "tự tử",
+    "tự sát",
+    "tự vẫn",
+    "quyên sinh",
+    "nhảy cầu",
+    "nhảy lầu",
+    "không muốn sống",
+    "tự làm hại",
+    "treo cổ",
+    "uống thuốc tự tử",
+    "cắt tay tự tử"
+   ],
+   "uu_tien": 4
+  },
+  {
+   "id": "bao_hanh_tre_em",
+   "nhom": "sinh_ton",
+   "ten": "Trẻ em bị bạo hành, xâm hại",
+   "goi": "111",
+   "noi": "Khi phát hiện trẻ em bị bạo lực, xâm hại hoặc có nguy cơ bị tổn hại, gọi ngay Tổng đài quốc gia bảo vệ trẻ em một một một: miễn phí, hoạt động 24 giờ mỗi ngày trên toàn quốc. Tư vấn viên sẽ kết nối với địa phương và cơ quan chức năng; ca khẩn cấp được xử lý trong vòng 12 giờ. Nếu cần công an can thiệp ngay, gọi một một ba.",
+   "nguon": [
+    "tdqg_111"
+   ],
+   "khoa": [
+    "bạo hành trẻ",
+    "bạo hành con",
+    "xâm hại trẻ",
+    "xâm hại tình dục",
+    "bị xâm hại",
+    "trẻ bị đánh",
+    "đánh đập con",
+    "ngược đãi trẻ",
+    "hành hạ trẻ",
+    "tổng đài 111",
+    "bạo hành"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "trẻ",
+      "bé",
+      "con",
+      "cháu",
+      "em bé"
+     ],
+     [
+      "bạo hành",
+      "xâm hại",
+      "đánh đập",
+      "hành hạ",
+      "ngược đãi",
+      "lạm dụng"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ro_ri_gas",
+   "nhom": "sinh_ton",
+   "ten": "Rò rỉ khí gas",
+   "goi": "114",
+   "noi": "Khi ngửi thấy mùi gas trong nhà, tuyệt đối không bật bếp, không bật hay tắt thiết bị điện ở khu vực đó, không dùng bật lửa hay diêm để soi. Báo ngay cho mọi người trong nhà, thận trọng mở cửa sổ, cửa ra vào, dùng quạt giấy lùa khí gas ra ngoài và khóa van bình. Nếu thấy nguy hiểm không thể vào được, gọi đơn vị cung cấp gas hoặc cảnh sát phòng cháy chữa cháy một một bốn.",
+   "nguon": [
+    "bca_gas"
+   ],
+   "khoa": [
+    "rò rỉ gas",
+    "rò gas",
+    "hở gas",
+    "mùi gas",
+    "mùi ga",
+    "rò rỉ khí gas",
+    "xì gas",
+    "hở van gas",
+    "rò rỉ ga",
+    "hở bình gas"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "gas",
+      "khí gas",
+      "bình gas",
+      "bình ga"
+     ],
+     [
+      "rò",
+      "rỉ",
+      "hở",
+      "xì",
+      "mùi",
+      "nồng"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "ket_thang_may",
+   "nhom": "sinh_ton",
+   "ten": "Kẹt trong thang máy",
+   "goi": "114",
+   "noi": "Giữ bình tĩnh, đừng hoảng loạn. Bấm nút khẩn cấp trong thang máy, gọi số cứu hộ ghi trong buồng thang và gọi một một bốn; nói ngắn gọn bạn tên gì, đang ở đâu, thấy gì. Dùng âm thanh để báo cho người bên ngoài biết. Không cố cạy cửa. Bình tĩnh chờ người đến cứu.",
+   "nguon": [
+    "pccc_thangmay"
+   ],
+   "khoa": [
+    "kẹt thang máy",
+    "kẹt trong thang máy",
+    "mắc kẹt thang máy",
+    "thang máy dừng",
+    "thang máy bị kẹt",
+    "thang máy không mở",
+    "thang máy mất điện"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "thang máy"
+     ],
+     [
+      "kẹt",
+      "dừng",
+      "không mở",
+      "mất điện",
+      "rơi",
+      "tụt",
+      "hỏng"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "khi_doc_ham",
+   "nhom": "sinh_ton",
+   "ten": "Ngạt khí dưới hầm, giếng, bể phốt",
+   "goi": "115",
+   "noi": "Người ngất rất nhanh sau khi xuống hầm biogas, bể phốt, giếng hay cống gần như chắc chắn bị ngộ độc khí độc. Tuyệt đối không lao xuống cứu nếu không có mặt nạ phòng độc kèm bình dưỡng khí; người xuống nối tiếp sẽ ngộ độc nối tiếp. Mở thông thoáng, dùng quạt hoặc bơm khí sạch để đẩy khí độc ra. Nếu buộc phải tiếp cận, người cứu phải buộc dây an toàn và có người phía trên sẵn sàng kéo lên ngay. Gọi một một bốn để cứu nạn và một một lăm để cấp cứu.",
+   "nguon": [
+    "bm_h2s"
+   ],
+   "khoa": [
+    "ngạt khí",
+    "ngạt khí hầm",
+    "ngộ độc khí hầm",
+    "khí h2s",
+    "ngạt hầm biogas"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "hầm",
+      "giếng",
+      "bể phốt",
+      "bể",
+      "cống",
+      "hầm biogas",
+      "hầm cầu"
+     ],
+     [
+      "ngất",
+      "bất tỉnh",
+      "ngạt",
+      "xỉu",
+      "không thấy lên",
+      "gục",
+      "khí độc"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "so_cuu_chung",
+   "nhom": "so_cuu",
+   "ten": "Gặp người bị nạn: các bước đầu tiên",
+   "goi": "115",
+   "noi": "Trước tiên kiểm tra nguy hiểm xung quanh như xe cộ, lửa, điện, để mình không thành nạn nhân tiếp theo. Gọi và vỗ vai xem người bị nạn có phản ứng không. Gọi một một lăm hoặc nhờ người khác gọi. Mở đường thở và kiểm tra hơi thở; nếu không thở bình thường, làm hồi sức tim phổi, cứ 30 lần ép tim thì thổi 2 hơi. Nếu chảy máu nhiều, ấn chặt lên vết thương. Không di chuyển người nghi chấn thương cổ hoặc lưng. Giữ ấm và không cho ăn uống.",
+   "nguon": [
+    "arc_vi",
+    "mp_soc"
+   ],
+   "khoa": [
+    "tai nạn giao thông",
+    "gặp tai nạn",
+    "người bị nạn",
+    "bị tai nạn",
+    "nằm bất động",
+    "tai nạn xe",
+    "người bị thương",
+    "sơ cứu ban đầu",
+    "nạn nhân",
+    "tai nạn"
+   ],
+   "uu_tien": 1
+  },
+  {
+   "id": "phong_xa",
+   "nhom": "thien_tai",
+   "ten": "Sự cố phóng xạ, hạt nhân",
+   "goi": "112",
+   "noi": "Khi có sự cố phóng xạ hoặc hạt nhân, cách tự bảo vệ tốt nhất là vào trong nhà, ở yên trong nhà và theo dõi tin. Vào ngay một tòa nhà, vì ô tô không che chắn tốt. Đừng ra ngoài đón người thân, vì sẽ làm cả hai bị nhiễm xạ. Theo dõi đài, ti vi, điện thoại và làm theo hướng dẫn của chính quyền. Tránh xa nơi xảy ra sự cố, không chạm vào hàng hóa rơi ra từ xe chở chất phóng xạ. Nếu nghĩ mình bị nhiễm, nghe hướng dẫn của cơ quan chức năng và liên hệ bác sĩ.",
+   "nguon": [
+    "cdc_phongxa"
+   ],
+   "khoa": [
+    "sự cố hạt nhân",
+    "rò rỉ phóng xạ",
+    "nhiễm phóng xạ",
+    "bị nhiễm xạ",
+    "bom hạt nhân",
+    "nổ hạt nhân",
+    "bom bẩn",
+    "cảnh báo phóng xạ",
+    "sự cố phóng xạ",
+    "bụi phóng xạ"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "phóng xạ",
+      "hạt nhân"
+     ],
+     [
+      "sự cố",
+      "rò",
+      "rỉ",
+      "nổ",
+      "bom",
+      "nhiễm",
+      "cảnh báo",
+      "tai nạn"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "tan_cong_vu_khi",
+   "nhom": "sinh_ton",
+   "ten": "Xả súng, tấn công bằng vũ khí",
+   "goi": "113",
+   "noi": "Khi có người xả súng hay tấn công bằng vũ khí, nhớ ba bước: chạy, trốn, báo. Chạy: nếu an toàn, chạy ngay đến nơi an toàn; đây là cách tốt nhất, tốt hơn đầu hàng hay thương lượng. Trốn: nếu không chạy được thì trốn, chặn cửa lại nếu có thể, chuyển điện thoại sang chế độ im lặng và tắt rung. Báo: khi đã an toàn, gọi công an một một ba; ở nước ngoài thì gọi số khẩn cấp nơi đó.",
+   "nguon": [
+    "ctp_rht"
+   ],
+   "khoa": [
+    "xả súng",
+    "nổ súng",
+    "tiếng súng",
+    "khủng bố",
+    "cầm dao tấn công",
+    "tấn công bằng dao",
+    "kẻ tấn công",
+    "đâm chém",
+    "bắn người"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "súng",
+      "dao",
+      "vũ khí",
+      "mã tấu"
+     ],
+     [
+      "tấn công",
+      "xả",
+      "nổ",
+      "bắn",
+      "đâm",
+      "chém",
+      "cầm"
+     ]
+    ]
+   ],
+   "tru": [
+    "phim",
+    "game",
+    "trò chơi",
+    "truyện",
+    "súng nước",
+    "súng đồ chơi",
+    "chảy máu"
+   ]
+  },
+  {
+   "id": "sinh_con_khan_cap",
+   "nhom": "so_cuu",
+   "ten": "Sinh con khẩn cấp, sảy thai",
+   "goi": "115",
+   "noi": "Gọi một một lăm, và gọi nữ hộ sinh nếu có. Hỏi người mẹ có đồng ý để mình giúp không, giúp họ vào tư thế thoải mái và trấn an rằng sắp có người đến. Ở bên cạnh, giữ họ bình tĩnh, theo dõi xem có ra máu nhiều hoặc đau bất thường như quặn thắt bụng dưới. Nếu có biến chứng, cho người mẹ nằm, bảo họ cố đừng rặn mà thở hổn hển mạnh theo mỗi cơn co, kê gối dưới hông và mông bên phải. Nếu sảy thai và ra máu nhiều, gọi một một lăm, không cho ăn uống, chỉ làm ẩm môi.",
+   "nguon": [
+    "stjohn_sinh"
+   ],
+   "khoa": [
+    "sắp sinh",
+    "sắp đẻ",
+    "vỡ ối",
+    "chuyển dạ",
+    "đẻ rơi",
+    "đẻ tại nhà",
+    "sinh tại nhà",
+    "đẻ ngoài đường",
+    "sinh con khẩn cấp",
+    "đỡ đẻ",
+    "em bé sắp ra",
+    "sinh giữa đường",
+    "đẻ giữa đường",
+    "đau đẻ"
+   ],
+   "uu_tien": 3
+  },
+  {
+   "id": "so_khan_cap_quoc_te",
+   "nhom": "sinh_ton",
+   "ten": "Số khẩn cấp khi ở nước ngoài",
+   "goi": "112",
+   "noi": "Khi ở nước ngoài: một một hai là số khẩn cấp chung ở mọi nước Liên minh châu Âu, miễn phí, gọi được từ điện thoại bàn và di động, và cũng dùng được trên mạng di động GSM ở nhiều nơi khác. Ở Mỹ gọi chín một một, ở Anh chín chín chín, ở Úc không không không, ở New Zealand một một một. Ở Việt Nam gọi một một lăm cấp cứu, một một ba công an, một một bốn cứu hỏa. Khi gọi, nói rõ bạn đang ở đâu và chuyện gì xảy ra.",
+   "nguon": [
+    "ec_112",
+    "mp_cpr",
+    "ctp_rht",
+    "arc_vi",
+    "stjohn_sinh",
+    "ttg_112"
+   ],
+   "khoa": [
+    "số 911",
+    "gọi 911",
+    "số 999",
+    "số 000",
+    "số khẩn cấp quốc tế",
+    "số khẩn cấp ở nước ngoài"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "nước ngoài",
+      "châu âu",
+      "mỹ",
+      "anh",
+      "úc",
+      "nhật",
+      "nhật bản",
+      "hàn quốc",
+      "pháp",
+      "đức",
+      "thái lan",
+      "singapore",
+      "trung quốc",
+      "canada",
+      "new zealand",
+      "ý",
+      "nga"
+     ],
+     [
+      "cấp cứu",
+      "khẩn cấp",
+      "cảnh sát",
+      "công an",
+      "cứu hỏa",
+      "số mấy",
+      "số nào",
+      "gọi số",
+      "gọi ai"
+     ]
+    ]
+   ],
+   "bo_qua_kien_thuc": true
+  },
+  {
+   "id": "te_cong",
+   "nhom": "so_cuu",
+   "ten": "Tê cóng",
+   "goi": "115",
+   "noi": "Dấu hiệu tê cóng: da đỏ hoặc đau lúc đầu, rồi trắng hay vàng xám, sờ cứng như sáp, tê mất cảm giác. Tìm chăm sóc y tế sớm nhất có thể. Đưa người vào phòng hay chỗ trú ấm, cởi đồ ướt, ủ ấm bằng chăn và quần áo khô. Ngâm vùng bị tê cóng trong nước ấm vừa phải khi sờ. Không chà xát hay xoa bóp vùng tê cóng; không hơ lửa, lò sưởi, đèn sưởi, bếp, túi chườm nóng hay chăn điện; không đi lại bằng bàn chân bị tê cóng nếu không cần thiết. Kiểm tra cả dấu hiệu hạ thân nhiệt.",
+   "nguon": [
+    "cdc_hathan"
+   ],
+   "khoa": [
+    "tê cóng",
+    "bỏng lạnh",
+    "bị cóng",
+    "cóng tay",
+    "cóng chân",
+    "tê buốt vì lạnh"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "cóng",
+      "trắng bệch",
+      "cứng đờ",
+      "tê"
+     ],
+     [
+      "lạnh",
+      "tuyết",
+      "băng",
+      "rét"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "bao_tuyet",
+   "nhom": "thien_tai",
+   "ten": "Bão tuyết, kẹt xe trong tuyết",
+   "goi": "112",
+   "noi": "Nếu xe bị kẹt trong bão tuyết, ở yên trong xe; ra ngoài sẽ nhanh chóng mất phương hướng trong gió tuyết. Mỗi giờ nổ máy khoảng 10 phút để sưởi; khi nổ máy thì hé cửa kính và dọn tuyết khỏi ống xả để tránh ngộ độc khí. Ban đêm bật đèn trần khi nổ máy, buộc mảnh vải màu đỏ lên ăng ten hoặc cửa xe; khi tuyết ngừng rơi thì mở nắp ca pô để báo cần giúp. Không ăn tuyết chưa tan vì làm hạ thân nhiệt. Thỉnh thoảng cử động tay chân.",
+   "nguon": [
+    "nws_tuyet"
+   ],
+   "khoa": [
+    "bão tuyết",
+    "kẹt trong tuyết",
+    "mắc kẹt trong tuyết",
+    "xe kẹt tuyết",
+    "đường đầy tuyết",
+    "tuyết rơi dày"
+   ],
+   "uu_tien": 2,
+   "to_hop": [
+    [
+     [
+      "tuyết"
+     ],
+     [
+      "kẹt",
+      "mắc kẹt",
+      "bão",
+      "không đi được",
+      "lạc"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "gap_gau",
+   "nhom": "sinh_ton",
+   "ten": "Gặp gấu",
+   "goi": "112",
+   "noi": "Gặp gấu: giữ bình tĩnh, nói nhỏ nhẹ, đứng yên và từ từ vẫy tay. Bế trẻ nhỏ lên ngay. Không chạy, không la hét, không cử động đột ngột, không trèo cây, không thả ba lô. Nếu gấu đứng yên, đi chậm sang ngang để rời đi, luôn chừa đường cho gấu. Nếu gấu nâu tấn công, giữ ba lô, nằm sấp, hai tay đan sau gáy, nằm yên đến khi gấu bỏ đi; nếu nó vẫn tấn công thì đánh trả vào mặt. Nếu là gấu đen, không giả chết: chạy vào xe hay nhà, không được thì đánh vào mặt và mõm gấu.",
+   "nguon": [
+    "nps_gau"
+   ],
+   "khoa": [
+    "gặp gấu",
+    "gấu tấn công",
+    "bị gấu",
+    "con gấu",
+    "gấu đen",
+    "gấu nâu",
+    "gấu xám",
+    "thấy gấu"
+   ],
+   "uu_tien": 2,
+   "tru": [
+    "gấu bông",
+    "gấu trúc"
+   ]
+  },
+  {
+   "id": "bao_cat",
+   "nhom": "thien_tai",
+   "ten": "Bão cát, bão bụi khi lái xe",
+   "goi": "112",
+   "noi": "Tránh đi vào vùng có bão cát nếu có thể. Nếu đang lái xe mà bụi dày tràn qua đường, lái xe ra khỏi mặt đường càng xa càng tốt, dừng lại, tắt hết đèn, kéo phanh tay và nhả chân phanh để đèn sau không sáng, vì xe sau có thể đi theo đèn và đâm vào. Không bao giờ dừng xe ngay trên làn đường. Nếu không tấp vào được, đi chậm theo tầm nhìn, bật đèn, thỉnh thoảng bấm còi, bám theo vạch sơn giữa đường và tìm chỗ an toàn để tấp vào.",
+   "nguon": [
+    "nws_bui"
+   ],
+   "khoa": [
+    "bão cát",
+    "bão bụi",
+    "lốc bụi",
+    "bụi mù mịt",
+    "cát bay mù mịt"
+   ],
+   "uu_tien": 3
+  },
+  {
+   "id": "giam_dap",
+   "nhom": "sinh_ton",
+   "ten": "Chen lấn, giẫm đạp trong đám đông",
+   "goi": "114",
+   "noi": "Khi đám đông hỗn loạn, bình tĩnh quan sát và tìm hướng thoát, đi xuôi theo dòng người để dần ra rìa đám đông, tuyệt đối không đi ngược dòng. Khi bị chèn ép, để hai tay trước ngực để bảo vệ lồng ngực. Nếu bị ngã, cuộn người lại như tư thế thai nhi, tránh nằm sấp hay nằm ngửa. Tìm chỗ cao như bệ cửa sổ, bức tường, ban công tầng thấp để trèo lên tránh bị ép. Khi đến nơi đông người, để ý lối ra gần mình; thấy hỗn loạn thì rời đi sớm.",
+   "nguon": [
+    "pccc_damdong"
+   ],
+   "khoa": [
+    "giẫm đạp",
+    "giẫm lên nhau",
+    "đám đông chen lấn",
+    "kẹt giữa đám đông",
+    "chen chúc",
+    "xô đẩy",
+    "đám đông hỗn loạn",
+    "ngã giữa đám đông"
+   ],
+   "uu_tien": 3,
+   "to_hop": [
+    [
+     [
+      "đám đông",
+      "đông người",
+      "biển người"
+     ],
+     [
+      "kẹt",
+      "chen",
+      "xô",
+      "ép",
+      "ngã",
+      "giẫm",
+      "đạp",
+      "hỗn loạn",
+      "không thở"
+     ]
+    ]
+   ]
+  }
+ ],
+ "tre_so_sinh": {
+  "tu_the": "hoc_di_vat",
+  "sang": "hoc_tre_so_sinh"
+ },
+ "quy_tac": {
+  "hoi_cach_lam": [
+   "làm gì",
+   "làm sao",
+   "phải làm",
+   "nên làm",
+   "cần làm",
+   "xử lý",
+   "xử trí",
+   "sơ cứu",
+   "cấp cứu",
+   "cứu với",
+   "cứu tôi",
+   "giúp tôi",
+   "giúp mình",
+   "giúp với",
+   "có nên",
+   "sao đây",
+   "bây giờ",
+   "ra sao",
+   "thế nào cho an toàn",
+   "an toàn không",
+   "nguy hiểm không",
+   "gọi số",
+   "cần chuẩn bị",
+   "chuẩn bị gì",
+   "mang theo",
+   "phải sao",
+   "cứu thế nào",
+   "dấu hiệu",
+   "chạy kịp",
+   "liều",
+   "uống bao nhiêu"
+  ],
+  "kien_thuc": [
+   "là gì",
+   "nghĩa là",
+   "tại sao",
+   "vì sao",
+   "do đâu",
+   "nguyên nhân",
+   "hình thành",
+   "lịch sử",
+   "bao nhiêu",
+   "năm nào",
+   "khác nhau",
+   "giải thích",
+   "định nghĩa",
+   "là ai",
+   "phát minh",
+   "ảnh hưởng",
+   "có gây",
+   "gây ra",
+   "báo trước",
+   "là của ai",
+   "thường đánh",
+   "hay bị",
+   "hiện tượng",
+   "xảy ra",
+   "lớn cỡ nào",
+   "thiệt hại"
+  ],
+  "khan_cap": [
+   "cấp cứu",
+   "sơ cứu",
+   "bị thương",
+   "tai nạn",
+   "nguy kịch",
+   "khó thở",
+   "ngộ độc",
+   "co giật",
+   "sốt cao",
+   "bị sốt",
+   "nôn",
+   "ói",
+   "đau",
+   "sưng",
+   "bị cắn",
+   "bị đốt",
+   "đốt",
+   "cứu với",
+   "cứu tôi",
+   "động đất",
+   "sóng thần",
+   "hôn mê",
+   "li bì",
+   "gọi không dậy",
+   "uống thuốc",
+   "thuốc gì",
+   "thuốc hạ sốt",
+   "bong gân",
+   "trật khớp",
+   "hen",
+   "suyễn",
+   "hạ đường huyết",
+   "bị lạc",
+   "lạc đường",
+   "mủ",
+   "khâu",
+   "nhiễm trùng",
+   "thảm họa",
+   "khẩn cấp",
+   "chích",
+   "đâm",
+   "nuốt phải",
+   "huyết áp",
+   "chóng mặt",
+   "chuột rút",
+   "trẹo",
+   "ra máu",
+   "phát ban",
+   "bám",
+   "gãy",
+   "sinh con",
+   "sắp sinh",
+   "sắp đẻ",
+   "chuyển dạ",
+   "vỡ ối",
+   "rết",
+   "cá nóc",
+   "bị đè",
+   "đổ nát",
+   "tuyết lở",
+   "lở tuyết",
+   "say độ cao",
+   "mất thị lực",
+   "tím tái",
+   "bị tấn công",
+   "bị cào",
+   "uống nhầm",
+   "nhiễm khói",
+   "ngất",
+   "bất tỉnh",
+   "ngạt",
+   "đau đầu dữ dội",
+   "bị cá mập",
+   "bị cá sấu",
+   "bị sói",
+   "bị thú"
+  ],
+  "khong_khan_cap": [
+   "đau buồn",
+   "đau lòng",
+   "đau khổ",
+   "đau đầu vì học",
+   "nỗi đau"
+  ],
+  "nam_kien_thuc": "năm (19|20)[0-9][0-9]",
+  "tre_nho": [
+   "sơ sinh",
+   "dưới một tuổi",
+   "dưới 1 tuổi"
+  ],
+  "tre_nho_thang": [
+   "một",
+   "hai",
+   "ba",
+   "bốn",
+   "năm",
+   "sáu",
+   "bảy",
+   "tám",
+   "chín",
+   "mười",
+   "mười một"
+  ],
+  "tre_em": [
+   "trẻ em",
+   "em bé",
+   "cháu bé",
+   "đứa trẻ",
+   "đứa bé",
+   "thằng bé",
+   "con bé",
+   "bé trai",
+   "bé gái",
+   "con nhỏ",
+   "bé"
+  ]
+ },
+ "chuyen_the": [
+  {
+   "tu_the": "hoc_di_vat",
+   "sang": "hoc_tre_so_sinh",
+   "khi": "so_sinh"
+  },
+  {
+   "tu_the": "hoi_suc_tim_phoi",
+   "sang": "hoi_suc_so_sinh",
+   "khi": "so_sinh"
+  },
+  {
+   "tu_the": "hoi_suc_tre_em",
+   "sang": "hoi_suc_so_sinh",
+   "khi": "so_sinh"
+  },
+  {
+   "tu_the": "hoi_suc_tim_phoi",
+   "sang": "hoi_suc_tre_em",
+   "khi": "tre_em"
+  }
+ ]
+}

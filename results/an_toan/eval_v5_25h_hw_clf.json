@@ -1,0 +1,388 @@
+{
+ "tag": "v5_25h_hw_clf",
+ "classifier": true,
+ "by_classifier": 1,
+ "cards": 85,
+ "version": "2026-11-06",
+ "n": 76,
+ "match_ms_per_question": 0.344,
+ "by_kind": {
+  "trong": {
+   "n": 36,
+   "sot": 20,
+   "dung": 15,
+   "du_phong": 2,
+   "sai_the": 1
+  },
+  "ngoai": {
+   "n": 20,
+   "khong_kich_hoat": 14,
+   "dung": 3,
+   "sai_the": 3
+  },
+  "am": {
+   "n": 20,
+   "dung": 20
+  },
+  "qa": {}
+ },
+ "errors": [
+  {
+   "q": "Tê cóng có nên xoa bóp không",
+   "nhan": "te_cong",
+   "loai": "trong",
+   "text": "tịnh cống có liên xoa bóp không",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Chị tôi đang chuyển dạ đau bụng dữ dội",
+   "nhan": "sinh_con_khan_cap",
+   "loai": "trong",
+   "text": "vì vậy trí tôi đang chuyển ra đau bung dữ dội và không",
+   "got": "du_phong",
+   "key": "",
+   "via": "luat"
+  },
+  {
+   "q": "Bị bỏng lạnh ở tai",
+   "nhan": "te_cong",
+   "loai": "trong",
+   "text": "bị bỏng ngang vào tai",
+   "got": "bong",
+   "key": "bị bỏng",
+   "via": "luat"
+  },
+  {
+   "q": "Núi lửa phun trào gần khách sạn",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "núi lửa phụ chao gần khách sạn",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Có kẻ xả súng trong trung tâm thương mại",
+   "nhan": "tan_cong_vu_khi",
+   "loai": "trong",
+   "text": "có kẻ xa súng trong trung tâm thương mại",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Leo núi tuyết bị tê cóng ngón tay",
+   "nhan": "te_cong",
+   "loai": "trong",
+   "text": "lau nối thiết bị thể cắm ngón tay",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Đẻ rơi tại nhà phải làm sao",
+   "nhan": "sinh_con_khan_cap",
+   "loai": "trong",
+   "text": "mẹ rơi tại nhà phải làm sao",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bão bụi mù mịt trên đường cao tốc",
+   "nhan": "bao_cat",
+   "loai": "trong",
+   "text": "và vùng mù mịt trên đường cao tốc",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Con gấu đang tiến lại gần",
+   "nhan": "gap_gau",
+   "loai": "trong",
+   "text": "không ngừng đau thịnh lại gần tôi",
+   "got": "du_phong",
+   "key": "",
+   "via": "luat"
+  },
+  {
+   "q": "Bị cá sấu tấn công",
+   "nhan": [
+    "du_phong",
+    "cho_meo_can"
+   ],
+   "loai": "ngoai",
+   "text": "bị cáo xấu tấn công",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị rết cắn sưng to",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bị rét cắn xương to cắn",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị say độ cao khi leo núi",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "vì sánh độ cao khi nhăng núi",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị vỡ ối giữa đường",
+   "nhan": "sinh_con_khan_cap",
+   "loai": "trong",
+   "text": "người vợ uống rượu đường",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị kẹt dưới đống đổ nát",
+   "nhan": [
+    "du_phong",
+    "mac_ket_cau_cuu"
+   ],
+   "loai": "ngoai",
+   "text": "bị thép dưới đống nộp",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Gặp bão cát ở sa mạc",
+   "nhan": "bao_cat",
+   "loai": "trong",
+   "text": "đồng bào cát ở sa mạc",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Đang lái xe thì gặp bão tuyết",
+   "nhan": "bao_tuyet",
+   "loai": "trong",
+   "text": "năm ngoái set thì gặp bảo thiết",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Lốc bụi che hết tầm nhìn khi lái xe",
+   "nhan": "bao_cat",
+   "loai": "trong",
+   "text": "đốc bù trẻ hết tầm nhìn khi lái xe",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Trẻ bị sốt phát ban tím",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "trẻ bị sốt phát bạ thín",
+   "got": "sot_cao",
+   "key": "bị sốt",
+   "via": "luat"
+  },
+  {
+   "q": "Bị kẹt chân vào đường ray tàu",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bị kẹt chân vào nương say tàu",
+   "got": "mac_ket_cau_cuu",
+   "key": "bị kẹt",
+   "via": "luat"
+  },
+  {
+   "q": "Bé nuốt nam châm",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "đến một nắm chân tay",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị ngã giữa đám đông",
+   "nhan": "giam_dap",
+   "loai": "trong",
+   "text": "bình la giữa đám đông",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị lạc trên núi tuyết",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "một ngụy lạ trên núi thuyết",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị nhiễm khói cháy rừng",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "mình nghiêng khói cháy rừng",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị thú hoang cào",
+   "nhan": [
+    "du_phong",
+    "cho_meo_can"
+   ],
+   "loai": "ngoai",
+   "text": "thị tú ngoan không",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Cảnh báo rò rỉ phóng xạ phải làm gì",
+   "nhan": "phong_xa",
+   "loai": "trong",
+   "text": "canh báo rõ gì phóng ra phải làm gì",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Xe bị kẹt trong bão tuyết",
+   "nhan": "bao_tuyet",
+   "loai": "trong",
+   "text": "xe bị thẻ trong bảo tước",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Gặp khủng bố phải làm gì",
+   "nhan": "tan_cong_vu_khi",
+   "loai": "trong",
+   "text": "nó không bố phải làm gì",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị cá mập cắn",
+   "nhan": [
+    "du_phong",
+    "chay_mau"
+   ],
+   "loai": "ngoai",
+   "text": "mình cảm ngập gần",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Số cảnh sát ở Anh là gì",
+   "nhan": "so_khan_cap_quoc_te",
+   "loai": "trong",
+   "text": "dấu canh xác cực anh là dị ứng",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Đang lái xe gặp bão cát",
+   "nhan": "bao_cat",
+   "loai": "trong",
+   "text": "đang lái xe áp đảo cát",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Có tuyết lở",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "cô thích lắm",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Đau đầu dữ dội như sét đánh",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "đau đầu dữ dội như sét đánh",
+   "got": "giong_set",
+   "key": "sét đánh",
+   "via": "luat"
+  },
+  {
+   "q": "Ăn phải cá nóc",
+   "nhan": [
+    "du_phong",
+    "ngo_doc_thuc_pham"
+   ],
+   "loai": "ngoai",
+   "text": "cần phải vào lớp",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Gặp gấu trong rừng",
+   "nhan": "gap_gau",
+   "loai": "trong",
+   "text": "vào gấu trong dựng",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị chuột rút giữa hồ sâu",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "bị chuột giúp giữa hũ sông",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị nhiễm phóng xạ phải làm sao",
+   "nhan": "phong_xa",
+   "loai": "trong",
+   "text": "nhưng phóng xa phải làm sao",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị gấu tấn công phải làm gì",
+   "nhan": "gap_gau",
+   "loai": "trong",
+   "text": "nghiên cứu tấn công phải làm gì",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Đột nhiên mất thị lực một bên mắt",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "đột nhiên mất tỉ lượt một bên mắt",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  }
+ ]
+}

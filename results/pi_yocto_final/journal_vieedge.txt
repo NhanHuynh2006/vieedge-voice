@@ -1,0 +1,55 @@
+Jun 26 08:44:15 raspberrypi5 systemd[1]: Starting VieEdge-Voice offline Vietnamese voice assistant...
+Jun 26 08:44:15 raspberrypi5 vieedge-audio-select[393]: vieedge-audio-select: no USB audio card, using ALSA default
+Jun 26 08:44:15 raspberrypi5 systemd[1]: Started VieEdge-Voice offline Vietnamese voice assistant.
+Jun 26 08:44:20 raspberrypi5 python3[402]: 2025-06-26 08:44:20,285 vieedge.audio.rt_engine INFO audio process ready: {'ready': True, 'fifo': True, 'mlock': True, 'core': 3, 'latency_s': 0.15, 'pid': 441, 'backend': 'remote'}
+Oct 21 09:34:12 raspberrypi5 python3[402]: 2026-10-21 09:34:12,593 vieedge.llm.llamacpp_stream INFO starting llama-server: taskset -c 0-2 /usr/bin/llama-server -m /opt/vieedge/models/llm/gguf/qwen3.5-0.8b-vi-voice-Q4_0.gguf --host 127.0.0.1 --port 8088 -t 3 -tb 3 -c 2048 -b 256 -ub 256 -np 1 --jinja --no-webui -lm mmap+mlock
+Oct 21 09:34:22 raspberrypi5 python3[402]: 2026-10-21 09:34:22,148 vieedge.llm.llamacpp_stream INFO llama-server ready in 9.5s
+Oct 21 09:34:23 raspberrypi5 python3[402]: 2026-10-21 09:34:23,725 vieedge.pipeline INFO LLM warm-up: prompt 164 tok in 1572 ms
+Oct 21 09:34:25 raspberrypi5 python3[402]: 2026-10-21 09:34:25,403 vieedge.web.server INFO dashboard on http://0.0.0.0:8000
+Oct 21 09:34:25 raspberrypi5 python3[402]: 2026-10-21 09:34:25,407 vieedge.web.server INFO phone page on https://0.0.0.0:8443/phone (self-signed certificate: accept the browser warning once)
+Oct 21 09:34:25 raspberrypi5 python3[402]: 2026-10-21 09:34:25,467 vieedge.gpio INFO GPIO on /dev/gpiochip0: button 17, LEDs {'listening': 22, 'thinking': 23, 'speaking': 24}
+Oct 21 09:34:25 raspberrypi5 python3[402]: 2026-10-21 09:34:25,469 vieedge.pipeline INFO VieEdge ready (init 22231 ms) — listening
+Oct 21 09:34:45 raspberrypi5 python3[402]: 2026-10-21 09:34:45,603 vieedge.fastpath INFO fastpath: 66 phrases ready
+Oct 21 09:37:37 raspberrypi5 systemd[1]: Stopping VieEdge-Voice offline Vietnamese voice assistant...
+Oct 21 09:37:37 raspberrypi5 python3[440]: /usr/lib/python3.12/multiprocessing/resource_tracker.py:279: UserWarning: resource_tracker: There appear to be 9 leaked semaphore objects to clean up at shutdown
+Oct 21 09:37:37 raspberrypi5 python3[440]:   warnings.warn('resource_tracker: There appear to be %d '
+Oct 21 09:37:37 raspberrypi5 python3[440]: /usr/lib/python3.12/multiprocessing/resource_tracker.py:279: UserWarning: resource_tracker: There appear to be 2 leaked shared_memory objects to clean up at shutdown
+Oct 21 09:37:37 raspberrypi5 python3[440]:   warnings.warn('resource_tracker: There appear to be %d '
+Oct 21 09:37:37 raspberrypi5 systemd[1]: vieedge.service: Deactivated successfully.
+Oct 21 09:37:37 raspberrypi5 systemd[1]: Stopped VieEdge-Voice offline Vietnamese voice assistant.
+Oct 21 09:37:37 raspberrypi5 systemd[1]: vieedge.service: Consumed 1min 46.661s CPU time.
+Oct 21 09:37:37 raspberrypi5 systemd[1]: Starting VieEdge-Voice offline Vietnamese voice assistant...
+Oct 21 09:37:37 raspberrypi5 vieedge-audio-select[947]: vieedge-audio-select: no USB audio card, using ALSA default
+Oct 21 09:37:37 raspberrypi5 systemd[1]: Started VieEdge-Voice offline Vietnamese voice assistant.
+Oct 21 09:37:40 raspberrypi5 python3[950]: 2026-10-21 09:37:40,058 vieedge.audio.rt_engine INFO audio process ready: {'ready': True, 'fifo': True, 'mlock': True, 'core': 3, 'latency_s': 0.15, 'pid': 956, 'backend': 'remote'}
+Oct 21 09:37:42 raspberrypi5 python3[950]: 2026-10-21 09:37:42,576 vieedge.llm.llamacpp_stream INFO starting llama-server: taskset -c 0-2 /usr/bin/llama-server -m /opt/vieedge/models/llm/gguf/qwen3.5-0.8b-vi-voice-Q4_0.gguf --host 127.0.0.1 --port 8088 -t 3 -tb 3 -c 2048 -b 256 -ub 256 -np 1 --jinja --no-webui -lm mmap+mlock
+Oct 21 09:37:45 raspberrypi5 python3[950]: 2026-10-21 09:37:45,347 vieedge.llm.llamacpp_stream INFO llama-server ready in 2.8s
+Oct 21 09:37:46 raspberrypi5 python3[950]: 2026-10-21 09:37:46,933 vieedge.pipeline INFO LLM warm-up: prompt 164 tok in 1581 ms
+Oct 21 09:37:47 raspberrypi5 python3[950]: 2026-10-21 09:37:47,537 vieedge.fastpath INFO fastpath: 66 phrases ready
+Oct 21 09:37:48 raspberrypi5 python3[950]: 2026-10-21 09:37:48,057 vieedge.web.server INFO dashboard on http://0.0.0.0:8000
+Oct 21 09:37:48 raspberrypi5 python3[950]: 2026-10-21 09:37:48,058 vieedge.web.server INFO phone page on https://0.0.0.0:8443/phone (self-signed certificate: accept the browser warning once)
+Oct 21 09:37:48 raspberrypi5 python3[950]: 2026-10-21 09:37:48,083 vieedge.gpio INFO GPIO on /dev/gpiochip0: button 17, LEDs {'listening': 22, 'thinking': 23, 'speaking': 24}
+Oct 21 09:37:48 raspberrypi5 python3[950]: 2026-10-21 09:37:48,085 vieedge.pipeline INFO VieEdge ready (init 10270 ms) — listening
+Oct 21 09:44:14 raspberrypi5 systemd[1]: Stopping VieEdge-Voice offline Vietnamese voice assistant...
+Oct 21 09:44:14 raspberrypi5 python3[955]: /usr/lib/python3.12/multiprocessing/resource_tracker.py:279: UserWarning: resource_tracker: There appear to be 9 leaked semaphore objects to clean up at shutdown
+Oct 21 09:44:14 raspberrypi5 python3[955]:   warnings.warn('resource_tracker: There appear to be %d '
+Oct 21 09:44:14 raspberrypi5 python3[955]: /usr/lib/python3.12/multiprocessing/resource_tracker.py:279: UserWarning: resource_tracker: There appear to be 2 leaked shared_memory objects to clean up at shutdown
+Oct 21 09:44:14 raspberrypi5 python3[955]:   warnings.warn('resource_tracker: There appear to be %d '
+Oct 21 09:45:44 raspberrypi5 systemd[1]: vieedge.service: State 'final-sigterm' timed out. Killing.
+Oct 21 09:45:44 raspberrypi5 systemd[1]: vieedge.service: Killing process 973 (llama-server) with signal SIGKILL.
+Oct 21 09:45:44 raspberrypi5 systemd[1]: vieedge.service: Killing process 984 (llama-server) with signal SIGKILL.
+Oct 21 09:45:44 raspberrypi5 systemd[1]: vieedge.service: Failed with result 'timeout'.
+Oct 21 09:45:44 raspberrypi5 systemd[1]: Stopped VieEdge-Voice offline Vietnamese voice assistant.
+Oct 21 09:45:44 raspberrypi5 systemd[1]: vieedge.service: Consumed 1min 3.675s CPU time.
+Oct 21 09:45:44 raspberrypi5 systemd[1]: Starting VieEdge-Voice offline Vietnamese voice assistant...
+Oct 21 09:45:44 raspberrypi5 vieedge-audio-select[1801]: vieedge-audio-select: no USB audio card, using ALSA default
+Oct 21 09:45:44 raspberrypi5 systemd[1]: Started VieEdge-Voice offline Vietnamese voice assistant.
+Oct 21 09:45:47 raspberrypi5 python3[1807]: 2026-10-21 09:45:47,461 vieedge.audio.rt_engine INFO audio process ready: {'ready': True, 'fifo': True, 'mlock': True, 'core': 3, 'latency_s': 0.15, 'pid': 1812, 'backend': 'remote'}
+Oct 21 09:45:49 raspberrypi5 python3[1807]: 2026-10-21 09:45:49,971 vieedge.llm.llamacpp_stream INFO starting llama-server: taskset -c 0-2 /usr/bin/llama-server -m /opt/vieedge/models/llm/gguf/qwen3.5-0.8b-vi-voice-Q4_0.gguf --host 127.0.0.1 --port 8088 -t 3 -tb 3 -c 2048 -b 256 -ub 256 -np 1 --jinja --no-webui -lm mmap+mlock
+Oct 21 09:45:52 raspberrypi5 python3[1807]: 2026-10-21 09:45:52,744 vieedge.llm.llamacpp_stream INFO llama-server ready in 2.8s
+Oct 21 09:45:54 raspberrypi5 python3[1807]: 2026-10-21 09:45:54,312 vieedge.pipeline INFO LLM warm-up: prompt 164 tok in 1563 ms
+Oct 21 09:45:54 raspberrypi5 python3[1807]: 2026-10-21 09:45:54,899 vieedge.fastpath INFO fastpath: 66 phrases ready
+Oct 21 09:45:55 raspberrypi5 python3[1807]: 2026-10-21 09:45:55,400 vieedge.web.server INFO dashboard on http://0.0.0.0:8000
+Oct 21 09:45:55 raspberrypi5 python3[1807]: 2026-10-21 09:45:55,403 vieedge.web.server INFO phone page on https://0.0.0.0:8443/phone (self-signed certificate: accept the browser warning once)
+Oct 21 09:45:55 raspberrypi5 python3[1807]: 2026-10-21 09:45:55,424 vieedge.gpio INFO GPIO on /dev/gpiochip0: button 17, LEDs {'listening': 22, 'thinking': 23, 'speaking': 24}
+Oct 21 09:45:55 raspberrypi5 python3[1807]: 2026-10-21 09:45:55,426 vieedge.pipeline INFO VieEdge ready (init 10202 ms) — listening

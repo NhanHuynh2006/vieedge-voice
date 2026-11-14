@@ -1,0 +1,6 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+shard 0: 90529 candidate articles
+shard 1: 113623 candidate articles
+shard 2: 125332 candidate articles
+shard 3: 260049 candidate articles
+200000 articles, 1165270 chunks -> /home/nhanhuynh/Documents/robotassitance/vieedge-voice/models/rag/wiki_vi.sqlite (928 MB)

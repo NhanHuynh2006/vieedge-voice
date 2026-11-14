@@ -1,0 +1,14 @@
+# O3/O4: PREEMPT_RT kernel + isolated audio core (core 3).
+# O3 vs O4 differ only in the kernel cmdline + runtime tuning, switchable on the device:
+#   vieedge-osmode o3   # drop isolcpus/nohz_full/rcu_nocbs, no IRQ pinning, no SCHED_FIFO
+#   vieedge-osmode o4   # default for this image
+header:
+  version: 14
+  includes:
+    - kas.yml
+
+local_conf_header:
+  40-rt: |
+    VIEEDGE_RT = "1"
+    ISOLATED_CPUS = "3"
+    CMDLINE_DEBUG = "nohz_full=3 rcu_nocbs=3 irqaffinity=0-2"

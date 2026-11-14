@@ -1,0 +1,91 @@
+{
+ "tag": "doc_lap_v4",
+ "classifier": false,
+ "by_classifier": 0,
+ "cards": 76,
+ "version": "2026-11-06",
+ "n": 94,
+ "match_ms_per_question": 0.366,
+ "by_kind": {
+  "trong": {
+   "n": 64,
+   "dung": 64
+  },
+  "ngoai": {
+   "n": 10,
+   "dung": 3,
+   "khong_kich_hoat": 5,
+   "sai_the": 2
+  },
+  "am": {
+   "n": 20,
+   "dung": 20
+  },
+  "qa": {}
+ },
+ "errors": [
+  {
+   "q": "Sinh con giữa đường không kịp đến viện",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Sinh con giữa đường không kịp đến viện",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị rết cắn",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị rết cắn",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị chuột cắn",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị chuột cắn",
+   "got": "cho_meo_can",
+   "key": "chuột cắn",
+   "via": "luat"
+  },
+  {
+   "q": "Ăn phải cá nóc",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Ăn phải cá nóc",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị vật nặng đè lên người không cử động được",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị vật nặng đè lên người không cử động được",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  },
+  {
+   "q": "Bị kẹt trong xe sau tai nạn",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bị kẹt trong xe sau tai nạn",
+   "got": "mac_ket_cau_cuu",
+   "key": "bị kẹt",
+   "via": "luat"
+  },
+  {
+   "q": "Bé bị nuốt đồng xu",
+   "nhan": "du_phong",
+   "loai": "ngoai",
+   "text": "Bé bị nuốt đồng xu",
+   "got": "khong",
+   "key": "",
+   "via": ""
+  }
+ ]
+}
